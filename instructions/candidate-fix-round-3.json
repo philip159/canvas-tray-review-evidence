@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-10-29T18:57:27.536322+00:00",
+  "baseCommit": "9620f1cc848cb81a8cf1b61d6ac6c0eb540ab93f",
+  "newCandidates": [
+    {
+      "code": "MLDA1600",
+      "record": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983/record.json",
+      "versionPath": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983",
+      "baseSrgb": [
+        30.981658328549166,
+        28.084073648814893,
+        33.98926597227918
+      ],
+      "roughness": 0.3,
+      "metallic": 0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            30.981658328549166,
+            28.084073648814893,
+            33.98926597227918
+          ],
+          "stdRgb": [
+            2.990936280385437,
+            2.4512945254487764,
+            2.5175743334043705
+          ],
+          "lowFrequencyVariationPercent": 3.056409565579865,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 1.1618004866180023,
+        "maxRowMeanStep8bit": 0.6702621722846445,
+        "wrapColumnMeanStep8bit": 1.1277372262773717,
+        "wrapRowMeanStep8bit": 0.33722846441947496,
+        "status": "PASS",
+        "scope": "Delivered JPEG adjacent/wrap row/column mean jump <3 sRGB codes; low-frequency variation <5%; visual review separate."
+      },
+      "initialLineCheck": null
+    }
+  ],
+  "notCompleted": [],
+  "round1ReviewForRecords": {
+    "readyForPhilipReviewNotApproved": [
+      "MLDA3864",
+      "MLDA3866",
+      "MLDA3972",
+      "MLDA4017",
+      "MLDA4019",
+      "MLDA4039"
+    ],
+    "MLDA4040": "Untouched; no further attempts; awaiting Philip",
+    "MLDA2208": "Exclusion unchanged"
+  },
+  "notes": [
+    "Only round-two Komodo albedo changed; copper edge lines remain knowingly absent. MLDA3970 unchanged and ready for Philip review, not approved.",
+    "Post-JPEG sensitive local-maxima detector still reports 2131 small contrasts; these may include grain or JPEG ringing. No zero-speck or appearance approval claim.",
+    "Numeric screens and native file checks do not confer visual or phone approval.",
+    "No failed candidate-build or material-check attempts.",
+    "Pre-push preservation check caught a reused report filename; prior report restored byte-identically and round-three report given its own path before revalidation."
+  ]
+}
