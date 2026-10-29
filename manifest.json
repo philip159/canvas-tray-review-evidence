@@ -1,12 +1,12 @@
 {
   "schema": "Philip handoff section 6; unknownReasons explicitly accompanies unknowns",
-  "generatedAt": "2026-10-29T19:19:37.141210+00:00",
+  "generatedAt": "2026-10-29T19:38:05.864256+00:00",
   "snapshotScope": "All current review versions plus superseded historically approved deliveries only",
   "counts": {
     "approved": 26,
     "candidate": 28,
     "archived": 12,
-    "superseded": 13,
+    "superseded": 14,
     "excluded": 1
   },
   "models": [
@@ -377,9 +377,9 @@
     {
       "eframeCode": "MLDA1600",
       "family": "CT-22",
-      "version": "round3-7b5e53912194229bde4b2b16-15cee92446d6b983",
+      "version": "round5-1db7967954ab50f0cf684029-a3411cf92dd28360",
       "status": "candidate",
-      "record": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983/record.json"
+      "record": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/record.json"
     },
     {
       "eframeCode": "MLDA1864",
@@ -588,6 +588,14 @@
       "status": "superseded",
       "record": "candidate/MLDA3866/round1-580f92da504eddc643006438-5aaf535c31bf4b83/record.json",
       "supersededBy": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json"
+    },
+    {
+      "eframeCode": "MLDA1600",
+      "family": "CT-22",
+      "version": "round3-7b5e53912194229bde4b2b16-15cee92446d6b983",
+      "status": "superseded",
+      "record": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983/record.json",
+      "supersededBy": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/record.json"
     }
   ],
   "excludedModels": [
@@ -627,10 +635,11 @@
     "MLDA2801": "candidate/MLDA2801/5f9722dfb158680d2c751999f501d0bee1556639011467fdd6d6179e164478dc-730f93707cdc09e3/record.json",
     "MLDA3027": "candidate/MLDA3027/51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff/record.json",
     "MLDA1640": "candidate/MLDA1640/bd6c029abc75f6eb9e100c3894929264bc86e0e7641402b4181dc122f49afdf7-5eb07fbde3b81c7e/record.json",
-    "MLDA1600": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983/record.json"
+    "MLDA1600": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/record.json"
   },
   "round1Report": "instructions/candidate-fix-round-1.json",
   "round2Report": "instructions/candidate-fix-round-2.json",
   "round3Report": "instructions/candidate-fix-round-3.json",
-  "round4Report": "instructions/candidate-fix-round-4.json"
+  "round4Report": "instructions/candidate-fix-round-4.json",
+  "round5Report": "instructions/candidate-fix-round-5.json"
 }

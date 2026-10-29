@@ -1,0 +1,1019 @@
+{
+  "generatedAt": "2026-10-29T19:38:05.864256+00:00",
+  "version": "round5-1db7967954ab50f0cf684029-a3411cf92dd28360",
+  "eframeCode": "MLDA1600",
+  "family": "CT-22",
+  "ljCode": "401250",
+  "name": "MLDA1600 \u00b7 lacquer \u00b7 appearance correction",
+  "liveOnShopify": null,
+  "finish": {
+    "ljFinish": "Lacquer",
+    "appearance": {
+      "colour": "Black",
+      "collection": "Komodo",
+      "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal; Colour=\"Black\", collection=\"Komodo\", Finish=\"Lacquer\"",
+      "colourReason": "Round-three shared photo base plus own-photo copper lacquer on 48 existing front-arris triangles"
+    },
+    "metallic": 0.0,
+    "preset": "lacquer",
+    "roughness": 0.3,
+    "clearcoat": 1,
+    "clearcoatRoughness": 0.05,
+    "colourMode": "photo-texture",
+    "baseColorFactorLinear": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "actualColourRepresentation": "photo-texture",
+    "normalStrength": 1,
+    "reviewBaseSrgb": [
+      30.981658328549166,
+      28.084073648814893,
+      33.98926597227918
+    ]
+  },
+  "dimensionsMm": {
+    "itemWidth": 69,
+    "itemDepth": 57.5,
+    "rebateDepth": 47,
+    "rebateWidth": 30,
+    "faceWidth": 39,
+    "faceWidthUse": "reference only",
+    "lipDerived": 39,
+    "floorThicknessDerived": 10.5
+  },
+  "profile": {
+    "method": "drawn-from-dimensions",
+    "originalMethod": "dimension-drawn",
+    "approved": true,
+    "approvedAt": "2026-10-29T15:25:58.566Z",
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        56,
+        0
+      ],
+      [
+        56.555555555555564,
+        0.1111111111111111
+      ],
+      [
+        56.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        57,
+        1
+      ],
+      [
+        57,
+        38
+      ],
+      [
+        56.88888888888889,
+        38.555555555555564
+      ],
+      [
+        56.55555555555556,
+        38.888888888888886
+      ],
+      [
+        56,
+        39
+      ],
+      [
+        10,
+        39
+      ],
+      [
+        10,
+        69
+      ],
+      [
+        0,
+        69
+      ]
+    ],
+    "drawingPng": "profiles/CT-22/ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5/dimensionOverlayUrl.png",
+    "record": "profiles/CT-22/ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5/profile.json",
+    "checksum": "ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5",
+    "fittedTargets": null,
+    "recordedDrawingDimensions": [
+      {
+        "name": "Overall height",
+        "printed": 57,
+        "drawn": 57
+      },
+      {
+        "name": "Profile width",
+        "printed": 69,
+        "drawn": 69
+      },
+      {
+        "name": "Lip width",
+        "printed": 39,
+        "drawn": 39
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 47,
+        "drawn": 47
+      },
+      {
+        "name": "Floor width",
+        "printed": 30,
+        "drawn": 30
+      }
+    ],
+    "measuredContours": null
+  },
+  "model": {
+    "status": "candidate",
+    "approvedAt": null,
+    "approvalAppliesTo": null,
+    "glbDraco": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/delivery.glb",
+    "deliveryCompression": "Draco",
+    "glbUncompressed": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/decoded-from-delivery.glb",
+    "uncompressedProvenance": "decoded from delivery; not a canonical source; prior quantisation is not reversed",
+    "usdz": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/delivery.usdz",
+    "sizes": [
+      {
+        "canvasWidth": 400,
+        "canvasHeight": 500,
+        "units": "mm"
+      }
+    ],
+    "sceneUnits": "metres",
+    "variantId": "MLDA1600-400x500-completion"
+  },
+  "texture": {
+    "albedo": [
+      {
+        "path": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/bb5b100e458c1b521a131df543f40b02c60dc099fe79feae054bbe46bf2dc83f.jpg",
+        "sha256": "bb5b100e458c1b521a131df543f40b02c60dc099fe79feae054bbe46bf2dc83f",
+        "material": "Tray shared albedo",
+        "role": "albedo",
+        "textureInfo": {
+          "index": 6
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      }
+    ],
+    "normal": [
+      {
+        "path": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22.png",
+        "sha256": "066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22",
+        "material": "Tray shared albedo",
+        "role": "normal",
+        "textureInfo": {
+          "index": 5,
+          "scale": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "scale": [
+                54.166666666666664,
+                3.3352059925093633
+              ]
+            }
+          }
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      }
+    ],
+    "allMaterialTextures": [
+      {
+        "path": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/bb5b100e458c1b521a131df543f40b02c60dc099fe79feae054bbe46bf2dc83f.jpg",
+        "sha256": "bb5b100e458c1b521a131df543f40b02c60dc099fe79feae054bbe46bf2dc83f",
+        "material": "Tray shared albedo",
+        "role": "albedo",
+        "textureInfo": {
+          "index": 6
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      },
+      {
+        "path": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22.png",
+        "sha256": "066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22",
+        "material": "Tray shared albedo",
+        "role": "normal",
+        "textureInfo": {
+          "index": 5,
+          "scale": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "scale": [
+                54.166666666666664,
+                3.3352059925093633
+              ]
+            }
+          }
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      },
+      {
+        "path": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/0afdb1277a9121ac5b4636177ca2b90501d54f623b6a588e9a9449f1648e7ab9.jpg",
+        "sha256": "0afdb1277a9121ac5b4636177ca2b90501d54f623b6a588e9a9449f1648e7ab9",
+        "material": "Canvas stretcher timber",
+        "role": "albedo",
+        "textureInfo": {
+          "index": 2
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      },
+      {
+        "path": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/c335d8f6a053c94ac6871e4168bf4904bce47ffcf63fa99dec51f55a631713bb.jpg",
+        "sha256": "c335d8f6a053c94ac6871e4168bf4904bce47ffcf63fa99dec51f55a631713bb",
+        "material": "Canvas stretcher end grain",
+        "role": "albedo",
+        "textureInfo": {
+          "index": 3
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      },
+      {
+        "path": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22.png",
+        "sha256": "066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22",
+        "material": "Komodo copper front arris",
+        "role": "normal",
+        "textureInfo": {
+          "index": 5,
+          "scale": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "scale": [
+                54.166666666666664,
+                3.3352059925093633
+              ]
+            }
+          }
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      }
+    ],
+    "sourceImage": "sources/MLDA1600/f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470-401250_1.jpg",
+    "calibration": {
+      "face": "front lip",
+      "pixels": 267,
+      "mm": 39,
+      "pxPerMm": 6.846153846153846,
+      "status": "advisory photo calibration, not independent measurement"
+    },
+    "upscaleFactor": 1,
+    "repeatMm": {
+      "along": 650,
+      "across": null
+    },
+    "cropPixels": [
+      421,
+      200,
+      494,
+      760
+    ],
+    "recipe": "Native own-photo centre crop, rotated along grain, de-lit and overlap-quilted without enlargement; JPEG quality 80. Round-three local speck median replacement and native interior-row edge replacement; no global blur; JPEG quality 80.",
+    "cleanup": {
+      "inputDimensions": [
+        4450,
+        274
+      ],
+      "outputDimensions": [
+        4450,
+        274
+      ],
+      "detectedSpeckComponents": 5176,
+      "medianReplacedPixels": 8371,
+      "detector": "1\u20133 px components, at most 9 pixels, >8 sRGB-code luminance excess over local 5x5 median",
+      "replacement": "Only selected pixels replaced by per-channel neighbouring native 5x5 median; no whole-strip filtering",
+      "edgeRowsReplaced": [
+        0,
+        24
+      ],
+      "nativeDonorRows": [
+        235,
+        259
+      ],
+      "postJpegResidualSpeckComponents": 2131,
+      "globalBlur": false,
+      "upscaleFactor": 1,
+      "jpegQuality": 80,
+      "outsideMaskAndBandPreEncodeExact": true
+    }
+  },
+  "supplierImages": {
+    "shortLength": "sources/MLDA1600/f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470-401250_1.jpg",
+    "chevron": "sources/MLDA1600/378468ec41bfd82d235a838aee529f25b83a2bb6904c8a561a08bb01b42214b8-401250_4.jpg",
+    "section": "sources/MLDA1600/85a5d1a79694e087651aef4c86e50d476bbde7abe882bad88483bf589a44dcdd-401250_2.jpg",
+    "ljViews": [
+      {
+        "path": "sources/MLDA1600/f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470-401250_1.jpg",
+        "sha256": "f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470",
+        "view": "straight/face candidate",
+        "downloadedWidth": 1024,
+        "downloadedHeight": 1024,
+        "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/401250_1.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/85a5d1a79694e087651aef4c86e50d476bbde7abe882bad88483bf589a44dcdd-401250_2.jpg",
+        "sha256": "85a5d1a79694e087651aef4c86e50d476bbde7abe882bad88483bf589a44dcdd",
+        "view": "section/profile candidate",
+        "downloadedWidth": 1024,
+        "downloadedHeight": 462,
+        "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/401250_2.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/378468ec41bfd82d235a838aee529f25b83a2bb6904c8a561a08bb01b42214b8-401250_4.jpg",
+        "sha256": "378468ec41bfd82d235a838aee529f25b83a2bb6904c8a561a08bb01b42214b8",
+        "view": "corner candidate",
+        "downloadedWidth": 1024,
+        "downloadedHeight": 1024,
+        "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/401250_4.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/d57818a54e8c79a48dbde66f9162e15b3b6eb26d30f30e689baafc0c5856c0e0-401250_0001.jpg",
+        "sha256": "d57818a54e8c79a48dbde66f9162e15b3b6eb26d30f30e689baafc0c5856c0e0",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0001.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/56ffed3c1614aa34d78d2dd1a69673b26c89b685bc8f409bc32d3681a6bcc00f-401250_0002.jpg",
+        "sha256": "56ffed3c1614aa34d78d2dd1a69673b26c89b685bc8f409bc32d3681a6bcc00f",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0002.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/c0edd0bdc47c85bdd48f7deb8e71159c58995e2d87969f281aa31dd34f07745c-401250_0003.jpg",
+        "sha256": "c0edd0bdc47c85bdd48f7deb8e71159c58995e2d87969f281aa31dd34f07745c",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0003.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/3a0cb28cba8a149d0562c3f4c615c9b2132e83ae2f45b2e747d0c6cd7533cfd3-401250_0004.jpg",
+        "sha256": "3a0cb28cba8a149d0562c3f4c615c9b2132e83ae2f45b2e747d0c6cd7533cfd3",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0004.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/ab362195838730c60b30a8c496bf1891eaf86463d89d3b73a91cb39f4e79bcca-401250_0005.jpg",
+        "sha256": "ab362195838730c60b30a8c496bf1891eaf86463d89d3b73a91cb39f4e79bcca",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0005.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/ee4aaac12afd9188e6ad2e732ffa48d4bba5cd91a360b1ef0dffa969c7232ae9-401250_0006.jpg",
+        "sha256": "ee4aaac12afd9188e6ad2e732ffa48d4bba5cd91a360b1ef0dffa969c7232ae9",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0006.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/bed12409bdc9a699521d44201416b24cc288c8dc8f2e85431d6da48aa5842b80-401250_0007.jpg",
+        "sha256": "bed12409bdc9a699521d44201416b24cc288c8dc8f2e85431d6da48aa5842b80",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0007.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/9462522fdf6c517bf94e37fc2406c1a62fa3f9479a6ed8a76f23511d30c941eb-401250_0008.jpg",
+        "sha256": "9462522fdf6c517bf94e37fc2406c1a62fa3f9479a6ed8a76f23511d30c941eb",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0008.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/3092af5742aed68b2a5207361237ad79a6eb89b815fe5c0f16333c9b9571c5f0-401250_0009.jpg",
+        "sha256": "3092af5742aed68b2a5207361237ad79a6eb89b815fe5c0f16333c9b9571c5f0",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0009.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/452b03e1843f3ff119a85027fe87c4aa03cbe9ffedc7d32e42c5847d04227652-401250_0010.jpg",
+        "sha256": "452b03e1843f3ff119a85027fe87c4aa03cbe9ffedc7d32e42c5847d04227652",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0010.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/345d68086aec44e42a46aa493aa14f945fd85dc31ec816716ca93d0afb90eaf4-401250_0011.jpg",
+        "sha256": "345d68086aec44e42a46aa493aa14f945fd85dc31ec816716ca93d0afb90eaf4",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0011.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/b4ac87f4e8987e9dbd4b18b8a1f541c4db3af86a819f6e855f0ac9197bcebba0-401250_0012.jpg",
+        "sha256": "b4ac87f4e8987e9dbd4b18b8a1f541c4db3af86a819f6e855f0ac9197bcebba0",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0012.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/660c7f2e0ef2ba87e7e80406ed239987422bd56eea0871d5c2f8c8249070dfcc-401250_0013.jpg",
+        "sha256": "660c7f2e0ef2ba87e7e80406ed239987422bd56eea0871d5c2f8c8249070dfcc",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0013.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/f69b4a60b9058c71d78cfdfd6d2a5951785285377f614bfdbce2ab367cc939d5-401250_0014.jpg",
+        "sha256": "f69b4a60b9058c71d78cfdfd6d2a5951785285377f614bfdbce2ab367cc939d5",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0014.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/a68ec0bbd51ca69127ef4e15a7a2ad2ac96bd8e4378f9d5fc866f4f69d92174e-401250_0015.jpg",
+        "sha256": "a68ec0bbd51ca69127ef4e15a7a2ad2ac96bd8e4378f9d5fc866f4f69d92174e",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0015.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/71437552fcb4f4395642ededffe14fe20061a540d62fe79822ea20ded2b2a9ad-401250_0016.jpg",
+        "sha256": "71437552fcb4f4395642ededffe14fe20061a540d62fe79822ea20ded2b2a9ad",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0016.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/46dcf584ad6a221bcc7a786a65fb2b1bf6a85146dd61eb2df54a6b24dc47d6cf-401250_0017.jpg",
+        "sha256": "46dcf584ad6a221bcc7a786a65fb2b1bf6a85146dd61eb2df54a6b24dc47d6cf",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0017.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/7abcb96bb68af7fc36484a4a5ca5862c37d9003b26da49ca24a027ab2f6ae8fc-401250_0018.jpg",
+        "sha256": "7abcb96bb68af7fc36484a4a5ca5862c37d9003b26da49ca24a027ab2f6ae8fc",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0018.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/7c8ca80272745746190fb116d444e9f3fb66f5222306dc59befe8a0e03d5efd1-401250_0019.jpg",
+        "sha256": "7c8ca80272745746190fb116d444e9f3fb66f5222306dc59befe8a0e03d5efd1",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0019.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/19144c450e742bf769253b7b818e658210c887058d0c75fbcea7850015f9fb1c-401250_0020.jpg",
+        "sha256": "19144c450e742bf769253b7b818e658210c887058d0c75fbcea7850015f9fb1c",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0020.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/77170b027c5640063951e9d1666137ae5b4a274be174572f261114e2555b5e5d-401250_0021.jpg",
+        "sha256": "77170b027c5640063951e9d1666137ae5b4a274be174572f261114e2555b5e5d",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0021.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/1a6790caf930e35f646071cd12e2506905f4b8dfc4b6876b0ad88c03968d7ab3-401250_0022.jpg",
+        "sha256": "1a6790caf930e35f646071cd12e2506905f4b8dfc4b6876b0ad88c03968d7ab3",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0022.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/3edc9531c0ec70685a2678238a2a6a3a78f738705437aaafee73080878b393f4-401250_0023.jpg",
+        "sha256": "3edc9531c0ec70685a2678238a2a6a3a78f738705437aaafee73080878b393f4",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0023.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA1600/09e15406b900654af2c0b66c91f6d97e4ff2e17780840612d75fbef628f42655-401250_0024.jpg",
+        "sha256": "09e15406b900654af2c0b66c91f6d97e4ff2e17780840612d75fbef628f42655",
+        "view": "additional view; visual classification pending",
+        "downloadedWidth": 1152,
+        "downloadedHeight": 762,
+        "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0024.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      }
+    ]
+  },
+  "checks": {
+    "arkit": {
+      "file": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/delivery.usdz",
+      "shaderDiscoveryReady": true,
+      "nativePhone": "NEEDS PHILIP",
+      "errors": [],
+      "failedChecks": [],
+      "warnings": [],
+      "status": "PASS",
+      "testedSourceSha256": "a3411cf92dd283606449d391423302375c1a0a349cacafd5ee225c6370f934b9"
+    },
+    "usdzReadback": {
+      "status": "PASS",
+      "values": {
+        "metallic": 0.0,
+        "roughness": 0.30000001192092896,
+        "clearcoat": 1.0,
+        "clearcoatRoughness": 0.05000000074505806
+      },
+      "textures": {
+        "albedo": {
+          "sha256": "bb5b100e458c1b521a131df543f40b02c60dc099fe79feae054bbe46bf2dc83f",
+          "matchesGLB": true,
+          "usdzMember": "textures/image_6.jpg",
+          "extractedRepoPath": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/bb5b100e458c1b521a131df543f40b02c60dc099fe79feae054bbe46bf2dc83f.jpg"
+        },
+        "normal": {
+          "sha256": "066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22",
+          "matchesGLB": true,
+          "scale": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "bias": [
+            -1.0,
+            -1.0,
+            -1.0,
+            0.0
+          ],
+          "uvScale": [
+            54.16666793823242,
+            3.3352060317993164
+          ],
+          "uvTranslation": [
+            0.0,
+            -2.3352060317993164
+          ],
+          "usdzMember": "textures/image_4.png",
+          "extractedRepoPath": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22.png"
+        }
+      },
+      "geometryAndUvsExact": true,
+      "meshCount": 8,
+      "trayTrianglesPartitionedWithoutChange": true,
+      "newEdgeTriangles": 48,
+      "supportingGeometryAndBindingsExact": true,
+      "coatNormal": "Same preserved orange-peel texture on base and coat",
+      "nativePhoneAppearance": "NEEDS PHILIP",
+      "copperEdgeMaterial": {
+        "status": "PASS",
+        "values": {
+          "metallic": 0.0,
+          "roughness": 0.30000001192092896,
+          "clearcoat": 1.0,
+          "clearcoatRoughness": 0.05000000074505806
+        },
+        "textures": {
+          "albedo": {
+            "mode": "flat-colour",
+            "linearRgb": [
+              0.12743768095970154,
+              0.061246052384376526,
+              0.039546236395835876
+            ],
+            "matchesGLB": true
+          },
+          "normal": {
+            "sha256": "066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22",
+            "matchesGLB": true,
+            "scale": [
+              2.0,
+              2.0,
+              2.0,
+              1.0
+            ],
+            "bias": [
+              -1.0,
+              -1.0,
+              -1.0,
+              0.0
+            ],
+            "uvScale": [
+              54.16666793823242,
+              3.3352060317993164
+            ],
+            "uvTranslation": [
+              0.0,
+              -2.3352060317993164
+            ],
+            "usdzMember": "textures/image_4.png",
+            "extractedRepoPath": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/textures/066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22.png"
+          }
+        },
+        "geometryAndUvsExact": true,
+        "meshCount": 8,
+        "trayTrianglesPartitionedWithoutChange": true,
+        "newEdgeTriangles": 48,
+        "supportingGeometryAndBindingsExact": true,
+        "coatNormal": "Same preserved orange-peel texture on base and coat",
+        "nativePhoneAppearance": "NEEDS PHILIP"
+      }
+    },
+    "preservation": {
+      "status": "PASS",
+      "allPositionsNormalsUvsExactAgainstRound3": true,
+      "triangleSplit": [
+        128,
+        48
+      ],
+      "originalMaterialsAndHardwareExact": true,
+      "nodesAndTransformsExact": true,
+      "originalBinaryPrefixUnchanged": true
+    },
+    "albedo": {
+      "lowFrequency": {
+        "meanRgb": [
+          30.981658328549166,
+          28.084073648814893,
+          33.98926597227918
+        ],
+        "stdRgb": [
+          2.990936280385437,
+          2.4512945254487764,
+          2.5175743334043705
+        ],
+        "lowFrequencyVariationPercent": 3.056409565579865,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "maxColumnMeanStep8bit": 1.1618004866180023,
+      "maxRowMeanStep8bit": 0.6702621722846445,
+      "wrapColumnMeanStep8bit": 1.1277372262773717,
+      "wrapRowMeanStep8bit": 0.33722846441947496,
+      "status": "PASS",
+      "scope": "Delivered JPEG adjacent/wrap row/column mean jump <3 sRGB codes; low-frequency variation <5%; visual review separate."
+    },
+    "lineContinuity": {
+      "lowFrequency": {
+        "meanRgb": [
+          30.981658328549166,
+          28.084073648814893,
+          33.98926597227918
+        ],
+        "stdRgb": [
+          2.990936280385437,
+          2.4512945254487764,
+          2.5175743334043705
+        ],
+        "lowFrequencyVariationPercent": 3.056409565579865,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "maxColumnMeanStep8bit": 1.1618004866180023,
+      "maxRowMeanStep8bit": 0.6702621722846445,
+      "wrapColumnMeanStep8bit": 1.1277372262773717,
+      "wrapRowMeanStep8bit": 0.33722846441947496,
+      "status": "PASS",
+      "scope": "Delivered JPEG adjacent/wrap row/column mean jump <3 sRGB codes; low-frequency variation <5%; visual review separate."
+    },
+    "nativePhoneAppearance": "NOT TESTED; no visual approval claimed",
+    "decodedCopy": {
+      "status": "PASS",
+      "geometryAttributesExact": true,
+      "indicesExact": true,
+      "nodeTransformsExact": true,
+      "materialFactorsExact": true,
+      "referencedAlbedoNormalBytesExact": true
+    },
+    "visualInspection": {
+      "status": "NO_NEW_RENDERED_APPEARANCE_REVIEW; ROUND_THREE_ALBEDO_UNCHANGED",
+      "appearanceApproval": "PENDING PHILIP; not native phone acceptance"
+    }
+  },
+  "openIssues": [
+    "Own-finish native source; photo calibration is advisory. New appearance approval and native-phone check required.",
+    "Development appearance correction: geometry and hardware unchanged. Requires new appearance approval and native-phone inspection."
+  ],
+  "sha256": {
+    "glbDraco": "1db7967954ab50f0cf6840292f27024a588d8437075958a3f60f3da7d9390dd0",
+    "usdz": "a3411cf92dd283606449d391423302375c1a0a349cacafd5ee225c6370f934b9",
+    "glbUncompressed": "5998b0e33c38a1166bd913f48bb8731493d55df2dcee6099470ad8c544dcf2c0"
+  },
+  "unknownReasons": {
+    "liveOnShopify": "Current Shopify publication state was not queried; no live claim is made.",
+    "profile.fittedTargets": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "profile.measuredContours": "No independent measurement regenerated for this export; outlineMm and recorded dimensions are provided separately.",
+    "model.approvedAt": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "model.approvalAppliesTo": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "texture.repeatMm.across": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "checks.albedoStd": "Not recorded or not independently verified for this exact version; no substitute value inferred."
+  },
+  "supersedes": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983/record.json",
+  "changeRequest": "Candidate fix round 5",
+  "appearanceApproval": "REQUIRED",
+  "round2Evidence": {
+    "baseSrgb": [
+      30.972840974329532,
+      28.227528910030344,
+      34.08088821454933
+    ],
+    "crop": [
+      421,
+      200,
+      494,
+      760
+    ],
+    "patchCount": 240
+  },
+  "round3Evidence": {
+    "baseSrgb": [
+      30.981658328549166,
+      28.084073648814893,
+      33.98926597227918
+    ],
+    "crop": [
+      421,
+      200,
+      494,
+      760
+    ],
+    "cleanup": {
+      "inputDimensions": [
+        4450,
+        274
+      ],
+      "outputDimensions": [
+        4450,
+        274
+      ],
+      "detectedSpeckComponents": 5176,
+      "medianReplacedPixels": 8371,
+      "detector": "1\u20133 px components, at most 9 pixels, >8 sRGB-code luminance excess over local 5x5 median",
+      "replacement": "Only selected pixels replaced by per-channel neighbouring native 5x5 median; no whole-strip filtering",
+      "edgeRowsReplaced": [
+        0,
+        24
+      ],
+      "nativeDonorRows": [
+        235,
+        259
+      ],
+      "postJpegResidualSpeckComponents": 2131,
+      "globalBlur": false,
+      "upscaleFactor": 1,
+      "jpegQuality": 80,
+      "outsideMaskAndBandPreEncodeExact": true
+    }
+  },
+  "edgeMaterial": {
+    "name": "Komodo copper front arris",
+    "sampledSrgb": [
+      100,
+      70,
+      56
+    ],
+    "metallic": 0,
+    "roughness": 0.3,
+    "clearcoat": 1,
+    "clearcoatRoughness": 0.05,
+    "sourceImage": "sources/MLDA1600/f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470-401250_1.jpg",
+    "samples": [
+      {
+        "crop": [
+          384,
+          150,
+          392,
+          780
+        ],
+        "warmPixelCount": 2732,
+        "deLighting": {
+          "reference": {
+            "meanRgb": [
+              100.43730158730159,
+              79.07896825396826,
+              70.5938492063492
+            ],
+            "stdRgb": [
+              66.91082105064112,
+              64.39074136503406,
+              65.11459923547368
+            ],
+            "lowFrequencyVariationPercent": 184.1679452573134,
+            "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+          },
+          "before": {
+            "meanRgb": [
+              100.43730158730159,
+              79.07896825396826,
+              70.5938492063492
+            ],
+            "stdRgb": [
+              66.91082105064112,
+              64.39074136503406,
+              65.11459923547368
+            ],
+            "lowFrequencyVariationPercent": 184.1679452573134,
+            "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+          },
+          "after": {
+            "meanRgb": [
+              100.43769841269841,
+              79.08174603174604,
+              70.59960317460317
+            ],
+            "stdRgb": [
+              56.31410005091031,
+              48.43876907325698,
+              46.294605258421
+            ],
+            "lowFrequencyVariationPercent": 3.7811723461054316,
+            "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+          },
+          "iterations": 13,
+          "pass": true,
+          "method": "linear-luminance flat field; restore recorded reference mean; no spatial resizing"
+        }
+      },
+      {
+        "crop": [
+          518,
+          150,
+          526,
+          780
+        ],
+        "warmPixelCount": 2621,
+        "deLighting": {
+          "reference": {
+            "meanRgb": [
+              79.43075396825397,
+              62.57996031746032,
+              58.45218253968254
+            ],
+            "stdRgb": [
+              45.864954099082006,
+              36.231299982351224,
+              34.26204595256348
+            ],
+            "lowFrequencyVariationPercent": 162.42663599274337,
+            "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+          },
+          "before": {
+            "meanRgb": [
+              79.43075396825397,
+              62.57996031746032,
+              58.45218253968254
+            ],
+            "stdRgb": [
+              45.864954099082006,
+              36.231299982351224,
+              34.26204595256348
+            ],
+            "lowFrequencyVariationPercent": 162.42663599274337,
+            "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+          },
+          "after": {
+            "meanRgb": [
+              79.41825396825396,
+              62.5859126984127,
+              58.448015873015876
+            ],
+            "stdRgb": [
+              39.857489986983396,
+              26.502293999995604,
+              23.616867375557387
+            ],
+            "lowFrequencyVariationPercent": 3.524212705536355,
+            "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+          },
+          "iterations": 7,
+          "pass": true,
+          "method": "linear-luminance flat field; restore recorded reference mean; no spatial resizing"
+        }
+      }
+    ],
+    "selection": "Existing front-round facets only: per-vertex normal Z in (0.05,0.995), all triangle vertices Z within front 1.01mm; flat faces and mitre/end-cap facets excluded",
+    "selectedTriangleCount": 48,
+    "originalTrayTriangleCount": 176,
+    "selectedTriangleIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8,
+      15,
+      21,
+      23,
+      24,
+      39,
+      40,
+      43,
+      44,
+      45,
+      46,
+      47,
+      51,
+      58,
+      64,
+      66,
+      67,
+      82,
+      83,
+      86,
+      87,
+      88,
+      89,
+      90,
+      94,
+      101,
+      107,
+      109,
+      110,
+      125,
+      126,
+      129,
+      130,
+      131,
+      132,
+      133,
+      137,
+      144,
+      150,
+      152,
+      153,
+      168,
+      169
+    ],
+    "totalZEnvelopeMm": [
+      -0.9999983012676239,
+      1.4901161193847656e-05
+    ],
+    "newMaterialIndex": 7,
+    "linearBaseColorFactor": [
+      0.12743768043564743,
+      0.06124605423161761,
+      0.03954623527673283,
+      1
+    ],
+    "compression": "Only split tray primitives re-encoded as sequential Draco with quantization disabled; original hardware compressed bytes retained"
+  },
+  "round5Evidence": {
+    "baseSrgb": [
+      30.981658328549166,
+      28.084073648814893,
+      33.98926597227918
+    ],
+    "crop": [
+      421,
+      200,
+      494,
+      760
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-10-29T19:38:05.864256+00:00",
+  "baseCommit": "922b199346c74b18a3dc09b68b47a69a32bd508b",
+  "newCandidates": [
+    {
+      "code": "MLDA1600",
+      "record": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/record.json",
+      "versionPath": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360",
+      "baseSrgb": [
+        30.981658328549166,
+        28.084073648814893,
+        33.98926597227918
+      ],
+      "roughness": 0.3,
+      "metallic": 0.0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            30.981658328549166,
+            28.084073648814893,
+            33.98926597227918
+          ],
+          "stdRgb": [
+            2.990936280385437,
+            2.4512945254487764,
+            2.5175743334043705
+          ],
+          "lowFrequencyVariationPercent": 3.056409565579865,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 1.1618004866180023,
+        "maxRowMeanStep8bit": 0.6702621722846445,
+        "wrapColumnMeanStep8bit": 1.1277372262773717,
+        "wrapRowMeanStep8bit": 0.33722846441947496,
+        "status": "PASS",
+        "scope": "Delivered JPEG adjacent/wrap row/column mean jump <3 sRGB codes; low-frequency variation <5%; visual review separate."
+      },
+      "initialLineCheck": null
+    }
+  ],
+  "notCompleted": [],
+  "notes": [
+    "Retained round-four experimental GLB/USDZ hashes matched owner-specified values; no regeneration or asset edits.",
+    "Read-back helper invoked with scripts directory on its process-local Python module path; material helper unchanged.",
+    "Both material read-backs passed on the first correctly configured attempt.",
+    "Exact 128/48 triangle split, positions, normals, UVs, existing materials, hardware and bindings verified against round three.",
+    "MLDA4040 and MLDA3866 round-four versions and every other candidate unchanged.",
+    "Appearance approval and native-phone review remain with Philip."
+  ]
+}
