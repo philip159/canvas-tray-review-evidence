@@ -1,0 +1,218 @@
+{
+  "family": "CT-21",
+  "reference": "MLDA2964-owner-f7873191b406",
+  "title": "MLDA2964 · paint · appearance correction",
+  "approvalChecksum": "f7873191b406cce7b75ec8be91d147d05e45d4cfb681f7b004433f782ed19ca0",
+  "approvalAt": "2026-10-29T14:21:43.033Z",
+  "warnings": [
+    "Material-only development candidate; geometry, colour images, pine and hangers preserved.",
+    "Previous appearance approval belongs to archived files. New finish and native-phone appearance need Philip.",
+    "Development appearance correction: geometry and hardware unchanged. Requires new appearance approval and native-phone inspection."
+  ],
+  "variants": [
+    {
+      "id": "MLDA2964-400x500-owner-f7873191b406",
+      "widthMm": 400,
+      "heightMm": 500,
+      "artwork": false,
+      "glbUrl": "/api/canvas-tray-review/assets/owner-974ef11b3ef6db932f496a27b06a2a2db3d4443194442199247825c875e39966.glb",
+      "usdzUrl": "/api/canvas-tray-review/assets/owner-93d1da5e5da477a26c9845ef8165a898c32cea88ab1f804a39b3fa4d1c8a0ca1.usdz",
+      "closeups": [],
+      "albedoAudit": {
+        "materialCount": 1,
+        "baseColourTextureCount": 1,
+        "textureSha256": "c5688e95b7677251f6da755e23ae487cc1cc92ee3cea4588ff6c034128c80ae4",
+        "factor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "meanRgb": [
+          246.67895420147252,
+          245.7501819299954,
+          241.72888672508927
+        ],
+        "identicalTextureMeans": true,
+        "primitiveCount": 1,
+        "meanInterpretation": "Global shared albedo-image mean; rendered means differ legitimately with lighting and UV grain samples.",
+        "faces": [
+          {
+            "component": "Approved profile",
+            "rail": 0,
+            "face": "shared section",
+            "meanRgb": [
+              246.67895420147252,
+              245.7501819299954,
+              241.72888672508927
+            ],
+            "uOffset": 0.5119385542348027
+          },
+          {
+            "component": "Approved profile",
+            "rail": 1,
+            "face": "shared section",
+            "meanRgb": [
+              246.67895420147252,
+              245.7501819299954,
+              241.72888672508927
+            ],
+            "uOffset": 0.26054493291303515
+          },
+          {
+            "component": "Approved profile",
+            "rail": 2,
+            "face": "shared section",
+            "meanRgb": [
+              246.67895420147252,
+              245.7501819299954,
+              241.72888672508927
+            ],
+            "uOffset": 0.8037628335878253
+          },
+          {
+            "component": "Approved profile",
+            "rail": 3,
+            "face": "shared section",
+            "meanRgb": [
+              246.67895420147252,
+              245.7501819299954,
+              241.72888672508927
+            ],
+            "uOffset": 0.6588978399522603
+          }
+        ]
+      },
+      "finishEvidence": {
+        "materialIndex": 0,
+        "preset": {
+          "name": "paint",
+          "metallic": 0,
+          "roughness": 0.7,
+          "clearcoat": 0,
+          "clearcoatRoughness": 0,
+          "normalKind": "none",
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal",
+          "mappingNote": null
+        },
+        "source": {
+          "supplier": "Larson-Juhl",
+          "field": "Colour / appearance; Finish controls surface response",
+          "value": "White / Paint",
+          "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-515127000?returnurl=%2fsearch%3fq%3d515127000"
+        },
+        "normal": {
+          "kind": "none"
+        },
+        "appearance": {
+          "metallic": false,
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal; Colour=\"White\", collection=\"Essentials\", Finish=\"Paint\"",
+          "mode": "colour-picked",
+          "rgbSrgb": [
+            246.86368045729964,
+            246.00264291254143,
+            242.16864964906745
+          ],
+          "colourReason": "Median of own de-lit face crop; plain paint/lacquer uses no photographic colour texture",
+          "sample": {
+            "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/75e8a67cff89f83e8c7911eadc20b38955b38f7e471075018edb328d7be2338c.jpg",
+            "sha256": "75e8a67cff89f83e8c7911eadc20b38955b38f7e471075018edb328d7be2338c",
+            "crop": [
+              447,
+              150,
+              660,
+              650
+            ],
+            "method": "Four linear-light flat-field iterations, then per-channel median; colour sampling, not texture-quality certification"
+          }
+        },
+        "preservation": {
+          "originalBinaryPrefixSha256": "dd04ce99aa346939d37b3069fa1b5970a92900f27ea9647850c2daba4bcb2644",
+          "geometryAndHierarchyExact": true,
+          "existingImageBytesExact": true,
+          "hardwareMaterialsExact": true,
+          "singleTrayMaterial": true
+        },
+        "oldGlbSha256": "1f1a88b4661af7505ae75dca6614a8b2b6e029ba07e1a388cee33cd8d5315b25",
+        "newGlbSha256": "974ef11b3ef6db932f496a27b06a2a2db3d4443194442199247825c875e39966",
+        "usdReadback": {
+          "status": "PASS",
+          "values": {
+            "metallic": 0,
+            "roughness": 0.699999988079071,
+            "clearcoat": 0,
+            "clearcoatRoughness": 0
+          },
+          "textures": {
+            "albedo": {
+              "mode": "flat-colour",
+              "linearRgb": [
+                0.9289454817771912,
+                0.921604335308075,
+                0.8893275260925293
+              ],
+              "matchesGLB": true
+            },
+            "normal": {
+              "mode": "none",
+              "matchesGLB": true
+            }
+          },
+          "geometryAndUvsExact": true,
+          "meshCount": 7,
+          "coatNormal": "Not applicable",
+          "nativePhoneAppearance": "NEEDS PHILIP"
+        },
+        "sourceResolution": {
+          "pxPerMm": 4.74,
+          "threshold": 2.5,
+          "flagged": false,
+          "alternative": null
+        }
+      },
+      "evidenceAudit": {
+        "calibration": {
+          "face": "outer side",
+          "pixelEndpoints": [
+            [
+              435,
+              400
+            ],
+            [
+              672,
+              400
+            ]
+          ],
+          "measuredPixels": 237,
+          "knownWidthMm": 50,
+          "pxPerMm": 4.74,
+          "dimensionSource": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-515127000?returnurl=%2fsearch%3fq%3d515127000",
+          "method": "Owner-authorised square-on assumption; transverse scale also used along grain",
+          "landmarkUncertaintyPixels": 3,
+          "status": "ADVISORY_PHOTO_LANDMARKS",
+          "geometryUnchanged": true
+        },
+        "upscaleFactor": 1,
+        "repeatAlongMm": 650,
+        "pxPerMm": 4.74,
+        "faces": [],
+        "arkit": {
+          "status": "PASS"
+        }
+      },
+      "previousFinish": {
+        "glbUrl": "/api/canvas-tray-review/assets/owner-1f1a88b4661af7505ae75dca6614a8b2b6e029ba07e1a388cee33cd8d5315b25.glb",
+        "usdzUrl": "/api/canvas-tray-review/assets/owner-fe253dd1c5fb8031df69cbe89ecd889d3cd7e0a23821a0c64338a4aed419842a.usdz"
+      }
+    }
+  ],
+  "chevronPhoto": {
+    "url": "/api/canvas-tray-review/assets/95a8d686643e9c475e8d11ac9c39f80cf307eb9f56e6e6605c8d885356c7b648.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/515127000_4.jpg",
+    "reference": "MLDA2964",
+    "supplierCode": "515127000"
+  },
+  "modelChecksum": "a4a98589dcd6d2478a431de14b91ab2888c3e2301647b7d5aa416da23a698620",
+  "modelApproval": null,
+  "modelApprovalChanged": false
+}

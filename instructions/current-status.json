@@ -1,0 +1,820 @@
+{
+  "createdAt": "2026-10-29T21:55:26.601875+00:00",
+  "scope": "Exact current development review versions; approval is checksum-bound, not inferred by moulding code.",
+  "feedbackNote": "No non-empty Philip feedback notes were found in current decision records or their history. The P1 brief supplies the general profile-straightening rule.",
+  "counts": {
+    "profiles": 25,
+    "approvedProfiles": 20,
+    "models": 58,
+    "approvedModels": 51
+  },
+  "profiles": [
+    {
+      "family": "CT-01",
+      "reference": "MLDA4015",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:23:39.429Z",
+      "checksum": "bccb43cb2123e3b49298e29adf51df4014241972f2a48fb038e1766aab15825d",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-02",
+      "reference": "MLDA2199",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "24240ab5e520b199a7a193adf39348a963dc1455aa8d6558ca4abac7abc1dd90",
+      "philipFeedback": null,
+      "record": "profiles/CT-02/P1-current-24240ab5e520b199/profile.json",
+      "outline": "profiles/CT-02/P1-current-24240ab5e520b199/outline.json",
+      "dimensionOverlayUrl": "profiles/CT-02/P1-current-24240ab5e520b199/CT-02-431b72aa4db9aeb3-drawing.png",
+      "sourceImageUrl": "profiles/CT-02/P1-current-24240ab5e520b199/CT-02-edfff4e4845a-colour-source.png"
+    },
+    {
+      "family": "CT-03",
+      "reference": "MLDA3382",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:24:05.571Z",
+      "checksum": "b18dd01da75078a7ee557f514e3a135b258f03ddce3d2ea5ed7411adcf10a676",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-04",
+      "reference": "MLDA2957",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:25:00.638Z",
+      "checksum": "de1107544df21808fd33a606c01b2fa8acdb8a588cdb3e1b8fcc3e7fcde188d0",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-05",
+      "reference": "MLDA3387",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:24:00.921Z",
+      "checksum": "14111ec82da35cb135812a7af9089e2ee071cff0394f683eaddcd664e9ced85b",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-06",
+      "reference": "MLDA3949",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:23:44.543Z",
+      "checksum": "b7850522ec58375fa65c3af55c1c860bf8b8859f5f5cd52f5b3077f1d85607d6",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-07",
+      "reference": "MLDA3392",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:23:55.916Z",
+      "checksum": "22c83757703b87ed557822b6dd6107da9e4304acd91c77e26bb4de298f4ae2cb",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-08",
+      "reference": "MLDA3862",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:23:50.282Z",
+      "checksum": "0cf39370289e4527a2511e2ff82d6ce68a802c9b552cb6093fa9bd167d0be256",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-09",
+      "reference": "MLDA2535",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:25:10.093Z",
+      "checksum": "6c8c8f258df67f2af52d27068ef99c4dc3a47ff4a26c1807ac349272d25a8d53",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-10",
+      "reference": "MLDA3032",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:24:16.984Z",
+      "checksum": "1db4ab068cade032f98cd6c792bbb3585a6ebc07069d61a94477f2b8497f8ac1",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-11",
+      "reference": "MLDA3027",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:24:24.356Z",
+      "checksum": "499c8450919a312838bfa7cc3649f8c0240b6a3658478f50dd009f6b2aba518d",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-12",
+      "reference": "MLDA3969",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:26:23.482Z",
+      "checksum": "68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-13",
+      "reference": "MLDA1639",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:25:47.365Z",
+      "checksum": "e77ff8756959c0c3a46f3b1934593c79976c7a6f51a06437e11262ae89fb1f6a",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-14",
+      "reference": "MLDA2208",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:26:16.581Z",
+      "checksum": "d7203e8ceceb11eb246e57fc8b25aa443bb64d1191aca9372824bb9431071fa3",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-15",
+      "reference": "MLDA1660",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:22:53.938Z",
+      "checksum": "f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-16",
+      "reference": "MLDA4039",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:23:33.202Z",
+      "checksum": "9cab96c6cd8a2d244334e6b93bbd938b87ae85867416c10b541f7b736517e1a3",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-17",
+      "reference": "MLDA1864",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:25:23.868Z",
+      "checksum": "d6e01365745a1a9d368cf208b77b743b9448436642b7d39b7f3362a37f354b65",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-18",
+      "reference": "MLDA3239",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "61084434110cdee4700887fa0e516edbff69847bb4b7a3c72c552d50b7b91cb5",
+      "philipFeedback": null,
+      "record": "profiles/CT-18/P1-current-61084434110cdee4/profile.json",
+      "outline": "profiles/CT-18/P1-current-61084434110cdee4/outline.json",
+      "dimensionOverlayUrl": "profiles/CT-18/P1-current-61084434110cdee4/CT-18-c2352f73e3a33119-fitted.png",
+      "sourceImageUrl": "profiles/CT-18/P1-current-61084434110cdee4/CT-18-1a1f1f838331-colour-source.png"
+    },
+    {
+      "family": "CT-19",
+      "reference": "MLDA1865",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "6720f69533aa9ff05427ab08bc5744566545a883582b56cd17649ed5a567a4d9",
+      "philipFeedback": null,
+      "record": "profiles/CT-19/P1-current-6720f69533aa9ff0/profile.json",
+      "outline": "profiles/CT-19/P1-current-6720f69533aa9ff0/outline.json",
+      "dimensionOverlayUrl": "profiles/CT-19/P1-current-6720f69533aa9ff0/CT-19-df596d06b30a5f4b-fitted.png",
+      "sourceImageUrl": "profiles/CT-19/P1-current-6720f69533aa9ff0/CT-19-966f95800918-colour-source.png"
+    },
+    {
+      "family": "CT-20",
+      "reference": "MLDA1771",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221",
+      "philipFeedback": null,
+      "record": "profiles/CT-20/P1-current-dec623bd75c6da14/profile.json",
+      "outline": "profiles/CT-20/P1-current-dec623bd75c6da14/outline.json",
+      "dimensionOverlayUrl": "profiles/CT-20/P1-current-dec623bd75c6da14/CT-20-2f890ac8e7aa1c29-drawing.png",
+      "sourceImageUrl": "profiles/CT-20/P1-current-dec623bd75c6da14/CT-20-4eb9c4eaf13e-colour-source.png"
+    },
+    {
+      "family": "CT-21",
+      "reference": "MLDA2964",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:24:35.810Z",
+      "checksum": "f7873191b406cce7b75ec8be91d147d05e45d4cfb681f7b004433f782ed19ca0",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-22",
+      "reference": "MLDA1599",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:25:58.566Z",
+      "checksum": "ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-23",
+      "reference": "MLDA2961",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "f4fc5d88b2a4934f09a102b9bbcba1a5c8d0920da285a3d03f118e1fb600eab0",
+      "philipFeedback": null,
+      "record": "profiles/CT-23/P1-current-f4fc5d88b2a4934f/profile.json",
+      "outline": "profiles/CT-23/P1-current-f4fc5d88b2a4934f/outline.json",
+      "dimensionOverlayUrl": "profiles/CT-23/P1-current-f4fc5d88b2a4934f/CT-23-dc694a23f679063f-drawing.png",
+      "sourceImageUrl": "profiles/CT-23/P1-current-f4fc5d88b2a4934f/CT-23-0a916947c19f-colour-source.png"
+    },
+    {
+      "family": "CT-24",
+      "reference": "MLDA2959",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:24:53.207Z",
+      "checksum": "e522aad4cc852b51863aa1f0ec1baf12f5218d28e106043a10f62d63e2d9d2fd",
+      "philipFeedback": null
+    },
+    {
+      "family": "CT-25",
+      "reference": "MLDA2800",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:25:05.353Z",
+      "checksum": "73a05326287bfe0675c6e7b5b8aea195342a066e50ffbb4f390623484f07da73",
+      "philipFeedback": null
+    }
+  ],
+  "models": [
+    {
+      "reference": "MLDA1600-round5",
+      "eframeCode": "MLDA1600",
+      "family": "CT-22",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:47:35.477Z",
+      "checksum": "97df13d117c141e6f4c934b4c6078875483fa1eab25b924fc94e270409097f2e",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4040-round4",
+      "eframeCode": "MLDA4040",
+      "family": "CT-16",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:40:05.717Z",
+      "checksum": "9dd170047d498f5c8521018fe444f82b4a7290dae1a5f06897c9265ef047bf38",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3866-round4",
+      "eframeCode": "MLDA3866",
+      "family": "CT-08",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:48:17.059Z",
+      "checksum": "460e2c1bc594e71963bc5b522ebc374287910d3e751a541dba1c68874010902d",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3949-owner-b7850522ec58",
+      "eframeCode": "MLDA3949",
+      "family": "CT-06",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:47:21.420Z",
+      "checksum": "7ded1f6f40e12bf05086106d982aec56fcb8b0606cde8a0321eb1bf587294c78",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2535-owner-6c8c8f258df6",
+      "eframeCode": "MLDA2535",
+      "family": "CT-09",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:47:27.326Z",
+      "checksum": "78e8394101d6b5aa0ec8463faa8f5346486afb77388b56df04b12f0630d8c7b8",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3392-owner-22c83757703b",
+      "eframeCode": "MLDA3392",
+      "family": "CT-07",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:47:35.611Z",
+      "checksum": "8abc01deb8bcdc5246189c41ddb0223dbf6a2b2774135b210108ddda139c3d34",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3382-owner-b18dd01da750",
+      "eframeCode": "MLDA3382",
+      "family": "CT-03",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:47:46.454Z",
+      "checksum": "215524fe3b373a2c3538cc1f2d9dc56a8ef57b4f9d658050dcb5ca322282fdd1",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3387-owner-14111ec82da3",
+      "eframeCode": "MLDA3387",
+      "family": "CT-05",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:47:50.555Z",
+      "checksum": "c1d52054d2cc50beb6c0f5f832bd926f8af4a1dd2d9f38c664cdea018a52ac56",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA1599-owner-ed96fa9a41ac",
+      "eframeCode": "MLDA1599",
+      "family": "CT-22",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:46:58.883Z",
+      "checksum": "9c66ca8caa1f15caac62f53df76843285b8581c65d6e2c6f7aef0a214a08f0d3",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4015-owner-bccb43cb2123",
+      "eframeCode": "MLDA4015",
+      "family": "CT-01",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:41:17.555Z",
+      "checksum": "931cdf2aaf9f65fd34fabe4fd4149b71667be8f8527a52f540733cb93a44ac57",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2957-owner-de1107544df2",
+      "eframeCode": "MLDA2957",
+      "family": "CT-04",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:48:17.742Z",
+      "checksum": "b287f0815dfdd5efb68ce19e91172797f09591f7a4f42158b476d664370098c4",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3862-owner-0cf39370289e",
+      "eframeCode": "MLDA3862",
+      "family": "CT-08",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:48:38.522Z",
+      "checksum": "db791a768502bc85abd7f917824f7c0a66c120066dc92b960fc533ad22d6493a",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA1639-owner-e77ff8756959",
+      "eframeCode": "MLDA1639",
+      "family": "CT-13",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:48:47.775Z",
+      "checksum": "4595c3f6e0c1ecac78fa51a4557a2a29859c3bf866486e0e7cf8f1d982eda126",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2208-owner-d7203e8ceceb",
+      "eframeCode": "MLDA2208",
+      "family": "CT-14",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "812a31a06174159946bf2a3ef9d5a671e4512a39dbea5dae16202299c5bc2499",
+      "philipFeedback": null,
+      "hasSeparatelyApprovedVersion": false,
+      "record": "candidate/MLDA2208/P1-current-812a31a061741599/review-record.json",
+      "variants": [
+        {
+          "id": "MLDA2208-400x500-owner-d7203e8ceceb",
+          "glb": "candidate/MLDA2208/P1-current-812a31a061741599/owner-eee7f0cd00dd382c32287f050f61d21ca16600e79bdc02c5c3d61442f183c89a.glb",
+          "usdz": "candidate/MLDA2208/P1-current-812a31a061741599/owner-f4ee6e668a87ca69b0535cdd2c1575155bff5eb363276b1b618a06e4528dfa4f.usdz"
+        }
+      ]
+    },
+    {
+      "reference": "MLDA1864-owner-d6e01365745a",
+      "eframeCode": "MLDA1864",
+      "family": "CT-17",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "c5a36be012e5d5eeb624a638f20a2fd9b84171e5405c91dd3d1b4d09f0be549e",
+      "philipFeedback": null,
+      "hasSeparatelyApprovedVersion": true,
+      "record": "candidate/MLDA1864/P1-current-c5a36be012e5d5ee/review-record.json",
+      "variants": [
+        {
+          "id": "MLDA1864-400x500-owner-d6e01365745a",
+          "glb": "candidate/MLDA1864/P1-current-c5a36be012e5d5ee/owner-70f65d5c02c3a64585ba46de5f13831325fb5853c3a3c96101919b854ccad891.glb",
+          "usdz": "candidate/MLDA1864/P1-current-c5a36be012e5d5ee/owner-e2df247dd2f00693be2403a89d0bb7b80b1f6b3e94bbbaa25509d39b789ba1cb.usdz"
+        }
+      ]
+    },
+    {
+      "reference": "MLDA2964-owner-f7873191b406",
+      "eframeCode": "MLDA2964",
+      "family": "CT-21",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "a4a98589dcd6d2478a431de14b91ab2888c3e2301647b7d5aa416da23a698620",
+      "philipFeedback": null,
+      "hasSeparatelyApprovedVersion": false,
+      "record": "candidate/MLDA2964/P1-current-a4a98589dcd6d247/review-record.json",
+      "variants": [
+        {
+          "id": "MLDA2964-400x500-owner-f7873191b406",
+          "glb": "candidate/MLDA2964/P1-current-a4a98589dcd6d247/owner-974ef11b3ef6db932f496a27b06a2a2db3d4443194442199247825c875e39966.glb",
+          "usdz": "candidate/MLDA2964/P1-current-a4a98589dcd6d247/owner-93d1da5e5da477a26c9845ef8165a898c32cea88ab1f804a39b3fa4d1c8a0ca1.usdz"
+        }
+      ]
+    },
+    {
+      "reference": "MLDA2959-owner-e522aad4cc85",
+      "eframeCode": "MLDA2959",
+      "family": "CT-24",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:50:01.844Z",
+      "checksum": "08bd7399125d693fb95bb7a7ae792ac878f9c9799185a2a01bb3e6029555f9ee",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2800-owner-73a05326287b",
+      "eframeCode": "MLDA2800",
+      "family": "CT-25",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:49:53.741Z",
+      "checksum": "1ed367c1ed753b73ccb806a635c143fc8102c4fc2656556d92ae171566c1314b",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3969-owner-68ce9397e7a2",
+      "eframeCode": "MLDA3969",
+      "family": "CT-12",
+      "approved": true,
+      "approvalDate": "2026-10-29T15:48:25.331Z",
+      "checksum": "6681bc045439a712f3e91c1a217a2cec9bd9aabc5076f05a5a86415df1650745",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4016-owner-bccb43cb2123",
+      "eframeCode": "MLDA4016",
+      "family": "CT-01",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:42:10.696Z",
+      "checksum": "eb75040dba544bfd163a556143c658a3d1c040974ee3d98809ec33e0a0f80aa1",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3380-owner-b18dd01da750",
+      "eframeCode": "MLDA3380",
+      "family": "CT-03",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:17:04.971Z",
+      "checksum": "08208e54ffa25e6c7b2561d79d125a544325d13c3b850b2d32b6a05e1e42d9c2",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3383-owner-b18dd01da750",
+      "eframeCode": "MLDA3383",
+      "family": "CT-03",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:18:48.052Z",
+      "checksum": "22afd8f6dddf54fb732e54132bd2c1c2b2a860815a5192ab5e63c8acd516e6f2",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3384-owner-b18dd01da750",
+      "eframeCode": "MLDA3384",
+      "family": "CT-03",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:18:33.249Z",
+      "checksum": "7a3ecaacb625eeaf580cbf8582013e28b912ada30ed6db07c94e9b1adee3dc49",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2956-owner-de1107544df2",
+      "eframeCode": "MLDA2956",
+      "family": "CT-04",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:44:47.257Z",
+      "checksum": "82d9b18247c272ad6b7c60a2ab0c02da571eb8f6b459722d08247a89571780dd",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2954-owner-de1107544df2",
+      "eframeCode": "MLDA2954",
+      "family": "CT-04",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:45:29.594Z",
+      "checksum": "0ee2da6fecd09b4090332b9dbd7198c3951e206bc7c740c9abe2803e1832445e",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3388-owner-14111ec82da3",
+      "eframeCode": "MLDA3388",
+      "family": "CT-05",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:18:58.809Z",
+      "checksum": "875c509cb3e8a33f6b40ac72f95b2158b8811fd48e6ff7321bdef467758ef052",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3389-owner-14111ec82da3",
+      "eframeCode": "MLDA3389",
+      "family": "CT-05",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:18:39.484Z",
+      "checksum": "1381d8615ddc7bcb477ece333e267464cbdfe8a38194fbe814a4cbb9f39cef7f",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3948-owner-b7850522ec58",
+      "eframeCode": "MLDA3948",
+      "family": "CT-06",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:17:39.945Z",
+      "checksum": "0515f818ea367525275fa8859e95e207fb5d148b25fd00df4c13402e170988a6",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3947-owner-b7850522ec58",
+      "eframeCode": "MLDA3947",
+      "family": "CT-06",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:45:55.160Z",
+      "checksum": "40d007eb08a2dd4ce7a7bb8f1c748a342b9054ab1eb9d4fce45081476f011ea1",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3394-owner-22c83757703b",
+      "eframeCode": "MLDA3394",
+      "family": "CT-07",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:18:27.311Z",
+      "checksum": "ba28c8772511dc07b75b6a9d316c68831a0e7b4e5d372d2da0949b9a4c754d1a",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3861-owner-0cf39370289e",
+      "eframeCode": "MLDA3861",
+      "family": "CT-08",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:43:36.800Z",
+      "checksum": "9645cf4c4218474fa3309e14c75e97812408b1146b9e656f568e2e2eec3b5276",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4018-owner-0cf39370289e",
+      "eframeCode": "MLDA4018",
+      "family": "CT-08",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:47:16.443Z",
+      "checksum": "3b6c229fd6fe74c85db13421af0a58059a49613226b15ebeb45c558fd3f27b85",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4017-owner-0cf39370289e",
+      "eframeCode": "MLDA4017",
+      "family": "CT-08",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "8dafa183d00b85ef41e547a823c5bdf37c974a3c3eb1f06ea2f1da8909d1ae27",
+      "philipFeedback": null,
+      "hasSeparatelyApprovedVersion": false,
+      "record": "candidate/MLDA4017/P1-current-8dafa183d00b85ef/review-record.json",
+      "variants": [
+        {
+          "id": "MLDA4017-400x500-completion",
+          "glb": "candidate/MLDA4017/P1-current-8dafa183d00b85ef/owner-2c9e1a405e8c18c3532e3bb868987d1d3d536ac582f20750ee671c51f076495a.glb",
+          "usdz": "candidate/MLDA4017/P1-current-8dafa183d00b85ef/owner-c7a43a1109a04e1339db1f5c7880a74f4b7bb13d6cbaa9c82fa1b233addbfaff.usdz"
+        }
+      ]
+    },
+    {
+      "reference": "MLDA3866-owner-0cf39370289e",
+      "eframeCode": "MLDA3866",
+      "family": "CT-08",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:43:57.181Z",
+      "checksum": "717824a970883fc5e85ed0ea62afa5216ec99783a02214affa094af2e1b50702",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3864-owner-0cf39370289e",
+      "eframeCode": "MLDA3864",
+      "family": "CT-08",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:42:44.300Z",
+      "checksum": "eaaaa13f3c4545f125adc50a6d55282d0658c21690dd5059805246d32203b4b4",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2536-owner-6c8c8f258df6",
+      "eframeCode": "MLDA2536",
+      "family": "CT-09",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:19:10.154Z",
+      "checksum": "72001743f7ad3af3d686b202188280907934e35042227d2692d48a75aee38869",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2533-owner-6c8c8f258df6",
+      "eframeCode": "MLDA2533",
+      "family": "CT-09",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:43:24.315Z",
+      "checksum": "a119162cb5b788a601fc49f3e5f6e818657c1e9558f729f65cf6cbe964f9c98b",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2532-owner-6c8c8f258df6",
+      "eframeCode": "MLDA2532",
+      "family": "CT-09",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:17:29.603Z",
+      "checksum": "ebfdc362f919ddaa99b28c2bad2ce9b3b4bceaa92560b2a0b2c38279dc8d16a3",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3908-owner-6c8c8f258df6",
+      "eframeCode": "MLDA3908",
+      "family": "CT-09",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:45:43.249Z",
+      "checksum": "7f31627c17b39385b66a1c3422adf45bf1aeffeb303a9a5536ab936fbdf5c9e6",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3032-owner-1db4ab068cad",
+      "eframeCode": "MLDA3032",
+      "family": "CT-10",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:19:15.250Z",
+      "checksum": "d5bfb3a7222894148330fd8e391fa3830ae6b862ee5379c55dea9c665252aa6f",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3030-owner-1db4ab068cad",
+      "eframeCode": "MLDA3030",
+      "family": "CT-10",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:45:01.994Z",
+      "checksum": "e6dd6cb01728b76ff2e1d8735e2f99425ac77d8697557276e286e0923ba67047",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3972-owner-68ce9397e7a2",
+      "eframeCode": "MLDA3972",
+      "family": "CT-12",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:46:25.082Z",
+      "checksum": "cdc463218f006742780223381f66f19f5bb90e700def84ee8dfaef5b2000a1a2",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3971-owner-68ce9397e7a2",
+      "eframeCode": "MLDA3971",
+      "family": "CT-12",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:17:18.807Z",
+      "checksum": "a4c30a0229da17beca9d78a7534223720254040e50e3905539d0a563e2899732",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3970-owner-68ce9397e7a2",
+      "eframeCode": "MLDA3970",
+      "family": "CT-12",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "e614669cb3b6179581cc1e113c58f15b02552d9e309b0aec80ad19313f1fbf33",
+      "philipFeedback": null,
+      "hasSeparatelyApprovedVersion": false,
+      "record": "candidate/MLDA3970/P1-current-e614669cb3b61795/review-record.json",
+      "variants": [
+        {
+          "id": "MLDA3970-400x500-completion",
+          "glb": "candidate/MLDA3970/P1-current-e614669cb3b61795/owner-8e17e68945d0da657181a6e271f1d074ceecf26d4f9e6e125c70dab19010c322.glb",
+          "usdz": "candidate/MLDA3970/P1-current-e614669cb3b61795/owner-29b42428a223ca46019f95bb2fd36fc0e723a4ecb9530f1b1fa1ba9f6d3a5df0.usdz"
+        }
+      ]
+    },
+    {
+      "reference": "MLDA3975-owner-68ce9397e7a2",
+      "eframeCode": "MLDA3975",
+      "family": "CT-12",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:44:21.978Z",
+      "checksum": "dafa7fd340af8cf022e12db31ed284cba14a813c7e9c34287a1ef8d3cedec8a2",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3974-owner-68ce9397e7a2",
+      "eframeCode": "MLDA3974",
+      "family": "CT-12",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:46:05.546Z",
+      "checksum": "19b8bd54bed75f4edf66918ba3cdc399dfa68761deafd7f092922ed0bd127480",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4020-owner-d7203e8ceceb",
+      "eframeCode": "MLDA4020",
+      "family": "CT-14",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:48:07.188Z",
+      "checksum": "ae36b480a789462b25a7948536bcadc8df57ae4a448fda6e56b1442e7c274daa",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4019-owner-d7203e8ceceb",
+      "eframeCode": "MLDA4019",
+      "family": "CT-14",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:44:33.408Z",
+      "checksum": "eead696dc9f4009add2f584e2231945fce76dcb3e7d6639d6ab3d9c2b3ebffa3",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4039-owner-9cab96c6cd8a",
+      "eframeCode": "MLDA4039",
+      "family": "CT-16",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:46:52.746Z",
+      "checksum": "8ba4a663a68047f09c1e41639e75ab66c2a8f072545de901857517f6aad0e0db",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA4040-owner-9cab96c6cd8a",
+      "eframeCode": "MLDA4040",
+      "family": "CT-16",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "2fb4cd99ae379ef3c2fa28af36793954141e7f308da19716d88ffbfeeea82d6b",
+      "philipFeedback": null,
+      "hasSeparatelyApprovedVersion": true,
+      "record": "candidate/MLDA4040/P1-current-2fb4cd99ae379ef3/review-record.json",
+      "variants": [
+        {
+          "id": "MLDA4040-400x500-completion",
+          "glb": "candidate/MLDA4040/P1-current-2fb4cd99ae379ef3/owner-49ff12ba6b85f7fcef4d299b7d08cd36f902b9b63765f95d0498c94d56fd04e6.glb",
+          "usdz": "candidate/MLDA4040/P1-current-2fb4cd99ae379ef3/owner-b2b1496b4f203083a94156172f8f059b2a80514c6d170bd5c989d77e43596aa9.usdz"
+        }
+      ]
+    },
+    {
+      "reference": "MLDA2965-owner-f7873191b406",
+      "eframeCode": "MLDA2965",
+      "family": "CT-21",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:47:31.075Z",
+      "checksum": "74b724ae1f815f16f28a18a9d7e76794dafbfa45ff8c2f2df67f06e59c154d24",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2960-owner-e522aad4cc85",
+      "eframeCode": "MLDA2960",
+      "family": "CT-24",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:18:18.287Z",
+      "checksum": "0f057fa4f04d8944e81a53a4c0882d80abd908f25d7c7471a92294094dabfeff",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2801-owner-73a05326287b",
+      "eframeCode": "MLDA2801",
+      "family": "CT-25",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:42:57.391Z",
+      "checksum": "9f7126ccfb70818f16b9d072bebbaad518a46e352b4da206bce760e9925a6a96",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA2955-owner-de1107544df2",
+      "eframeCode": "MLDA2955",
+      "family": "CT-04",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:15:34.053Z",
+      "checksum": "e02ab82292d6614083b5e8455ddf45ad594154979ee376cae6c4257a3e5fc53b",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA3027-owner-499c8450919a",
+      "eframeCode": "MLDA3027",
+      "family": "CT-11",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:49:07.223Z",
+      "checksum": "652c13733a206d418c50730c4bcf5780fa82759f602fa05d843ad3f37da60e50",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA1640-owner-e77ff8756959",
+      "eframeCode": "MLDA1640",
+      "family": "CT-13",
+      "approved": true,
+      "approvalDate": "2026-10-29T21:40:42.123Z",
+      "checksum": "28a32489c2dbcad0dfc1e14e57ea239bc74c2ca5ba5d94e944ce6950657690a5",
+      "philipFeedback": null
+    },
+    {
+      "reference": "MLDA1600-owner-ed96fa9a41ac",
+      "eframeCode": "MLDA1600",
+      "family": "CT-22",
+      "approved": false,
+      "approvalDate": null,
+      "checksum": "a1b72f8af24799fc19f1a90dadbc3b35daeb5a174da4e11013bb88dd67157c74",
+      "philipFeedback": null,
+      "hasSeparatelyApprovedVersion": true,
+      "record": "candidate/MLDA1600/P1-current-a1b72f8af24799fc/review-record.json",
+      "variants": [
+        {
+          "id": "MLDA1600-400x500-completion",
+          "glb": "candidate/MLDA1600/P1-current-a1b72f8af24799fc/owner-d0563cf16cdb059b1e835e51699e6e334249eb0c07cf319195d053c0adaa8850.glb",
+          "usdz": "candidate/MLDA1600/P1-current-a1b72f8af24799fc/owner-92a55d4a3e319520a2b6c06740bdbb01c89217110075ab3a8b38e7695b0e98d5.usdz"
+        }
+      ]
+    },
+    {
+      "reference": "MLDA1864-owner-ivory",
+      "eframeCode": "MLDA1864",
+      "family": "CT-17",
+      "approved": true,
+      "approvalDate": "2026-10-29T16:14:58.379Z",
+      "checksum": "6194e54ae7b864a0e791030165308ac0ed56dafbe980d8bde33e5887fdbc9082",
+      "philipFeedback": null
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "family": "CT-16",
+  "approvalKey": "CT-16__MLDA4040",
+  "reference": "MLDA4040-owner-9cab96c6cd8a",
+  "title": "MLDA4040 · stain · appearance correction",
+  "approvalChecksum": "9cab96c6cd8a2d244334e6b93bbd938b87ae85867416c10b541f7b736517e1a3",
+  "profileReference": "MLDA4039",
+  "warnings": [
+    "Own-finish native source; photo calibration is advisory. New appearance approval and native-phone check required.",
+    "Development appearance correction: geometry and hardware unchanged. Requires new appearance approval and native-phone inspection."
+  ],
+  "variants": [
+    {
+      "id": "MLDA4040-400x500-completion",
+      "widthMm": 400,
+      "heightMm": 500,
+      "artwork": false,
+      "glbUrl": "/api/canvas-tray-review/assets/owner-49ff12ba6b85f7fcef4d299b7d08cd36f902b9b63765f95d0498c94d56fd04e6.glb",
+      "usdzUrl": "/api/canvas-tray-review/assets/owner-b2b1496b4f203083a94156172f8f059b2a80514c6d170bd5c989d77e43596aa9.usdz",
+      "closeups": [],
+      "finishEvidence": {
+        "materialIndex": 0,
+        "preset": {
+          "name": "stain",
+          "metallic": 0,
+          "roughness": 0.6,
+          "clearcoat": 0,
+          "clearcoatRoughness": 0,
+          "normalKind": "preserved-micrograin",
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal",
+          "mappingNote": null
+        },
+        "source": {
+          "supplier": "Larson-Juhl",
+          "field": "Colour / appearance; Finish controls surface response",
+          "value": "Black / Stain",
+          "url": "https://larsonjuhl.co.uk/ljc-coastal-float-moulding-516000167?returnurl=%2fsearch%3fq%3d516000167"
+        },
+        "normal": {
+          "kind": "preserved-micrograin"
+        },
+        "appearance": {
+          "metallic": false,
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal; Colour=\"Black\", collection=\"Coastal Woods\", Finish=\"Stain\"",
+          "mode": "photo-texture",
+          "colourReason": "Own wood-grain photograph retained; Coastal Woods"
+        },
+        "preservation": {
+          "originalBinaryPrefixSha256": "831b50e0935a12ad85342a9ae9bc139161855204c41163765201a372d2cb6ab3",
+          "geometryAndHierarchyExact": true,
+          "existingImageBytesExact": true,
+          "hardwareMaterialsExact": true,
+          "singleTrayMaterial": true
+        },
+        "oldGlbSha256": "6120a59ffba8a826922a8c237f0d6e28a23cf6bc390c2545283e11105323ed73",
+        "newGlbSha256": "49ff12ba6b85f7fcef4d299b7d08cd36f902b9b63765f95d0498c94d56fd04e6",
+        "usdReadback": {
+          "status": "PASS",
+          "values": {
+            "metallic": 0,
+            "roughness": 0.6000000238418579,
+            "clearcoat": 0,
+            "clearcoatRoughness": 0
+          },
+          "textures": {
+            "albedo": {
+              "file": "textures/image_0.jpg",
+              "sha256": "aed75d7bbe4462be7a5468f326f5ba0a9cc2d86f5214d822d3bc00a13ba21a30",
+              "matchesGLB": true
+            },
+            "normal": {
+              "file": "textures/image_1.jpg",
+              "sha256": "0680f56bf2699b0e7a5532c567d9520d56d6590030247589ecb80d1b873c50ab",
+              "matchesGLB": true,
+              "scale": [
+                0.30000001192092896,
+                0.30000001192092896,
+                2,
+                1
+              ],
+              "bias": [
+                -0.15000000596046448,
+                -0.15000000596046448,
+                -1,
+                0
+              ]
+            }
+          },
+          "geometryAndUvsExact": true,
+          "meshCount": 7,
+          "coatNormal": "Not applicable",
+          "nativePhoneAppearance": "NEEDS PHILIP"
+        },
+        "sourceResolution": {
+          "pxPerMm": 4.4423076923076925,
+          "threshold": 2.5,
+          "flagged": false
+        }
+      },
+      "evidenceAudit": {
+        "calibration": {
+          "face": "outer side",
+          "pixelEndpoints": [
+            [
+              387,
+              409
+            ],
+            [
+              618,
+              409
+            ]
+          ],
+          "measuredPixels": 231,
+          "knownWidthMm": 52,
+          "pxPerMm": 4.4423076923076925,
+          "method": "Own-source central length silhouette; square-on assumption; inferred boundary/plane advisory",
+          "status": "ADVISORY_PHOTO_LANDMARKS",
+          "geometryUnchanged": true
+        },
+        "upscaleFactor": 1,
+        "repeatAlongMm": 650.1125541125541,
+        "pxPerMm": 4.4423076923076925,
+        "faces": [],
+        "arkit": {
+          "status": "PASS"
+        }
+      },
+      "previousFinish": {
+        "glbUrl": "/api/canvas-tray-review/assets/owner-6120a59ffba8a826922a8c237f0d6e28a23cf6bc390c2545283e11105323ed73.glb",
+        "usdzUrl": "/api/canvas-tray-review/assets/owner-3179360c83d8e870cdedf840ae11d926aea1e6d3a497e137291db216c833e4aa.usdz"
+      }
+    }
+  ],
+  "chevronPhoto": {
+    "url": "/api/canvas-tray-review/assets/0b5c4a806f6fbbda43537301769f8949defba00151a7f41fed5e544eaabcb4fc.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/516000167_4.jpg",
+    "reference": "MLDA4040",
+    "supplierCode": "516000167"
+  },
+  "modelChecksum": "2fb4cd99ae379ef3c2fa28af36793954141e7f308da19716d88ffbfeeea82d6b",
+  "modelApproval": null,
+  "modelApprovalChanged": false
+}

@@ -1,0 +1,151 @@
+{
+  "family": "CT-08",
+  "approvalKey": "CT-08__MLDA4017",
+  "reference": "MLDA4017-owner-0cf39370289e",
+  "title": "MLDA4017 · foil-wood · appearance correction",
+  "approvalChecksum": "0cf39370289e4527a2511e2ff82d6ce68a802c9b552cb6093fa9bd167d0be256",
+  "profileReference": "MLDA3862",
+  "warnings": [
+    "Own-finish native source; photo calibration is advisory. New appearance approval and native-phone check required.",
+    "Development appearance correction: geometry and hardware unchanged. Requires new appearance approval and native-phone inspection."
+  ],
+  "variants": [
+    {
+      "id": "MLDA4017-400x500-completion",
+      "widthMm": 400,
+      "heightMm": 500,
+      "artwork": false,
+      "glbUrl": "/api/canvas-tray-review/assets/owner-2c9e1a405e8c18c3532e3bb868987d1d3d536ac582f20750ee671c51f076495a.glb",
+      "usdzUrl": "/api/canvas-tray-review/assets/owner-c7a43a1109a04e1339db1f5c7880a74f4b7bb13d6cbaa9c82fa1b233addbfaff.usdz",
+      "closeups": [],
+      "finishEvidence": {
+        "materialIndex": 0,
+        "preset": {
+          "name": "foil-wood",
+          "metallic": 0,
+          "roughness": 0.55,
+          "clearcoat": 0,
+          "clearcoatRoughness": 0,
+          "normalKind": "preserved-micrograin",
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal",
+          "mappingNote": null
+        },
+        "source": {
+          "supplier": "Larson-Juhl",
+          "field": "Colour / appearance; Finish controls surface response",
+          "value": "Black / Foil",
+          "url": "https://larsonjuhl.co.uk/ljc-driftwood-float-moulding-fsc-237126975?returnurl=%2fsearch%3fq%3d237126975"
+        },
+        "normal": {
+          "kind": "preserved-micrograin"
+        },
+        "appearance": {
+          "metallic": false,
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal; Colour=\"Black\", collection=\"Driftwood\", Finish=\"Foil\"",
+          "mode": "photo-texture",
+          "colourReason": "Own wood-grain photograph retained; Driftwood"
+        },
+        "preservation": {
+          "originalBinaryPrefixSha256": "69ee79da450a6ed038d91ad95e7e31d7d6cb14a5a2f469278f8d67b10076421f",
+          "geometryAndHierarchyExact": true,
+          "existingImageBytesExact": true,
+          "hardwareMaterialsExact": true,
+          "singleTrayMaterial": true
+        },
+        "oldGlbSha256": "307dd507d6e0195f20811b3ec6708b7543d076476aecfeb04739ccda9a9098d7",
+        "newGlbSha256": "2c9e1a405e8c18c3532e3bb868987d1d3d536ac582f20750ee671c51f076495a",
+        "usdReadback": {
+          "status": "PASS",
+          "values": {
+            "metallic": 0,
+            "roughness": 0.550000011920929,
+            "clearcoat": 0,
+            "clearcoatRoughness": 0
+          },
+          "textures": {
+            "albedo": {
+              "file": "textures/image_0.jpg",
+              "sha256": "7dbdd9611f2ba988a001fd74995048432052f2a881c63d0aa96e5680a032f03e",
+              "matchesGLB": true
+            },
+            "normal": {
+              "file": "textures/image_4.png",
+              "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+              "matchesGLB": true,
+              "scale": [
+                2,
+                2,
+                2,
+                1
+              ],
+              "bias": [
+                -1,
+                -1,
+                -1,
+                0
+              ],
+              "uvScale": [
+                40.63029479980469,
+                5.021186351776123
+              ],
+              "uvTranslation": [
+                0,
+                -4.021186351776123
+              ]
+            }
+          },
+          "geometryAndUvsExact": true,
+          "meshCount": 7,
+          "coatNormal": "Not applicable",
+          "nativePhoneAppearance": "NEEDS PHILIP"
+        },
+        "sourceResolution": {
+          "pxPerMm": 3.933333333333333,
+          "threshold": 2.5,
+          "flagged": false
+        }
+      },
+      "evidenceAudit": {
+        "calibration": {
+          "face": "outer side",
+          "pixelEndpoints": [
+            [
+              428,
+              409
+            ],
+            [
+              605,
+              409
+            ]
+          ],
+          "measuredPixels": 177,
+          "knownWidthMm": 45,
+          "pxPerMm": 3.933333333333333,
+          "method": "Own-source central length silhouette; square-on assumption; inferred boundary/plane advisory",
+          "status": "ADVISORY_PHOTO_LANDMARKS",
+          "geometryUnchanged": true
+        },
+        "upscaleFactor": 1,
+        "repeatAlongMm": 650.0847457627119,
+        "pxPerMm": 3.933333333333333,
+        "faces": [],
+        "arkit": {
+          "status": "PASS"
+        }
+      },
+      "previousFinish": {
+        "glbUrl": "/api/canvas-tray-review/assets/owner-307dd507d6e0195f20811b3ec6708b7543d076476aecfeb04739ccda9a9098d7.glb",
+        "usdzUrl": "/api/canvas-tray-review/assets/owner-a3685132b2d37a63134d96649ba9412fbe1f917f8fc3b4b79c6f57db99df2dea.usdz"
+      }
+    }
+  ],
+  "chevronPhoto": {
+    "url": "/api/canvas-tray-review/assets/b7e96a7661f1411526a45fa01321cb78b47ef74f3dad7e54bc83d65f9da70382.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/237126975_4.jpg",
+    "reference": "MLDA4017",
+    "supplierCode": "237126975"
+  },
+  "modelChecksum": "8dafa183d00b85ef41e547a823c5bdf37c974a3c3eb1f06ea2f1da8909d1ae27",
+  "modelApproval": null,
+  "modelApprovalChanged": false
+}

@@ -641,5 +641,13 @@
   "round2Report": "instructions/candidate-fix-round-2.json",
   "round3Report": "instructions/candidate-fix-round-3.json",
   "round4Report": "instructions/candidate-fix-round-4.json",
-  "round5Report": "instructions/candidate-fix-round-5.json"
+  "round5Report": "instructions/candidate-fix-round-5.json",
+  "currentStatus": "instructions/current-status.json",
+  "currentStatusCounts": {
+    "profiles": 25,
+    "approvedProfiles": 20,
+    "models": 58,
+    "approvedModels": 51
+  },
+  "currentStatusAt": "2026-10-29T21:55:26.601875+00:00"
 }

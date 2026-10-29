@@ -1,0 +1,178 @@
+{
+  "family": "CT-12",
+  "approvalKey": "CT-12__MLDA3970",
+  "reference": "MLDA3970-owner-68ce9397e7a2",
+  "title": "MLDA3970 · metallic · appearance correction",
+  "approvalChecksum": "68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02",
+  "profileReference": "MLDA3969",
+  "warnings": [
+    "Own-finish native source; photo calibration is advisory. New appearance approval and native-phone check required.",
+    "Development appearance correction: geometry and hardware unchanged. Requires new appearance approval and native-phone inspection."
+  ],
+  "variants": [
+    {
+      "id": "MLDA3970-400x500-completion",
+      "widthMm": 400,
+      "heightMm": 500,
+      "artwork": false,
+      "glbUrl": "/api/canvas-tray-review/assets/owner-8e17e68945d0da657181a6e271f1d074ceecf26d4f9e6e125c70dab19010c322.glb",
+      "usdzUrl": "/api/canvas-tray-review/assets/owner-29b42428a223ca46019f95bb2fd36fc0e723a4ecb9530f1b1fa1ba9f6d3a5df0.usdz",
+      "closeups": [],
+      "finishEvidence": {
+        "materialIndex": 0,
+        "preset": {
+          "name": "metallic",
+          "metallic": 1,
+          "roughness": 0.35,
+          "clearcoat": 0,
+          "clearcoatRoughness": 0,
+          "normalKind": "brushed-line",
+          "metallicReason": "Metallic attribute 'pewter' in Colour/name",
+          "mappingNote": null
+        },
+        "source": {
+          "supplier": "Larson-Juhl",
+          "field": "Colour / appearance; Finish controls surface response",
+          "value": "Pewter / Foil",
+          "url": "https://larsonjuhl.co.uk/ljc-foiled-float-moulding-631120000?returnurl=%2fsearch%3fq%3d631120000"
+        },
+        "normal": {
+          "kind": "brushed-line",
+          "tileMm": [
+            16,
+            8
+          ],
+          "pixels": [
+            512,
+            512
+          ],
+          "meanTiltDegrees": 1.0523883585629674,
+          "provenance": "Declared synthetic tileable finish detail; not recovered photo detail",
+          "periodicGeneration": true,
+          "alongAxis": "U / rail length",
+          "crossToAlongSlopeRatio": 54.37635881322101,
+          "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+          "textureTransformScale": [
+            40.625,
+            5.008278145695364
+          ]
+        },
+        "appearance": {
+          "metallic": true,
+          "metallicReason": "Metallic attribute 'pewter' in Colour/name; Colour=\"Pewter\", collection=\"Foiled Float\", Finish=\"Foil\"",
+          "mode": "clean-metal-colour",
+          "rgbSrgb": [
+            150,
+            150,
+            150
+          ],
+          "colourReason": "Declared typical pewter reflectance; de-lit metal photograph is not used as albedo"
+        },
+        "preservation": {
+          "originalBinaryPrefixSha256": "1356cdd36538b22d329a67db2a28a34d89fffe47fcef43c081d41b6179364e4f",
+          "geometryAndHierarchyExact": true,
+          "existingImageBytesExact": true,
+          "hardwareMaterialsExact": true,
+          "singleTrayMaterial": true
+        },
+        "oldGlbSha256": "d1573ab965f9b946d9faf491e5972e152b22ae8a95dd918303c95a95d4580520",
+        "newGlbSha256": "8e17e68945d0da657181a6e271f1d074ceecf26d4f9e6e125c70dab19010c322",
+        "usdReadback": {
+          "status": "PASS",
+          "values": {
+            "metallic": 1,
+            "roughness": 0.3499999940395355,
+            "clearcoat": 0,
+            "clearcoatRoughness": 0
+          },
+          "textures": {
+            "albedo": {
+              "mode": "flat-colour",
+              "linearRgb": [
+                0.3049873113632202,
+                0.3049873113632202,
+                0.3049873113632202
+              ],
+              "matchesGLB": true
+            },
+            "normal": {
+              "file": "textures/image_4.png",
+              "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+              "matchesGLB": true,
+              "scale": [
+                2,
+                2,
+                2,
+                1
+              ],
+              "bias": [
+                -1,
+                -1,
+                -1,
+                0
+              ],
+              "uvScale": [
+                40.625,
+                5.0082783699035645
+              ],
+              "uvTranslation": [
+                0,
+                -4.0082783699035645
+              ]
+            }
+          },
+          "geometryAndUvsExact": true,
+          "meshCount": 7,
+          "coatNormal": "Not applicable",
+          "nativePhoneAppearance": "NEEDS PHILIP"
+        },
+        "sourceResolution": {
+          "pxPerMm": 3.02,
+          "threshold": 2.5,
+          "flagged": false
+        }
+      },
+      "evidenceAudit": {
+        "calibration": {
+          "face": "outer side",
+          "pixelEndpoints": [
+            [
+              430,
+              409
+            ],
+            [
+              581,
+              409
+            ]
+          ],
+          "measuredPixels": 151,
+          "knownWidthMm": 50,
+          "pxPerMm": 3.02,
+          "method": "Own-source central length silhouette; square-on assumption; inferred boundary/plane advisory",
+          "status": "ADVISORY_PHOTO_LANDMARKS",
+          "geometryUnchanged": true
+        },
+        "upscaleFactor": 1,
+        "repeatAlongMm": 650,
+        "pxPerMm": 3.02,
+        "faces": [],
+        "arkit": {
+          "status": "PASS"
+        }
+      },
+      "previousFinish": {
+        "glbUrl": "/api/canvas-tray-review/assets/owner-d1573ab965f9b946d9faf491e5972e152b22ae8a95dd918303c95a95d4580520.glb",
+        "usdzUrl": "/api/canvas-tray-review/assets/owner-2d2ce6913b1e4329edacf4923ee9f6447a0fa41ec7c72a5d0e89a9414c3dcca0.usdz"
+      }
+    }
+  ],
+  "chevronPhoto": {
+    "url": "/api/canvas-tray-review/assets/58b938d3de4e0c8d632d9ddf456412d0de1b08583fd00e9cd7088f6b8d62b6f6.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/631120000_4.jpg",
+    "reference": "MLDA3970",
+    "supplierCode": "631120000"
+  },
+  "modelChecksum": "e614669cb3b6179581cc1e113c58f15b02552d9e309b0aec80ad19313f1fbf33",
+  "modelApproval": null,
+  "modelApprovalChanged": false
+}

@@ -1,0 +1,853 @@
+{
+  "family": "CT-20",
+  "title": "CT-20 · Eiffel",
+  "reference": "MLDA1771",
+  "sourceImageUrl": "/api/canvas-tray-review/assets/CT-20-4eb9c4eaf13e-colour-source.png",
+  "outlineSvgUrl": "/api/canvas-tray-review/assets/CT-20-121e19470a0ea51d-outline.svg",
+  "dimensions": {
+    "Overall height": "Printed: 62; drawn: 61.218 mm",
+    "Profile width": "Printed: 73; drawn: 72.913 mm",
+    "Lip width": "Printed: 35; drawn: 34.801 mm",
+    "Canvas depth": "Printed: 45; drawn: 44.85 mm",
+    "Floor width": "Printed: 38; drawn: 38.112 mm"
+  },
+  "status": "pending",
+  "traceReady": true,
+  "notes": [
+    "Exact existing CT-20 outline reused; no segmentation rerun.",
+    "Method: traced. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "traceEvidence": {
+    "family": "CT-20",
+    "reference": "MLDA1771",
+    "source": "generated-artifacts/canvas-colour-tracing/sources/695100_2.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/695100_2.jpg",
+    "sourceSha256": "8cfad888774282de8862b404fd330451773d70afed50eb45655f845875eadc70",
+    "threshold": [
+      210,
+      190,
+      145,
+      18,
+      80
+    ],
+    "barEvidence": {
+      "X": {
+        "endTicks": [
+          92,
+          806
+        ],
+        "coordinate": 48,
+        "lengthPx": 714,
+        "labelMm": 62,
+        "pxPerMm": 11.516129032258064
+      },
+      "Y": {
+        "endTicks": [
+          70,
+          908
+        ],
+        "coordinate": 76,
+        "lengthPx": 838,
+        "labelMm": 73,
+        "pxPerMm": 11.479452054794521
+      }
+    },
+    "labels": [
+      {
+        "feature": "Overall height (photo X)",
+        "labelledMm": 62,
+        "measuredMm": 61.21848678588867,
+        "residualMm": -0.7815132141113281,
+        "measurementEndpointsMm": [
+          [
+            0,
+            0
+          ],
+          [
+            61.21848678588867,
+            0
+          ]
+        ],
+        "association": "CT-20: top horizontal bar spans back-to-front overall height, including rounded/finished outer boundary; cut-face envelope is the measured proxy, no forced +2mm correction.",
+        "passHalfMm": false
+      },
+      {
+        "feature": "Profile width (photo Y)",
+        "labelledMm": 73,
+        "measuredMm": 72.91288782816228,
+        "residualMm": -0.0871121718377168,
+        "measurementEndpointsMm": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            72.91288782816228
+          ]
+        ],
+        "association": "CT-20: left vertical bar spans full profile width, from outer lip top to bottom of floor.",
+        "passHalfMm": true
+      },
+      {
+        "feature": "Lip width",
+        "labelledMm": 35,
+        "measuredMm": 34.80131149291992,
+        "residualMm": -0.19868850708007812,
+        "measurementEndpointsMm": [
+          [
+            61.21848678588867,
+            0
+          ],
+          [
+            61.21848678588867,
+            34.80131149291992
+          ]
+        ],
+        "association": "CT-20: upper inside label/dotted vertical measures lip width, from outer top datum to the ledge.",
+        "passHalfMm": true
+      },
+      {
+        "feature": "Internal canvas depth",
+        "labelledMm": 45,
+        "measuredMm": 44.85013961791992,
+        "residualMm": -0.14986038208007812,
+        "measurementEndpointsMm": [
+          [
+            11.245098114013672,
+            34.80131149291992
+          ],
+          [
+            56.095237731933594,
+            34.80131149291992
+          ]
+        ],
+        "association": "CT-20: horizontal label sits inside the recess, starting at the inner back wall and ending at the canvas-front boundary; measure internal horizontal span, not overall X. Straight ledge endpoints; wall intersection unavailable.",
+        "passHalfMm": true
+      },
+      {
+        "feature": "Floor width (photo Y)",
+        "labelledMm": 38,
+        "measuredMm": 38.11157633524236,
+        "residualMm": 0.11157633524236132,
+        "measurementEndpointsMm": [
+          [
+            0,
+            34.80131149291992
+          ],
+          [
+            0,
+            72.91288782816228
+          ]
+        ],
+        "association": "CT-20: lower vertical label beside inner wall measures floor width from ledge to bottom; not the horizontal recess span.",
+        "passHalfMm": true
+      }
+    ],
+    "outlineMm": [
+      [
+        1.215686321258545,
+        0
+      ],
+      [
+        0,
+        1.3937947750091553
+      ],
+      [
+        0,
+        25.00119400024414
+      ],
+      [
+        0,
+        71.69332122802734
+      ],
+      [
+        0.26050421595573425,
+        72.91288782816228
+      ],
+      [
+        10.76750659942627,
+        72.91288782816228
+      ],
+      [
+        11.245098114013672,
+        72.56443786621094
+      ],
+      [
+        11.245098114013672,
+        34.80131149291992
+      ],
+      [
+        56.095237731933594,
+        34.80131149291992
+      ],
+      [
+        61.21848678588867,
+        16.551313400268555
+      ],
+      [
+        60.7843132019043,
+        15.941527366638184
+      ],
+      [
+        56.52941131591797,
+        15.157517433166504
+      ],
+      [
+        54.01120376586914,
+        14.199283599853516
+      ],
+      [
+        52.18767547607422,
+        14.11217212677002
+      ],
+      [
+        52.1008415222168,
+        13.763723373413086
+      ],
+      [
+        50.711483001708984,
+        13.763723373413086
+      ],
+      [
+        50.62464904785156,
+        13.241049766540527
+      ],
+      [
+        46.19607925415039,
+        11.934367179870605
+      ],
+      [
+        40.72549057006836,
+        10.801909446716309
+      ],
+      [
+        39.422969818115234,
+        10.105011940002441
+      ],
+      [
+        31.2605037689209,
+        8.275656700134277
+      ],
+      [
+        26.224090576171875,
+        6.620524883270264
+      ],
+      [
+        20.40616226196289,
+        5.400954723358154
+      ],
+      [
+        19.624649047851562,
+        4.878281593322754
+      ],
+      [
+        16.585433959960938,
+        4.442720890045166
+      ],
+      [
+        14.675069808959961,
+        3.4844868183135986
+      ]
+    ],
+    "originPx": [
+      101,
+      72
+    ],
+    "angles": [
+      {
+        "lengthMm": 23.607399225234985,
+        "angleDeg": 90
+      },
+      {
+        "lengthMm": 46.6921272277832,
+        "angleDeg": 90
+      },
+      {
+        "lengthMm": 10.507002383470535,
+        "angleDeg": 0
+      },
+      {
+        "lengthMm": 37.763126373291016,
+        "angleDeg": -90
+      },
+      {
+        "lengthMm": 44.85013961791992,
+        "angleDeg": 0
+      },
+      {
+        "lengthMm": 18.955477077895722,
+        "angleDeg": -74.31918791720332
+      },
+      {
+        "lengthMm": 4.326529976222548,
+        "angleDeg": -169.55976077594957
+      },
+      {
+        "lengthMm": 2.6943610271135947,
+        "angleDeg": -159.16706981114018
+      },
+      {
+        "lengthMm": 4.617320629974579,
+        "angleDeg": -163.5609117953937
+      },
+      {
+        "lengthMm": 5.586573284920492,
+        "angleDeg": -168.30448636410043
+      },
+      {
+        "lengthMm": 8.364950244794246,
+        "angleDeg": -167.36772758785094
+      },
+      {
+        "lengthMm": 5.301407282910075,
+        "angleDeg": -161.80776785640475
+      },
+      {
+        "lengthMm": 5.9443789620298135,
+        "angleDeg": -168.1609240706331
+      },
+      {
+        "lengthMm": 3.0702673298430687,
+        "angleDeg": -171.84427208933863
+      },
+      {
+        "lengthMm": 2.137218689244725,
+        "angleDeg": -153.36176707577147
+      },
+      {
+        "lengthMm": 13.903116638222192,
+        "angleDeg": -165.48542293981126
+      }
+    ],
+    "allLabelsCertified": false,
+    "withinHalfMm": false,
+    "withinOneMm": true,
+    "status": "READY_FOR_OWNER_REVIEW",
+    "sam2": {
+      "method": "automatic",
+      "iou": 0.9853634640051157,
+      "status": "PASS",
+      "threshold": 0.97,
+      "selectedMask": "mask-0000.png",
+      "selection": "Positive/negative seed filtering after automatic generation, followed by reference v3 largest connected component; NOT point-prompted inference",
+      "provenance": {
+        "version": "fe97b453a6455861e3bac769b441ca1f1086110da7466dbb65cf1eecfd60dc83",
+        "settings": {
+          "points_per_side": 32,
+          "pred_iou_thresh": 0.88,
+          "stability_score_thresh": 0.95,
+          "use_m2m": true
+        },
+        "method": "automatic",
+        "sourceSha256": "4eb9c4eaf13e1fec02c808c1e7714aef564759645dd04c578e15174d611d3925"
+      }
+    },
+    "smoothing": "0.25mm polygon tolerance retains short curved arcs; long edges within 3 degrees snapped; no global smoothing",
+    "overlay": "generated-artifacts/canvas-colour-tracing/CT-20/overlay.png",
+    "outlineChecks": {
+      "passed": true,
+      "errors": [],
+      "roundedShortEdges": [],
+      "fixes": [
+        "Retained reference outline; independent gates passed"
+      ]
+    },
+    "readyForApproval": true,
+    "finishBoundaryReview": "No undersized-label correction required; preserve established cut-plane evidence."
+  },
+  "checksum": "dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221",
+  "dimensionOverlayUrl": "/api/canvas-tray-review/assets/CT-20-2f890ac8e7aa1c29-drawing.png",
+  "drawing": {
+    "family": "CT-20",
+    "mode": "traced",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": null,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 62,
+        "drawn": 61.218
+      },
+      {
+        "name": "Profile width",
+        "printed": 73,
+        "drawn": 72.913
+      },
+      {
+        "name": "Lip width",
+        "printed": 35,
+        "drawn": 34.801
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 45,
+        "drawn": 44.85
+      },
+      {
+        "name": "Floor width",
+        "printed": 38,
+        "drawn": 38.112
+      }
+    ],
+    "warnings": [
+      "Exact existing CT-20 outline reused; no segmentation rerun."
+    ],
+    "outlineMm": [
+      [
+        1.215686321258545,
+        0
+      ],
+      [
+        0,
+        1.3937947750091553
+      ],
+      [
+        0,
+        25.00119400024414
+      ],
+      [
+        0,
+        71.69332122802734
+      ],
+      [
+        0.26050421595573425,
+        72.91288782816228
+      ],
+      [
+        10.76750659942627,
+        72.91288782816228
+      ],
+      [
+        11.245098114013672,
+        72.56443786621094
+      ],
+      [
+        11.245098114013672,
+        34.80131149291992
+      ],
+      [
+        56.095237731933594,
+        34.80131149291992
+      ],
+      [
+        61.21848678588867,
+        16.551313400268555
+      ],
+      [
+        60.7843132019043,
+        15.941527366638184
+      ],
+      [
+        56.52941131591797,
+        15.157517433166504
+      ],
+      [
+        54.01120376586914,
+        14.199283599853516
+      ],
+      [
+        52.18767547607422,
+        14.11217212677002
+      ],
+      [
+        52.1008415222168,
+        13.763723373413086
+      ],
+      [
+        50.711483001708984,
+        13.763723373413086
+      ],
+      [
+        50.62464904785156,
+        13.241049766540527
+      ],
+      [
+        46.19607925415039,
+        11.934367179870605
+      ],
+      [
+        40.72549057006836,
+        10.801909446716309
+      ],
+      [
+        39.422969818115234,
+        10.105011940002441
+      ],
+      [
+        31.2605037689209,
+        8.275656700134277
+      ],
+      [
+        26.224090576171875,
+        6.620524883270264
+      ],
+      [
+        20.40616226196289,
+        5.400954723358154
+      ],
+      [
+        19.624649047851562,
+        4.878281593322754
+      ],
+      [
+        16.585433959960938,
+        4.442720890045166
+      ],
+      [
+        14.675069808959961,
+        3.4844868183135986
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA1771",
+        "code": "695100",
+        "at": "2026-10-29T15:07:54.267Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695100?returnurl=%2fsearch%3fq%3d695100",
+        "pageSha256": "b1dcc77307a2a3585ac6fc61e42327e7c5ecbadadf1861b124efae3cdd1ab189",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1774",
+        "code": "695130",
+        "at": "2026-10-29T15:07:54.341Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695130?returnurl=%2fsearch%3fq%3d695130",
+        "pageSha256": "061a3e2738f855d28b55e1e19ee98adf3cf4bc3db9c9d4475b0b882d6ba4c2d3",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1772",
+        "code": "695110",
+        "at": "2026-10-29T15:07:54.321Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695110?returnurl=%2fsearch%3fq%3d695110",
+        "pageSha256": "7c78d5e294f8f58102e034bd89f47a4be9a61b5f32e48581eda0fb8e8731a574",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1773",
+        "code": "695120",
+        "at": "2026-10-29T15:07:56.088Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695120?returnurl=%2fsearch%3fq%3d695120",
+        "pageSha256": "19bcbc3cdaf2339e2a26aae7d3832a2e9557660b0781e5c9d3276960b96c60fb",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "ownerDecision": null,
+  "approvalChanged": false,
+  "multiview": {
+    "family": "CT-20",
+    "reference": "MLDA1771",
+    "profileChecksum": "dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221",
+    "views": [
+      {
+        "view": 1,
+        "source": "https://larsonjuhl.co.uk/product/image/large/695100_1.jpg",
+        "sourceSha256": "e8aed74d135f5744b695ccfc4d40167092bbacfd4dc03a298178520d1cfc5bf3",
+        "checkpointSha256": "7402e0d864fa82708a20fbd15bc84245c2f26dff0eb43a4b5b93452deb34be69",
+        "method": "SAM2.1 tiny, joint single-image positive/negative prompts; no rebate reconstruction",
+        "directory": "generated-artifacts/canvas-multiview/CT-20/view-0-1",
+        "status": "MASK_READY",
+        "positive": [
+          [
+            465,
+            897
+          ],
+          [
+            559,
+            1002
+          ]
+        ],
+        "negative": [
+          [
+            574,
+            807
+          ],
+          [
+            450,
+            714
+          ],
+          [
+            31,
+            31
+          ],
+          [
+            962,
+            962
+          ]
+        ],
+        "modelScore": 0.9600056409835815,
+        "maskPixels": 22905,
+        "overlayFile": "generated-artifacts/canvas-multiview/CT-20/view-0-1/overlay.png",
+        "rectificationBlocked": "Sloped outer-front datum is occluded/ambiguous in straight view; three independent correspondences not established.",
+        "overlayUrl": "/api/canvas-tray-review/assets/multiview-bcb11832f60c0df50e181c0932793d76d8f92aac7b97f7afd323a27649e3279e.png"
+      },
+      {
+        "view": 2,
+        "source": "https://larsonjuhl.co.uk/product/image/large/695100_2.jpg",
+        "sourceSha256": "8cfad888774282de8862b404fd330451773d70afed50eb45655f845875eadc70",
+        "checkpointSha256": "7402e0d864fa82708a20fbd15bc84245c2f26dff0eb43a4b5b93452deb34be69",
+        "method": "SAM2.1 tiny, joint single-image positive/negative prompts; no rebate reconstruction",
+        "directory": "generated-artifacts/canvas-multiview/CT-20/view-1-2",
+        "status": "MASK_READY",
+        "positive": [
+          [
+            120,
+            321
+          ],
+          [
+            120,
+            674
+          ],
+          [
+            341,
+            103
+          ]
+        ],
+        "negative": [
+          [
+            942,
+            543
+          ],
+          [
+            983,
+            59
+          ],
+          [
+            25,
+            692
+          ],
+          [
+            409,
+            10
+          ],
+          [
+            870,
+            498
+          ]
+        ],
+        "modelScore": 0.8793907761573792,
+        "maskPixels": 352204,
+        "overlayFile": "generated-artifacts/canvas-multiview/CT-20/view-1-2/overlay.png",
+        "calibration": "Independent printed dimension-bar scales; no mask-fit resizing",
+        "transform": [
+          [
+            0.5210084033613446,
+            0,
+            -42.6218487394958
+          ],
+          [
+            0,
+            0.522673031026253,
+            -27.632458233890212
+          ]
+        ],
+        "rectifiedFile": "generated-artifacts/canvas-multiview/CT-20/view-1-2/rectified.png",
+        "pixelsPerMm": 6,
+        "residuals": {
+          "canvasDepth": 6.166666666666664,
+          "lip": -0.5,
+          "floor": 0.5
+        },
+        "residualCaveat": "Inner-wall/lip scan-line checks are provisional for sculpted sections. Fitted overall dimensions are not validation.",
+        "meanCrossViewIoU": 0.7111920020507562,
+        "overlayUrl": "/api/canvas-tray-review/assets/multiview-bc939a690c66c4f225004897914fe9aeb4babc24ef6f5879fbdbee68508f58c1.png"
+      },
+      {
+        "view": 4,
+        "source": "https://larsonjuhl.co.uk/product/image/large/695100_4.jpg",
+        "sourceSha256": "9c43f55d486cb306bef3827d8331036184ea4e60310596682ef0b6ad9420f6b1",
+        "checkpointSha256": "7402e0d864fa82708a20fbd15bc84245c2f26dff0eb43a4b5b93452deb34be69",
+        "method": "SAM2.1 tiny, joint single-image positive/negative prompts; no rebate reconstruction",
+        "directory": "generated-artifacts/canvas-multiview/CT-20/view-2-4",
+        "status": "MASK_READY",
+        "positive": [
+          [
+            152,
+            707
+          ],
+          [
+            242,
+            875
+          ]
+        ],
+        "negative": [
+          [
+            372,
+            559
+          ],
+          [
+            528,
+            310
+          ],
+          [
+            31,
+            31
+          ],
+          [
+            962,
+            962
+          ]
+        ],
+        "modelScore": 0.9627426862716675,
+        "maskPixels": 45214,
+        "overlayFile": "generated-artifacts/canvas-multiview/CT-20/view-2-4/overlay.png",
+        "calibration": "Provisional affine from three inspected cut-plane corners; H/W fitted, not independent validation",
+        "correspondencePixels": [
+          [
+            5,
+            689
+          ],
+          [
+            245,
+            930
+          ],
+          [
+            263,
+            543
+          ]
+        ],
+        "correspondenceMm": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            73
+          ],
+          [
+            62,
+            0
+          ]
+        ],
+        "transform": [
+          [
+            0.9221749058816271,
+            -0.9183484539900019,
+            638.1312102697032
+          ],
+          [
+            0.6577794235635375,
+            1.1623773375300872,
+            -794.1668826760477
+          ]
+        ],
+        "rectifiedFile": "generated-artifacts/canvas-multiview/CT-20/view-2-4/rectified.png",
+        "pixelsPerMm": 6,
+        "residuals": {
+          "canvasDepth": 6,
+          "lip": -10,
+          "floor": 10
+        },
+        "residualCaveat": "Inner-wall/lip scan-line checks are provisional for sculpted sections. Fitted overall dimensions are not validation.",
+        "meanCrossViewIoU": 0.7111920020507562,
+        "overlayUrl": "/api/canvas-tray-review/assets/multiview-dc843afaf7195170bcd69d6cd4f55447d241567aec95e6322ffa14b50068f2db.png"
+      }
+    ],
+    "approval": "UNAPPROVED CROSS-CHECK ONLY",
+    "comparisons": [
+      {
+        "views": [
+          2,
+          4
+        ],
+        "iou": 0.7111920020507562
+      }
+    ],
+    "bestView": 4,
+    "bestOverlayFile": "generated-artifacts/canvas-multiview/CT-20/view-2-4/overlay.png",
+    "bestReason": "Highest mean agreement with other provisionally rectified views; not ground-truth IoU or approval.",
+    "bestOverlayUrl": "/api/canvas-tray-review/assets/multiview-dc843afaf7195170bcd69d6cd4f55447d241567aec95e6322ffa14b50068f2db.png"
+  }
+}

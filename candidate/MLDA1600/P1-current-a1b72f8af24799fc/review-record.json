@@ -1,0 +1,189 @@
+{
+  "family": "CT-22",
+  "approvalKey": "CT-22__MLDA1600",
+  "reference": "MLDA1600-owner-ed96fa9a41ac",
+  "title": "MLDA1600 · lacquer · appearance correction",
+  "approvalChecksum": "ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5",
+  "profileReference": "MLDA1599",
+  "warnings": [
+    "Own-finish native source; photo calibration is advisory. New appearance approval and native-phone check required.",
+    "Development appearance correction: geometry and hardware unchanged. Requires new appearance approval and native-phone inspection."
+  ],
+  "variants": [
+    {
+      "id": "MLDA1600-400x500-completion",
+      "widthMm": 400,
+      "heightMm": 500,
+      "artwork": false,
+      "glbUrl": "/api/canvas-tray-review/assets/owner-d0563cf16cdb059b1e835e51699e6e334249eb0c07cf319195d053c0adaa8850.glb",
+      "usdzUrl": "/api/canvas-tray-review/assets/owner-92a55d4a3e319520a2b6c06740bdbb01c89217110075ab3a8b38e7695b0e98d5.usdz",
+      "closeups": [],
+      "finishEvidence": {
+        "materialIndex": 0,
+        "preset": {
+          "name": "lacquer",
+          "metallic": 0,
+          "roughness": 0.3,
+          "clearcoat": 1,
+          "clearcoatRoughness": 0.05,
+          "normalKind": "orange-peel",
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal",
+          "mappingNote": null
+        },
+        "source": {
+          "supplier": "Larson-Juhl",
+          "field": "Colour / appearance; Finish controls surface response",
+          "value": "Black / Lacquer",
+          "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-komodo-float-moulding-401250?returnurl=%2fsearch%3fq%3d401250"
+        },
+        "normal": {
+          "kind": "orange-peel",
+          "tileMm": [
+            12,
+            12
+          ],
+          "pixels": [
+            512,
+            512
+          ],
+          "meanTiltDegrees": 0.7704230445539073,
+          "provenance": "Declared synthetic tileable finish detail; not recovered photo detail",
+          "periodicGeneration": true,
+          "alongAxis": "U / rail length",
+          "crossToAlongSlopeRatio": 0.999519190056553,
+          "sha256": "066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22",
+          "textureTransformScale": [
+            54.166666666666664,
+            3.3352059925093633
+          ]
+        },
+        "appearance": {
+          "metallic": false,
+          "metallicReason": "No metallic Colour/name attribute; Finish method alone is not evidence of metal; Colour=\"Black\", collection=\"Komodo\", Finish=\"Lacquer\"",
+          "mode": "colour-picked",
+          "rgbSrgb": [
+            36.15626625093533,
+            33.764469315691684,
+            38.956967267824126
+          ],
+          "colourReason": "Median of own de-lit face crop; plain paint/lacquer uses no photographic colour texture",
+          "sample": {
+            "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470.jpg",
+            "sha256": "f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470",
+            "crop": [
+              442,
+              184,
+              581,
+              614
+            ],
+            "method": "Four linear-light flat-field iterations, then per-channel median; colour sampling, not texture-quality certification"
+          }
+        },
+        "preservation": {
+          "originalBinaryPrefixSha256": "0a710092fc7a8cf5ce3072e882428e0b96ad83e24e6dcafee41ebde4c42d84aa",
+          "geometryAndHierarchyExact": true,
+          "existingImageBytesExact": true,
+          "hardwareMaterialsExact": true,
+          "singleTrayMaterial": true
+        },
+        "oldGlbSha256": "24733021e4b386dd27af159821b19c4a35d73607b601741554b104157f0828ea",
+        "newGlbSha256": "d0563cf16cdb059b1e835e51699e6e334249eb0c07cf319195d053c0adaa8850",
+        "usdReadback": {
+          "status": "PASS",
+          "values": {
+            "metallic": 0,
+            "roughness": 0.30000001192092896,
+            "clearcoat": 1,
+            "clearcoatRoughness": 0.05000000074505806
+          },
+          "textures": {
+            "albedo": {
+              "mode": "flat-colour",
+              "linearRgb": [
+                0.01777450554072857,
+                0.015808656811714172,
+                0.02024906873703003
+              ],
+              "matchesGLB": true
+            },
+            "normal": {
+              "file": "textures/image_4.png",
+              "sha256": "066ea5010ef1292543577039a8b848610943c607fa94dcd06f9ebc51a1fe9b22",
+              "matchesGLB": true,
+              "scale": [
+                2,
+                2,
+                2,
+                1
+              ],
+              "bias": [
+                -1,
+                -1,
+                -1,
+                0
+              ],
+              "uvScale": [
+                54.16666793823242,
+                3.3352060317993164
+              ],
+              "uvTranslation": [
+                0,
+                -2.3352060317993164
+              ]
+            }
+          },
+          "geometryAndUvsExact": true,
+          "meshCount": 7,
+          "coatNormal": "Same GLB normal on base and clearcoat; UsdPreviewSurface uses its single shared normal input",
+          "nativePhoneAppearance": "NEEDS PHILIP"
+        },
+        "sourceResolution": {
+          "pxPerMm": 6.846153846153846,
+          "threshold": 2.5,
+          "flagged": false
+        }
+      },
+      "evidenceAudit": {
+        "calibration": {
+          "face": "front lip",
+          "pixelEndpoints": [
+            [
+              378,
+              409
+            ],
+            [
+              645,
+              409
+            ]
+          ],
+          "measuredPixels": 267,
+          "knownWidthMm": 39,
+          "pxPerMm": 6.846153846153846,
+          "method": "Own-source central length silhouette; square-on assumption; inferred boundary/plane advisory",
+          "status": "ADVISORY_PHOTO_LANDMARKS",
+          "geometryUnchanged": true
+        },
+        "upscaleFactor": 1,
+        "repeatAlongMm": 650,
+        "pxPerMm": 6.846153846153846,
+        "faces": [],
+        "arkit": {
+          "status": "PASS"
+        }
+      },
+      "previousFinish": {
+        "glbUrl": "/api/canvas-tray-review/assets/owner-24733021e4b386dd27af159821b19c4a35d73607b601741554b104157f0828ea.glb",
+        "usdzUrl": "/api/canvas-tray-review/assets/owner-f77432863d1f26b07d9908574086f67070c56b23a0fd866a0f73b1290b57fe07.usdz"
+      }
+    }
+  ],
+  "chevronPhoto": {
+    "url": "/api/canvas-tray-review/assets/378468ec41bfd82d235a838aee529f25b83a2bb6904c8a561a08bb01b42214b8.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/401250_4.jpg",
+    "reference": "MLDA1600",
+    "supplierCode": "401250"
+  },
+  "modelChecksum": "a1b72f8af24799fc19f1a90dadbc3b35daeb5a174da4e11013bb88dd67157c74",
+  "modelApproval": null,
+  "modelApprovalChanged": false
+}

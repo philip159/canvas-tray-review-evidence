@@ -1,0 +1,96 @@
+{
+  "family": "CT-14",
+  "reference": "MLDA2208-owner-d7203e8ceceb",
+  "title": "MLDA2208 · approved profile / new model candidate",
+  "approvalChecksum": "d7203e8ceceb11eb246e57fc8b25aa443bb64d1191aca9372824bb9431071fa3",
+  "approvalAt": "2026-10-29T15:04:12.846Z",
+  "warnings": [
+    "Exact approved profile; new model appearance and physical-phone validation still pending",
+    "Development only; existing models unchanged"
+  ],
+  "variants": [
+    {
+      "id": "MLDA2208-400x500-owner-d7203e8ceceb",
+      "widthMm": 400,
+      "heightMm": 500,
+      "artwork": false,
+      "glbUrl": "/api/canvas-tray-review/assets/owner-eee7f0cd00dd382c32287f050f61d21ca16600e79bdc02c5c3d61442f183c89a.glb",
+      "usdzUrl": "/api/canvas-tray-review/assets/owner-f4ee6e668a87ca69b0535cdd2c1575155bff5eb363276b1b618a06e4528dfa4f.usdz",
+      "closeups": [],
+      "albedoAudit": {
+        "materialCount": 1,
+        "baseColourTextureCount": 1,
+        "textureSha256": "f3b6775364a74715073e270f9826101d79b5308043d0376ca4fd786b5fe31ea7",
+        "factor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "meanRgb": [
+          57.74078298110046,
+          57.36626943487571,
+          61.07190205753654
+        ],
+        "identicalTextureMeans": true,
+        "primitiveCount": 1,
+        "meanInterpretation": "Global shared albedo-image mean; rendered means differ legitimately with lighting and UV grain samples.",
+        "faces": [
+          {
+            "component": "Approved profile",
+            "rail": 0,
+            "face": "shared section",
+            "meanRgb": [
+              57.74078298110046,
+              57.36626943487571,
+              61.07190205753654
+            ],
+            "uOffset": 0.2862931741401553
+          },
+          {
+            "component": "Approved profile",
+            "rail": 1,
+            "face": "shared section",
+            "meanRgb": [
+              57.74078298110046,
+              57.36626943487571,
+              61.07190205753654
+            ],
+            "uOffset": 0.14262597844935954
+          },
+          {
+            "component": "Approved profile",
+            "rail": 2,
+            "face": "shared section",
+            "meanRgb": [
+              57.74078298110046,
+              57.36626943487571,
+              61.07190205753654
+            ],
+            "uOffset": 0.6105757215991616
+          },
+          {
+            "component": "Approved profile",
+            "rail": 3,
+            "face": "shared section",
+            "meanRgb": [
+              57.74078298110046,
+              57.36626943487571,
+              61.07190205753654
+            ],
+            "uOffset": 0.4484393335878849
+          }
+        ]
+      }
+    }
+  ],
+  "chevronPhoto": {
+    "url": "/api/canvas-tray-review/assets/4a76e979571ee3690c400e6c4ab26e0f4321ad6c54f0c7ffe843a0798e30099e.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/239137471_4.jpg",
+    "reference": "MLDA2208",
+    "supplierCode": "239137471"
+  },
+  "modelChecksum": "812a31a06174159946bf2a3ef9d5a671e4512a39dbea5dae16202299c5bc2499",
+  "modelApproval": null,
+  "modelApprovalChanged": false
+}

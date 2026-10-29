@@ -1,0 +1,980 @@
+{
+  "family": "CT-23",
+  "title": "CT-23 · Essentials",
+  "reference": "MLDA2961",
+  "sourceImageUrl": "/api/canvas-tray-review/assets/CT-23-0a916947c19f-colour-source.png",
+  "outlineSvgUrl": "/api/canvas-tray-review/assets/CT-23-d5b99078c6022281-outline.svg",
+  "dimensions": {
+    "Overall height": "Printed: 51; drawn: 51 mm",
+    "Profile width": "Printed: 70; drawn: 70 mm",
+    "Lip width": "Printed: 45; drawn: 45 mm",
+    "Canvas depth": "Printed: 41; drawn: 41 mm",
+    "Floor width": "Printed: 25; drawn: 25 mm"
+  },
+  "status": "pending",
+  "traceReady": true,
+  "notes": [
+    "Supplier Face Width 45 mm is reference only. Lip = item width − rebate width = 45 mm; floor thickness = item depth − rebate depth = 10 mm.",
+    "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+    "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+    "Method: dimension-plus-feature. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "traceEvidence": {
+    "family": "CT-23",
+    "reference": "MLDA2961",
+    "source": "generated-artifacts/canvas-labelled-corrections/CT-23/source.png",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/513287000_2.jpg",
+    "sourceSha256": "0a916947c19f0620f1f7b465f0160066a2d231c0dbd951a61f18f51ff3af880e",
+    "threshold": [
+      180,
+      155,
+      105,
+      18,
+      100
+    ],
+    "barEvidence": {
+      "X": {
+        "endTicks": [
+          96,
+          683
+        ],
+        "coordinate": 47,
+        "lengthPx": 587,
+        "labelMm": 51,
+        "pxPerMm": 11.509803921568627
+      },
+      "Y": {
+        "endTicks": [
+          67,
+          872
+        ],
+        "coordinate": 71,
+        "lengthPx": 805,
+        "labelMm": 70,
+        "pxPerMm": 11.5
+      }
+    },
+    "labels": [
+      {
+        "feature": "Overall height (photo X)",
+        "labelledMm": 51,
+        "measuredMm": 48.567291259765625,
+        "residualMm": -2.432708740234375,
+        "measurementEndpointsMm": [
+          [
+            0,
+            0.10677826404571533
+          ],
+          [
+            48.567291259765625,
+            0.10677826404571533
+          ]
+        ],
+        "association": "CT-23: top horizontal bar spans back-to-front overall height, including rounded/finished outer boundary; cut-face envelope is the measured proxy, no forced +2mm correction.",
+        "passHalfMm": false
+      },
+      {
+        "feature": "Profile width (photo Y)",
+        "labelledMm": 70,
+        "measuredMm": 69.63234984874725,
+        "residualMm": -0.3676501512527466,
+        "measurementEndpointsMm": [
+          [
+            0,
+            0.10677826404571533
+          ],
+          [
+            0,
+            69.73912811279297
+          ]
+        ],
+        "association": "CT-23: left vertical bar spans full profile width, from outer lip top to bottom of floor.",
+        "passHalfMm": true
+      },
+      {
+        "feature": "Lip width",
+        "labelledMm": 45,
+        "measuredMm": 43.893221735954285,
+        "residualMm": -1.1067782640457153,
+        "measurementEndpointsMm": [
+          [
+            48.567291259765625,
+            0.10677826404571533
+          ],
+          [
+            48.567291259765625,
+            44
+          ]
+        ],
+        "association": "CT-23: upper inside label/dotted vertical measures lip width, from outer top datum to the ledge.",
+        "passHalfMm": false
+      },
+      {
+        "feature": "Internal canvas depth",
+        "labelledMm": 41,
+        "measuredMm": 40.642512879458494,
+        "residualMm": -0.35748712054150644,
+        "measurementEndpointsMm": [
+          [
+            7.01623260974884,
+            44
+          ],
+          [
+            47.658745489207334,
+            44
+          ]
+        ],
+        "association": "CT-23: horizontal label sits inside the recess, starting at the inner back wall and ending at the canvas-front boundary; measure internal horizontal span, not overall X. Inner wall datum projected to the ledge; rounded-corner trim is not subtracted from the label. Front boundary intersected at ledge height (endpoint extrapolation <=0.65mm).",
+        "passHalfMm": true
+      },
+      {
+        "feature": "Floor width (photo Y)",
+        "labelledMm": 25,
+        "measuredMm": 25.73912811279297,
+        "residualMm": 0.7391281127929688,
+        "measurementEndpointsMm": [
+          [
+            0,
+            44
+          ],
+          [
+            0,
+            69.73912811279297
+          ]
+        ],
+        "association": "CT-23: lower vertical label beside inner wall measures floor width from ledge to bottom; not the horizontal recess span.",
+        "passHalfMm": false
+      }
+    ],
+    "outlineMm": [
+      [
+        48.48040962219238,
+        0.19396913051605225
+      ],
+      [
+        0.021720612421631813,
+        0.10677826404571533
+      ],
+      [
+        0.26064734905958176,
+        18.86507797241211
+      ],
+      [
+        0.8688245415687561,
+        19.02235984802246
+      ],
+      [
+        0.8688245415687561,
+        19.623430252075195
+      ],
+      [
+        0.17545202374458313,
+        20.730932235717773
+      ],
+      [
+        0.1737648993730545,
+        26.374731063842773
+      ],
+      [
+        0.8052800893783569,
+        26.458141326904297
+      ],
+      [
+        0.8688245415687561,
+        27.03290367126465
+      ],
+      [
+        0.13032367825508118,
+        27.277069091796875
+      ],
+      [
+        0.1737648993730545,
+        39.751853942871094
+      ],
+      [
+        0.9557070136070251,
+        39.92243194580078
+      ],
+      [
+        0.9557070136070251,
+        41.12457275390625
+      ],
+      [
+        0.23506412655115128,
+        41.21739196777344
+      ],
+      [
+        0.5212947130203247,
+        45.309505462646484
+      ],
+      [
+        0.1299128420650959,
+        45.52708053588867
+      ],
+      [
+        0,
+        69.01754760742188
+      ],
+      [
+        0.31591999530792236,
+        69.3043441772461
+      ],
+      [
+        3.5412070751190186,
+        69.73912811279297
+      ],
+      [
+        6.5350775718688965,
+        69.60869598388672
+      ],
+      [
+        7.080920040607452,
+        69.30137634277344
+      ],
+      [
+        7.124361038208008,
+        57.545433044433594
+      ],
+      [
+        7.385008335113525,
+        57.30398941040039
+      ],
+      [
+        6.994037628173828,
+        53.85337829589844
+      ],
+      [
+        7.0384275913238525,
+        44.69565200805664
+      ],
+      [
+        7.616016387939453,
+        44.75294494628906
+      ],
+      [
+        7.669260025024414,
+        45.21739196777344
+      ],
+      [
+        9.062102317810059,
+        45.30434799194336
+      ],
+      [
+        9.639554977416992,
+        45.130435943603516
+      ],
+      [
+        9.705697059631348,
+        44.490840911865234
+      ],
+      [
+        13.189460754394531,
+        44.490840911865234
+      ],
+      [
+        13.520919799804688,
+        44
+      ],
+      [
+        25.804088592529297,
+        44.0826473236084
+      ],
+      [
+        25.916053771972656,
+        43.65217208862305
+      ],
+      [
+        27.371152877807617,
+        44
+      ],
+      [
+        30.47314453125,
+        44
+      ],
+      [
+        30.942476272583008,
+        43.565216064453125
+      ],
+      [
+        31.597061157226562,
+        43.91304397583008
+      ],
+      [
+        32.75196838378906,
+        43.565216064453125
+      ],
+      [
+        34.82232666015625,
+        44
+      ],
+      [
+        35.012630462646484,
+        43.782609939575195
+      ],
+      [
+        42.24223327636719,
+        43.826087951660156
+      ],
+      [
+        48.03245544433594,
+        43.40485763549805
+      ],
+      [
+        48.48040771484375,
+        42.69148254394531
+      ],
+      [
+        48.48040771484375,
+        30.12718963623047
+      ],
+      [
+        48.132877349853516,
+        28.871923446655273
+      ],
+      [
+        48.436967849731445,
+        28.53041648864746
+      ],
+      [
+        48.436967849731445,
+        25.664520263671875
+      ],
+      [
+        48.045997619628906,
+        25.54769515991211
+      ],
+      [
+        48.045997619628906,
+        24.647117614746094
+      ],
+      [
+        48.48040771484375,
+        24.128267288208008
+      ],
+      [
+        48.567291259765625,
+        22.162948608398438
+      ],
+      [
+        48.48040771484375,
+        21.398399353027344
+      ],
+      [
+        48.045997619628906,
+        21.281574249267578
+      ],
+      [
+        48.045997619628906,
+        19.052030563354492
+      ],
+      [
+        48.52384948730469,
+        18.835140228271484
+      ]
+    ],
+    "originPx": [
+      102,
+      69
+    ],
+    "angles": [
+      {
+        "lengthMm": 8.253832817077637,
+        "angleDeg": 180
+      },
+      {
+        "lengthMm": 3.6521739959716797,
+        "angleDeg": 90
+      },
+      {
+        "lengthMm": 15.217391967773438,
+        "angleDeg": 90
+      },
+      {
+        "lengthMm": 6.34782600402832,
+        "angleDeg": 90
+      },
+      {
+        "lengthMm": 8.347824096679688,
+        "angleDeg": 90
+      },
+      {
+        "lengthMm": 2.1156943086929263,
+        "angleDeg": 80.54559027704065
+      },
+      {
+        "lengthMm": 2.180849472067824,
+        "angleDeg": 94.57003567181596
+      },
+      {
+        "lengthMm": 4.881949515380335,
+        "angleDeg": 85.91785055038031
+      },
+      {
+        "lengthMm": 23.56521987915039,
+        "angleDeg": 90
+      },
+      {
+        "lengthMm": 2.4466555105429917,
+        "angleDeg": 6.1206079236428765
+      },
+      {
+        "lengthMm": 3.562180519104004,
+        "angleDeg": 0
+      },
+      {
+        "lengthMm": 9.565216064453125,
+        "angleDeg": -90
+      },
+      {
+        "lengthMm": 2.5455744502718938,
+        "angleDeg": -82.15329887846784
+      },
+      {
+        "lengthMm": 3.6779171759147102,
+        "angleDeg": -96.78324499404783
+      },
+      {
+        "lengthMm": 5.6521759033203125,
+        "angleDeg": -90
+      },
+      {
+        "lengthMm": 2.352263481133471,
+        "angleDeg": 4.239970064297045
+      },
+      {
+        "lengthMm": 3.045854988538134,
+        "angleDeg": 3.2732512440386516
+      },
+      {
+        "lengthMm": 7.732537269592285,
+        "angleDeg": 0
+      },
+      {
+        "lengthMm": 4.604770660400391,
+        "angleDeg": 0
+      },
+      {
+        "lengthMm": 4.617888813171784,
+        "angleDeg": 4.319715047156608
+      },
+      {
+        "lengthMm": 2.6424862227783117,
+        "angleDeg": 9.470276929615316
+      },
+      {
+        "lengthMm": 7.385009765625,
+        "angleDeg": 0
+      },
+      {
+        "lengthMm": 5.74757738015446,
+        "angleDeg": -3.9038246515437587
+      },
+      {
+        "lengthMm": 12.608695983886719,
+        "angleDeg": -90
+      },
+      {
+        "lengthMm": 3.841837031039402,
+        "angleDeg": -84.80996203976859
+      },
+      {
+        "lengthMm": 2.701246888022745,
+        "angleDeg": -93.6882968331324
+      },
+      {
+        "lengthMm": 8.521739959716797,
+        "angleDeg": -90
+      },
+      {
+        "lengthMm": 5.315719950287456,
+        "angleDeg": -86.2514718491329
+      },
+      {
+        "lengthMm": 4,
+        "angleDeg": -90
+      },
+      {
+        "lengthMm": 40.226576805114746,
+        "angleDeg": 180
+      }
+    ],
+    "allLabelsCertified": false,
+    "withinHalfMm": false,
+    "withinOneMm": false,
+    "status": "FLAGGED",
+    "sam2": {
+      "method": "automatic",
+      "iou": 0.9838576413752435,
+      "status": "PASS",
+      "threshold": 0.97,
+      "selectedMask": "mask-0000.png",
+      "selection": "Positive/negative seed filtering after automatic generation, followed by reference v3 largest connected component; NOT point-prompted inference",
+      "provenance": {
+        "version": "fe97b453a6455861e3bac769b441ca1f1086110da7466dbb65cf1eecfd60dc83",
+        "settings": {
+          "points_per_side": 32,
+          "pred_iou_thresh": 0.88,
+          "stability_score_thresh": 0.95,
+          "use_m2m": true
+        },
+        "method": "automatic",
+        "sourceSha256": "0a916947c19f0620f1f7b465f0160066a2d231c0dbd951a61f18f51ff3af880e"
+      }
+    },
+    "smoothing": "0.25mm polygon tolerance retains short curved arcs; long edges within 3 degrees snapped; no global smoothing",
+    "overlay": "generated-artifacts/canvas-colour-tracing/CT-23/overlay.png",
+    "outlineChecks": {
+      "passed": false,
+      "errors": [
+        "Short edge 39: 0.289 mm; not a demonstrated rounded run"
+      ],
+      "roundedShortEdges": [],
+      "fixes": [
+        "3px morphological opening removes thin whiskers",
+        "Reference v3 remove_excursions on two open contour arcs (never a closed loop)",
+        "0.15mm polygon simplification; no rebate reconstruction or label rescaling",
+        "Collapsed 37 micro-edges, local deviation <=0.15mm and cumulative <=0.3mm; topology checked independently"
+      ]
+    },
+    "readyForApproval": false,
+    "finishBoundaryReview": "Rectangular cut face meets mottled longitudinal finish; no independently bounded thick coplanar cap established."
+  },
+  "checksum": "f4fc5d88b2a4934f09a102b9bbcba1a5c8d0920da285a3d03f118e1fb600eab0",
+  "dimensionOverlayUrl": "/api/canvas-tray-review/assets/CT-23-dc694a23f679063f-drawing.png",
+  "drawing": {
+    "family": "CT-23",
+    "mode": "dimension-plus-feature",
+    "source": "Larson-Juhl product-page dimensions",
+    "sourceUrl": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+    "referenceFaceWidthMm": 45,
+    "radiusMm": 1,
+    "feature": {
+      "description": "Slightly sloping rear/bottom edge; feature identification provisional",
+      "sizeMm": {
+        "rise": 0.435,
+        "run": 7.211
+      },
+      "landmarksPx": [
+        [
+          103,
+          870
+        ],
+        [
+          186,
+          875
+        ]
+      ],
+      "advisory": true
+    },
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 51,
+        "drawn": 51
+      },
+      {
+        "name": "Profile width",
+        "printed": 70,
+        "drawn": 70
+      },
+      {
+        "name": "Lip width",
+        "printed": 45,
+        "drawn": 45
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 41,
+        "drawn": 41
+      },
+      {
+        "name": "Floor width",
+        "printed": 25,
+        "drawn": 25
+      }
+    ],
+    "warnings": [
+      "Supplier Face Width 45 mm is reference only. Lip = item width − rebate width = 45 mm; floor thickness = item depth − rebate depth = 10 mm.",
+      "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+      "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        50,
+        0
+      ],
+      [
+        50.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        50.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        51,
+        1
+      ],
+      [
+        51,
+        44
+      ],
+      [
+        50.8888888888889,
+        44.55555555555556
+      ],
+      [
+        50.55555555555556,
+        44.888888888888886
+      ],
+      [
+        50,
+        45
+      ],
+      [
+        10,
+        45
+      ],
+      [
+        10,
+        70
+      ],
+      [
+        0,
+        69.56521739130434
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA2961",
+        "code": "513287000",
+        "at": "2026-10-29T15:07:57.857Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+        "pageSha256": "d7bb8f551e45e0cce95b95de3db0de93f2ba70265fa5f3b748042d8b30c16c14",
+        "fields": {
+          "Item Width": 70,
+          "Item Depth": 51,
+          "Rebate Depth": 41,
+          "Rebate Width": 25,
+          "Face Width": 45
+        },
+        "derived": {
+          "lipMm": 45,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "ownerDecision": null,
+  "approvalChanged": false,
+  "multiview": {
+    "family": "CT-23",
+    "reference": "MLDA2961",
+    "profileChecksum": "2ccf33d9b37b1362c30b4568ac0f925c97ee75193de250b5498dc5bbe4b2347d",
+    "views": [
+      {
+        "view": 1,
+        "source": "https://larsonjuhl.co.uk/product/image/large/513287000_1.jpg",
+        "sourceSha256": "8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3",
+        "checkpointSha256": "7402e0d864fa82708a20fbd15bc84245c2f26dff0eb43a4b5b93452deb34be69",
+        "method": "SAM2.1 tiny, joint single-image positive/negative prompts; no rebate reconstruction",
+        "directory": "generated-artifacts/canvas-multiview/CT-23/view-0-1",
+        "status": "MASK_READY",
+        "positive": [
+          [
+            434,
+            838
+          ],
+          [
+            580,
+            962
+          ]
+        ],
+        "negative": [
+          [
+            590,
+            745
+          ],
+          [
+            434,
+            621
+          ],
+          [
+            31,
+            31
+          ],
+          [
+            962,
+            962
+          ]
+        ],
+        "modelScore": 0.9600129127502441,
+        "maskPixels": 45198,
+        "overlayFile": "generated-artifacts/canvas-multiview/CT-23/view-0-1/overlay.png",
+        "calibration": "Provisional affine from three inspected cut-plane corners; H/W fitted, not independent validation",
+        "correspondencePixels": [
+          [
+            351,
+            977
+          ],
+          [
+            659,
+            976
+          ],
+          [
+            351,
+            770
+          ]
+        ],
+        "correspondenceMm": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            70
+          ],
+          [
+            51,
+            0
+          ]
+        ],
+        "transform": [
+          [
+            -0.004799548277809227,
+            -1.4782608695652175,
+            1455.9455110107285
+          ],
+          [
+            1.3636363636363635,
+            0,
+            -468.6363636363635
+          ]
+        ],
+        "rectifiedFile": "generated-artifacts/canvas-multiview/CT-23/view-0-1/rectified.png",
+        "pixelsPerMm": 6,
+        "residuals": {
+          "canvasDepth": 3.3333333333333357,
+          "lip": -0.5,
+          "floor": 0.5
+        },
+        "residualCaveat": "Inner-wall/lip scan-line checks are provisional for sculpted sections. Fitted overall dimensions are not validation.",
+        "meanCrossViewIoU": 0.9158259931566528,
+        "overlayUrl": "/api/canvas-tray-review/assets/multiview-34a81338815ef98976e1a6be85f2dc601f072585df06bb8385b7f68bf2946947.png"
+      },
+      {
+        "view": 2,
+        "source": "https://larsonjuhl.co.uk/product/image/large/513287000_2.jpg",
+        "sourceSha256": "66711116650967eb37ac0bca4a240e9b804f06cc241fcabb833425b5ea41b290",
+        "checkpointSha256": "7402e0d864fa82708a20fbd15bc84245c2f26dff0eb43a4b5b93452deb34be69",
+        "method": "SAM2.1 tiny, joint single-image positive/negative prompts; no rebate reconstruction",
+        "directory": "generated-artifacts/canvas-multiview/CT-23/view-1-2",
+        "status": "MASK_READY",
+        "positive": [
+          [
+            119,
+            308
+          ],
+          [
+            119,
+            646
+          ],
+          [
+            301,
+            99
+          ]
+        ],
+        "negative": [
+          [
+            942,
+            524
+          ],
+          [
+            983,
+            57
+          ],
+          [
+            25,
+            667
+          ],
+          [
+            409,
+            10
+          ],
+          [
+            870,
+            476
+          ]
+        ],
+        "modelScore": 0.9522809982299805,
+        "maskPixels": 297601,
+        "overlayFile": "generated-artifacts/canvas-multiview/CT-23/view-1-2/overlay.png",
+        "calibration": "Independent printed dimension-bar scales; no mask-fit resizing",
+        "transform": [
+          [
+            0.5212947189097104,
+            0,
+            -43.17206132879046
+          ],
+          [
+            0,
+            0.5217391304347826,
+            -26
+          ]
+        ],
+        "rectifiedFile": "generated-artifacts/canvas-multiview/CT-23/view-1-2/rectified.png",
+        "pixelsPerMm": 6,
+        "residuals": {
+          "canvasDepth": 3,
+          "lip": -1,
+          "floor": 1
+        },
+        "residualCaveat": "Inner-wall/lip scan-line checks are provisional for sculpted sections. Fitted overall dimensions are not validation.",
+        "meanCrossViewIoU": 0.8850448610777479,
+        "overlayUrl": "/api/canvas-tray-review/assets/multiview-8ff1a9b3845ee147ed6f7d7cd04dd70c8b09276bf3471461b37a2b94c93b2216.png"
+      },
+      {
+        "view": 4,
+        "source": "https://larsonjuhl.co.uk/product/image/large/513287000_4.jpg",
+        "sourceSha256": "a7454b3e561c6b0c19b7ee85bee7a26efb9c3f781ab15b0574e5eb5fe2ead79d",
+        "checkpointSha256": "7402e0d864fa82708a20fbd15bc84245c2f26dff0eb43a4b5b93452deb34be69",
+        "method": "SAM2.1 tiny, joint single-image positive/negative prompts; no rebate reconstruction",
+        "directory": "generated-artifacts/canvas-multiview/CT-23/view-2-4",
+        "status": "MASK_READY",
+        "positive": [
+          [
+            137,
+            704
+          ],
+          [
+            208,
+            869
+          ]
+        ],
+        "negative": [
+          [
+            372,
+            621
+          ],
+          [
+            528,
+            341
+          ],
+          [
+            31,
+            31
+          ],
+          [
+            962,
+            962
+          ]
+        ],
+        "modelScore": 0.9573635458946228,
+        "maskPixels": 54973,
+        "overlayFile": "generated-artifacts/canvas-multiview/CT-23/view-2-4/overlay.png",
+        "calibration": "Provisional affine from three inspected cut-plane corners; H/W fitted, not independent validation",
+        "correspondencePixels": [
+          [
+            5,
+            693
+          ],
+          [
+            245,
+            924
+          ],
+          [
+            170,
+            528
+          ]
+        ],
+        "correspondenceMm": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            70
+          ],
+          [
+            51,
+            0
+          ]
+        ],
+        "transform": [
+          [
+            0.9095541401273879,
+            -0.9449913144180659,
+            660.3312101910828
+          ],
+          [
+            0.89171974522293,
+            0.89171974522293,
+            -612.4203821656051
+          ]
+        ],
+        "rectifiedFile": "generated-artifacts/canvas-multiview/CT-23/view-2-4/rectified.png",
+        "pixelsPerMm": 6,
+        "residuals": {
+          "canvasDepth": 3.5,
+          "lip": -0.5,
+          "floor": 0.5
+        },
+        "residualCaveat": "Inner-wall/lip scan-line checks are provisional for sculpted sections. Fitted overall dimensions are not validation.",
+        "meanCrossViewIoU": 0.9143968150875177,
+        "overlayUrl": "/api/canvas-tray-review/assets/multiview-20b47501a49ad48bd732146854a9c619c065a0cdb4d124c5eacf30608f813f0a.png"
+      }
+    ],
+    "approval": "UNAPPROVED CROSS-CHECK ONLY",
+    "comparisons": [
+      {
+        "views": [
+          1,
+          2
+        ],
+        "iou": 0.886474039146883
+      },
+      {
+        "views": [
+          1,
+          4
+        ],
+        "iou": 0.9451779471664226
+      },
+      {
+        "views": [
+          2,
+          4
+        ],
+        "iou": 0.8836156830086129
+      }
+    ],
+    "bestView": 1,
+    "bestOverlayFile": "generated-artifacts/canvas-multiview/CT-23/view-0-1/overlay.png",
+    "bestReason": "Highest mean agreement with other provisionally rectified views; not ground-truth IoU or approval.",
+    "bestOverlayUrl": "/api/canvas-tray-review/assets/multiview-34a81338815ef98976e1a6be85f2dc601f072585df06bb8385b7f68bf2946947.png"
+  }
+}

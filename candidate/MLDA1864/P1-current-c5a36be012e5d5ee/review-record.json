@@ -1,0 +1,200 @@
+{
+  "family": "CT-17",
+  "reference": "MLDA1864-owner-d6e01365745a",
+  "title": "MLDA1864 · paint finish candidate",
+  "approvalChecksum": "d6e01365745a1a9d368cf208b77b743b9448436642b7d39b7f3362a37f354b65",
+  "approvalAt": "2026-10-29T14:21:00.806Z",
+  "warnings": [
+    "Material-only development candidate; geometry, colour images, pine and hangers preserved.",
+    "Previous appearance approval belongs to archived files. New finish and native-phone appearance need Philip."
+  ],
+  "variants": [
+    {
+      "id": "MLDA1864-400x500-owner-d6e01365745a",
+      "widthMm": 400,
+      "heightMm": 500,
+      "artwork": false,
+      "glbUrl": "/api/canvas-tray-review/assets/owner-70f65d5c02c3a64585ba46de5f13831325fb5853c3a3c96101919b854ccad891.glb",
+      "usdzUrl": "/api/canvas-tray-review/assets/owner-e2df247dd2f00693be2403a89d0bb7b80b1f6b3e94bbbaa25509d39b789ba1cb.usdz",
+      "closeups": [],
+      "albedoAudit": {
+        "materialCount": 1,
+        "baseColourTextureCount": 1,
+        "textureSha256": "5894e18c01a0813beae288000aef06d41f043645ac8ea5a7c937b480613b72ac",
+        "factor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "meanRgb": [
+          239.85226911731337,
+          236.4174624785244,
+          231.63364776816104
+        ],
+        "identicalTextureMeans": true,
+        "primitiveCount": 1,
+        "meanInterpretation": "Global shared albedo-image mean; rendered means differ legitimately with lighting and UV grain samples.",
+        "faces": [
+          {
+            "component": "Approved profile",
+            "rail": 0,
+            "face": "shared section",
+            "meanRgb": [
+              239.85226911731337,
+              236.4174624785244,
+              231.63364776816104
+            ],
+            "uOffset": 0.5494752679951489
+          },
+          {
+            "component": "Approved profile",
+            "rail": 1,
+            "face": "shared section",
+            "meanRgb": [
+              239.85226911731337,
+              236.4174624785244,
+              231.63364776816104
+            ],
+            "uOffset": 0.4734139055944979
+          },
+          {
+            "component": "Approved profile",
+            "rail": 2,
+            "face": "shared section",
+            "meanRgb": [
+              239.85226911731337,
+              236.4174624785244,
+              231.63364776816104
+            ],
+            "uOffset": 0.8505818522535264
+          },
+          {
+            "component": "Approved profile",
+            "rail": 3,
+            "face": "shared section",
+            "meanRgb": [
+              239.85226911731337,
+              236.4174624785244,
+              231.63364776816104
+            ],
+            "uOffset": 0.6994039821438491
+          }
+        ]
+      },
+      "finishEvidence": {
+        "materialIndex": 0,
+        "preset": {
+          "name": "paint",
+          "metallic": 0,
+          "roughness": 0.65,
+          "clearcoat": 0,
+          "clearcoatRoughness": 0,
+          "normalKind": "preserved-micrograin",
+          "mappingNote": null
+        },
+        "source": {
+          "supplier": "Larson-Juhl",
+          "field": "Finish",
+          "value": "Paint",
+          "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-verdi-float-moulding-913048?returnurl=%2fsearch%3fq%3d913048",
+          "pageSha256": "c03fc8cdab4addefaa909d27a385bd3429120397b22dd1136cf80acfbb84af47"
+        },
+        "normal": {
+          "kind": "preserved-micrograin"
+        },
+        "preservation": {
+          "originalBinaryPrefixSha256": "903b29d4cff52a527b32661aa1618722a55e4a4c460e08e307a53b24d6d83a79",
+          "geometryAndHierarchyExact": true,
+          "existingImageBytesExact": true,
+          "hardwareMaterialsExact": true,
+          "singleTrayMaterial": true
+        },
+        "oldGlbSha256": "82415b55f02c6c3cfd9926d5d1c8e50bbac740001ad2a4ccf8f750ef9331347f",
+        "newGlbSha256": "70f65d5c02c3a64585ba46de5f13831325fb5853c3a3c96101919b854ccad891",
+        "usdReadback": {
+          "status": "PASS",
+          "values": {
+            "metallic": 0,
+            "roughness": 0.6499999761581421,
+            "clearcoat": 0,
+            "clearcoatRoughness": 0
+          },
+          "textures": {
+            "albedo": {
+              "file": "textures/image_0.jpg",
+              "sha256": "5894e18c01a0813beae288000aef06d41f043645ac8ea5a7c937b480613b72ac",
+              "matchesGLB": true
+            },
+            "normal": {
+              "file": "textures/image_1.jpg",
+              "sha256": "bd23f761dd7a5fb9e1bbb47c68aa80ceb3d1e24859d886eebf9fc8d4275a21a6",
+              "matchesGLB": true,
+              "scale": [
+                0.30000001192092896,
+                0.30000001192092896,
+                2,
+                1
+              ],
+              "bias": [
+                -0.15000000596046448,
+                -0.15000000596046448,
+                -1,
+                0
+              ]
+            }
+          },
+          "geometryAndUvsExact": true,
+          "meshCount": 7,
+          "coatNormal": "Not applicable",
+          "nativePhoneAppearance": "NEEDS PHILIP"
+        },
+        "sourceResolution": {
+          "pxPerMm": 4.866666666666666,
+          "threshold": 2.5,
+          "flagged": false,
+          "alternative": null
+        }
+      },
+      "evidenceAudit": {
+        "calibration": {
+          "face": "front lip",
+          "pixelEndpoints": [
+            [
+              394,
+              400
+            ],
+            [
+              540,
+              400
+            ]
+          ],
+          "measuredPixels": 146,
+          "knownWidthMm": 30,
+          "pxPerMm": 4.866666666666666,
+          "dimensionSource": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-verdi-float-moulding-913048?returnurl=%2fsearch%3fq%3d913048",
+          "method": "Owner-authorised square-on assumption; transverse scale also used along grain",
+          "landmarkUncertaintyPixels": 3,
+          "status": "ADVISORY_PHOTO_LANDMARKS",
+          "geometryUnchanged": true
+        },
+        "upscaleFactor": 1,
+        "repeatAlongMm": 650.1369863013699,
+        "pxPerMm": 4.866666666666666,
+        "faces": [],
+        "arkit": {
+          "status": "PASS"
+        }
+      }
+    }
+  ],
+  "chevronPhoto": {
+    "url": "/api/canvas-tray-review/assets/f60ea8fb1d08a418a86d3f2a9675f4290664a2a8bd6ece6b1a162814691c1021.jpg",
+    "sourceUrl": "https://larsonjuhl.co.uk/product/image/large/913048_4.jpg",
+    "reference": "MLDA1864",
+    "supplierCode": "913048"
+  },
+  "modelChecksum": "c5a36be012e5d5eeb624a638f20a2fd9b84171e5405c91dd3d1b4d09f0be549e",
+  "modelApproval": null,
+  "modelApprovalChanged": false
+}
