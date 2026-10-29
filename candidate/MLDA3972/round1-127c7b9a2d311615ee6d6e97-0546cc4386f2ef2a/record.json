@@ -1,0 +1,378 @@
+{
+  "generatedAt": "2026-10-29T18:09:05.660118+00:00",
+  "version": "round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a",
+  "eframeCode": "MLDA3972",
+  "family": "CT-12",
+  "ljCode": "631140000",
+  "name": "MLDA3972 \u00b7 metallic \u00b7 appearance correction",
+  "liveOnShopify": null,
+  "finish": {
+    "ljFinish": "Foil",
+    "appearance": {
+      "colour": "Gold",
+      "collection": "Foiled Float",
+      "metallicReason": "Metallic attribute 'gold' in Colour/name; Colour=\"Gold\", collection=\"Foiled Float\", Finish=\"Foil\"",
+      "colourReason": "Owner-directed round-one base [212, 146, 39] sRGB; antique own-photo variation retained where specified."
+    },
+    "metallic": 1,
+    "preset": "metallic",
+    "roughness": 0.35,
+    "clearcoat": 0,
+    "clearcoatRoughness": 0,
+    "colourMode": null,
+    "baseColorFactorLinear": [
+      0.6583748172794485,
+      0.2874408377269175,
+      0.020288563056652397,
+      1
+    ],
+    "actualColourRepresentation": "clean-metal-colour",
+    "normalStrength": 1,
+    "reviewBaseSrgb": [
+      212,
+      146,
+      39
+    ]
+  },
+  "dimensionsMm": {
+    "itemWidth": 38,
+    "itemDepth": 50,
+    "rebateDepth": 40,
+    "rebateWidth": 24,
+    "faceWidth": null,
+    "faceWidthUse": "reference only",
+    "lipDerived": 14,
+    "floorThicknessDerived": 10
+  },
+  "profile": {
+    "method": "drawn-from-dimensions",
+    "originalMethod": "dimension-drawn",
+    "approved": true,
+    "approvedAt": "2026-10-29T15:26:23.482Z",
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        49,
+        0
+      ],
+      [
+        49.555555555555564,
+        0.1111111111111111
+      ],
+      [
+        49.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        50,
+        1
+      ],
+      [
+        50,
+        13
+      ],
+      [
+        49.88888888888889,
+        13.555555555555555
+      ],
+      [
+        49.55555555555556,
+        13.88888888888889
+      ],
+      [
+        49,
+        14
+      ],
+      [
+        10,
+        14
+      ],
+      [
+        10,
+        38
+      ],
+      [
+        0,
+        38
+      ]
+    ],
+    "drawingPng": "profiles/CT-12/68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02/dimensionOverlayUrl.png",
+    "record": "profiles/CT-12/68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02/profile.json",
+    "checksum": "68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02",
+    "fittedTargets": null,
+    "recordedDrawingDimensions": [
+      {
+        "name": "Overall height",
+        "printed": 50,
+        "drawn": 50
+      },
+      {
+        "name": "Profile width",
+        "printed": 38,
+        "drawn": 38
+      },
+      {
+        "name": "Lip width",
+        "printed": 14,
+        "drawn": 14
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 40,
+        "drawn": 40
+      },
+      {
+        "name": "Floor width",
+        "printed": 24,
+        "drawn": 24
+      }
+    ],
+    "measuredContours": null
+  },
+  "model": {
+    "status": "candidate",
+    "approvedAt": null,
+    "approvalAppliesTo": null,
+    "glbDraco": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/delivery.glb",
+    "deliveryCompression": "Draco",
+    "glbUncompressed": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/decoded-from-delivery.glb",
+    "uncompressedProvenance": "decoded from delivery; not a canonical source; prior quantisation is not reversed",
+    "usdz": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/delivery.usdz",
+    "sizes": [
+      {
+        "canvasWidth": 400,
+        "canvasHeight": 500,
+        "units": "mm"
+      }
+    ],
+    "sceneUnits": "metres",
+    "variantId": "MLDA3972-400x500-completion"
+  },
+  "texture": {
+    "albedo": [],
+    "normal": [
+      {
+        "path": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/textures/baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c.png",
+        "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+        "material": "Tray shared albedo",
+        "role": "normal",
+        "textureInfo": {
+          "index": 5,
+          "scale": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "scale": [
+                40.625,
+                5.0304878048780495
+              ]
+            }
+          }
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      }
+    ],
+    "allMaterialTextures": [
+      {
+        "path": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/textures/baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c.png",
+        "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+        "material": "Tray shared albedo",
+        "role": "normal",
+        "textureInfo": {
+          "index": 5,
+          "scale": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "scale": [
+                40.625,
+                5.0304878048780495
+              ]
+            }
+          }
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      },
+      {
+        "path": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/textures/0afdb1277a9121ac5b4636177ca2b90501d54f623b6a588e9a9449f1648e7ab9.jpg",
+        "sha256": "0afdb1277a9121ac5b4636177ca2b90501d54f623b6a588e9a9449f1648e7ab9",
+        "material": "Canvas stretcher timber",
+        "role": "albedo",
+        "textureInfo": {
+          "index": 2
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      },
+      {
+        "path": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/textures/c335d8f6a053c94ac6871e4168bf4904bce47ffcf63fa99dec51f55a631713bb.jpg",
+        "sha256": "c335d8f6a053c94ac6871e4168bf4904bce47ffcf63fa99dec51f55a631713bb",
+        "material": "Canvas stretcher end grain",
+        "role": "albedo",
+        "textureInfo": {
+          "index": 3
+        },
+        "provenance": "Exact delivered image bytes; own-photo albedo correction or preserved supporting/normal image"
+      }
+    ],
+    "sourceImage": null,
+    "calibration": {
+      "face": "outer side",
+      "pixels": 164,
+      "mm": 50,
+      "pxPerMm": 3.28,
+      "status": "advisory photo calibration, not independent measurement"
+    },
+    "upscaleFactor": 1,
+    "repeatMm": {
+      "along": 650,
+      "across": null
+    }
+  },
+  "supplierImages": {
+    "shortLength": "sources/MLDA3972/86a8b8df5786b1a14f1644f6586c1d12280c3e82184378a7293d4a796453a7e7-631140000_1.jpg",
+    "chevron": "sources/MLDA3972/c09611d5798d0eec2f05f7f13d073dc6a9879d7325ba6ca2fb5f09d87fb851d9-631140000_4.jpg",
+    "section": "sources/MLDA3972/158cec1a2198063f6578d4e4f9bcd471ec42f1184b162d5de5a46e4b60f0fa46-631140000_2.jpg",
+    "ljViews": [
+      {
+        "path": "sources/MLDA3972/86a8b8df5786b1a14f1644f6586c1d12280c3e82184378a7293d4a796453a7e7-631140000_1.jpg",
+        "sha256": "86a8b8df5786b1a14f1644f6586c1d12280c3e82184378a7293d4a796453a7e7",
+        "view": "straight/face candidate",
+        "downloadedWidth": 1024,
+        "downloadedHeight": 1024,
+        "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/631140000_1.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA3972/158cec1a2198063f6578d4e4f9bcd471ec42f1184b162d5de5a46e4b60f0fa46-631140000_2.jpg",
+        "sha256": "158cec1a2198063f6578d4e4f9bcd471ec42f1184b162d5de5a46e4b60f0fa46",
+        "view": "section/profile candidate",
+        "downloadedWidth": 1024,
+        "downloadedHeight": 594,
+        "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/631140000_2.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      },
+      {
+        "path": "sources/MLDA3972/c09611d5798d0eec2f05f7f13d073dc6a9879d7325ba6ca2fb5f09d87fb851d9-631140000_4.jpg",
+        "sha256": "c09611d5798d0eec2f05f7f13d073dc6a9879d7325ba6ca2fb5f09d87fb851d9",
+        "view": "corner candidate",
+        "downloadedWidth": 1024,
+        "downloadedHeight": 732,
+        "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/631140000_4.jpg",
+        "encoding": "Original downloaded bytes; not re-encoded or resized"
+      }
+    ]
+  },
+  "checks": {
+    "arkit": {
+      "file": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/delivery.usdz",
+      "shaderDiscoveryReady": true,
+      "nativePhone": "NEEDS PHILIP",
+      "errors": [],
+      "failedChecks": [],
+      "warnings": [],
+      "status": "PASS"
+    },
+    "usdzReadback": {
+      "status": "PASS",
+      "values": {
+        "metallic": 1.0,
+        "roughness": 0.3499999940395355,
+        "clearcoat": 0.0,
+        "clearcoatRoughness": 0.0
+      },
+      "textures": {
+        "albedo": {
+          "mode": "flat-colour",
+          "linearRgb": [
+            0.6583748459815979,
+            0.28744083642959595,
+            0.020288562402129173
+          ],
+          "matchesGLB": true
+        },
+        "normal": {
+          "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+          "matchesGLB": true,
+          "scale": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "bias": [
+            -1.0,
+            -1.0,
+            -1.0,
+            0.0
+          ],
+          "uvScale": [
+            40.625,
+            5.030488014221191
+          ],
+          "uvTranslation": [
+            0.0,
+            -4.030488014221191
+          ],
+          "usdzMember": "textures/image_4.png",
+          "extractedRepoPath": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/textures/baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c.png"
+        }
+      },
+      "geometryAndUvsExact": true,
+      "meshCount": 7,
+      "coatNormal": "Not applicable",
+      "nativePhoneAppearance": "NEEDS PHILIP"
+    },
+    "preservation": {
+      "geometryHierarchyAndHardwareExact": true,
+      "originalBinaryPrefixUnchanged": true
+    },
+    "albedo": null,
+    "lineContinuity": null,
+    "nativePhoneAppearance": "NOT TESTED; no visual approval claimed",
+    "decodedCopy": {
+      "status": "PASS",
+      "geometryAttributesExact": true,
+      "indicesExact": true,
+      "nodeTransformsExact": true,
+      "materialFactorsExact": true,
+      "referencedAlbedoNormalBytesExact": true
+    },
+    "visualApproval": "PENDING CLAUDE/PHILIP; no native-device or appearance approval inferred"
+  },
+  "openIssues": [
+    "Own-finish native source; photo calibration is advisory. New appearance approval and native-phone check required.",
+    "Development appearance correction: geometry and hardware unchanged. Requires new appearance approval and native-phone inspection.",
+    "Exact texture-to-source photo lineage not verified for this delivery; own supplier images are included separately.",
+    "Clean declared metal base, not colour-picked. Requested two-value colourMode schema cannot represent this honestly; actualColourRepresentation identifies it."
+  ],
+  "sha256": {
+    "glbDraco": "127c7b9a2d311615ee6d6e978aab575d3f52912ab37c37d35d861dfc52038cdf",
+    "usdz": "0546cc4386f2ef2a49bee8265dc37802909ee57c381edad3d0c7b70a45ef2e7e",
+    "glbUncompressed": "07f97c061f8c8d6a945b7989af5a0f76372e99bc2e8faede6b2f58450904c74b"
+  },
+  "unknownReasons": {
+    "liveOnShopify": "Current Shopify publication state was not queried; no live claim is made.",
+    "finish.colourMode": "Declared clean-metal constant is neither photo-texture nor colour-picked, or original provenance is unavailable; see actualColourRepresentation.",
+    "dimensionsMm.faceWidth": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "profile.fittedTargets": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "profile.measuredContours": "No independent measurement regenerated for this export; outlineMm and recorded dimensions are provided separately.",
+    "model.approvedAt": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "model.approvalAppliesTo": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "texture.sourceImage": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "texture.repeatMm.across": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "checks.albedoStd": "Not recorded or not independently verified for this exact version; no substitute value inferred.",
+    "checks.lineContinuity": "No independent current-version stripe/edge continuity measurement; Claude must inspect renders."
+  },
+  "supersedes": "candidate/MLDA3972/4a340d2358f0a9811bebcdbfc11276faf2b957219243c4e68793c043b7dbf838-1863f87bc4fd1484/record.json",
+  "changeRequest": "Candidate fix round 1",
+  "appearanceApproval": "REQUIRED",
+  "round1Evidence": {
+    "baseSrgb": [
+      212,
+      146,
+      39
+    ],
+    "crop": null
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "generatedAt": "2026-10-29T18:09:05.660118+00:00",
+  "baseCommit": "7188a70d9912f3411cdb6936ad8d54c5092842c9",
+  "newCandidates": [
+    {
+      "code": "MLDA3866",
+      "record": "candidate/MLDA3866/round1-580f92da504eddc643006438-5aaf535c31bf4b83/record.json",
+      "versionPath": "candidate/MLDA3866/round1-580f92da504eddc643006438-5aaf535c31bf4b83",
+      "baseSrgb": [
+        128,
+        87,
+        59
+      ],
+      "roughness": 0.45,
+      "metallic": 1,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": null,
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA3864",
+      "record": "candidate/MLDA3864/round1-9444f6f0a5e07005091d9729-009693e3fce1f5b3/record.json",
+      "versionPath": "candidate/MLDA3864/round1-9444f6f0a5e07005091d9729-009693e3fce1f5b3",
+      "baseSrgb": [
+        155,
+        155,
+        155
+      ],
+      "roughness": 0.45,
+      "metallic": 1,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            154.18162737651667,
+            154.18162737651667,
+            154.18162737651667
+          ],
+          "stdRgb": [
+            1.3831899520529236,
+            1.3831899520529236,
+            1.3831899520529236
+          ],
+          "lowFrequencyVariationPercent": 0.8410693458029617,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 0.9791666666666572,
+        "maxRowMeanStep8bit": 0.2536543422183968,
+        "wrapColumnMeanStep8bit": 0.5486111111110858,
+        "wrapRowMeanStep8bit": 0.24892519346519748,
+        "status": "PASS",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      },
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA3970",
+      "record": "candidate/MLDA3970/round1-f34c73aead2967cb6a282e11-3a4e5f7f1fdb1098/record.json",
+      "versionPath": "candidate/MLDA3970/round1-f34c73aead2967cb6a282e11-3a4e5f7f1fdb1098",
+      "baseSrgb": [
+        115,
+        100,
+        100
+      ],
+      "roughness": 0.35,
+      "metallic": 1,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": null,
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA3972",
+      "record": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/record.json",
+      "versionPath": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a",
+      "baseSrgb": [
+        212,
+        146,
+        39
+      ],
+      "roughness": 0.35,
+      "metallic": 1,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": null,
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA4040",
+      "record": "candidate/MLDA4040/round1-50aa7caf992b517231494196-363b39b17156f3ce/record.json",
+      "versionPath": "candidate/MLDA4040/round1-50aa7caf992b517231494196-363b39b17156f3ce",
+      "baseSrgb": [
+        39.54808156182888,
+        39.25649724547916,
+        50.84124155747144
+      ],
+      "roughness": 0.6,
+      "metallic": 0.0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            39.083456534594916,
+            38.821401615363065,
+            50.2223400199197
+          ],
+          "stdRgb": [
+            7.137173937932762,
+            6.410044711816794,
+            6.170947219161753
+          ],
+          "lowFrequencyVariationPercent": 2.45820991584331,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 2.2696629213483135,
+        "maxRowMeanStep8bit": 1.3666897506925224,
+        "wrapColumnMeanStep8bit": 0.08801498127340324,
+        "wrapRowMeanStep8bit": 0.13469529085872978,
+        "status": "PASS",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      },
+      "initialLineCheck": {
+        "lowFrequency": {
+          "meanRgb": [
+            39.54808156182888,
+            39.25649724547916,
+            50.84124155747144
+          ],
+          "stdRgb": [
+            7.6301480091736735,
+            6.865383016373862,
+            6.538331368337532
+          ],
+          "lowFrequencyVariationPercent": 2.107868482201124,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 4.202247191011239,
+        "maxRowMeanStep8bit": 4.759926131117268,
+        "wrapColumnMeanStep8bit": 0.7471910112359552,
+        "wrapRowMeanStep8bit": 1.3556094182825476,
+        "status": "REVIEW_REQUIRED",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      },
+      "visualAlbedo": "FAIL_VISIBLE_BANDS",
+      "correctionStatus": "UNRESOLVED_AFTER_TWO_ATTEMPTS"
+    },
+    {
+      "code": "MLDA4017",
+      "record": "candidate/MLDA4017/round1-457a82c4143b5fb295682592-21676a7420874ba9/record.json",
+      "versionPath": "candidate/MLDA4017/round1-457a82c4143b5fb295682592-21676a7420874ba9",
+      "baseSrgb": [
+        47.09861734726712,
+        47.93788458587249,
+        61.31553244258749
+      ],
+      "roughness": 0.55,
+      "metallic": 0.0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            47.09861734726712,
+            47.93788458587249,
+            61.31553244258749
+          ],
+          "stdRgb": [
+            2.419165315856958,
+            2.2678649151373014,
+            2.4710598369534282
+          ],
+          "lowFrequencyVariationPercent": 1.6658924360906733,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 2.2194092827004184,
+        "maxRowMeanStep8bit": 1.4865076261243644,
+        "wrapColumnMeanStep8bit": 0.4071729957805914,
+        "wrapRowMeanStep8bit": 0.42667188111067134,
+        "status": "PASS",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      },
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA4019",
+      "record": "candidate/MLDA4019/round1-9d017db508181528f90bc58f-f84262fc2685b7a4/record.json",
+      "versionPath": "candidate/MLDA4019/round1-9d017db508181528f90bc58f-f84262fc2685b7a4",
+      "baseSrgb": [
+        38.59858187610256,
+        37.65505848904722,
+        48.63933067292377
+      ],
+      "roughness": 0.55,
+      "metallic": 0.0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            38.59858187610256,
+            37.65505848904722,
+            48.63933067292377
+          ],
+          "stdRgb": [
+            3.1778444426465815,
+            2.9289961307833208,
+            3.10231629605615
+          ],
+          "lowFrequencyVariationPercent": 2.3703215658829264,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 2.473684210526315,
+        "maxRowMeanStep8bit": 1.9922985139386071,
+        "wrapColumnMeanStep8bit": 1.2087719298245574,
+        "wrapRowMeanStep8bit": 0.16465994142532026,
+        "status": "PASS",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      },
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA4039",
+      "record": "candidate/MLDA4039/round1-f53f3820f416e03c75c065ee-6469bb3b775a0675/record.json",
+      "versionPath": "candidate/MLDA4039/round1-f53f3820f416e03c75c065ee-6469bb3b775a0675",
+      "baseSrgb": [
+        237.9157555133248,
+        235.15776550139213,
+        233.8251221991426
+      ],
+      "roughness": 0.6,
+      "metallic": 0.0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            237.49425199982323,
+            234.70982631369603,
+            233.24088743536484
+          ],
+          "stdRgb": [
+            2.4281557518216803,
+            3.3592289326999523,
+            4.22121781396747
+          ],
+          "lowFrequencyVariationPercent": 1.2516539209601543,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 1.2352941176470722,
+        "maxRowMeanStep8bit": 1.2325068870523523,
+        "wrapColumnMeanStep8bit": 0.1907308377896868,
+        "wrapRowMeanStep8bit": 0.09090909090909349,
+        "status": "PASS",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      },
+      "initialLineCheck": {
+        "lowFrequency": {
+          "meanRgb": [
+            237.9157555133248,
+            235.15776550139213,
+            233.8251221991426
+          ],
+          "stdRgb": [
+            2.750622561856095,
+            3.7215492239328896,
+            4.552235756145696
+          ],
+          "lowFrequencyVariationPercent": 0.9391034608468601,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 1.2388591800356323,
+        "maxRowMeanStep8bit": 1.925730027548184,
+        "wrapColumnMeanStep8bit": 0.44563279857396765,
+        "wrapRowMeanStep8bit": 3.1655096418732853,
+        "status": "REVIEW_REQUIRED",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      }
+    }
+  ],
+  "notCompleted": [
+    {
+      "code": "MLDA1600",
+      "status": "NOT COMPLETED; original candidate unchanged",
+      "reason": "Approved MLDA1599 uses a shared grain texture, not an isolated front-edge distress mask. MLDA1600 front and side UV ranges overlap in the repeating shared texture. A transplanted distress strip would also affect other faces. Exact front-edge-only placement was not established without changing UV/material zoning, so no speculative replacement was exported. Lacquer and coat remain unchanged."
+    },
+    {
+      "code": "MLDA4040",
+      "status": "NEW CANDIDATE EXPORTED, CORRECTION UNRESOLVED",
+      "reason": "Visual inspection of the delivered albedo still shows dark horizontal bands after two correction attempts. Numerical line means pass but do not establish visual cleanliness. Stop retries; unresolved for Claude review."
+    }
+  ],
+  "excluded": [
+    "MLDA2208"
+  ],
+  "notes": [
+    "No approved or unrelated candidate file changed.",
+    "Numeric albedo/line checks do not certify absence of every visible lattice or seam. Claude visual review remains required.",
+    "MLDA4040 and MLDA4039 first line screens failed; second native-pixel correction passed. No third correction attempt.",
+    "Initial preparation encountered a null transverse repeat field; native embedded image dimensions were used on the next successful run.",
+    "Optional Hydra shader-resource diagnostic occurred; registered PreviewSurface/texture shaders were available and ARKit checks passed.",
+    "MLDA4040 demonstrates a false negative in whole-line numerical screening: visible local dark bands remain. No third attempt made."
+  ]
+}
