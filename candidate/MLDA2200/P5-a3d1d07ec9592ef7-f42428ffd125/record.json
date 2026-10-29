@@ -1,0 +1,677 @@
+{
+  "version": "P5-a3d1d07ec9592ef7-f42428ffd125",
+  "reference": "MLDA2200",
+  "family": "CT-02",
+  "status": "candidate",
+  "model": {
+    "glb": "candidate/MLDA2200/P5-a3d1d07ec9592ef7-f42428ffd125/delivery.glb",
+    "decoded": "candidate/MLDA2200/P5-a3d1d07ec9592ef7-f42428ffd125/decoded-from-delivery.glb",
+    "usdz": "candidate/MLDA2200/P5-a3d1d07ec9592ef7-f42428ffd125/delivery.usdz"
+  },
+  "sha256": {
+    "delivery.glb": "a3d1d07ec9592ef741f7ddeae98e411e78c28cb6e653170de939c72dc3c437b3",
+    "decoded-from-delivery.glb": "699d12896dc29d5e36bb09bca3521e01fe67e3ffb56044907307b9189a45be9f",
+    "delivery.usdz": "f42428ffd125bedae3765c72997f262e8057175efe17ad8924637ba8bf5a8133"
+  },
+  "finish": {
+    "name": "metallic",
+    "metallic": 1,
+    "roughness": 0.35,
+    "clearcoat": 0,
+    "clearcoatRoughness": 0,
+    "normalKind": "brushed-line"
+  },
+  "appearance": {
+    "mode": "metal-base",
+    "rgbSrgb": [
+      210,
+      210,
+      210
+    ]
+  },
+  "appearanceReason": "Silver foil appearance: clean metal base and declared longitudinal brushing",
+  "source": {
+    "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a.jpg",
+    "url": "https://larsonjuhl.co.uk/product/image/large/236124653_1.jpg",
+    "sha256": "b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a",
+    "crop": [
+      430,
+      180,
+      447,
+      650
+    ],
+    "colourReferenceCrop": [
+      430,
+      350,
+      447,
+      420
+    ],
+    "nativePixels": [
+      1024,
+      1024
+    ],
+    "facePixelBounds": [
+      421,
+      457
+    ],
+    "faceWidthMm": 9.0,
+    "straightening": "Vertical planar interior; exact 90-degree transpose only",
+    "calibration": "Advisory square-on photo landmarks",
+    "archivedFile": "candidate/MLDA2200/P5-a3d1d07ec9592ef7-f42428ffd125/own-source.jpg"
+  },
+  "texture": {
+    "width": 2600,
+    "height": 160,
+    "repeatAlongMm": 650.0,
+    "repeatAcrossMm": 40.0,
+    "sourcePxPerMm": 4.0,
+    "finalPxPerMm": 4.0,
+    "upscaleFactor": 1.0,
+    "file": "generated-artifacts/canvas-profile-texture-P5/MLDA2200/albedo.jpg",
+    "deLighting": {
+      "method": "Floating-point linear-light flat-field; own reference mean retained",
+      "reference": {
+        "meanRgb": [
+          226.81932773109244,
+          225.90588235294118,
+          220.57983193277312
+        ],
+        "stdRgb": [
+          2.2711481311814032,
+          2.1571570973069316,
+          2.8679503948903444
+        ],
+        "lowFrequencyVariationPercent": 3.550491222334796,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      }
+    },
+    "postQuiltDeLighting": {
+      "method": "Uniform material colour; no photographic albedo bound"
+    },
+    "encoded": {
+      "meanRgb": [
+        210.0,
+        210.0,
+        210.0
+      ],
+      "stdRgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "lowFrequencyVariationPercent": 0.0,
+      "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+    },
+    "patchCount": 0
+  },
+  "textures": {
+    "Stretcher pine grain": "textures/00-0afdb1277a91.jpg",
+    "Stretcher pine end grain": "textures/01-c335d8f6a053.jpg",
+    "brushed-line": "textures/02-baabc795436e.png"
+  },
+  "profileChecksum": "d111b3e2c746bfebf79cbfdec21e35a8afb19e36133ddf0155992c29a480dc4f",
+  "profileApproval": null,
+  "construction": {
+    "status": "PASS",
+    "spec": {
+      "reference": "MLDA2200",
+      "widthMm": 400,
+      "heightMm": 500,
+      "gapMm": 5,
+      "overallHeightMm": 33,
+      "profileWidthMm": 39,
+      "lipMm": 9,
+      "maxCanvasDepthMm": 23,
+      "approvedOutlineMm": [
+        [
+          0,
+          1.0000000000000002
+        ],
+        [
+          0.13397459621556118,
+          0.5000000000000002
+        ],
+        [
+          0.49999999999999956,
+          0.13397459621556163
+        ],
+        [
+          0.9999999999999998,
+          0
+        ],
+        [
+          32,
+          0
+        ],
+        [
+          32.5,
+          0.1339745962155613
+        ],
+        [
+          32.86602540378444,
+          0.5
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          33,
+          8
+        ],
+        [
+          32.86602540378444,
+          8.5
+        ],
+        [
+          32.5,
+          8.86602540378444
+        ],
+        [
+          32,
+          9
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          10.5,
+          9.13397459621556
+        ],
+        [
+          10.13397459621556,
+          9.5
+        ],
+        [
+          10,
+          10
+        ],
+        [
+          10,
+          38
+        ],
+        [
+          9.86602540378444,
+          38.5
+        ],
+        [
+          9.5,
+          38.86602540378444
+        ],
+        [
+          9,
+          39
+        ],
+        [
+          1.0000000000000002,
+          39
+        ],
+        [
+          0.5000000000000002,
+          38.86602540378444
+        ],
+        [
+          0.13397459621556151,
+          38.5
+        ],
+        [
+          0,
+          38
+        ]
+      ],
+      "approvalChecksum": "d111b3e2c746bfebf79cbfdec21e35a8afb19e36133ddf0155992c29a480dc4f"
+    },
+    "extras": {
+      "canvasTray": {
+        "reference": "MLDA2200",
+        "widthMm": 400,
+        "heightMm": 500,
+        "gapMm": 5,
+        "overallHeightMm": 33,
+        "profileWidthMm": 39,
+        "lipMm": 9,
+        "maxCanvasDepthMm": 23,
+        "approvedOutlineMm": [
+          [
+            0,
+            1.0000000000000002
+          ],
+          [
+            0.13397459621556118,
+            0.5000000000000002
+          ],
+          [
+            0.49999999999999956,
+            0.13397459621556163
+          ],
+          [
+            0.9999999999999998,
+            0
+          ],
+          [
+            32,
+            0
+          ],
+          [
+            32.5,
+            0.1339745962155613
+          ],
+          [
+            32.86602540378444,
+            0.5
+          ],
+          [
+            33,
+            1
+          ],
+          [
+            33,
+            8
+          ],
+          [
+            32.86602540378444,
+            8.5
+          ],
+          [
+            32.5,
+            8.86602540378444
+          ],
+          [
+            32,
+            9
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            10.5,
+            9.13397459621556
+          ],
+          [
+            10.13397459621556,
+            9.5
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            10,
+            38
+          ],
+          [
+            9.86602540378444,
+            38.5
+          ],
+          [
+            9.5,
+            38.86602540378444
+          ],
+          [
+            9,
+            39
+          ],
+          [
+            1.0000000000000002,
+            39
+          ],
+          [
+            0.5000000000000002,
+            38.86602540378444
+          ],
+          [
+            0.13397459621556151,
+            38.5
+          ],
+          [
+            0,
+            38
+          ]
+        ],
+        "approvalChecksum": "d111b3e2c746bfebf79cbfdec21e35a8afb19e36133ddf0155992c29a480dc4f",
+        "canvasDepthMm": 23,
+        "floorThicknessMm": 10,
+        "frontRecessMm": 0
+      },
+      "reviewOnly": true,
+      "units": "metres",
+      "trayTextureChecks": {
+        "zoneChecks": [
+          {
+            "zone": "lip-front",
+            "width": 2600,
+            "height": 160,
+            "pxPerMmAlong": 4,
+            "pxPerMmAcross": 4,
+            "repeatAlongMm": 650,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "outer-side",
+            "width": 2600,
+            "height": 160,
+            "pxPerMmAlong": 4,
+            "pxPerMmAcross": 4,
+            "repeatAlongMm": 650,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "inner-lip",
+            "width": 2600,
+            "height": 160,
+            "pxPerMmAlong": 4,
+            "pxPerMmAcross": 4,
+            "repeatAlongMm": 650,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "tray-floor",
+            "width": 2600,
+            "height": 160,
+            "pxPerMmAlong": 4,
+            "pxPerMmAcross": 4,
+            "repeatAlongMm": 650,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          }
+        ],
+        "sharedAlbedo": true,
+        "materialCount": 1,
+        "materialExceptions": [],
+        "grainAxis": "rail-longitudinal",
+        "legacyStrip": false
+      },
+      "surfacePlacement": [
+        {
+          "component": "Approved profile",
+          "rail": 0,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.6460513996426016,
+            0.021076287608593702
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 1,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.28241491853259504,
+            0.6663503460586071
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 2,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.9688650651369244,
+            0.12642607023008168
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 3,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.6151415824424475,
+            0.6402090033516288
+          ]
+        },
+        {
+          "component": "Stretcher top",
+          "zone": "stretcher",
+          "offset": [
+            0.1347208193037659,
+            0.5585097118746489
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 399.4,
+          "repeatsAlongRail": 2.2693181818181816,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher bottom",
+          "zone": "stretcher",
+          "offset": [
+            0.040793024469166994,
+            0.8006956158205867
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 399.4,
+          "repeatsAlongRail": 2.2693181818181816,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher left",
+          "zone": "stretcher",
+          "offset": [
+            0.44545787083916366,
+            0.09491298370994627
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 499.4,
+          "repeatsAlongRail": 2.8375,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher right",
+          "zone": "stretcher",
+          "offset": [
+            0.5737266787327826,
+            0.189515434904024
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 499.4,
+          "repeatsAlongRail": 2.8375,
+          "mirrored": false
+        }
+      ],
+      "timberSource": {
+        "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+        "repeatAlongMm": 176,
+        "repeatAcrossMm": 72,
+        "endGrain": "darker rotated crop of same pine, no procedural rings"
+      },
+      "canvasFixings": {
+        "hanger": "three light sawtooths",
+        "stretcher": "velcro",
+        "threshold": "provisional A1 and above",
+        "padThicknessMm": 1
+      }
+    },
+    "nodes": [
+      "Tray approved profile 0",
+      "Stretcher top",
+      "Stretcher top cut ends",
+      "Canvas linen reverse",
+      "Canvas artwork front",
+      "Velcro stretcher fixing",
+      "Sawtooth hanger 0"
+    ],
+    "decodedFromActualDelivery": true,
+    "exactApprovedProfile": false,
+    "exactCandidateProfile": true,
+    "unapprovedProfileException": true,
+    "pineSourceSha256": "8a8ff8d37769803feb0e11b4c065ed1e04b2f3d3380e0c34ab1ae0d3fe7fdc20",
+    "noForbiddenParts": true,
+    "mirrorWrappedCanvasSides": true
+  },
+  "materialChecks": {
+    "materialIndex": 0,
+    "preset": {
+      "name": "metallic",
+      "metallic": 1,
+      "roughness": 0.35,
+      "clearcoat": 0,
+      "clearcoatRoughness": 0,
+      "normalKind": "brushed-line"
+    },
+    "source": {
+      "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a.jpg",
+      "url": "https://larsonjuhl.co.uk/product/image/large/236124653_1.jpg",
+      "sha256": "b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a",
+      "crop": [
+        430,
+        180,
+        447,
+        650
+      ],
+      "colourReferenceCrop": [
+        430,
+        350,
+        447,
+        420
+      ],
+      "nativePixels": [
+        1024,
+        1024
+      ],
+      "facePixelBounds": [
+        421,
+        457
+      ],
+      "faceWidthMm": 9.0,
+      "straightening": "Vertical planar interior; exact 90-degree transpose only",
+      "calibration": "Advisory square-on photo landmarks"
+    },
+    "normal": {
+      "kind": "brushed-line",
+      "tileMm": [
+        16.0,
+        8.0
+      ],
+      "pixels": [
+        512,
+        512
+      ],
+      "meanTiltDegrees": 1.0523883585629674,
+      "provenance": "Declared synthetic tileable finish detail; not recovered photo detail",
+      "periodicGeneration": true,
+      "alongAxis": "U / rail length",
+      "crossToAlongSlopeRatio": 54.37635881322101,
+      "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+      "textureTransformScale": [
+        40.625,
+        5.0
+      ]
+    },
+    "appearance": {
+      "mode": "metal-base",
+      "rgbSrgb": [
+        210,
+        210,
+        210
+      ]
+    },
+    "preservation": {
+      "originalBinaryPrefixSha256": "f9415c023b1a554903b01da516ba8d8da0a6d0912cb2127289ac5e438af47a1b",
+      "geometryAndHierarchyExact": true,
+      "existingImageBytesExact": true,
+      "hardwareMaterialsExact": true,
+      "singleTrayMaterial": true
+    },
+    "oldGlbSha256": "b587b95f9ca348d0744fc0324ec394bcbaae2234266a791d564aebf64a1766b7",
+    "newGlbSha256": "a3d1d07ec9592ef741f7ddeae98e411e78c28cb6e653170de939c72dc3c437b3"
+  },
+  "usdReadback": {
+    "status": "PASS",
+    "values": {
+      "metallic": 1.0,
+      "roughness": 0.3499999940395355,
+      "clearcoat": 0.0,
+      "clearcoatRoughness": 0.0
+    },
+    "textures": {
+      "albedo": {
+        "mode": "flat-colour",
+        "linearRgb": [
+          0.6444796919822693,
+          0.6444796919822693,
+          0.6444796919822693
+        ],
+        "matchesGLB": true
+      },
+      "normal": {
+        "file": "textures/image_2.png",
+        "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+        "matchesGLB": true,
+        "scale": [
+          2.0,
+          2.0,
+          2.0,
+          1.0
+        ],
+        "bias": [
+          -1.0,
+          -1.0,
+          -1.0,
+          0.0
+        ],
+        "uvScale": [
+          40.625,
+          5.0
+        ],
+        "uvTranslation": [
+          0.0,
+          -4.0
+        ]
+      }
+    },
+    "geometryAndUvsExact": true,
+    "meshCount": 7,
+    "coatNormal": "Not applicable",
+    "nativePhoneAppearance": "NEEDS PHILIP"
+  },
+  "arkit": {
+    "file": "candidate/MLDA2200/P5-a3d1d07ec9592ef7-f42428ffd125/delivery.usdz",
+    "shaderDiscoveryReady": true,
+    "nativePhone": "NEEDS PHILIP",
+    "errors": [],
+    "failedChecks": [],
+    "warnings": [],
+    "status": "PASS"
+  },
+  "limitations": [
+    "Built on an unapproved profile under explicit P5 exception.",
+    "Native-phone appearance not tested.",
+    "Photo scale advisory; shared finish across faces.",
+    "No customer artwork supplied; blank mirror-wrap canvas."
+  ],
+  "builtOnUnapprovedProfile": true,
+  "approvalException": "P5 explicit owner-authorised morning review only; neither profile nor model is approved.",
+  "clippingCheck": {
+    "medianRgb": [
+      227.0,
+      227.0,
+      221.0
+    ],
+    "fractionPixelsAtOrBelow5": 0.0,
+    "siblingSubstitution": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "models": [
+    {
+      "reference": "MLDA2200",
+      "path": "candidate/MLDA2200/P5-a3d1d07ec9592ef7-f42428ffd125",
+      "finish": {
+        "name": "metallic",
+        "metallic": 1,
+        "roughness": 0.35,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "brushed-line"
+      }
+    },
+    {
+      "reference": "MLDA3241",
+      "path": "candidate/MLDA3241/P5-54e9c2bb954898ee-f7b0546267df",
+      "finish": {
+        "name": "plain-paint",
+        "metallic": 0,
+        "roughness": 0.7,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "none"
+      }
+    },
+    {
+      "reference": "MLDA1867",
+      "path": "candidate/MLDA1867/P5-38422cb8ef41e1ea-ff5f3e1d31a8",
+      "finish": {
+        "name": "plain-paint",
+        "metallic": 0,
+        "roughness": 0.7,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "none"
+      }
+    },
+    {
+      "reference": "MLDA2961",
+      "path": "candidate/MLDA2961/P5-e508d33e5a7e9e31-310bb2bed26f",
+      "finish": {
+        "name": "patterned-paint",
+        "metallic": 0,
+        "roughness": 0.7,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "none"
+      }
+    }
+  ],
+  "twoTone": [],
+  "scope": "Candidates only; no approvals, installation or live changes."
+}

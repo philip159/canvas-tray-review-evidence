@@ -1,0 +1,637 @@
+{
+  "version": "P5-38422cb8ef41e1ea-ff5f3e1d31a8",
+  "reference": "MLDA1867",
+  "family": "CT-19",
+  "status": "candidate",
+  "model": {
+    "glb": "candidate/MLDA1867/P5-38422cb8ef41e1ea-ff5f3e1d31a8/delivery.glb",
+    "decoded": "candidate/MLDA1867/P5-38422cb8ef41e1ea-ff5f3e1d31a8/decoded-from-delivery.glb",
+    "usdz": "candidate/MLDA1867/P5-38422cb8ef41e1ea-ff5f3e1d31a8/delivery.usdz"
+  },
+  "sha256": {
+    "delivery.glb": "38422cb8ef41e1ea64a3a7b735da4dcb117d20fda94ddcecaad5354ab054e1ed",
+    "decoded-from-delivery.glb": "38734e9459a751fb5ed45b3db6f6749658d62b7277633a24bdcf0dde185ef2c0",
+    "delivery.usdz": "ff5f3e1d31a8cbdeef367d58411fe2a31df6ca5053793dc31f93b116b7323f05"
+  },
+  "finish": {
+    "name": "plain-paint",
+    "metallic": 0,
+    "roughness": 0.7,
+    "clearcoat": 0,
+    "clearcoatRoughness": 0,
+    "normalKind": "none"
+  },
+  "appearance": {
+    "mode": "plain-paint-colour-pick",
+    "rgbSrgb": [
+      61.028246568239766,
+      53.90092572948279,
+      60.32798549710872
+    ]
+  },
+  "appearanceReason": "Own-photo plain black, not clipped",
+  "source": {
+    "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81.jpg",
+    "url": "https://larsonjuhl.co.uk/product/image/large/913086_1.jpg",
+    "sha256": "2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81",
+    "crop": [
+      400,
+      220,
+      490,
+      550
+    ],
+    "colourReferenceCrop": [
+      400,
+      350,
+      490,
+      420
+    ],
+    "nativePixels": [
+      1024,
+      1024
+    ],
+    "facePixelBounds": [
+      370,
+      522
+    ],
+    "faceWidthMm": 32.0,
+    "straightening": "Vertical planar interior; exact 90-degree transpose only",
+    "calibration": "Advisory square-on photo landmarks",
+    "archivedFile": "candidate/MLDA1867/P5-38422cb8ef41e1ea-ff5f3e1d31a8/own-source.jpg"
+  },
+  "texture": {
+    "width": 3088,
+    "height": 190,
+    "repeatAlongMm": 650.1052631578947,
+    "repeatAcrossMm": 40.0,
+    "sourcePxPerMm": 4.75,
+    "finalPxPerMm": 4.75,
+    "upscaleFactor": 1.0,
+    "file": "generated-artifacts/canvas-profile-texture-P5/MLDA1867/albedo.jpg",
+    "deLighting": {
+      "method": "Floating-point linear-light flat-field; own reference mean retained",
+      "reference": {
+        "meanRgb": [
+          60.92349206349206,
+          53.98238095238095,
+          60.42793650793651
+        ],
+        "stdRgb": [
+          2.8450771511451918,
+          2.702880423739533,
+          2.649057429692745
+        ],
+        "lowFrequencyVariationPercent": 13.107965021525004,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      }
+    },
+    "postQuiltDeLighting": {
+      "method": "Uniform material colour; no photographic albedo bound"
+    },
+    "encoded": {
+      "meanRgb": [
+        61.0,
+        54.0,
+        61.0
+      ],
+      "stdRgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "lowFrequencyVariationPercent": 0.0,
+      "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+    },
+    "patchCount": 0
+  },
+  "textures": {
+    "Stretcher pine grain": "textures/00-0afdb1277a91.jpg",
+    "Stretcher pine end grain": "textures/01-c335d8f6a053.jpg"
+  },
+  "profileChecksum": "6c7e6eff22ae053931f07a6feec854d90ed0ce83293da19288af9a0eb9d37377",
+  "profileApproval": null,
+  "construction": {
+    "status": "PASS",
+    "spec": {
+      "reference": "MLDA1867",
+      "widthMm": 400,
+      "heightMm": 500,
+      "gapMm": 5,
+      "overallHeightMm": 60,
+      "profileWidthMm": 56,
+      "lipMm": 32,
+      "maxCanvasDepthMm": 33,
+      "approvedOutlineMm": [
+        [
+          0,
+          1.0000000000000002
+        ],
+        [
+          0.13397459621556118,
+          0.5000000000000002
+        ],
+        [
+          0.49999999999999956,
+          0.13397459621556163
+        ],
+        [
+          0.9999999999999998,
+          0
+        ],
+        [
+          59.029780687347014,
+          0
+        ],
+        [
+          59.64531778291319,
+          0.2118920860808733
+        ],
+        [
+          60.00000000000001,
+          0.7577718320360847
+        ],
+        [
+          59.94351862885884,
+          1.4063040416261405
+        ],
+        [
+          46.603675009563815,
+          31.406304041626143
+        ],
+        [
+          46.384822471347405,
+          31.71912048801781
+        ],
+        [
+          46.06468999464643,
+          31.927124718691562
+        ],
+        [
+          45.689937068052,
+          32
+        ],
+        [
+          14.339681301493325,
+          32
+        ],
+        [
+          13.839681301493325,
+          32.13397459621556
+        ],
+        [
+          13.473655897708886,
+          32.5
+        ],
+        [
+          13.339681301493325,
+          33
+        ],
+        [
+          13.339681301493325,
+          55
+        ],
+        [
+          13.205706705277764,
+          55.5
+        ],
+        [
+          12.839681301493325,
+          55.86602540378444
+        ],
+        [
+          12.339681301493325,
+          56
+        ],
+        [
+          1.0000000000000002,
+          56
+        ],
+        [
+          0.5000000000000002,
+          55.86602540378444
+        ],
+        [
+          0.13397459621556151,
+          55.5
+        ],
+        [
+          0,
+          55
+        ]
+      ],
+      "approvalChecksum": "6c7e6eff22ae053931f07a6feec854d90ed0ce83293da19288af9a0eb9d37377"
+    },
+    "extras": {
+      "canvasTray": {
+        "reference": "MLDA1867",
+        "widthMm": 400,
+        "heightMm": 500,
+        "gapMm": 5,
+        "overallHeightMm": 60,
+        "profileWidthMm": 56,
+        "lipMm": 32,
+        "maxCanvasDepthMm": 33,
+        "approvedOutlineMm": [
+          [
+            0,
+            1.0000000000000002
+          ],
+          [
+            0.13397459621556118,
+            0.5000000000000002
+          ],
+          [
+            0.49999999999999956,
+            0.13397459621556163
+          ],
+          [
+            0.9999999999999998,
+            0
+          ],
+          [
+            59.029780687347014,
+            0
+          ],
+          [
+            59.64531778291319,
+            0.2118920860808733
+          ],
+          [
+            60.00000000000001,
+            0.7577718320360847
+          ],
+          [
+            59.94351862885884,
+            1.4063040416261405
+          ],
+          [
+            46.603675009563815,
+            31.406304041626143
+          ],
+          [
+            46.384822471347405,
+            31.71912048801781
+          ],
+          [
+            46.06468999464643,
+            31.927124718691562
+          ],
+          [
+            45.689937068052,
+            32
+          ],
+          [
+            14.339681301493325,
+            32
+          ],
+          [
+            13.839681301493325,
+            32.13397459621556
+          ],
+          [
+            13.473655897708886,
+            32.5
+          ],
+          [
+            13.339681301493325,
+            33
+          ],
+          [
+            13.339681301493325,
+            55
+          ],
+          [
+            13.205706705277764,
+            55.5
+          ],
+          [
+            12.839681301493325,
+            55.86602540378444
+          ],
+          [
+            12.339681301493325,
+            56
+          ],
+          [
+            1.0000000000000002,
+            56
+          ],
+          [
+            0.5000000000000002,
+            55.86602540378444
+          ],
+          [
+            0.13397459621556151,
+            55.5
+          ],
+          [
+            0,
+            55
+          ]
+        ],
+        "approvalChecksum": "6c7e6eff22ae053931f07a6feec854d90ed0ce83293da19288af9a0eb9d37377",
+        "canvasDepthMm": 33,
+        "floorThicknessMm": 27,
+        "frontRecessMm": 0
+      },
+      "reviewOnly": true,
+      "units": "metres",
+      "trayTextureChecks": {
+        "zoneChecks": [
+          {
+            "zone": "lip-front",
+            "width": 3088,
+            "height": 190,
+            "pxPerMmAlong": 4.75,
+            "pxPerMmAcross": 4.75,
+            "repeatAlongMm": 650.1052631578947,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "outer-side",
+            "width": 3088,
+            "height": 190,
+            "pxPerMmAlong": 4.75,
+            "pxPerMmAcross": 4.75,
+            "repeatAlongMm": 650.1052631578947,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "inner-lip",
+            "width": 3088,
+            "height": 190,
+            "pxPerMmAlong": 4.75,
+            "pxPerMmAcross": 4.75,
+            "repeatAlongMm": 650.1052631578947,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "tray-floor",
+            "width": 3088,
+            "height": 190,
+            "pxPerMmAlong": 4.75,
+            "pxPerMmAcross": 4.75,
+            "repeatAlongMm": 650.1052631578947,
+            "repeatAcrossMm": 40,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          }
+        ],
+        "sharedAlbedo": true,
+        "materialCount": 1,
+        "materialExceptions": [],
+        "grainAxis": "rail-longitudinal",
+        "legacyStrip": false
+      },
+      "surfacePlacement": [
+        {
+          "component": "Approved profile",
+          "rail": 0,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.7210633645299822,
+            0.21237723692320287
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 1,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.6329370986204594,
+            0.3121052330825478
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 2,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.7809228610713035,
+            0.3333581406623125
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 3,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.9259513551369309,
+            0.7472500128205866
+          ]
+        },
+        {
+          "component": "Stretcher top",
+          "zone": "stretcher",
+          "offset": [
+            0.8094450416974723,
+            0.975528676295653
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 399.4,
+          "repeatsAlongRail": 2.2693181818181816,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher bottom",
+          "zone": "stretcher",
+          "offset": [
+            0.37809750181622803,
+            0.8580987469758838
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 399.4,
+          "repeatsAlongRail": 2.2693181818181816,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher left",
+          "zone": "stretcher",
+          "offset": [
+            0.05788193643093109,
+            0.5966824116185308
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 499.4,
+          "repeatsAlongRail": 2.8375,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher right",
+          "zone": "stretcher",
+          "offset": [
+            0.5437752949073911,
+            0.09588845609687269
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 499.4,
+          "repeatsAlongRail": 2.8375,
+          "mirrored": false
+        }
+      ],
+      "timberSource": {
+        "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+        "repeatAlongMm": 176,
+        "repeatAcrossMm": 72,
+        "endGrain": "darker rotated crop of same pine, no procedural rings"
+      },
+      "canvasFixings": {
+        "hanger": "three light sawtooths",
+        "stretcher": "velcro",
+        "threshold": "provisional A1 and above",
+        "padThicknessMm": 1
+      }
+    },
+    "nodes": [
+      "Tray approved profile 0",
+      "Stretcher top",
+      "Stretcher top cut ends",
+      "Canvas linen reverse",
+      "Canvas artwork front",
+      "Velcro stretcher fixing",
+      "Sawtooth hanger 0"
+    ],
+    "decodedFromActualDelivery": true,
+    "exactApprovedProfile": false,
+    "exactCandidateProfile": true,
+    "unapprovedProfileException": true,
+    "pineSourceSha256": "8a8ff8d37769803feb0e11b4c065ed1e04b2f3d3380e0c34ab1ae0d3fe7fdc20",
+    "noForbiddenParts": true,
+    "mirrorWrappedCanvasSides": true
+  },
+  "materialChecks": {
+    "materialIndex": 0,
+    "preset": {
+      "name": "plain-paint",
+      "metallic": 0,
+      "roughness": 0.7,
+      "clearcoat": 0,
+      "clearcoatRoughness": 0,
+      "normalKind": "none"
+    },
+    "source": {
+      "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81.jpg",
+      "url": "https://larsonjuhl.co.uk/product/image/large/913086_1.jpg",
+      "sha256": "2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81",
+      "crop": [
+        400,
+        220,
+        490,
+        550
+      ],
+      "colourReferenceCrop": [
+        400,
+        350,
+        490,
+        420
+      ],
+      "nativePixels": [
+        1024,
+        1024
+      ],
+      "facePixelBounds": [
+        370,
+        522
+      ],
+      "faceWidthMm": 32.0,
+      "straightening": "Vertical planar interior; exact 90-degree transpose only",
+      "calibration": "Advisory square-on photo landmarks"
+    },
+    "normal": {
+      "kind": "none"
+    },
+    "appearance": {
+      "mode": "plain-paint-colour-pick",
+      "rgbSrgb": [
+        61.028246568239766,
+        53.90092572948279,
+        60.32798549710872
+      ]
+    },
+    "preservation": {
+      "originalBinaryPrefixSha256": "264051c04e8ef0ccbe10db66e447974c85578ca3b17806561d344835659d6981",
+      "geometryAndHierarchyExact": true,
+      "existingImageBytesExact": true,
+      "hardwareMaterialsExact": true,
+      "singleTrayMaterial": true
+    },
+    "oldGlbSha256": "254393aa3296bd2cf5003f9d2a72d3064188c50e1fddd4d7e12b97a9a502d791",
+    "newGlbSha256": "38422cb8ef41e1ea64a3a7b735da4dcb117d20fda94ddcecaad5354ab054e1ed"
+  },
+  "usdReadback": {
+    "status": "PASS",
+    "values": {
+      "metallic": 0.0,
+      "roughness": 0.699999988079071,
+      "clearcoat": 0.0,
+      "clearcoatRoughness": 0.0
+    },
+    "textures": {
+      "albedo": {
+        "mode": "flat-colour",
+        "linearRgb": [
+          0.046707265079021454,
+          0.036760635673999786,
+          0.04566819593310356
+        ],
+        "matchesGLB": true
+      },
+      "normal": {
+        "mode": "none",
+        "matchesGLB": true
+      }
+    },
+    "geometryAndUvsExact": true,
+    "meshCount": 7,
+    "coatNormal": "Not applicable",
+    "nativePhoneAppearance": "NEEDS PHILIP"
+  },
+  "arkit": {
+    "file": "candidate/MLDA1867/P5-38422cb8ef41e1ea-ff5f3e1d31a8/delivery.usdz",
+    "shaderDiscoveryReady": true,
+    "nativePhone": "NEEDS PHILIP",
+    "errors": [],
+    "failedChecks": [],
+    "warnings": [],
+    "status": "PASS"
+  },
+  "limitations": [
+    "Built on an unapproved profile under explicit P5 exception.",
+    "Native-phone appearance not tested.",
+    "Photo scale advisory; shared finish across faces.",
+    "No customer artwork supplied; blank mirror-wrap canvas."
+  ],
+  "builtOnUnapprovedProfile": true,
+  "approvalException": "P5 explicit owner-authorised morning review only; neither profile nor model is approved.",
+  "clippingCheck": {
+    "medianRgb": [
+      60.0,
+      53.0,
+      60.0
+    ],
+    "fractionPixelsAtOrBelow5": 0.0,
+    "siblingSubstitution": false
+  }
+}
