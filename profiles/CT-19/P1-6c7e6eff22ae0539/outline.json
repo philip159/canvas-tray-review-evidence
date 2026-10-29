@@ -1,0 +1,257 @@
+{
+  "family": "CT-19",
+  "reference": "MLDA1865",
+  "status": "candidate-needs-Philip-profile-approval",
+  "sourceProfileChecksum": "6720f69533aa9ff05427ab08bc5744566545a883582b56cd17649ed5a567a4d9",
+  "sourceImage": "/api/canvas-tray-review/assets/CT-19-966f95800918-colour-source.png",
+  "method": "Photo-reviewed run classification; constrained least-squares straight runs; circular tangent corner fillets with three facets.",
+  "photoReview": "Photo-confirmed pixel staircases removed before fitting; deliberate section slopes retained.",
+  "fitRunIndices": {
+    "wall": [
+      12,
+      13,
+      14
+    ],
+    "slope": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  "before": {
+    "vertices": 45,
+    "turnsAtLeast20Degrees": 45
+  },
+  "after": {
+    "vertices": 24,
+    "realCorners": 6,
+    "straightSegmentCount": 6
+  },
+  "straightCornerSkeletonMm": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      60.56884782874135,
+      0.0
+    ],
+    [
+      46.33968130149333,
+      32.0
+    ],
+    [
+      13.339681301493325,
+      32.0
+    ],
+    [
+      13.339681301493325,
+      56.0
+    ],
+    [
+      0.0,
+      56.0
+    ]
+  ],
+  "outlineMm": [
+    [
+      0.0,
+      1.0000000000000002
+    ],
+    [
+      0.13397459621556118,
+      0.5000000000000002
+    ],
+    [
+      0.49999999999999956,
+      0.13397459621556163
+    ],
+    [
+      0.9999999999999998,
+      0.0
+    ],
+    [
+      59.029780687347014,
+      0.0
+    ],
+    [
+      59.64531778291319,
+      0.2118920860808733
+    ],
+    [
+      60.00000000000001,
+      0.7577718320360847
+    ],
+    [
+      59.94351862885884,
+      1.4063040416261405
+    ],
+    [
+      46.603675009563815,
+      31.406304041626143
+    ],
+    [
+      46.384822471347405,
+      31.71912048801781
+    ],
+    [
+      46.06468999464643,
+      31.927124718691562
+    ],
+    [
+      45.689937068052,
+      32.0
+    ],
+    [
+      14.339681301493325,
+      32.0
+    ],
+    [
+      13.839681301493325,
+      32.13397459621556
+    ],
+    [
+      13.473655897708886,
+      32.5
+    ],
+    [
+      13.339681301493325,
+      33.0
+    ],
+    [
+      13.339681301493325,
+      55.0
+    ],
+    [
+      13.205706705277764,
+      55.5
+    ],
+    [
+      12.839681301493325,
+      55.86602540378444
+    ],
+    [
+      12.339681301493325,
+      56.0
+    ],
+    [
+      1.0000000000000002,
+      56.0
+    ],
+    [
+      0.5000000000000002,
+      55.86602540378444
+    ],
+    [
+      0.13397459621556151,
+      55.5
+    ],
+    [
+      0.0,
+      55.0
+    ],
+    [
+      0.0,
+      1.0000000000000002
+    ]
+  ],
+  "cornerRounding": {
+    "facetsPerCorner": 3,
+    "radiiMm": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "vertexGroups": [
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11
+      ],
+      [
+        12,
+        13,
+        14,
+        15
+      ],
+      [
+        16,
+        17,
+        18,
+        19
+      ],
+      [
+        20,
+        21,
+        22,
+        23
+      ]
+    ],
+    "shortFeaturePolicy": "Radius capped so each tangent consumes at most 24% of its adjacent edge."
+  },
+  "checks": {
+    "closed": true,
+    "counterclockwise": true,
+    "selfIntersections": false,
+    "allNonRoundingTurnsAtLeast20Degrees": true,
+    "minimumSkeletonTurnDegrees": 66.02712905598013,
+    "dimensionsActualMm": {
+      "Item Width": 56.0,
+      "Item Depth": 60.00000000000001,
+      "Rebate Width": 24.0,
+      "Rebate Depth": 33.0
+    },
+    "dimensionsTargetMm": {
+      "Item Width": 56,
+      "Item Depth": 60,
+      "Rebate Width": 24,
+      "Rebate Depth": 33
+    },
+    "maximumDimensionResidualMm": 7.105427357601002e-15
+  },
+  "dimensionConvention": "Rebate depth is the nominal straight ledge opening between virtual wall/front datums; tangent rounding is not subtracted. Outer envelope is measured on the actual faceted outline.",
+  "limitations": [
+    "A candidate reconstruction, not supplier-certified geometry. Small-feature radii are explicitly capped.",
+    "Photo overlay uses original independent X/Y dimension-bar calibration; discrepancies are visible, not warped away.",
+    "No model built from this unapproved profile."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "values": {
+    "metallic": 1.0,
+    "roughness": 0.3499999940395355,
+    "clearcoat": 0.0,
+    "clearcoatRoughness": 0.0
+  },
+  "textures": {
+    "albedo": {
+      "mode": "flat-colour",
+      "linearRgb": [
+        0.3049873113632202,
+        0.2541520893573761,
+        0.2622506618499756
+      ],
+      "matchesGLB": true
+    },
+    "normal": {
+      "file": "textures/image_4.png",
+      "sha256": "baabc795436ef24e739523b00c9fafba31d19dc12b63ffd3b8361a1f2272445c",
+      "matchesGLB": true,
+      "scale": [
+        2.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "bias": [
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "uvScale": [
+        40.625,
+        5.0082783699035645
+      ],
+      "uvTranslation": [
+        0.0,
+        -4.0082783699035645
+      ]
+    }
+  },
+  "geometryAndUvsExact": true,
+  "meshCount": 7,
+  "coatNormal": "Not applicable",
+  "nativePhoneAppearance": "NEEDS PHILIP"
+}

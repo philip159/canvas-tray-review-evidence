@@ -3,52 +3,53 @@
   "scope": "All payloads except checksum control files; historical partitions retained; Git commit binds index.",
   "parts": [
     {
-      "path": "checksums/P1-status-001.json",
+      "path": "checksums/P1-final-001.json",
       "sha256": "4c632a95abe8c7aa03043490394190ba1b6eafa60458e74bcac91d1b1ee152c2"
     },
     {
-      "path": "checksums/P1-status-002.json",
+      "path": "checksums/P1-final-002.json",
       "sha256": "704d40ccb35e695f2f75ba514345ca07a90d1401f4afa299ea857e03def1b058"
     },
     {
-      "path": "checksums/P1-status-003.json",
+      "path": "checksums/P1-final-003.json",
       "sha256": "73713bb7584b323d89f6e8609fc5c5999a207f097b751652d19493be761accd8"
     },
     {
-      "path": "checksums/P1-status-004.json",
+      "path": "checksums/P1-final-004.json",
       "sha256": "d284665a73b0e76edf4abb8a973b66969b4ef262f9affb32aaa6143004768365"
     },
     {
-      "path": "checksums/P1-status-005.json",
-      "sha256": "61e23b09c0afada7575aa7336f91b82bfc615063956da31df8c78d9190f953f6"
+      "path": "checksums/P1-final-005.json",
+      "sha256": "cc5d1721b0f4bb45958cc27f878cd0925bc96ec2aed5eba77d8006c147641d1a"
     },
     {
-      "path": "checksums/P1-status-006.json",
-      "sha256": "8aea50ff62aca970e2e3dd16e3f7adb88e334aea73810f4ad5ee518d51b48f99"
+      "path": "checksums/P1-final-006.json",
+      "sha256": "d774bc97a87816fc95ba3d299b11bb665c04eb4296b33c10ba97b19a07ff0ea1"
     },
     {
-      "path": "checksums/P1-status-007.json",
-      "sha256": "2509807c33cf65b1df5546cd6b099d83b74c74b1b5b8b6f83f76b98d683cf440"
+      "path": "checksums/P1-final-007.json",
+      "sha256": "95489ce3349572f14ace2cbe870950fe7e92e6e935877c7403f100c6fed6cd2a"
     },
     {
-      "path": "checksums/P1-status-008.json",
-      "sha256": "f5d44bbc7019b652c8711804f31904970aff0caeb41c369c4a24f261a306f89a"
+      "path": "checksums/P1-final-008.json",
+      "sha256": "d0aa5cf7f6a1c77a0f56362248e62b13c226336a54590e6da94593209a941c92"
     },
     {
-      "path": "checksums/P1-status-009.json",
-      "sha256": "443745cbf74b1a058f993a14d6a631614baccc235b667a280c3af1d8faf47bb7"
+      "path": "checksums/P1-final-009.json",
+      "sha256": "b3c7b73a203e95f9d48c240da7e2235f25178e91a183f7401aa838abde3a6a38"
     },
     {
-      "path": "checksums/P1-status-010.json",
-      "sha256": "8312c4aecec311726b9d2842d44b3e40749bef643a313a5dabfbe13abdaa0d21"
+      "path": "checksums/P1-final-010.json",
+      "sha256": "31d41b4aaf1604b594dbc710bbbe0c862b1db469509d0686e0a05a3047e0281c"
     },
     {
-      "path": "checksums/P1-status-011.json",
-      "sha256": "37fe70698059853a6f49fe1d3eb2cbc6d32b92a7d7ad7d6ab52099046de176ea"
+      "path": "checksums/P1-final-011.json",
+      "sha256": "7c33809922f1467feb77d24959a600096fdeee2a033c79d7b87fef71c8a74d05"
     },
     {
-      "path": "checksums/P1-status-012.json",
-      "sha256": "19e5e36a6a92be99a837e4831969310bf8070729be270d6b1ed03293aa1492d3"
+      "path": "checksums/P1-final-012.json",
+      "sha256": "e164586c552a16923ce18df380900d33864625bcc92eeb277d39212eec0a57a7"
     }
-  ]
+  ],
+  "fileCount": 1140
 }

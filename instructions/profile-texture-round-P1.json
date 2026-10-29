@@ -1,0 +1,311 @@
+{
+  "profiles": [
+    {
+      "family": "CT-02",
+      "version": "P1-fbf5a65fb1362ba6",
+      "path": "profiles/CT-02/P1-fbf5a65fb1362ba6",
+      "before": {
+        "vertices": 11,
+        "turnsAtLeast20Degrees": 9
+      },
+      "after": {
+        "vertices": 32,
+        "realCorners": 8,
+        "straightSegmentCount": 8
+      },
+      "checks": {
+        "closed": true,
+        "counterclockwise": true,
+        "selfIntersections": false,
+        "allNonRoundingTurnsAtLeast20Degrees": true,
+        "minimumSkeletonTurnDegrees": 90.0,
+        "dimensionsActualMm": {
+          "Item Width": 39.0,
+          "Item Depth": 33.0,
+          "Rebate Width": 30.0,
+          "Rebate Depth": 23.0
+        },
+        "dimensionsTargetMm": {
+          "Item Width": 39,
+          "Item Depth": 33,
+          "Rebate Width": 30,
+          "Rebate Depth": 23
+        },
+        "maximumDimensionResidualMm": 0.0
+      },
+      "photoReview": "Small inner-front lip step retained; radius capped below 1 mm where needed to avoid erasing the sub-mm step."
+    },
+    {
+      "family": "CT-18",
+      "version": "P1-5b05de71d2729b11",
+      "path": "profiles/CT-18/P1-5b05de71d2729b11",
+      "before": {
+        "vertices": 23,
+        "turnsAtLeast20Degrees": 12
+      },
+      "after": {
+        "vertices": 24,
+        "realCorners": 6,
+        "straightSegmentCount": 6
+      },
+      "checks": {
+        "closed": true,
+        "counterclockwise": true,
+        "selfIntersections": false,
+        "allNonRoundingTurnsAtLeast20Degrees": true,
+        "minimumSkeletonTurnDegrees": 66.04447848993907,
+        "dimensionsActualMm": {
+          "Item Width": 56.0,
+          "Item Depth": 66.00000000000001,
+          "Rebate Width": 25.0,
+          "Rebate Depth": 41.0
+        },
+        "dimensionsTargetMm": {
+          "Item Width": 56,
+          "Item Depth": 66,
+          "Rebate Width": 25,
+          "Rebate Depth": 41
+        },
+        "maximumDimensionResidualMm": 1.4210854715202004e-14
+      },
+      "photoReview": "Photo-confirmed pixel staircases removed before fitting; deliberate section slopes retained."
+    },
+    {
+      "family": "CT-19",
+      "version": "P1-6c7e6eff22ae0539",
+      "path": "profiles/CT-19/P1-6c7e6eff22ae0539",
+      "before": {
+        "vertices": 45,
+        "turnsAtLeast20Degrees": 45
+      },
+      "after": {
+        "vertices": 24,
+        "realCorners": 6,
+        "straightSegmentCount": 6
+      },
+      "checks": {
+        "closed": true,
+        "counterclockwise": true,
+        "selfIntersections": false,
+        "allNonRoundingTurnsAtLeast20Degrees": true,
+        "minimumSkeletonTurnDegrees": 66.02712905598013,
+        "dimensionsActualMm": {
+          "Item Width": 56.0,
+          "Item Depth": 60.00000000000001,
+          "Rebate Width": 24.0,
+          "Rebate Depth": 33.0
+        },
+        "dimensionsTargetMm": {
+          "Item Width": 56,
+          "Item Depth": 60,
+          "Rebate Width": 24,
+          "Rebate Depth": 33
+        },
+        "maximumDimensionResidualMm": 7.105427357601002e-15
+      },
+      "photoReview": "Photo-confirmed pixel staircases removed before fitting; deliberate section slopes retained."
+    },
+    {
+      "family": "CT-20",
+      "version": "P1-4629f1d98855f4cc",
+      "path": "profiles/CT-20/P1-4629f1d98855f4cc",
+      "before": {
+        "vertices": 26,
+        "turnsAtLeast20Degrees": 15
+      },
+      "after": {
+        "vertices": 24,
+        "realCorners": 6,
+        "straightSegmentCount": 6
+      },
+      "checks": {
+        "closed": true,
+        "counterclockwise": true,
+        "selfIntersections": false,
+        "allNonRoundingTurnsAtLeast20Degrees": true,
+        "minimumSkeletonTurnDegrees": 71.7743467597101,
+        "dimensionsActualMm": {
+          "Item Width": 73.0,
+          "Item Depth": 61.99999999999999,
+          "Rebate Width": 38.0,
+          "Rebate Depth": 45.0
+        },
+        "dimensionsTargetMm": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Width": 38,
+          "Rebate Depth": 45
+        },
+        "maximumDimensionResidualMm": 7.105427357601002e-15
+      },
+      "photoReview": "Photo-confirmed pixel staircases removed before fitting; deliberate section slopes retained."
+    },
+    {
+      "family": "CT-23",
+      "version": "P1-9aec35ed19c55e18",
+      "path": "profiles/CT-23/P1-9aec35ed19c55e18",
+      "before": {
+        "vertices": 12,
+        "turnsAtLeast20Degrees": 8
+      },
+      "after": {
+        "vertices": 24,
+        "realCorners": 6,
+        "straightSegmentCount": 6
+      },
+      "checks": {
+        "closed": true,
+        "counterclockwise": true,
+        "selfIntersections": false,
+        "allNonRoundingTurnsAtLeast20Degrees": true,
+        "minimumSkeletonTurnDegrees": 87.51044707800082,
+        "dimensionsActualMm": {
+          "Item Width": 70.0,
+          "Item Depth": 51.0,
+          "Rebate Width": 25.0,
+          "Rebate Depth": 41.0
+        },
+        "dimensionsTargetMm": {
+          "Item Width": 70,
+          "Item Depth": 51,
+          "Rebate Width": 25,
+          "Rebate Depth": 41
+        },
+        "maximumDimensionResidualMm": 0.0
+      },
+      "photoReview": "Provisional rear/bottom slope retained; dimension-first straight faces preserved."
+    }
+  ],
+  "models": [
+    {
+      "reference": "MLDA2208-owner-d7203e8ceceb",
+      "code": "MLDA2208",
+      "recordedDecisionFeedback": null,
+      "action": "excluded-unchanged",
+      "reason": "Existing explicit MLDA2208 exclusion remains in force."
+    },
+    {
+      "reference": "MLDA1864-owner-d6e01365745a",
+      "code": "MLDA1864",
+      "recordedDecisionFeedback": null,
+      "action": "retained-older-unapproved-version",
+      "reason": "A separate later version of this moulding is approved; do not rework that approved replacement."
+    },
+    {
+      "reference": "MLDA2964-owner-f7873191b406",
+      "code": "MLDA2964",
+      "recordedDecisionFeedback": null,
+      "action": "unchanged-no-measurable-failure",
+      "reason": "No recorded feedback; delivered plain paint matches its own de-lit colour pick, non-metallic and texture-free.",
+      "rgbSrgb": [
+        246.8636804572996,
+        246.0026429125414,
+        242.16864964906745
+      ],
+      "maximumColourResidual": 2.842170943040401e-14,
+      "sourceSha256": "75e8a67cff89f83e8c7911eadc20b38955b38f7e471075018edb328d7be2338c",
+      "sourceCrop": [
+        447,
+        150,
+        660,
+        650
+      ],
+      "nativeSourcePixels": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "reference": "MLDA4017-owner-0cf39370289e",
+      "code": "MLDA4017",
+      "recordedDecisionFeedback": null,
+      "action": "new-candidate-carry-forward",
+      "path": "candidate/MLDA4017/P1-457a82c4143b5fb2-21676a742087",
+      "sourceRecord": "candidate/MLDA4017/round1-457a82c4143b5fb295682592-21676a7420874ba9/record.json",
+      "beforeRgb": [
+        254.99999999999997,
+        254.99999999999997,
+        254.99999999999997
+      ],
+      "afterRgb": [
+        254.99999999999997,
+        254.99999999999997,
+        254.99999999999997
+      ],
+      "beforeAlbedo": {
+        "meanRgb": [
+          50.724256570446975,
+          50.55916001247506,
+          62.93568164829235
+        ],
+        "pixels": [
+          2557,
+          158
+        ],
+        "maxColumnMeanStep": 1.4936708860759467,
+        "maxRowMeanStep": 2.40750879937427,
+        "wrapColumns": 0.588607594936704,
+        "wrapRows": 1.3398513883457213
+      },
+      "afterAlbedo": {
+        "meanRgb": [
+          47.09861734726712,
+          47.93788458587249,
+          61.31553244258749
+        ],
+        "pixels": [
+          2557,
+          158
+        ],
+        "maxColumnMeanStep": 2.6202531645569636,
+        "maxRowMeanStep": 2.048103245991399,
+        "wrapColumns": 1.303797468354432,
+        "wrapRows": 0.6632772780602281
+      },
+      "reason": "Own-photo interior crop correction"
+    },
+    {
+      "reference": "MLDA3970-owner-68ce9397e7a2",
+      "code": "MLDA3970",
+      "recordedDecisionFeedback": null,
+      "action": "new-candidate-carry-forward",
+      "path": "candidate/MLDA3970/P1-37f5d3d30dd115de-2b0dbf9bdd62",
+      "sourceRecord": "candidate/MLDA3970/round2-37f5d3d30dd115de1671f8e7-2b0dbf9bdd62683b/record.json",
+      "beforeRgb": [
+        150.0,
+        150.0,
+        150.0
+      ],
+      "afterRgb": [
+        150.0,
+        138.0,
+        140.0
+      ],
+      "beforeAlbedo": null,
+      "afterAlbedo": null,
+      "reason": "Restore agreed owner-specified pewter albedo 150/138/140 instead of the older 150/150/150."
+    },
+    {
+      "reference": "MLDA4040-owner-9cab96c6cd8a",
+      "code": "MLDA4040",
+      "recordedDecisionFeedback": null,
+      "action": "retained-older-unapproved-version",
+      "reason": "A separate later version of this moulding is approved; do not rework that approved replacement."
+    },
+    {
+      "reference": "MLDA1600-owner-ed96fa9a41ac",
+      "code": "MLDA1600",
+      "recordedDecisionFeedback": null,
+      "action": "retained-older-unapproved-version",
+      "reason": "A separate later version of this moulding is approved; do not rework that approved replacement."
+    }
+  ],
+  "scope": "Unapproved candidates only. No app registry, approved files, production, Shopify, installation or flags changed.",
+  "profilePolicy": "Owner authorised photo-confirmed tracing-artefact removal before applying the 20-degree corner threshold.",
+  "limitations": [
+    "Native phone appearance is not tested.",
+    "Sub-mm lip steps use smaller radii, recorded per corner, to preserve the feature.",
+    "CT-19 source photo label 31 mm differs from supplier-derived lip 32 mm; authoritative supplier envelope retained.",
+    "P1 model candidates reissue existing verified corrections unchanged, rather than synthesising different textures without feedback."
+  ]
+}

@@ -3,11 +3,10 @@
   "generatedAt": "2026-10-29T19:38:05.864256+00:00",
   "snapshotScope": "All current review versions plus superseded historically approved deliveries only",
   "counts": {
-    "approved": 26,
-    "candidate": 28,
-    "archived": 12,
-    "superseded": 14,
-    "excluded": 1
+    "approved": 46,
+    "candidate": 8,
+    "superseded": 2,
+    "archived": 12
   },
   "models": [
     {
@@ -15,70 +14,90 @@
       "family": "CT-06",
       "version": "2b13645ec286113dcd192bcf5e8880f8773298206f0dfc398faef8f522ee4c2b-60ca28899359f48a",
       "status": "approved",
-      "record": "approved/MLDA3949/2b13645ec286113dcd192bcf5e8880f8773298206f0dfc398faef8f522ee4c2b-60ca28899359f48a/record.json"
+      "record": "approved/MLDA3949/2b13645ec286113dcd192bcf5e8880f8773298206f0dfc398faef8f522ee4c2b-60ca28899359f48a/record.json",
+      "approvalDate": "2026-10-29T15:47:21.420Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2535",
       "family": "CT-09",
       "version": "9e3b3a2c881cf39f8b38552b3dd83ae9e14fe5c0bb9c5cff2fd757549eedf17f-47fdd7255c95b37a",
       "status": "approved",
-      "record": "approved/MLDA2535/9e3b3a2c881cf39f8b38552b3dd83ae9e14fe5c0bb9c5cff2fd757549eedf17f-47fdd7255c95b37a/record.json"
+      "record": "approved/MLDA2535/9e3b3a2c881cf39f8b38552b3dd83ae9e14fe5c0bb9c5cff2fd757549eedf17f-47fdd7255c95b37a/record.json",
+      "approvalDate": "2026-10-29T15:47:27.326Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3392",
       "family": "CT-07",
       "version": "e8e85d60d2a7257f8747090f49aeb9a64c43ba7d2c1c5e84ad2425ebe27bc1ef-14557e8834fe9257",
       "status": "approved",
-      "record": "approved/MLDA3392/e8e85d60d2a7257f8747090f49aeb9a64c43ba7d2c1c5e84ad2425ebe27bc1ef-14557e8834fe9257/record.json"
+      "record": "approved/MLDA3392/e8e85d60d2a7257f8747090f49aeb9a64c43ba7d2c1c5e84ad2425ebe27bc1ef-14557e8834fe9257/record.json",
+      "approvalDate": "2026-10-29T15:47:35.611Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3382",
       "family": "CT-03",
       "version": "740047daafb640d9d062656626ccb6e7a7f16d0b10e476c8a851ec85b63e3993-61854f4e4814747c",
       "status": "approved",
-      "record": "approved/MLDA3382/740047daafb640d9d062656626ccb6e7a7f16d0b10e476c8a851ec85b63e3993-61854f4e4814747c/record.json"
+      "record": "approved/MLDA3382/740047daafb640d9d062656626ccb6e7a7f16d0b10e476c8a851ec85b63e3993-61854f4e4814747c/record.json",
+      "approvalDate": "2026-10-29T15:47:46.454Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3387",
       "family": "CT-05",
       "version": "8178075bc63e20235ba751605d44e94ce2939dda560afa3920ce7f6945dc52a2-6ce293357e2dbf08",
       "status": "approved",
-      "record": "approved/MLDA3387/8178075bc63e20235ba751605d44e94ce2939dda560afa3920ce7f6945dc52a2-6ce293357e2dbf08/record.json"
+      "record": "approved/MLDA3387/8178075bc63e20235ba751605d44e94ce2939dda560afa3920ce7f6945dc52a2-6ce293357e2dbf08/record.json",
+      "approvalDate": "2026-10-29T15:47:50.555Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA1599",
       "family": "CT-22",
       "version": "61b62b8b54539caaaa4df37c1ab68da16c5effe9ee1b022ad4cc8d0c7eb40541-714a980b99a73b78",
       "status": "approved",
-      "record": "approved/MLDA1599/61b62b8b54539caaaa4df37c1ab68da16c5effe9ee1b022ad4cc8d0c7eb40541-714a980b99a73b78/record.json"
+      "record": "approved/MLDA1599/61b62b8b54539caaaa4df37c1ab68da16c5effe9ee1b022ad4cc8d0c7eb40541-714a980b99a73b78/record.json",
+      "approvalDate": "2026-10-29T15:46:58.883Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA4015",
       "family": "CT-01",
       "version": "9ae21c447307838364127562de68af72f535c50ae08a8d05b23a0f9c6dde371f-ad9530fc03dc1fa3",
-      "status": "candidate",
-      "record": "candidate/MLDA4015/9ae21c447307838364127562de68af72f535c50ae08a8d05b23a0f9c6dde371f-ad9530fc03dc1fa3/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA4015/9ae21c447307838364127562de68af72f535c50ae08a8d05b23a0f9c6dde371f-ad9530fc03dc1fa3/record.json",
+      "approvalDate": "2026-10-29T21:41:17.555Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2957",
       "family": "CT-04",
       "version": "221c6012e78fd96e542fc2fc4c172bdcece5aa8ed38740aa783dd9b7189ca6c5-a58922fa0676870f",
       "status": "approved",
-      "record": "approved/MLDA2957/221c6012e78fd96e542fc2fc4c172bdcece5aa8ed38740aa783dd9b7189ca6c5-a58922fa0676870f/record.json"
+      "record": "approved/MLDA2957/221c6012e78fd96e542fc2fc4c172bdcece5aa8ed38740aa783dd9b7189ca6c5-a58922fa0676870f/record.json",
+      "approvalDate": "2026-10-29T15:48:17.742Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3862",
       "family": "CT-08",
       "version": "76f6a11402734dd611836d389d70d3c7108e17c79f3de84bfdd9de4e96ff8323-db40288f9d77f6e4",
       "status": "approved",
-      "record": "approved/MLDA3862/76f6a11402734dd611836d389d70d3c7108e17c79f3de84bfdd9de4e96ff8323-db40288f9d77f6e4/record.json"
+      "record": "approved/MLDA3862/76f6a11402734dd611836d389d70d3c7108e17c79f3de84bfdd9de4e96ff8323-db40288f9d77f6e4/record.json",
+      "approvalDate": "2026-10-29T15:48:38.522Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA1639",
       "family": "CT-13",
       "version": "a00b0ac399184504e6c7cd9b92b3d1c81a5780726f0f03f35dcad5153f37e013-8717dbbc08e63a0f",
       "status": "approved",
-      "record": "approved/MLDA1639/a00b0ac399184504e6c7cd9b92b3d1c81a5780726f0f03f35dcad5153f37e013-8717dbbc08e63a0f/record.json"
+      "record": "approved/MLDA1639/a00b0ac399184504e6c7cd9b92b3d1c81a5780726f0f03f35dcad5153f37e013-8717dbbc08e63a0f/record.json",
+      "approvalDate": "2026-10-29T15:48:47.775Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA1864",
@@ -99,126 +118,161 @@
       "family": "CT-24",
       "version": "ab406c2f920e9ba983c8b5ed3820446810d72e965fad3c4131ee7fa710ff50b0-abeda6347acbcdb5",
       "status": "approved",
-      "record": "approved/MLDA2959/ab406c2f920e9ba983c8b5ed3820446810d72e965fad3c4131ee7fa710ff50b0-abeda6347acbcdb5/record.json"
+      "record": "approved/MLDA2959/ab406c2f920e9ba983c8b5ed3820446810d72e965fad3c4131ee7fa710ff50b0-abeda6347acbcdb5/record.json",
+      "approvalDate": "2026-10-29T15:50:01.844Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2800",
       "family": "CT-25",
       "version": "85dd268619a68cf18e06adfd74c00a617f602ac09828a7416794278e9d058b84-1cdef07dba5eda00",
       "status": "approved",
-      "record": "approved/MLDA2800/85dd268619a68cf18e06adfd74c00a617f602ac09828a7416794278e9d058b84-1cdef07dba5eda00/record.json"
+      "record": "approved/MLDA2800/85dd268619a68cf18e06adfd74c00a617f602ac09828a7416794278e9d058b84-1cdef07dba5eda00/record.json",
+      "approvalDate": "2026-10-29T15:49:53.741Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3969",
       "family": "CT-12",
       "version": "95502e66ba42cf00be8b6578fa1ccd4482e2e13d835750187da303a2d93473a5-0e4629b841b82361",
       "status": "approved",
-      "record": "approved/MLDA3969/95502e66ba42cf00be8b6578fa1ccd4482e2e13d835750187da303a2d93473a5-0e4629b841b82361/record.json"
+      "record": "approved/MLDA3969/95502e66ba42cf00be8b6578fa1ccd4482e2e13d835750187da303a2d93473a5-0e4629b841b82361/record.json",
+      "approvalDate": "2026-10-29T15:48:25.331Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA4016",
       "family": "CT-01",
       "version": "8b9303155e1fc3c289b1ac0c941f9eaf404770c3ef2429c1b16a8f6077d1133e-1ae6721c9f43c6bb",
-      "status": "candidate",
-      "record": "candidate/MLDA4016/8b9303155e1fc3c289b1ac0c941f9eaf404770c3ef2429c1b16a8f6077d1133e-1ae6721c9f43c6bb/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA4016/8b9303155e1fc3c289b1ac0c941f9eaf404770c3ef2429c1b16a8f6077d1133e-1ae6721c9f43c6bb/record.json",
+      "approvalDate": "2026-10-29T21:42:10.696Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3380",
       "family": "CT-03",
       "version": "05cc549c7ffd1239388702513bd725dab8bf3e5a43c2a84943a57ce69ca81943-6607c4563725cd1e",
       "status": "approved",
-      "record": "approved/MLDA3380/05cc549c7ffd1239388702513bd725dab8bf3e5a43c2a84943a57ce69ca81943-6607c4563725cd1e/record.json"
+      "record": "approved/MLDA3380/05cc549c7ffd1239388702513bd725dab8bf3e5a43c2a84943a57ce69ca81943-6607c4563725cd1e/record.json",
+      "approvalDate": "2026-10-29T16:17:04.971Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3383",
       "family": "CT-03",
       "version": "bbe89021621796fc70fd142d1b2457b39992100750e6dfa8fa2ca94a8ed3d986-ce956950787cdd0a",
       "status": "approved",
-      "record": "approved/MLDA3383/bbe89021621796fc70fd142d1b2457b39992100750e6dfa8fa2ca94a8ed3d986-ce956950787cdd0a/record.json"
+      "record": "approved/MLDA3383/bbe89021621796fc70fd142d1b2457b39992100750e6dfa8fa2ca94a8ed3d986-ce956950787cdd0a/record.json",
+      "approvalDate": "2026-10-29T16:18:48.052Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3384",
       "family": "CT-03",
       "version": "2020251c50f1af76b762f4a7b7611f59ee551a5600b496535da5bf5cbc0b594a-37f8f283cc36b94b",
       "status": "approved",
-      "record": "approved/MLDA3384/2020251c50f1af76b762f4a7b7611f59ee551a5600b496535da5bf5cbc0b594a-37f8f283cc36b94b/record.json"
+      "record": "approved/MLDA3384/2020251c50f1af76b762f4a7b7611f59ee551a5600b496535da5bf5cbc0b594a-37f8f283cc36b94b/record.json",
+      "approvalDate": "2026-10-29T16:18:33.249Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2956",
       "family": "CT-04",
       "version": "5700414b1b05b9fd647973ddff14d8eee12ed51159cadc581c6e5f99e16f9dc8-7f34ee570c6f0922",
-      "status": "candidate",
-      "record": "candidate/MLDA2956/5700414b1b05b9fd647973ddff14d8eee12ed51159cadc581c6e5f99e16f9dc8-7f34ee570c6f0922/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA2956/5700414b1b05b9fd647973ddff14d8eee12ed51159cadc581c6e5f99e16f9dc8-7f34ee570c6f0922/record.json",
+      "approvalDate": "2026-10-29T21:44:47.257Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2954",
       "family": "CT-04",
       "version": "c78119f56bf6d0f66ba55c45ea2a0574b990fa84bb875306ace6d63285b230fd-9f06da58aac12e47",
-      "status": "candidate",
-      "record": "candidate/MLDA2954/c78119f56bf6d0f66ba55c45ea2a0574b990fa84bb875306ace6d63285b230fd-9f06da58aac12e47/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA2954/c78119f56bf6d0f66ba55c45ea2a0574b990fa84bb875306ace6d63285b230fd-9f06da58aac12e47/record.json",
+      "approvalDate": "2026-10-29T21:45:29.594Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3388",
       "family": "CT-05",
       "version": "c54673be6c1f4565d3d36938fa5f392d1407f8bd617301263161b259d1e4d4e7-e3a93870323c6208",
       "status": "approved",
-      "record": "approved/MLDA3388/c54673be6c1f4565d3d36938fa5f392d1407f8bd617301263161b259d1e4d4e7-e3a93870323c6208/record.json"
+      "record": "approved/MLDA3388/c54673be6c1f4565d3d36938fa5f392d1407f8bd617301263161b259d1e4d4e7-e3a93870323c6208/record.json",
+      "approvalDate": "2026-10-29T16:18:58.809Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3389",
       "family": "CT-05",
       "version": "45c45378de05e7cf49fedae294fc2f7d9d89ba7f7e422a45874ffd4889d42ce3-22015f150c052698",
       "status": "approved",
-      "record": "approved/MLDA3389/45c45378de05e7cf49fedae294fc2f7d9d89ba7f7e422a45874ffd4889d42ce3-22015f150c052698/record.json"
+      "record": "approved/MLDA3389/45c45378de05e7cf49fedae294fc2f7d9d89ba7f7e422a45874ffd4889d42ce3-22015f150c052698/record.json",
+      "approvalDate": "2026-10-29T16:18:39.484Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3948",
       "family": "CT-06",
       "version": "371ab47436866a6d30fd55cfce555d2fb9ee52e3f32aa4ba0a269862069ca91c-78774426e7450be7",
       "status": "approved",
-      "record": "approved/MLDA3948/371ab47436866a6d30fd55cfce555d2fb9ee52e3f32aa4ba0a269862069ca91c-78774426e7450be7/record.json"
+      "record": "approved/MLDA3948/371ab47436866a6d30fd55cfce555d2fb9ee52e3f32aa4ba0a269862069ca91c-78774426e7450be7/record.json",
+      "approvalDate": "2026-10-29T16:17:39.945Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3947",
       "family": "CT-06",
       "version": "b1377c86add2705f5f7821422583da4816a905b0620b024de6ade1e77896491c-7a05feee5442d738",
-      "status": "candidate",
-      "record": "candidate/MLDA3947/b1377c86add2705f5f7821422583da4816a905b0620b024de6ade1e77896491c-7a05feee5442d738/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3947/b1377c86add2705f5f7821422583da4816a905b0620b024de6ade1e77896491c-7a05feee5442d738/record.json",
+      "approvalDate": "2026-10-29T21:45:55.160Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3394",
       "family": "CT-07",
       "version": "ad20a3761f8b06a768e3de3ec85e7b15538123c43b91505d52cab2f97e4d900e-7d5299e320aad094",
       "status": "approved",
-      "record": "approved/MLDA3394/ad20a3761f8b06a768e3de3ec85e7b15538123c43b91505d52cab2f97e4d900e-7d5299e320aad094/record.json"
+      "record": "approved/MLDA3394/ad20a3761f8b06a768e3de3ec85e7b15538123c43b91505d52cab2f97e4d900e-7d5299e320aad094/record.json",
+      "approvalDate": "2026-10-29T16:18:27.311Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3861",
       "family": "CT-08",
       "version": "8f190e66d0c2f2c8f4efdaac21302895f8c071e41cc5fe1dbdf1bc18221963ea-39bba4211939766e",
-      "status": "candidate",
-      "record": "candidate/MLDA3861/8f190e66d0c2f2c8f4efdaac21302895f8c071e41cc5fe1dbdf1bc18221963ea-39bba4211939766e/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3861/8f190e66d0c2f2c8f4efdaac21302895f8c071e41cc5fe1dbdf1bc18221963ea-39bba4211939766e/record.json",
+      "approvalDate": "2026-10-29T21:43:36.800Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA4018",
       "family": "CT-08",
       "version": "c2264fdd4384d8e4d3353ff3283ac72a6a73a31448029c386e686c8bfe00df01-4bc5a660d871cd6a",
-      "status": "candidate",
-      "record": "candidate/MLDA4018/c2264fdd4384d8e4d3353ff3283ac72a6a73a31448029c386e686c8bfe00df01-4bc5a660d871cd6a/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA4018/c2264fdd4384d8e4d3353ff3283ac72a6a73a31448029c386e686c8bfe00df01-4bc5a660d871cd6a/record.json",
+      "approvalDate": "2026-10-29T21:47:16.443Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA4017",
       "family": "CT-08",
       "version": "round1-457a82c4143b5fb295682592-21676a7420874ba9",
-      "status": "candidate",
-      "record": "candidate/MLDA4017/round1-457a82c4143b5fb295682592-21676a7420874ba9/record.json"
+      "status": "superseded",
+      "record": "candidate/MLDA4017/round1-457a82c4143b5fb295682592-21676a7420874ba9/record.json",
+      "supersededBy": "candidate/MLDA4017/P1-457a82c4143b5fb2-21676a742087/record.json"
     },
     {
       "eframeCode": "MLDA3866",
       "family": "CT-08",
       "version": "round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630",
-      "status": "candidate",
-      "record": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json",
+      "approvalDate": "2026-10-29T21:48:17.059Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3864",
@@ -232,42 +286,54 @@
       "family": "CT-09",
       "version": "dadb34ecf6c0d84decb653dd64ec9fc13ecaebfc1d33b497804a0475ac594d0a-b4a2e6752d8a901b",
       "status": "approved",
-      "record": "approved/MLDA2536/dadb34ecf6c0d84decb653dd64ec9fc13ecaebfc1d33b497804a0475ac594d0a-b4a2e6752d8a901b/record.json"
+      "record": "approved/MLDA2536/dadb34ecf6c0d84decb653dd64ec9fc13ecaebfc1d33b497804a0475ac594d0a-b4a2e6752d8a901b/record.json",
+      "approvalDate": "2026-10-29T16:19:10.154Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2533",
       "family": "CT-09",
       "version": "937227f2788c249742f0da7926e17714b23efdc63104795b0944383136c4792f-ad153eca3dafd85c",
-      "status": "candidate",
-      "record": "candidate/MLDA2533/937227f2788c249742f0da7926e17714b23efdc63104795b0944383136c4792f-ad153eca3dafd85c/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA2533/937227f2788c249742f0da7926e17714b23efdc63104795b0944383136c4792f-ad153eca3dafd85c/record.json",
+      "approvalDate": "2026-10-29T21:43:24.315Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2532",
       "family": "CT-09",
       "version": "09c6a87eb47b7bcf1eb35064a756bb913c6e379cd82ac1e311b780316c782cdc-316aa89db982b00f",
       "status": "approved",
-      "record": "approved/MLDA2532/09c6a87eb47b7bcf1eb35064a756bb913c6e379cd82ac1e311b780316c782cdc-316aa89db982b00f/record.json"
+      "record": "approved/MLDA2532/09c6a87eb47b7bcf1eb35064a756bb913c6e379cd82ac1e311b780316c782cdc-316aa89db982b00f/record.json",
+      "approvalDate": "2026-10-29T16:17:29.603Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3908",
       "family": "CT-09",
       "version": "07b35fd8dfdc2b7b5f189aa7bddefff57d1332f2f3bc04410dd8739e7294b9fa-622f18d1f292063e",
-      "status": "candidate",
-      "record": "candidate/MLDA3908/07b35fd8dfdc2b7b5f189aa7bddefff57d1332f2f3bc04410dd8739e7294b9fa-622f18d1f292063e/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3908/07b35fd8dfdc2b7b5f189aa7bddefff57d1332f2f3bc04410dd8739e7294b9fa-622f18d1f292063e/record.json",
+      "approvalDate": "2026-10-29T21:45:43.249Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3032",
       "family": "CT-10",
       "version": "9ea8aa71b938aaaba182f1853ab073cafd4c3e496633f41eb5379ff293a66c78-2ab2f75e6dac88ad",
       "status": "approved",
-      "record": "approved/MLDA3032/9ea8aa71b938aaaba182f1853ab073cafd4c3e496633f41eb5379ff293a66c78-2ab2f75e6dac88ad/record.json"
+      "record": "approved/MLDA3032/9ea8aa71b938aaaba182f1853ab073cafd4c3e496633f41eb5379ff293a66c78-2ab2f75e6dac88ad/record.json",
+      "approvalDate": "2026-10-29T16:19:15.250Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3030",
       "family": "CT-10",
       "version": "8bad6162f453da1ff95d04efca0009c195f524687928a2f8ef76dc2be9d6b93b-f151ef9e2d84af0c",
-      "status": "candidate",
-      "record": "candidate/MLDA3030/8bad6162f453da1ff95d04efca0009c195f524687928a2f8ef76dc2be9d6b93b-f151ef9e2d84af0c/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3030/8bad6162f453da1ff95d04efca0009c195f524687928a2f8ef76dc2be9d6b93b-f151ef9e2d84af0c/record.json",
+      "approvalDate": "2026-10-29T21:45:01.994Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3972",
@@ -281,35 +347,44 @@
       "family": "CT-12",
       "version": "3931b4124195f9b9af96b0000ab6831e6218615b46112778c722715b0eacab3f-d295f8366bae12f8",
       "status": "approved",
-      "record": "approved/MLDA3971/3931b4124195f9b9af96b0000ab6831e6218615b46112778c722715b0eacab3f-d295f8366bae12f8/record.json"
+      "record": "approved/MLDA3971/3931b4124195f9b9af96b0000ab6831e6218615b46112778c722715b0eacab3f-d295f8366bae12f8/record.json",
+      "approvalDate": "2026-10-29T16:17:18.807Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3970",
       "family": "CT-12",
       "version": "round2-37f5d3d30dd115de1671f8e7-2b0dbf9bdd62683b",
-      "status": "candidate",
-      "record": "candidate/MLDA3970/round2-37f5d3d30dd115de1671f8e7-2b0dbf9bdd62683b/record.json"
+      "status": "superseded",
+      "record": "candidate/MLDA3970/round2-37f5d3d30dd115de1671f8e7-2b0dbf9bdd62683b/record.json",
+      "supersededBy": "candidate/MLDA3970/P1-37f5d3d30dd115de-2b0dbf9bdd62/record.json"
     },
     {
       "eframeCode": "MLDA3975",
       "family": "CT-12",
       "version": "e520901afc770a510c0acc8d02d0c45e2248d0e90468782cdedcc5c0b1bb433e-a82969cccbf5ccd4",
-      "status": "candidate",
-      "record": "candidate/MLDA3975/e520901afc770a510c0acc8d02d0c45e2248d0e90468782cdedcc5c0b1bb433e-a82969cccbf5ccd4/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3975/e520901afc770a510c0acc8d02d0c45e2248d0e90468782cdedcc5c0b1bb433e-a82969cccbf5ccd4/record.json",
+      "approvalDate": "2026-10-29T21:44:21.978Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3974",
       "family": "CT-12",
       "version": "4e2738022f76988e17493d8db43c7f0bb160101c5dbb579b7211559b711b5e0a-a72705a1a61e8c76",
-      "status": "candidate",
-      "record": "candidate/MLDA3974/4e2738022f76988e17493d8db43c7f0bb160101c5dbb579b7211559b711b5e0a-a72705a1a61e8c76/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3974/4e2738022f76988e17493d8db43c7f0bb160101c5dbb579b7211559b711b5e0a-a72705a1a61e8c76/record.json",
+      "approvalDate": "2026-10-29T21:46:05.546Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA4020",
       "family": "CT-14",
       "version": "6c98bc178fb5a0ec9c0856a989776818288ccbc362327c92ee9aff79a65ecb47-a31948cccb2376b1",
-      "status": "candidate",
-      "record": "candidate/MLDA4020/6c98bc178fb5a0ec9c0856a989776818288ccbc362327c92ee9aff79a65ecb47-a31948cccb2376b1/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA4020/6c98bc178fb5a0ec9c0856a989776818288ccbc362327c92ee9aff79a65ecb47-a31948cccb2376b1/record.json",
+      "approvalDate": "2026-10-29T21:48:07.188Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA4019",
@@ -329,64 +404,82 @@
       "eframeCode": "MLDA4040",
       "family": "CT-16",
       "version": "round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a",
-      "status": "candidate",
-      "record": "candidate/MLDA4040/round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA4040/round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a/record.json",
+      "approvalDate": "2026-10-29T21:40:05.717Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2965",
       "family": "CT-21",
       "version": "1b85e82e7b4345497516b562b2f485078a779beb8f194e16537baed7fb0cef01-8d075c3cf84e3c56",
-      "status": "candidate",
-      "record": "candidate/MLDA2965/1b85e82e7b4345497516b562b2f485078a779beb8f194e16537baed7fb0cef01-8d075c3cf84e3c56/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA2965/1b85e82e7b4345497516b562b2f485078a779beb8f194e16537baed7fb0cef01-8d075c3cf84e3c56/record.json",
+      "approvalDate": "2026-10-29T21:47:31.075Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2960",
       "family": "CT-24",
       "version": "5eee8126cbe206019d01673cbf5c90bb211b22c9944eb012b902287e5b1e407f-1668dc12c3f07b95",
       "status": "approved",
-      "record": "approved/MLDA2960/5eee8126cbe206019d01673cbf5c90bb211b22c9944eb012b902287e5b1e407f-1668dc12c3f07b95/record.json"
+      "record": "approved/MLDA2960/5eee8126cbe206019d01673cbf5c90bb211b22c9944eb012b902287e5b1e407f-1668dc12c3f07b95/record.json",
+      "approvalDate": "2026-10-29T16:18:18.287Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2801",
       "family": "CT-25",
       "version": "5f9722dfb158680d2c751999f501d0bee1556639011467fdd6d6179e164478dc-730f93707cdc09e3",
-      "status": "candidate",
-      "record": "candidate/MLDA2801/5f9722dfb158680d2c751999f501d0bee1556639011467fdd6d6179e164478dc-730f93707cdc09e3/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA2801/5f9722dfb158680d2c751999f501d0bee1556639011467fdd6d6179e164478dc-730f93707cdc09e3/record.json",
+      "approvalDate": "2026-10-29T21:42:57.391Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2955",
       "family": "CT-04",
       "version": "404e01e5c0427da6ab166669ef932cd25a33eb78fb390de0ef64e138a883854c-c81a659b1a5dc9c2",
       "status": "approved",
-      "record": "approved/MLDA2955/404e01e5c0427da6ab166669ef932cd25a33eb78fb390de0ef64e138a883854c-c81a659b1a5dc9c2/record.json"
+      "record": "approved/MLDA2955/404e01e5c0427da6ab166669ef932cd25a33eb78fb390de0ef64e138a883854c-c81a659b1a5dc9c2/record.json",
+      "approvalDate": "2026-10-29T16:15:34.053Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA3027",
       "family": "CT-11",
       "version": "51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff",
-      "status": "candidate",
-      "record": "candidate/MLDA3027/51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA3027/51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff/record.json",
+      "approvalDate": "2026-10-29T21:49:07.223Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA1640",
       "family": "CT-13",
       "version": "bd6c029abc75f6eb9e100c3894929264bc86e0e7641402b4181dc122f49afdf7-5eb07fbde3b81c7e",
-      "status": "candidate",
-      "record": "candidate/MLDA1640/bd6c029abc75f6eb9e100c3894929264bc86e0e7641402b4181dc122f49afdf7-5eb07fbde3b81c7e/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA1640/bd6c029abc75f6eb9e100c3894929264bc86e0e7641402b4181dc122f49afdf7-5eb07fbde3b81c7e/record.json",
+      "approvalDate": "2026-10-29T21:40:42.123Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA1600",
       "family": "CT-22",
       "version": "round5-1db7967954ab50f0cf684029-a3411cf92dd28360",
-      "status": "candidate",
-      "record": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/record.json"
+      "status": "approved",
+      "record": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/record.json",
+      "approvalDate": "2026-10-29T21:47:35.477Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA1864",
       "family": "CT-17",
       "version": "dc4c86755c923d25062347e66b978c8112d01917184350ea0db3fcdd36a3ef16-6150be6c642e4313",
       "status": "approved",
-      "record": "approved/MLDA1864/dc4c86755c923d25062347e66b978c8112d01917184350ea0db3fcdd36a3ef16-6150be6c642e4313/record.json"
+      "record": "approved/MLDA1864/dc4c86755c923d25062347e66b978c8112d01917184350ea0db3fcdd36a3ef16-6150be6c642e4313/record.json",
+      "approvalDate": "2026-10-29T16:14:58.379Z",
+      "approvalEvidence": "instructions/current-status.json"
     },
     {
       "eframeCode": "MLDA2535",
@@ -471,6 +564,20 @@
       "version": "fc9d46d91aa38fd282eb8da6e400fdbf5daf43d6c1db5de279b7a2ef74774273-770296477b73b72a",
       "status": "archived",
       "record": "archived/MLDA3949/fc9d46d91aa38fd282eb8da6e400fdbf5daf43d6c1db5de279b7a2ef74774273-770296477b73b72a/record.json"
+    },
+    {
+      "eframeCode": "MLDA4017",
+      "family": "CT-08",
+      "version": "P1-457a82c4143b5fb2-21676a742087",
+      "status": "candidate",
+      "record": "candidate/MLDA4017/P1-457a82c4143b5fb2-21676a742087/record.json"
+    },
+    {
+      "eframeCode": "MLDA3970",
+      "family": "CT-12",
+      "version": "P1-37f5d3d30dd115de-2b0dbf9bdd62",
+      "status": "candidate",
+      "record": "candidate/MLDA3970/P1-37f5d3d30dd115de-2b0dbf9bdd62/record.json"
     }
   ],
   "instructions": "instructions/README.md",
@@ -617,14 +724,14 @@
     "MLDA3947": "candidate/MLDA3947/b1377c86add2705f5f7821422583da4816a905b0620b024de6ade1e77896491c-7a05feee5442d738/record.json",
     "MLDA3861": "candidate/MLDA3861/8f190e66d0c2f2c8f4efdaac21302895f8c071e41cc5fe1dbdf1bc18221963ea-39bba4211939766e/record.json",
     "MLDA4018": "candidate/MLDA4018/c2264fdd4384d8e4d3353ff3283ac72a6a73a31448029c386e686c8bfe00df01-4bc5a660d871cd6a/record.json",
-    "MLDA4017": "candidate/MLDA4017/round1-457a82c4143b5fb295682592-21676a7420874ba9/record.json",
+    "MLDA4017": "candidate/MLDA4017/P1-457a82c4143b5fb2-21676a742087/record.json",
     "MLDA3866": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json",
     "MLDA3864": "candidate/MLDA3864/round1-9444f6f0a5e07005091d9729-009693e3fce1f5b3/record.json",
     "MLDA2533": "candidate/MLDA2533/937227f2788c249742f0da7926e17714b23efdc63104795b0944383136c4792f-ad153eca3dafd85c/record.json",
     "MLDA3908": "candidate/MLDA3908/07b35fd8dfdc2b7b5f189aa7bddefff57d1332f2f3bc04410dd8739e7294b9fa-622f18d1f292063e/record.json",
     "MLDA3030": "candidate/MLDA3030/8bad6162f453da1ff95d04efca0009c195f524687928a2f8ef76dc2be9d6b93b-f151ef9e2d84af0c/record.json",
     "MLDA3972": "candidate/MLDA3972/round1-127c7b9a2d311615ee6d6e97-0546cc4386f2ef2a/record.json",
-    "MLDA3970": "candidate/MLDA3970/round2-37f5d3d30dd115de1671f8e7-2b0dbf9bdd62683b/record.json",
+    "MLDA3970": "candidate/MLDA3970/P1-37f5d3d30dd115de-2b0dbf9bdd62/record.json",
     "MLDA3975": "candidate/MLDA3975/e520901afc770a510c0acc8d02d0c45e2248d0e90468782cdedcc5c0b1bb433e-a82969cccbf5ccd4/record.json",
     "MLDA3974": "candidate/MLDA3974/4e2738022f76988e17493d8db43c7f0bb160101c5dbb579b7211559b711b5e0a-a72705a1a61e8c76/record.json",
     "MLDA4020": "candidate/MLDA4020/6c98bc178fb5a0ec9c0856a989776818288ccbc362327c92ee9aff79a65ecb47-a31948cccb2376b1/record.json",
@@ -649,5 +756,14 @@
     "models": 58,
     "approvedModels": 51
   },
-  "currentStatusAt": "2026-10-29T21:55:26.601875+00:00"
+  "currentStatusAt": "2026-10-29T21:55:26.601875+00:00",
+  "currentProfileCandidateByFamily": {
+    "CT-02": "profiles/CT-02/P1-fbf5a65fb1362ba6/outline.json",
+    "CT-18": "profiles/CT-18/P1-5b05de71d2729b11/outline.json",
+    "CT-19": "profiles/CT-19/P1-6c7e6eff22ae0539/outline.json",
+    "CT-20": "profiles/CT-20/P1-4629f1d98855f4cc/outline.json",
+    "CT-23": "profiles/CT-23/P1-9aec35ed19c55e18/outline.json"
+  },
+  "profileTextureP1Report": "instructions/profile-texture-round-P1.json",
+  "countsScope": "Repository version inventory; current app review counts are in currentStatusCounts."
 }

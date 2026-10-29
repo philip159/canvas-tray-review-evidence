@@ -1,0 +1,233 @@
+{
+  "family": "CT-20",
+  "reference": "MLDA1771",
+  "status": "candidate-needs-Philip-profile-approval",
+  "sourceProfileChecksum": "dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221",
+  "sourceImage": "/api/canvas-tray-review/assets/CT-20-4eb9c4eaf13e-colour-source.png",
+  "method": "Photo-reviewed run classification; constrained least-squares straight runs; circular tangent corner fillets with three facets.",
+  "photoReview": "Photo-confirmed pixel staircases removed before fitting; deliberate section slopes retained.",
+  "fitRunIndices": {
+    "wall": [
+      5,
+      6,
+      7
+    ],
+    "slope": [
+      8,
+      9
+    ]
+  },
+  "before": {
+    "vertices": 26,
+    "turnsAtLeast20Degrees": 15
+  },
+  "after": {
+    "vertices": 24,
+    "realCorners": 6,
+    "straightSegmentCount": 6
+  },
+  "straightCornerSkeletonMm": [
+    [
+      0.0,
+      -0.33109694534995104
+    ],
+    [
+      62.30733064876232,
+      16.10592933335961
+    ],
+    [
+      56.085900942484535,
+      35.0
+    ],
+    [
+      11.085900942484537,
+      35.0
+    ],
+    [
+      11.085900942484537,
+      73.0
+    ],
+    [
+      0.0,
+      73.0
+    ]
+  ],
+  "outlineMm": [
+    [
+      0.0,
+      0.966920210267921
+    ],
+    [
+      0.18010873133082417,
+      0.39440094634743983
+    ],
+    [
+      0.6555566151200989,
+      0.028113119001309084
+    ],
+    [
+      1.2550790210414016,
+      0.0
+    ],
+    [
+      61.28040937905514,
+      15.835021693430443
+    ],
+    [
+      61.743789326175545,
+      16.10637256059311
+    ],
+    [
+      61.99999999999999,
+      16.578292425741477
+    ],
+    [
+      61.97516247151647,
+      17.114702125208282
+    ],
+    [
+      56.31219489727444,
+      34.31276022150992
+    ],
+    [
+      56.10374818398659,
+      34.67107949480537
+    ],
+    [
+      55.76789977665561,
+      34.914078633052256
+    ],
+    [
+      55.36236278377171,
+      35.0
+    ],
+    [
+      12.085900942484537,
+      35.0
+    ],
+    [
+      11.585900942484537,
+      35.13397459621556
+    ],
+    [
+      11.219875538700098,
+      35.5
+    ],
+    [
+      11.085900942484537,
+      36.0
+    ],
+    [
+      11.085900942484537,
+      72.0
+    ],
+    [
+      10.951926346268976,
+      72.5
+    ],
+    [
+      10.585900942484537,
+      72.86602540378443
+    ],
+    [
+      10.085900942484537,
+      73.0
+    ],
+    [
+      1.0000000000000002,
+      73.0
+    ],
+    [
+      0.5000000000000002,
+      72.86602540378443
+    ],
+    [
+      0.13397459621556151,
+      72.5
+    ],
+    [
+      0.0,
+      72.0
+    ],
+    [
+      0.0,
+      0.966920210267921
+    ]
+  ],
+  "cornerRounding": {
+    "facetsPerCorner": 3,
+    "radiiMm": [
+      1.0,
+      0.9999999999999999,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "vertexGroups": [
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11
+      ],
+      [
+        12,
+        13,
+        14,
+        15
+      ],
+      [
+        16,
+        17,
+        18,
+        19
+      ],
+      [
+        20,
+        21,
+        22,
+        23
+      ]
+    ],
+    "shortFeaturePolicy": "Radius capped so each tangent consumes at most 24% of its adjacent edge."
+  },
+  "checks": {
+    "closed": true,
+    "counterclockwise": true,
+    "selfIntersections": false,
+    "allNonRoundingTurnsAtLeast20Degrees": true,
+    "minimumSkeletonTurnDegrees": 71.7743467597101,
+    "dimensionsActualMm": {
+      "Item Width": 73.0,
+      "Item Depth": 61.99999999999999,
+      "Rebate Width": 38.0,
+      "Rebate Depth": 45.0
+    },
+    "dimensionsTargetMm": {
+      "Item Width": 73,
+      "Item Depth": 62,
+      "Rebate Width": 38,
+      "Rebate Depth": 45
+    },
+    "maximumDimensionResidualMm": 7.105427357601002e-15
+  },
+  "dimensionConvention": "Rebate depth is the nominal straight ledge opening between virtual wall/front datums; tangent rounding is not subtracted. Outer envelope is measured on the actual faceted outline.",
+  "limitations": [
+    "A candidate reconstruction, not supplier-certified geometry. Small-feature radii are explicitly capped.",
+    "Photo overlay uses original independent X/Y dimension-bar calibration; discrepancies are visible, not warped away.",
+    "No model built from this unapproved profile."
+  ]
+}
