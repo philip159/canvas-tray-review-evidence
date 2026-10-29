@@ -3,53 +3,53 @@
   "scope": "All payloads except checksum control files; historical partitions retained; Git commit binds index.",
   "parts": [
     {
-      "path": "checksums/P2-001.json",
+      "path": "checksums/P3-001.json",
       "sha256": "4c632a95abe8c7aa03043490394190ba1b6eafa60458e74bcac91d1b1ee152c2"
     },
     {
-      "path": "checksums/P2-002.json",
+      "path": "checksums/P3-002.json",
       "sha256": "704d40ccb35e695f2f75ba514345ca07a90d1401f4afa299ea857e03def1b058"
     },
     {
-      "path": "checksums/P2-003.json",
+      "path": "checksums/P3-003.json",
       "sha256": "73713bb7584b323d89f6e8609fc5c5999a207f097b751652d19493be761accd8"
     },
     {
-      "path": "checksums/P2-004.json",
-      "sha256": "d284665a73b0e76edf4abb8a973b66969b4ef262f9affb32aaa6143004768365"
+      "path": "checksums/P3-004.json",
+      "sha256": "9fda389c8d9bd8e0cf1a672f4ba5c32955d8757ac045eaf34021df9789cb25b3"
     },
     {
-      "path": "checksums/P2-005.json",
-      "sha256": "cc5d1721b0f4bb45958cc27f878cd0925bc96ec2aed5eba77d8006c147641d1a"
+      "path": "checksums/P3-005.json",
+      "sha256": "0577819a1716becd94563e2cfad9f14ad0652be5470d73f0bcc2935a8bed0478"
     },
     {
-      "path": "checksums/P2-006.json",
-      "sha256": "d774bc97a87816fc95ba3d299b11bb665c04eb4296b33c10ba97b19a07ff0ea1"
+      "path": "checksums/P3-006.json",
+      "sha256": "6dd3ff531e5b0889de239d55641cf4f9373e8e95d88c7f7e37ce8e21c9ad5fc5"
     },
     {
-      "path": "checksums/P2-007.json",
-      "sha256": "382325aee8b6b3c59bdb775e03f50f08ed4a416aa01592d032d01781594fef0b"
+      "path": "checksums/P3-007.json",
+      "sha256": "78578e16536fa989d8f256da53ceae307494a13d9cd6e16d44feb373a00ae103"
     },
     {
-      "path": "checksums/P2-008.json",
-      "sha256": "06202e47c1f8b3e6b5b231a707cbba0f1d36d8a76c1405967cd3be8f11806529"
+      "path": "checksums/P3-008.json",
+      "sha256": "e4bc975e68f89877e139165862859cbfb2ea8d0281de90fdeb044603cf5fa3b5"
     },
     {
-      "path": "checksums/P2-009.json",
-      "sha256": "c8e0260c8d5f1114bfbd9526d12a93ad16d19de6f2b6ba3e519e92150a774045"
+      "path": "checksums/P3-009.json",
+      "sha256": "810a90673c34a9deaddb44f96e9d5a30d46133c6e11f750c07b9c5f10fb0c8e5"
     },
     {
-      "path": "checksums/P2-010.json",
-      "sha256": "df48161f4fd904386be5be29d938e00fee719e6fc163cb189035ddcfcc44c390"
+      "path": "checksums/P3-010.json",
+      "sha256": "b258fc79bb28684d5b08be84cba2bdd7a645d5e4c924cd0fa0933fadf752e21f"
     },
     {
-      "path": "checksums/P2-011.json",
-      "sha256": "acd253ce9cf6569de55373f8a2bca717be99c2ae09311d19bdf9132971dba6df"
+      "path": "checksums/P3-011.json",
+      "sha256": "d8005772d6c2c0894171bb0106d12eb63cf2cd3a130d7a009215fe9e75ffcdf3"
     },
     {
-      "path": "checksums/P2-012.json",
-      "sha256": "64b1fbb83cae8e88d3f67fafdfd8abcc81d226968edb8227a5da32c69f993145"
+      "path": "checksums/P3-012.json",
+      "sha256": "787cb1e9635ac6d48eb3a25bfffb8b0792b37485926e00c729d73aefa631df83"
     }
   ],
-  "fileCount": 1143
+  "fileCount": 1168
 }

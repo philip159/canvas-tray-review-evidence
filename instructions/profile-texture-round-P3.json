@@ -1,0 +1,201 @@
+{
+  "models": [
+    {
+      "reference": "MLDA1660",
+      "path": "candidate/MLDA1660/P3-9a0ce608df23991d-442b4f5d0ec4",
+      "finish": {
+        "name": "aged-metallic",
+        "metallic": 1,
+        "roughness": 0.45,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "none"
+      }
+    },
+    {
+      "reference": "MLDA3031",
+      "path": "candidate/MLDA3031/P3-82da0ab264da4c89-14dc37f818b4",
+      "finish": {
+        "name": "plain-paint",
+        "metallic": 0,
+        "roughness": 0.7,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "none"
+      }
+    }
+  ],
+  "twoTone": [
+    {
+      "reference": "MLDA2199",
+      "sourceFields": {
+        "Finish": "Paint",
+        "Colour": "Black/Orange",
+        "Collection Name": "Andover"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/236124471_1.jpg",
+      "sourceSha256": "068393ad7095c1d503f6eb194a7050c269c34c1f9e5bfde12857f953a852d54c",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-236124471?returnurl=%2fsearch%3fq%3d236124471",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour.",
+      "identityConflict": "Records Black/Orange; P2 called this Silver. No remap performed."
+    },
+    {
+      "reference": "MLDA2200",
+      "sourceFields": {
+        "Finish": "Foil",
+        "Colour": "Silver",
+        "Collection Name": "Andover"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/236124653_1.jpg",
+      "sourceSha256": "b3c362b8a52e0b274556f433536d7b354b5f20aa3aa8fb731eb98c8e42ceb60a",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-236124653?returnurl=%2fsearch%3fq%3d236124653",
+      "twoTone": false,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA3239",
+      "sourceFields": {
+        "Finish": "Foil/Paint",
+        "Colour": "Black/Silver",
+        "Collection Name": "Winchester"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/942006054_1.jpg",
+      "sourceSha256": "fbdc7649ae2c259752ecab1960f07c1e45f2731e460bcda2aaf0801ebe40b98f",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-winchester-float-moulding-942006054?returnurl=%2fsearch%3fq%3d942006054",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA3240",
+      "sourceFields": {
+        "Finish": "Foil/Paint",
+        "Colour": "Black/Gold",
+        "Collection Name": "Winchester"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/942006055_1.jpg",
+      "sourceSha256": "fffda2d6f9ee2293224b0727044ea41f616a8aeafa08229e0642250b8bf593f8",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-winchester-float-moulding-942006055?returnurl=%2fsearch%3fq%3d942006055",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA3241",
+      "sourceFields": {
+        "Finish": "Paint",
+        "Colour": "Black",
+        "Collection Name": "Winchester"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/942006086_1.jpg",
+      "sourceSha256": "8b565ac46e046da4ae551257c9b6bd552ba9daa4e98d4fe4ac0b24e330b5feb4",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-winchester-float-moulding-942006086?returnurl=%2fsearch%3fq%3d942006086",
+      "twoTone": false,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA1865",
+      "sourceFields": {
+        "Finish": "Paint/Leaf",
+        "Colour": "Black/Silver",
+        "Collection Name": "Verdi"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/913054_1.jpg",
+      "sourceSha256": "0d7d834072b31661d5cfaf10e03daff0c6ad96f73a0e6b49d8381c8ac4f65925",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-verdi-float-moulding-913054?returnurl=%2fsearch%3fq%3d913054",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA1866",
+      "sourceFields": {
+        "Finish": "Paint/Leaf",
+        "Colour": "Black/Gold",
+        "Collection Name": "Verdi"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/913055_1.jpg",
+      "sourceSha256": "0004fb09ece9b492721690e945c1c0e070e75b6290e3094045cac33958192f04",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-verdi-float-moulding-913055?returnurl=%2fsearch%3fq%3d913055",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA1867",
+      "sourceFields": {
+        "Finish": "Paint",
+        "Colour": "Black",
+        "Collection Name": "Verdi"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/913086_1.jpg",
+      "sourceSha256": "2165dd92254326c3bb52da9af2d27ac9b8749cd66b6e5464f44d3c3dcd660a81",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-verdi-float-moulding-913086?returnurl=%2fsearch%3fq%3d913086",
+      "twoTone": false,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA1771",
+      "sourceFields": {
+        "Finish": "Paint/Foil",
+        "Colour": "Silver",
+        "Collection Name": "Eiffel"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/695100_1.jpg",
+      "sourceSha256": "e8aed74d135f5744b695ccfc4d40167092bbacfd4dc03a298178520d1cfc5bf3",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695100?returnurl=%2fsearch%3fq%3d695100",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA1772",
+      "sourceFields": {
+        "Finish": "Paint/Foil",
+        "Colour": "Pewter",
+        "Collection Name": "Eiffel"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/695110_1.jpg",
+      "sourceSha256": "c135f3ad35ee8612789ebc4aa04c81e2597d396e7d127e56c41b636d8521d657",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695110?returnurl=%2fsearch%3fq%3d695110",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA1773",
+      "sourceFields": {
+        "Finish": "Paint/Foil",
+        "Colour": "Gold",
+        "Collection Name": "Eiffel"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/695120_1.jpg",
+      "sourceSha256": "948d12ad832b76c3a7e20a4f904502aa14bbc7ea3d1a6aa5334da2da01235590",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695120?returnurl=%2fsearch%3fq%3d695120",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA1774",
+      "sourceFields": {
+        "Finish": "Paint/Foil",
+        "Colour": "Bronze",
+        "Collection Name": "Eiffel"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/695130_1.jpg",
+      "sourceSha256": "8e989644f0f6161c7b7a103e148d60966245abb46711642051d3f8dc883363a0",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695130?returnurl=%2fsearch%3fq%3d695130",
+      "twoTone": true,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    },
+    {
+      "reference": "MLDA2961",
+      "sourceFields": {
+        "Finish": "Paint",
+        "Colour": "Black",
+        "Collection Name": "Essentials"
+      },
+      "source": "https://larsonjuhl.co.uk/product/image/large/513287000_1.jpg",
+      "sourceSha256": "8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3",
+      "supplierPage": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+      "twoTone": false,
+      "basis": "Archived own-source photo plus supplier record; contrasting metallic face and painted side count as two-tone, not merely slash-separated Colour."
+    }
+  ],
+  "scope": "Candidates only; no approvals, application assets, installation or live changes."
+}
