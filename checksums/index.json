@@ -1,30 +1,30 @@
 {
   "algorithm": "SHA-256",
-  "scope": "All current and retained payloads except checksum control files; old partitions retained. Git commit binds index.",
+  "scope": "All payloads except checksum control files; historical partitions retained; Git commit binds index.",
   "parts": [
     {
-      "path": "checksums/round1-part-001.json",
+      "path": "checksums/round2-part-001.json",
       "sha256": "5bbc14d3d103e8d01756970f866d9dff64751353696ac7c30d4b80ca38576b35"
     },
     {
-      "path": "checksums/round1-part-002.json",
-      "sha256": "559a02927765cf314b48b9672f8f209b48fdc61a9916904831f26328e08d07c9"
+      "path": "checksums/round2-part-002.json",
+      "sha256": "a5763c794e13c461bf904f13a8b70824df5f7b8b8c93c028dc5e5e83afa2e53a"
     },
     {
-      "path": "checksums/round1-part-003.json",
-      "sha256": "185d8599a1f6e8af614e85da7ddd5b546d4739d4cc1d6514c65c1c99746c8442"
+      "path": "checksums/round2-part-003.json",
+      "sha256": "e50a257cf538422d788cfcd4e7ef7c772c2684848b7f5df56ccc065ee6d95de1"
     },
     {
-      "path": "checksums/round1-part-004.json",
-      "sha256": "b257badd730d05e7676223ea47cb4c194c4d6abb02a84b89622324bdac05b1af"
+      "path": "checksums/round2-part-004.json",
+      "sha256": "8b29843fad8d541f0ac87c97599f6dc3bc27868c97ffd5d27136d1cc4b9d1df7"
     },
     {
-      "path": "checksums/round1-part-005.json",
-      "sha256": "bde522cf41e465d10086845ae50a40db7d65d3e242c8d4b8795ad3a8a624df25"
+      "path": "checksums/round2-part-005.json",
+      "sha256": "06b2f9876d06679c4e9e3833e98c03619f9195b4ee14b3922409e7a54d7fd5e5"
     },
     {
-      "path": "checksums/round1-part-006.json",
-      "sha256": "0d4396409a0a78d1ff8b1cf68b0b0e432f8bc4106c702b1538a5a01e74d0f289"
+      "path": "checksums/round2-part-006.json",
+      "sha256": "67f8da55eb1f3881ac61c1dfa9386e754a614d650478900e192d0d21c94b7ddf"
     }
   ]
 }

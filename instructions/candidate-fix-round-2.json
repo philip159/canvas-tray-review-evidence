@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-10-29T18:33:14.388268+00:00",
+  "baseCommit": "26ff63519b31cd2a8bf88d2fa791930df56e6ee2",
+  "newCandidates": [
+    {
+      "code": "MLDA3970",
+      "record": "candidate/MLDA3970/round2-37f5d3d30dd115de1671f8e7-2b0dbf9bdd62683b/record.json",
+      "versionPath": "candidate/MLDA3970/round2-37f5d3d30dd115de1671f8e7-2b0dbf9bdd62683b",
+      "baseSrgb": [
+        150,
+        138,
+        140
+      ],
+      "roughness": 0.35,
+      "metallic": 1,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": null,
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA1600",
+      "record": "candidate/MLDA1600/round2-3b95e53b1d9e96fcecb94051-969375c6a23a70bb/record.json",
+      "versionPath": "candidate/MLDA1600/round2-3b95e53b1d9e96fcecb94051-969375c6a23a70bb",
+      "baseSrgb": [
+        30.972840974329532,
+        28.227528910030344,
+        34.08088821454933
+      ],
+      "roughness": 0.3,
+      "metallic": 0.0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            30.972840974329532,
+            28.227528910030344,
+            34.08088821454933
+          ],
+          "stdRgb": [
+            3.666363855746055,
+            3.2734190596930373,
+            3.321005870960054
+          ],
+          "lowFrequencyVariationPercent": 3.2032503191065294,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 1.3491484184914846,
+        "maxRowMeanStep8bit": 0.9704119850187283,
+        "wrapColumnMeanStep8bit": 1.136253041362533,
+        "wrapRowMeanStep8bit": 0.3598501872659199,
+        "status": "PASS",
+        "scope": "Numerical line/stripe and low-frequency screen; not visual certification. Threshold: adjacent/wrap row/column mean jump <3 sRGB code values; low-frequency variation <5%."
+      },
+      "initialLineCheck": null
+    }
+  ],
+  "notCompleted": [],
+  "round1ReviewForRecords": {
+    "readyForPhilipReviewNotApproved": [
+      "MLDA3864",
+      "MLDA3866",
+      "MLDA3972",
+      "MLDA4017",
+      "MLDA4019",
+      "MLDA4039"
+    ],
+    "MLDA4040": "Untouched; no further attempts; awaiting Philip",
+    "MLDA2208": "Exclusion unchanged"
+  },
+  "notes": [
+    "Whole-tray own-photo Komodo texture; no front-edge-only distress attempted.",
+    "Numeric screens and native file checks do not confer visual or phone approval.",
+    "No failed candidate-build or material-check attempts."
+  ]
+}
