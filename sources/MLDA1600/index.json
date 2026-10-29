@@ -1,0 +1,250 @@
+{
+  "eframeCode": "MLDA1600",
+  "ljCode": "401250",
+  "images": [
+    {
+      "path": "sources/MLDA1600/f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470-401250_1.jpg",
+      "sha256": "f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470",
+      "view": "straight/face candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 1024,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/401250_1.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/85a5d1a79694e087651aef4c86e50d476bbde7abe882bad88483bf589a44dcdd-401250_2.jpg",
+      "sha256": "85a5d1a79694e087651aef4c86e50d476bbde7abe882bad88483bf589a44dcdd",
+      "view": "section/profile candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 462,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/401250_2.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/378468ec41bfd82d235a838aee529f25b83a2bb6904c8a561a08bb01b42214b8-401250_4.jpg",
+      "sha256": "378468ec41bfd82d235a838aee529f25b83a2bb6904c8a561a08bb01b42214b8",
+      "view": "corner candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 1024,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/401250_4.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/d57818a54e8c79a48dbde66f9162e15b3b6eb26d30f30e689baafc0c5856c0e0-401250_0001.jpg",
+      "sha256": "d57818a54e8c79a48dbde66f9162e15b3b6eb26d30f30e689baafc0c5856c0e0",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0001.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/56ffed3c1614aa34d78d2dd1a69673b26c89b685bc8f409bc32d3681a6bcc00f-401250_0002.jpg",
+      "sha256": "56ffed3c1614aa34d78d2dd1a69673b26c89b685bc8f409bc32d3681a6bcc00f",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0002.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/c0edd0bdc47c85bdd48f7deb8e71159c58995e2d87969f281aa31dd34f07745c-401250_0003.jpg",
+      "sha256": "c0edd0bdc47c85bdd48f7deb8e71159c58995e2d87969f281aa31dd34f07745c",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0003.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/3a0cb28cba8a149d0562c3f4c615c9b2132e83ae2f45b2e747d0c6cd7533cfd3-401250_0004.jpg",
+      "sha256": "3a0cb28cba8a149d0562c3f4c615c9b2132e83ae2f45b2e747d0c6cd7533cfd3",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0004.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/ab362195838730c60b30a8c496bf1891eaf86463d89d3b73a91cb39f4e79bcca-401250_0005.jpg",
+      "sha256": "ab362195838730c60b30a8c496bf1891eaf86463d89d3b73a91cb39f4e79bcca",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0005.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/ee4aaac12afd9188e6ad2e732ffa48d4bba5cd91a360b1ef0dffa969c7232ae9-401250_0006.jpg",
+      "sha256": "ee4aaac12afd9188e6ad2e732ffa48d4bba5cd91a360b1ef0dffa969c7232ae9",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0006.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/bed12409bdc9a699521d44201416b24cc288c8dc8f2e85431d6da48aa5842b80-401250_0007.jpg",
+      "sha256": "bed12409bdc9a699521d44201416b24cc288c8dc8f2e85431d6da48aa5842b80",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0007.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/9462522fdf6c517bf94e37fc2406c1a62fa3f9479a6ed8a76f23511d30c941eb-401250_0008.jpg",
+      "sha256": "9462522fdf6c517bf94e37fc2406c1a62fa3f9479a6ed8a76f23511d30c941eb",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0008.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/3092af5742aed68b2a5207361237ad79a6eb89b815fe5c0f16333c9b9571c5f0-401250_0009.jpg",
+      "sha256": "3092af5742aed68b2a5207361237ad79a6eb89b815fe5c0f16333c9b9571c5f0",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0009.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/452b03e1843f3ff119a85027fe87c4aa03cbe9ffedc7d32e42c5847d04227652-401250_0010.jpg",
+      "sha256": "452b03e1843f3ff119a85027fe87c4aa03cbe9ffedc7d32e42c5847d04227652",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0010.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/345d68086aec44e42a46aa493aa14f945fd85dc31ec816716ca93d0afb90eaf4-401250_0011.jpg",
+      "sha256": "345d68086aec44e42a46aa493aa14f945fd85dc31ec816716ca93d0afb90eaf4",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0011.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/b4ac87f4e8987e9dbd4b18b8a1f541c4db3af86a819f6e855f0ac9197bcebba0-401250_0012.jpg",
+      "sha256": "b4ac87f4e8987e9dbd4b18b8a1f541c4db3af86a819f6e855f0ac9197bcebba0",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0012.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/660c7f2e0ef2ba87e7e80406ed239987422bd56eea0871d5c2f8c8249070dfcc-401250_0013.jpg",
+      "sha256": "660c7f2e0ef2ba87e7e80406ed239987422bd56eea0871d5c2f8c8249070dfcc",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0013.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/f69b4a60b9058c71d78cfdfd6d2a5951785285377f614bfdbce2ab367cc939d5-401250_0014.jpg",
+      "sha256": "f69b4a60b9058c71d78cfdfd6d2a5951785285377f614bfdbce2ab367cc939d5",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0014.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/a68ec0bbd51ca69127ef4e15a7a2ad2ac96bd8e4378f9d5fc866f4f69d92174e-401250_0015.jpg",
+      "sha256": "a68ec0bbd51ca69127ef4e15a7a2ad2ac96bd8e4378f9d5fc866f4f69d92174e",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0015.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/71437552fcb4f4395642ededffe14fe20061a540d62fe79822ea20ded2b2a9ad-401250_0016.jpg",
+      "sha256": "71437552fcb4f4395642ededffe14fe20061a540d62fe79822ea20ded2b2a9ad",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0016.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/46dcf584ad6a221bcc7a786a65fb2b1bf6a85146dd61eb2df54a6b24dc47d6cf-401250_0017.jpg",
+      "sha256": "46dcf584ad6a221bcc7a786a65fb2b1bf6a85146dd61eb2df54a6b24dc47d6cf",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0017.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/7abcb96bb68af7fc36484a4a5ca5862c37d9003b26da49ca24a027ab2f6ae8fc-401250_0018.jpg",
+      "sha256": "7abcb96bb68af7fc36484a4a5ca5862c37d9003b26da49ca24a027ab2f6ae8fc",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0018.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/7c8ca80272745746190fb116d444e9f3fb66f5222306dc59befe8a0e03d5efd1-401250_0019.jpg",
+      "sha256": "7c8ca80272745746190fb116d444e9f3fb66f5222306dc59befe8a0e03d5efd1",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0019.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/19144c450e742bf769253b7b818e658210c887058d0c75fbcea7850015f9fb1c-401250_0020.jpg",
+      "sha256": "19144c450e742bf769253b7b818e658210c887058d0c75fbcea7850015f9fb1c",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0020.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/77170b027c5640063951e9d1666137ae5b4a274be174572f261114e2555b5e5d-401250_0021.jpg",
+      "sha256": "77170b027c5640063951e9d1666137ae5b4a274be174572f261114e2555b5e5d",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0021.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/1a6790caf930e35f646071cd12e2506905f4b8dfc4b6876b0ad88c03968d7ab3-401250_0022.jpg",
+      "sha256": "1a6790caf930e35f646071cd12e2506905f4b8dfc4b6876b0ad88c03968d7ab3",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0022.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/3edc9531c0ec70685a2678238a2a6a3a78f738705437aaafee73080878b393f4-401250_0023.jpg",
+      "sha256": "3edc9531c0ec70685a2678238a2a6a3a78f738705437aaafee73080878b393f4",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0023.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA1600/09e15406b900654af2c0b66c91f6d97e4ff2e17780840612d75fbef628f42655-401250_0024.jpg",
+      "sha256": "09e15406b900654af2c0b66c91f6d97e4ff2e17780840612d75fbef628f42655",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1152,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.eu/content/files/images/magic360/401250/401250_0024.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    }
+  ],
+  "missingSectionReason": null
+}

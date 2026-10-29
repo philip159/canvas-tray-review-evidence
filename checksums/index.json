@@ -1,0 +1,30 @@
+{
+  "algorithm": "SHA-256",
+  "scope": "All payload files; partitions hash payload, this index hashes partitions. The Git commit binds the index itself.",
+  "parts": [
+    {
+      "path": "checksums/part-001.json",
+      "sha256": "5bbc14d3d103e8d01756970f866d9dff64751353696ac7c30d4b80ca38576b35"
+    },
+    {
+      "path": "checksums/part-002.json",
+      "sha256": "559a02927765cf314b48b9672f8f209b48fdc61a9916904831f26328e08d07c9"
+    },
+    {
+      "path": "checksums/part-003.json",
+      "sha256": "8bbd27429666cb1b785e63c610e7e1d5ae53e0de68ba511f113dd1fa607ee8c4"
+    },
+    {
+      "path": "checksums/part-004.json",
+      "sha256": "7ca4f999996658bd9cd9b54343952d83b7a7701b4b568a8fc06d29766d391618"
+    },
+    {
+      "path": "checksums/part-005.json",
+      "sha256": "e210d01a68b5ce4d4ee5cda6994affdbd3a3d49008285b1140f0933e84645a98"
+    },
+    {
+      "path": "checksums/part-006.json",
+      "sha256": "d80be12d4bc2115dd0514c8bb239a7265a0b2c3e1aabe7d7b153e60a2c1c0f4b"
+    }
+  ]
+}

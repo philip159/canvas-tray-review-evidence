@@ -1,0 +1,190 @@
+{
+  "family": "CT-21",
+  "reference": "MLDA2964",
+  "checksum": "f7873191b406cce7b75ec8be91d147d05e45d4cfb681f7b004433f782ed19ca0",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:24:35.810Z",
+  "drawing": {
+    "family": "CT-21",
+    "mode": "dimension-plus-feature",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": {
+      "description": "Broad diagonal bevel across upper lip",
+      "sizeMm": {
+        "run": 40,
+        "drop": 21.405
+      },
+      "landmarksPx": [
+        [
+          222,
+          86
+        ],
+        [
+          682,
+          332
+        ]
+      ],
+      "advisory": true
+    },
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 50,
+        "drawn": 50
+      },
+      {
+        "name": "Profile width",
+        "printed": 67,
+        "drawn": 67
+      },
+      {
+        "name": "Lip width",
+        "printed": 38,
+        "drawn": 38
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 38,
+        "drawn": 38
+      },
+      {
+        "name": "Floor width",
+        "printed": 29,
+        "drawn": 29
+      }
+    ],
+    "warnings": [
+      "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        10,
+        0
+      ],
+      [
+        49.11830563537719,
+        20.933373814359964
+      ],
+      [
+        49.608135837945426,
+        21.306607698157098
+      ],
+      [
+        49.90203395948636,
+        21.79721469510205
+      ],
+      [
+        50,
+        22.405194805194807
+      ],
+      [
+        50,
+        37
+      ],
+      [
+        49.88888888888889,
+        37.55555555555556
+      ],
+      [
+        49.55555555555556,
+        37.888888888888886
+      ],
+      [
+        49,
+        38
+      ],
+      [
+        12,
+        38
+      ],
+      [
+        12,
+        67
+      ],
+      [
+        0,
+        67
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA2964",
+        "code": "515127000",
+        "at": "2026-10-29T15:07:57.983Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-515127000?returnurl=%2fsearch%3fq%3d515127000",
+        "pageSha256": "9bf5f07b350b23c99e087d37f154ac30c190e7ab8d5ec90ee9c30c9864c2e288",
+        "fields": {
+          "Item Width": 67,
+          "Item Depth": 50,
+          "Rebate Depth": 38,
+          "Rebate Width": 29,
+          "Face Width": 38
+        },
+        "derived": {
+          "lipMm": 38,
+          "floorThicknessMm": 12
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA2965",
+        "code": "515167000",
+        "at": "2026-10-29T15:07:58.088Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/lje-float-moulding-515167000?returnurl=%2fsearch%3fq%3d515167000",
+        "pageSha256": "2a4adfda3e0d5d7bf5418277844134c0f299740271f48d2751eb414bec6b4fd8",
+        "fields": {
+          "Item Width": 67,
+          "Item Depth": 50,
+          "Rebate Depth": 38,
+          "Rebate Width": 29,
+          "Face Width": 38
+        },
+        "derived": {
+          "lipMm": 38,
+          "floorThicknessMm": 12
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+    "Method: dimension-plus-feature. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-21/f7873191b406cce7b75ec8be91d147d05e45d4cfb681f7b004433f782ed19ca0/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-21/f7873191b406cce7b75ec8be91d147d05e45d4cfb681f7b004433f782ed19ca0/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-21/f7873191b406cce7b75ec8be91d147d05e45d4cfb681f7b004433f782ed19ca0/dimensionOverlayUrl.png"
+  }
+}

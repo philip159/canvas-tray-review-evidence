@@ -1,0 +1,169 @@
+{
+  "family": "CT-22",
+  "reference": "MLDA1599",
+  "checksum": "ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:25:58.566Z",
+  "drawing": {
+    "family": "CT-22",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 57,
+        "drawn": 57
+      },
+      {
+        "name": "Profile width",
+        "printed": 69,
+        "drawn": 69
+      },
+      {
+        "name": "Lip width",
+        "printed": 39,
+        "drawn": 39
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 47,
+        "drawn": 47
+      },
+      {
+        "name": "Floor width",
+        "printed": 30,
+        "drawn": 30
+      }
+    ],
+    "warnings": [
+      "Use Larson-Juhl overall height 57 mm, not eFrame 86 mm reported by Philip. Depth 47 mm uses the newly requested inner-floor-to-lip-front convention; back thickness 10 mm."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        56,
+        0
+      ],
+      [
+        56.555555555555564,
+        0.1111111111111111
+      ],
+      [
+        56.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        57,
+        1
+      ],
+      [
+        57,
+        38
+      ],
+      [
+        56.88888888888889,
+        38.555555555555564
+      ],
+      [
+        56.55555555555556,
+        38.888888888888886
+      ],
+      [
+        56,
+        39
+      ],
+      [
+        10,
+        39
+      ],
+      [
+        10,
+        69
+      ],
+      [
+        0,
+        69
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA1599",
+        "code": "401240",
+        "at": "2026-10-29T15:07:53.539Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-komodo-float-moulding-401240?returnurl=%2fsearch%3fq%3d401240",
+        "pageSha256": "422c703f5179c10908f5ead6c94d125ba845ed945af9016b41d5041008532e78",
+        "fields": {
+          "Item Width": 69,
+          "Item Depth": 57.5,
+          "Rebate Depth": 47,
+          "Rebate Width": 30,
+          "Face Width": 39
+        },
+        "derived": {
+          "lipMm": 39,
+          "floorThicknessMm": 10.5
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.5,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0.5
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1600",
+        "code": "401250",
+        "at": "2026-10-29T15:07:55.899Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-komodo-float-moulding-401250?returnurl=%2fsearch%3fq%3d401250",
+        "pageSha256": "2f89ddd113bfaf48b2c62c0b3384f23432f0bd852343b422b49cfbcd5f9bd44c",
+        "fields": {
+          "Item Width": 69,
+          "Item Depth": 57.5,
+          "Rebate Depth": 47,
+          "Rebate Width": 30,
+          "Face Width": 39
+        },
+        "derived": {
+          "lipMm": 39,
+          "floorThicknessMm": 10.5
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.5,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0.5
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Use Larson-Juhl overall height 57 mm, not eFrame 86 mm reported by Philip. Depth 47 mm uses the newly requested inner-floor-to-lip-front convention; back thickness 10 mm.",
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-22/ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-22/ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-22/ed96fa9a41ac63887850b88df23cb7150f98c866de3f3602d74a106a4ec335f5/dimensionOverlayUrl.png"
+  }
+}

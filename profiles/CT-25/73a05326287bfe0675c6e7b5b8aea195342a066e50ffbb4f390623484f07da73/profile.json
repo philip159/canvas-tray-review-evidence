@@ -1,0 +1,166 @@
+{
+  "family": "CT-25",
+  "reference": "MLDA2800",
+  "checksum": "73a05326287bfe0675c6e7b5b8aea195342a066e50ffbb4f390623484f07da73",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:25:05.353Z",
+  "drawing": {
+    "family": "CT-25",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 58,
+        "drawn": 58
+      },
+      {
+        "name": "Profile width",
+        "printed": 76,
+        "drawn": 76
+      },
+      {
+        "name": "Lip width",
+        "printed": 46,
+        "drawn": 46
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 48,
+        "drawn": 48
+      },
+      {
+        "name": "Floor width",
+        "printed": 30,
+        "drawn": 30
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        57,
+        0
+      ],
+      [
+        57.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        57.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        58,
+        1
+      ],
+      [
+        58,
+        45
+      ],
+      [
+        57.88888888888889,
+        45.55555555555556
+      ],
+      [
+        57.55555555555556,
+        45.888888888888886
+      ],
+      [
+        57,
+        46
+      ],
+      [
+        10,
+        46
+      ],
+      [
+        10,
+        76
+      ],
+      [
+        0,
+        76
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA2800",
+        "code": "415220127",
+        "at": "2026-10-29T15:07:57.008Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-415220127?returnurl=%2fsearch%3fq%3d415220127",
+        "pageSha256": "d025c4ae04b7def6e8ad665238666c5e11636f59f7a5a027bf26574a17c010a9",
+        "fields": {
+          "Item Width": 76,
+          "Item Depth": 58,
+          "Rebate Depth": 48,
+          "Rebate Width": 30,
+          "Face Width": 46
+        },
+        "derived": {
+          "lipMm": 46,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA2801",
+        "code": "415220167",
+        "at": "2026-10-29T15:07:57.173Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-415220167?returnurl=%2fsearch%3fq%3d415220167",
+        "pageSha256": "d09cd1da0fefac0134086bc1bcd5b6be3ceaba8be3bd30c49b19a94391edcc50",
+        "fields": {
+          "Item Width": 76,
+          "Item Depth": 58,
+          "Rebate Depth": 48,
+          "Rebate Width": 30,
+          "Face Width": 46
+        },
+        "derived": {
+          "lipMm": 46,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-25/73a05326287bfe0675c6e7b5b8aea195342a066e50ffbb4f390623484f07da73/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-25/73a05326287bfe0675c6e7b5b8aea195342a066e50ffbb4f390623484f07da73/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-25/73a05326287bfe0675c6e7b5b8aea195342a066e50ffbb4f390623484f07da73/dimensionOverlayUrl.png"
+  }
+}

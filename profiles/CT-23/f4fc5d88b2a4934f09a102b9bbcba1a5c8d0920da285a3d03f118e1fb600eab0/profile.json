@@ -1,0 +1,164 @@
+{
+  "family": "CT-23",
+  "reference": "MLDA2961",
+  "checksum": "f4fc5d88b2a4934f09a102b9bbcba1a5c8d0920da285a3d03f118e1fb600eab0",
+  "approved": false,
+  "approvedAt": null,
+  "drawing": {
+    "family": "CT-23",
+    "mode": "dimension-plus-feature",
+    "source": "Larson-Juhl product-page dimensions",
+    "sourceUrl": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+    "referenceFaceWidthMm": 45,
+    "radiusMm": 1,
+    "feature": {
+      "description": "Slightly sloping rear/bottom edge; feature identification provisional",
+      "sizeMm": {
+        "rise": 0.435,
+        "run": 7.211
+      },
+      "landmarksPx": [
+        [
+          103,
+          870
+        ],
+        [
+          186,
+          875
+        ]
+      ],
+      "advisory": true
+    },
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 51,
+        "drawn": 51
+      },
+      {
+        "name": "Profile width",
+        "printed": 70,
+        "drawn": 70
+      },
+      {
+        "name": "Lip width",
+        "printed": 45,
+        "drawn": 45
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 41,
+        "drawn": 41
+      },
+      {
+        "name": "Floor width",
+        "printed": 25,
+        "drawn": 25
+      }
+    ],
+    "warnings": [
+      "Supplier Face Width 45 mm is reference only. Lip = item width − rebate width = 45 mm; floor thickness = item depth − rebate depth = 10 mm.",
+      "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+      "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        50,
+        0
+      ],
+      [
+        50.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        50.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        51,
+        1
+      ],
+      [
+        51,
+        44
+      ],
+      [
+        50.8888888888889,
+        44.55555555555556
+      ],
+      [
+        50.55555555555556,
+        44.888888888888886
+      ],
+      [
+        50,
+        45
+      ],
+      [
+        10,
+        45
+      ],
+      [
+        10,
+        70
+      ],
+      [
+        0,
+        69.56521739130434
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA2961",
+        "code": "513287000",
+        "at": "2026-10-29T15:07:57.857Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+        "pageSha256": "d7bb8f551e45e0cce95b95de3db0de93f2ba70265fa5f3b748042d8b30c16c14",
+        "fields": {
+          "Item Width": 70,
+          "Item Depth": 51,
+          "Rebate Depth": 41,
+          "Rebate Width": 25,
+          "Face Width": 45
+        },
+        "derived": {
+          "lipMm": 45,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Supplier Face Width 45 mm is reference only. Lip = item width − rebate width = 45 mm; floor thickness = item depth − rebate depth = 10 mm.",
+    "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-513287000?returnurl=%2fsearch%3fq%3d513287000",
+    "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+    "Method: dimension-plus-feature. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-23/f4fc5d88b2a4934f09a102b9bbcba1a5c8d0920da285a3d03f118e1fb600eab0/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-23/f4fc5d88b2a4934f09a102b9bbcba1a5c8d0920da285a3d03f118e1fb600eab0/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-23/f4fc5d88b2a4934f09a102b9bbcba1a5c8d0920da285a3d03f118e1fb600eab0/dimensionOverlayUrl.png"
+  }
+}

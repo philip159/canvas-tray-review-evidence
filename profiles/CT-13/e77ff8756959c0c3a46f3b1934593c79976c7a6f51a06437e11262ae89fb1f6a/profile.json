@@ -1,0 +1,178 @@
+{
+  "family": "CT-13",
+  "reference": "MLDA1639",
+  "checksum": "e77ff8756959c0c3a46f3b1934593c79976c7a6f51a06437e11262ae89fb1f6a",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:25:47.365Z",
+  "drawing": {
+    "family": "CT-13",
+    "mode": "dimension-plus-feature",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 2.43,
+    "feature": {
+      "description": "Larger rounded front edge",
+      "sizeMm": {
+        "radius": 2.43
+      },
+      "measurement": "Approximate photo tangent offset: 28 pixels, divided by bar scale; advisory radius",
+      "advisory": true
+    },
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 54,
+        "drawn": 54
+      },
+      {
+        "name": "Profile width",
+        "printed": 44,
+        "drawn": 44
+      },
+      {
+        "name": "Lip width",
+        "printed": 15,
+        "drawn": 15
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 44.5,
+        "drawn": 44.5
+      },
+      {
+        "name": "Floor width",
+        "printed": 28.5,
+        "drawn": 29
+      }
+    ],
+    "warnings": [
+      "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+      "Printed floor 28.5 mm conflicts with profile minus lip (44 − 15 = 29 mm). Outer width and lip retained; no silent adjustment."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        51.57,
+        0
+      ],
+      [
+        52.92,
+        0.27
+      ],
+      [
+        53.730000000000004,
+        1.08
+      ],
+      [
+        54,
+        2.43
+      ],
+      [
+        54,
+        12.57
+      ],
+      [
+        53.73,
+        13.92
+      ],
+      [
+        52.92,
+        14.73
+      ],
+      [
+        51.57,
+        15
+      ],
+      [
+        9.5,
+        15
+      ],
+      [
+        9.5,
+        44
+      ],
+      [
+        0,
+        44
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA1640",
+        "code": "442660",
+        "at": "2026-10-29T15:07:53.570Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-tate-float-moulding-442660?returnurl=%2fsearch%3fq%3d442660",
+        "pageSha256": "3c02e45b4241bc02b47364cea81c604ba6a1f9355041b00e3cff452f8b5d9100",
+        "fields": {
+          "Item Width": 44.5,
+          "Item Depth": 54,
+          "Rebate Depth": 44.5,
+          "Rebate Width": 28.5,
+          "Face Width": 16
+        },
+        "derived": {
+          "lipMm": 16,
+          "floorThicknessMm": 9.5
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0.5,
+          "lip": 1,
+          "canvasDepth": 0,
+          "floorWidth": -0.5,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1639",
+        "code": "442650",
+        "at": "2026-10-29T15:07:56.053Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-tate-float-moulding-442650?returnurl=%2fsearch%3fq%3d442650",
+        "pageSha256": "5b22ba2692f7b7d7b63e3994023a2252ed756f72d207c26cc51cd7b7f2f7ced9",
+        "fields": {
+          "Item Width": 44.5,
+          "Item Depth": 54,
+          "Rebate Depth": 44.5,
+          "Rebate Width": 28.5,
+          "Face Width": 16
+        },
+        "derived": {
+          "lipMm": 16,
+          "floorThicknessMm": 9.5
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0.5,
+          "lip": 1,
+          "canvasDepth": 0,
+          "floorWidth": -0.5,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+    "Printed floor 28.5 mm conflicts with profile minus lip (44 − 15 = 29 mm). Outer width and lip retained; no silent adjustment.",
+    "Method: dimension-plus-feature. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-13/e77ff8756959c0c3a46f3b1934593c79976c7a6f51a06437e11262ae89fb1f6a/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-13/e77ff8756959c0c3a46f3b1934593c79976c7a6f51a06437e11262ae89fb1f6a/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-13/e77ff8756959c0c3a46f3b1934593c79976c7a6f51a06437e11262ae89fb1f6a/dimensionOverlayUrl.png"
+  }
+}

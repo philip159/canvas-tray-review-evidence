@@ -1,0 +1,487 @@
+{
+  "family": "CT-15",
+  "reference": "MLDA1660",
+  "checksum": "f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312",
+  "approved": true,
+  "approvedAt": "2026-10-29T16:22:53.938Z",
+  "drawing": {
+    "family": "CT-15",
+    "mode": "supplier-envelope-fitted-photo-features",
+    "source": "Larson-Juhl spec table with owner-authorised feature fitting",
+    "sourceUrl": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-anvil-ii-float-moulding-460620?returnurl=%2fsearch%3fq%3d460620",
+    "referenceFaceWidthMm": 18,
+    "radiusMm": 1,
+    "feature": {
+      "description": "Intentional raised face lip and recessed shoulder; straight outer wall parallel to inner wall",
+      "sizeMm": {
+        "upperSlopeRise": 0,
+        "faceLipProjection": 3.473,
+        "shoulderWidth": 6.076
+      },
+      "landmarksPx": [
+        [
+          100,
+          70
+        ],
+        [
+          690,
+          70
+        ],
+        [
+          692,
+          132
+        ],
+        [
+          730,
+          140
+        ],
+        [
+          730,
+          286
+        ],
+        [
+          208,
+          286
+        ],
+        [
+          208,
+          620
+        ],
+        [
+          100,
+          620
+        ]
+      ],
+      "measurement": "Manual retrace of 460620_2 section, cross-checked against 460620_4 corner photo. Philip confirms the intentional lip and straight, non-tapered outer wall; feature measurements remain photo estimates.",
+      "advisory": true
+    },
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 60,
+        "drawn": 60
+      },
+      {
+        "name": "Profile width",
+        "printed": 48,
+        "drawn": 48
+      },
+      {
+        "name": "Lip width",
+        "printed": 18,
+        "drawn": 18
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 48.5,
+        "drawn": 48.5
+      },
+      {
+        "name": "Floor width",
+        "printed": 30,
+        "drawn": 30
+      }
+    ],
+    "warnings": [
+      "Owner-authorised dimension fitting, not an independent photographic measurement. Grey: old trace; green: fitted proposal. Genuine angled/sculpted features retained; new approval required.",
+      "Lip = Item Width − Rebate Width = 48 − 30 = 18 mm. Maximum vertex move 5.043 mm."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        56.28355646787929,
+        0
+      ],
+      [
+        56.43486715196038,
+        4.207016772940252
+      ],
+      [
+        56.57038351605835,
+        4.762069077265003
+      ],
+      [
+        56.930917284985604,
+        5.147823690321383
+      ],
+      [
+        57.51646845874218,
+        5.36428061210939
+      ],
+      [
+        58.952910185743136,
+        5.635510383374203
+      ],
+      [
+        59.53462674921918,
+        5.852022802694701
+      ],
+      [
+        59.883656687304786,
+        6.237943908348548
+      ],
+      [
+        60,
+        6.793273700335748
+      ],
+      [
+        60,
+        17.039606789878704
+      ],
+      [
+        59.881108218486325,
+        17.5729685691736
+      ],
+      [
+        59.524432873945294,
+        17.892985636750538
+      ],
+      [
+        58.92997396637691,
+        17.999657992609514
+      ],
+      [
+        11.50041190582481,
+        17.999657992609514
+      ],
+      [
+        11.50041190582481,
+        48
+      ],
+      [
+        0,
+        48
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": [],
+    "adjustmentEvidence": {
+      "xAnchorsBefore": [
+        0.3473227206946454,
+        9.724651230101301,
+        55.0506512301013
+      ],
+      "xAnchorsAfter": [
+        0,
+        11.5,
+        60
+      ],
+      "yAnchorsBefore": [
+        0.26039783001808314,
+        19.00939783001808,
+        48
+      ],
+      "yAnchorsAfter": [
+        0,
+        18,
+        48
+      ],
+      "vertices": [
+        {
+          "vertex": 0,
+          "before": [
+            0.3473227206946454,
+            0.26039783001808314
+          ],
+          "after": [
+            0,
+            0
+          ],
+          "deltaMm": [
+            -0.3473227206946454,
+            -0.26039783001808314
+          ]
+        },
+        {
+          "vertex": 1,
+          "before": [
+            51.57742402315485,
+            0.26039783001808314
+          ],
+          "after": [
+            56.28355646787929,
+            0
+          ],
+          "deltaMm": [
+            4.706132444724446,
+            -0.26039783001808314
+          ]
+        },
+        {
+          "vertex": 2,
+          "before": [
+            51.718832436900406,
+            4.642473245343459
+          ],
+          "after": [
+            56.43486715196038,
+            4.207016772940252
+          ],
+          "deltaMm": [
+            4.716034715059976,
+            -0.4354564724032075
+          ]
+        },
+        {
+          "vertex": 3,
+          "before": [
+            51.845480163067506,
+            5.220621892775946
+          ],
+          "after": [
+            56.57038351605835,
+            4.762069077265003
+          ],
+          "deltaMm": [
+            4.724903352990843,
+            -0.4585528155109433
+          ]
+        },
+        {
+          "vertex": 4,
+          "before": [
+            52.18241941276641,
+            5.6224281838978385
+          ],
+          "after": [
+            56.930917284985604,
+            5.147823690321383
+          ],
+          "deltaMm": [
+            4.748497872219197,
+            -0.4746044935764555
+          ]
+        },
+        {
+          "vertex": 5,
+          "before": [
+            52.729650185997144,
+            5.847892118709136
+          ],
+          "after": [
+            57.51646845874218,
+            5.36428061210939
+          ],
+          "deltaMm": [
+            4.7868182727450375,
+            -0.48361150659974594
+          ]
+        },
+        {
+          "vertex": 6,
+          "before": [
+            54.07208642760632,
+            6.130408062122689
+          ],
+          "after": [
+            58.952910185743136,
+            5.635510383374203
+          ],
+          "deltaMm": [
+            4.880823758136813,
+            -0.49489767874848667
+          ]
+        },
+        {
+          "vertex": 7,
+          "before": [
+            54.61573354010354,
+            6.355929803780469
+          ],
+          "after": [
+            59.53462674921918,
+            5.852022802694701
+          ],
+          "deltaMm": [
+            4.918893209115637,
+            -0.5039070010857678
+          ]
+        },
+        {
+          "vertex": 8,
+          "before": [
+            54.94192180760186,
+            6.757909515441801
+          ],
+          "after": [
+            59.883656687304786,
+            6.237943908348548
+          ],
+          "deltaMm": [
+            4.941734879702928,
+            -0.519965607093253
+          ]
+        },
+        {
+          "vertex": 9,
+          "before": [
+            55.0506512301013,
+            7.33634719710669
+          ],
+          "after": [
+            60,
+            6.793273700335748
+          ],
+          "deltaMm": [
+            4.949348769898698,
+            -0.5430734967709423
+          ]
+        },
+        {
+          "vertex": 10,
+          "before": [
+            55.0506512301013,
+            18.00904159132007
+          ],
+          "after": [
+            60,
+            17.039606789878704
+          ],
+          "deltaMm": [
+            4.949348769898698,
+            -0.9694348014413663
+          ]
+        },
+        {
+          "vertex": 11,
+          "before": [
+            54.939540118990195,
+            18.564597146875627
+          ],
+          "after": [
+            59.881108218486325,
+            17.5729685691736
+          ],
+          "deltaMm": [
+            4.941568099496131,
+            -0.9916285777020271
+          ]
+        },
+        {
+          "vertex": 12,
+          "before": [
+            54.60620678565686,
+            18.89793048020896
+          ],
+          "after": [
+            59.524432873945294,
+            17.892985636750538
+          ],
+          "deltaMm": [
+            4.918226088288435,
+            -1.0049448434584214
+          ]
+        },
+        {
+          "vertex": 13,
+          "before": [
+            54.0506512301013,
+            19.00904159132007
+          ],
+          "after": [
+            58.92997396637691,
+            17.999657992609514
+          ],
+          "deltaMm": [
+            4.879322736275611,
+            -1.0093835987105564
+          ]
+        },
+        {
+          "vertex": 14,
+          "before": [
+            9.725036179450072,
+            19.00904159132007
+          ],
+          "after": [
+            11.50041190582481,
+            17.999657992609514
+          ],
+          "deltaMm": [
+            1.7753757263747385,
+            -1.0093835987105564
+          ]
+        },
+        {
+          "vertex": 15,
+          "before": [
+            9.725036179450072,
+            48
+          ],
+          "after": [
+            11.50041190582481,
+            48
+          ],
+          "deltaMm": [
+            1.7753757263747385,
+            0
+          ]
+        },
+        {
+          "vertex": 16,
+          "before": [
+            0.3473227206946454,
+            48
+          ],
+          "after": [
+            0,
+            48
+          ],
+          "deltaMm": [
+            -0.3473227206946454,
+            0
+          ]
+        }
+      ],
+      "canvasDepthDatum": "Inner lip nose to floor; angled outer nose is not the canvas-depth datum",
+      "supplierPageSha256": "492d4f68e91377f23b52629e63933a447d6ffc0a218ac10a06f37fcdf1e4aaa6"
+    }
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": true,
+    "rows": [
+      {
+        "reference": "MLDA1660",
+        "code": "460620",
+        "at": "2026-10-29T15:07:53.571Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-anvil-ii-float-moulding-460620?returnurl=%2fsearch%3fq%3d460620",
+        "pageSha256": "492d4f68e91377f23b52629e63933a447d6ffc0a218ac10a06f37fcdf1e4aaa6",
+        "fields": {
+          "Item Width": 48,
+          "Item Depth": 60,
+          "Rebate Depth": 48.5,
+          "Rebate Width": 30,
+          "Face Width": 18
+        },
+        "derived": {
+          "lipMm": 18,
+          "floorThicknessMm": 11.5
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 5.297,
+          "profileWidth": 0.26,
+          "lip": -0.749,
+          "canvasDepth": 3.174,
+          "floorWidth": 1.009,
+          "floorThickness": 2.123
+        },
+        "overOneMm": true
+      }
+    ]
+  },
+  "notes": [
+    "Owner-authorised dimension fitting, not an independent photographic measurement. Grey: old trace; green: fitted proposal. Genuine angled/sculpted features retained; new approval required.",
+    "Lip = Item Width − Rebate Width = 48 − 30 = 18 mm. Maximum vertex move 5.043 mm."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-15/f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-15/f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-15/f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312/dimensionOverlayUrl.png"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "family": "CT-07",
+  "reference": "MLDA3392",
+  "checksum": "22c83757703b87ed557822b6dd6107da9e4304acd91c77e26bb4de298f4ae2cb",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:23:55.916Z",
+  "drawing": {
+    "family": "CT-07",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 60,
+        "drawn": 60
+      },
+      {
+        "name": "Profile width",
+        "printed": 50,
+        "drawn": 50
+      },
+      {
+        "name": "Lip width",
+        "printed": 9,
+        "drawn": 9
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 51,
+        "drawn": 51
+      },
+      {
+        "name": "Floor width",
+        "printed": 41,
+        "drawn": 41
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        59,
+        0
+      ],
+      [
+        59.555555555555564,
+        0.1111111111111111
+      ],
+      [
+        59.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        60,
+        1
+      ],
+      [
+        60,
+        8
+      ],
+      [
+        59.8888888888889,
+        8.555555555555557
+      ],
+      [
+        59.55555555555556,
+        8.88888888888889
+      ],
+      [
+        59,
+        9
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        50
+      ],
+      [
+        0,
+        50
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA3392",
+        "code": "991247115",
+        "at": "2026-10-29T15:08:00.007Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-oak-991247115?returnurl=%2fsearch%3fq%3d991247115",
+        "pageSha256": "c5a2462cc2b249c2ec1ae2e824cdcdf059a1a696c62d3147294ee4672cb0e705",
+        "fields": {
+          "Item Width": 50,
+          "Item Depth": 60,
+          "Rebate Depth": 51,
+          "Rebate Width": 41,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3394",
+        "code": "991247117",
+        "at": "2026-10-29T15:08:00.024Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-wenge-991247117?returnurl=%2fsearch%3fq%3d991247117",
+        "pageSha256": "37b2c9e2238aef5711ab741a760471b480dac18fafb1e1d9337b8d8473ce5724",
+        "fields": {
+          "Item Width": 50,
+          "Item Depth": 60,
+          "Rebate Depth": 51,
+          "Rebate Width": 41,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-07/22c83757703b87ed557822b6dd6107da9e4304acd91c77e26bb4de298f4ae2cb/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-07/22c83757703b87ed557822b6dd6107da9e4304acd91c77e26bb4de298f4ae2cb/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-07/22c83757703b87ed557822b6dd6107da9e4304acd91c77e26bb4de298f4ae2cb/dimensionOverlayUrl.png"
+  }
+}

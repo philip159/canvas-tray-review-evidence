@@ -1,0 +1,35 @@
+{
+  "missingSectionImages": [
+    "MLDA1866",
+    "MLDA3240",
+    "MLDA4039",
+    "MLDA4040"
+  ],
+  "unknownFieldCounts": {
+    "liveOnShopify": 67,
+    "finish.appearance.metallicReason": 40,
+    "finish.appearance.colourReason": 40,
+    "profile.fittedTargets": 67,
+    "profile.measuredContours": 67,
+    "checks.lineContinuity": 67,
+    "model.approvedAt": 29,
+    "model.approvalAppliesTo": 29,
+    "finish.preset": 12,
+    "checks.arkit": 12,
+    "checks.usdzReadback": 12,
+    "finish.normalStrength": 7,
+    "texture.repeatMm.across": 15,
+    "checks.albedoStd": 14,
+    "dimensionsMm.faceWidth": 7,
+    "finish.colourMode": 7,
+    "texture.sourceImage": 8,
+    "supplierImages.section": 2
+  },
+  "notes": [
+    "liveOnShopify was not queried.",
+    "lineContinuity is not independently certified.",
+    "Clean metal constants are not falsely labelled colour-picked.",
+    "No independent contour measurement was regenerated.",
+    "Downloaded supplier resolution is preserved, not asserted to be camera-original resolution."
+  ]
+}

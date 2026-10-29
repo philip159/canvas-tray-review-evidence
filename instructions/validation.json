@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "generatedAt": "2026-10-29T17:09:18.606381+00:00",
+  "models": {
+    "approved": 26,
+    "candidate": 29,
+    "archived": 12
+  },
+  "decodedCopiesValidated": 67,
+  "protectedOriginalsVerified": 555,
+  "manifestPathReferencesChecked": 1676,
+  "allDeliveredFileHashesMatch": true,
+  "allFilesUnder50MB": true,
+  "allJsonUnder100KB": true,
+  "noLfsPointers": true,
+  "noCredentialsFoundByPatternScan": true,
+  "allowlistedEvidenceOnly": true,
+  "noAppCodeOrWorkflows": true,
+  "sourceApprovalRegistersUnchanged": true,
+  "limitations": [
+    "Checks do not certify native-phone rendering.",
+    "No live Shopify publication state queried.",
+    "No independent line-continuity or measured-contour certification."
+  ]
+}

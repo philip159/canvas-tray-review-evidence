@@ -1,0 +1,151 @@
+{
+  "family": "CT-17",
+  "reference": "MLDA1864",
+  "checksum": "d6e01365745a1a9d368cf208b77b743b9448436642b7d39b7f3362a37f354b65",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:25:23.868Z",
+  "drawing": {
+    "family": "CT-17",
+    "mode": "dimension-plus-feature",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": {
+      "description": "Sloping lip front; top-to-ledge setback",
+      "sizeMm": {
+        "setback": 13.224,
+        "rise": 31
+      },
+      "measurement": "Photo-calibrated top envelope minus ledge-front X; same dimension-bar scale",
+      "advisory": true
+    },
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 60,
+        "drawn": 60
+      },
+      {
+        "name": "Profile width",
+        "printed": 56,
+        "drawn": 56
+      },
+      {
+        "name": "Lip width",
+        "printed": 31,
+        "drawn": 31
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 33,
+        "drawn": 33
+      },
+      {
+        "name": "Floor width",
+        "printed": 26,
+        "drawn": 25
+      }
+    ],
+    "warnings": [
+      "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+      "Printed floor 26 mm conflicts with profile minus lip (56 − 31 = 25 mm). Outer width and lip retained; no silent adjustment."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        59,
+        0
+      ],
+      [
+        59.51195857178305,
+        0.10220069480333625
+      ],
+      [
+        59.71450095379883,
+        0.408802779213345
+      ],
+      [
+        59.607627146047356,
+        0.9198062532300263
+      ],
+      [
+        47.16832873616384,
+        30.080193746769975
+      ],
+      [
+        46.83923270619015,
+        30.591197220786658
+      ],
+      [
+        46.37510842153927,
+        30.897799305196664
+      ],
+      [
+        45.7759558822112,
+        31
+      ],
+      [
+        13.7759558822112,
+        31
+      ],
+      [
+        13.7759558822112,
+        56
+      ],
+      [
+        0,
+        56
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA1864",
+        "code": "913048",
+        "at": "2026-10-29T15:07:54.700Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-verdi-float-moulding-913048?returnurl=%2fsearch%3fq%3d913048",
+        "pageSha256": "c03fc8cdab4addefaa909d27a385bd3429120397b22dd1136cf80acfbb84af47",
+        "fields": {
+          "Item Width": 56,
+          "Item Depth": 60,
+          "Rebate Depth": 33,
+          "Rebate Width": 26,
+          "Face Width": 31
+        },
+        "derived": {
+          "lipMm": 30,
+          "floorThicknessMm": 27
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": -1,
+          "canvasDepth": 0,
+          "floorWidth": 1,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+    "Printed floor 26 mm conflicts with profile minus lip (56 − 31 = 25 mm). Outer width and lip retained; no silent adjustment.",
+    "Method: dimension-plus-feature. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-17/d6e01365745a1a9d368cf208b77b743b9448436642b7d39b7f3362a37f354b65/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-17/d6e01365745a1a9d368cf208b77b743b9448436642b7d39b7f3362a37f354b65/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-17/d6e01365745a1a9d368cf208b77b743b9448436642b7d39b7f3362a37f354b65/dimensionOverlayUrl.png"
+  }
+}

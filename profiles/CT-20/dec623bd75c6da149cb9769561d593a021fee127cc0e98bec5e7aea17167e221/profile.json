@@ -1,0 +1,281 @@
+{
+  "family": "CT-20",
+  "reference": "MLDA1771",
+  "checksum": "dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221",
+  "approved": false,
+  "approvedAt": null,
+  "drawing": {
+    "family": "CT-20",
+    "mode": "traced",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": null,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 62,
+        "drawn": 61.218
+      },
+      {
+        "name": "Profile width",
+        "printed": 73,
+        "drawn": 72.913
+      },
+      {
+        "name": "Lip width",
+        "printed": 35,
+        "drawn": 34.801
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 45,
+        "drawn": 44.85
+      },
+      {
+        "name": "Floor width",
+        "printed": 38,
+        "drawn": 38.112
+      }
+    ],
+    "warnings": [
+      "Exact existing CT-20 outline reused; no segmentation rerun."
+    ],
+    "outlineMm": [
+      [
+        1.215686321258545,
+        0
+      ],
+      [
+        0,
+        1.3937947750091553
+      ],
+      [
+        0,
+        25.00119400024414
+      ],
+      [
+        0,
+        71.69332122802734
+      ],
+      [
+        0.26050421595573425,
+        72.91288782816228
+      ],
+      [
+        10.76750659942627,
+        72.91288782816228
+      ],
+      [
+        11.245098114013672,
+        72.56443786621094
+      ],
+      [
+        11.245098114013672,
+        34.80131149291992
+      ],
+      [
+        56.095237731933594,
+        34.80131149291992
+      ],
+      [
+        61.21848678588867,
+        16.551313400268555
+      ],
+      [
+        60.7843132019043,
+        15.941527366638184
+      ],
+      [
+        56.52941131591797,
+        15.157517433166504
+      ],
+      [
+        54.01120376586914,
+        14.199283599853516
+      ],
+      [
+        52.18767547607422,
+        14.11217212677002
+      ],
+      [
+        52.1008415222168,
+        13.763723373413086
+      ],
+      [
+        50.711483001708984,
+        13.763723373413086
+      ],
+      [
+        50.62464904785156,
+        13.241049766540527
+      ],
+      [
+        46.19607925415039,
+        11.934367179870605
+      ],
+      [
+        40.72549057006836,
+        10.801909446716309
+      ],
+      [
+        39.422969818115234,
+        10.105011940002441
+      ],
+      [
+        31.2605037689209,
+        8.275656700134277
+      ],
+      [
+        26.224090576171875,
+        6.620524883270264
+      ],
+      [
+        20.40616226196289,
+        5.400954723358154
+      ],
+      [
+        19.624649047851562,
+        4.878281593322754
+      ],
+      [
+        16.585433959960938,
+        4.442720890045166
+      ],
+      [
+        14.675069808959961,
+        3.4844868183135986
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA1771",
+        "code": "695100",
+        "at": "2026-10-29T15:07:54.267Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695100?returnurl=%2fsearch%3fq%3d695100",
+        "pageSha256": "b1dcc77307a2a3585ac6fc61e42327e7c5ecbadadf1861b124efae3cdd1ab189",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1774",
+        "code": "695130",
+        "at": "2026-10-29T15:07:54.341Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695130?returnurl=%2fsearch%3fq%3d695130",
+        "pageSha256": "061a3e2738f855d28b55e1e19ee98adf3cf4bc3db9c9d4475b0b882d6ba4c2d3",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1772",
+        "code": "695110",
+        "at": "2026-10-29T15:07:54.321Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695110?returnurl=%2fsearch%3fq%3d695110",
+        "pageSha256": "7c78d5e294f8f58102e034bd89f47a4be9a61b5f32e48581eda0fb8e8731a574",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA1773",
+        "code": "695120",
+        "at": "2026-10-29T15:07:56.088Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-signature/ljs-eiffel-float-moulding-fsc-695120?returnurl=%2fsearch%3fq%3d695120",
+        "pageSha256": "19bcbc3cdaf2339e2a26aae7d3832a2e9557660b0781e5c9d3276960b96c60fb",
+        "fields": {
+          "Item Width": 73,
+          "Item Depth": 62,
+          "Rebate Depth": 45,
+          "Rebate Width": 38,
+          "Face Width": 35
+        },
+        "derived": {
+          "lipMm": 35,
+          "floorThicknessMm": 17
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.782,
+          "profileWidth": 0.087,
+          "lip": 0.199,
+          "canvasDepth": 0.15,
+          "floorWidth": -0.112,
+          "floorThickness": 0.632
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Exact existing CT-20 outline reused; no segmentation rerun.",
+    "Method: traced. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-20/dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-20/dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-20/dec623bd75c6da149cb9769561d593a021fee127cc0e98bec5e7aea17167e221/dimensionOverlayUrl.png"
+  }
+}

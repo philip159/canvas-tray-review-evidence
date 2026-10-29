@@ -1,0 +1,194 @@
+{
+  "family": "CT-14",
+  "reference": "MLDA2208",
+  "checksum": "d7203e8ceceb11eb246e57fc8b25aa443bb64d1191aca9372824bb9431071fa3",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:26:16.581Z",
+  "drawing": {
+    "family": "CT-14",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 55,
+        "drawn": 55
+      },
+      {
+        "name": "Profile width",
+        "printed": 57,
+        "drawn": 57
+      },
+      {
+        "name": "Lip width",
+        "printed": 18,
+        "drawn": 18
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 43,
+        "drawn": 43
+      },
+      {
+        "name": "Floor width",
+        "printed": 39,
+        "drawn": 39
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        54,
+        0
+      ],
+      [
+        54.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        54.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        55,
+        1
+      ],
+      [
+        55,
+        17
+      ],
+      [
+        54.8888888888889,
+        17.555555555555557
+      ],
+      [
+        54.55555555555556,
+        17.88888888888889
+      ],
+      [
+        54,
+        18
+      ],
+      [
+        12,
+        18
+      ],
+      [
+        12,
+        57
+      ],
+      [
+        0,
+        57
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA2208",
+        "code": "239137471",
+        "at": "2026-10-29T15:07:56.651Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-fsc-239137471?returnurl=%2fsearch%3fq%3d239137471",
+        "pageSha256": "54c3006191ca056fe1dd54fa29982aa036541b89f6dd1d056a7f989cda8e5b98",
+        "fields": {
+          "Item Width": 57,
+          "Item Depth": 55,
+          "Rebate Depth": 43,
+          "Rebate Width": 39,
+          "Face Width": 18
+        },
+        "derived": {
+          "lipMm": 18,
+          "floorThicknessMm": 12
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA4020",
+        "code": "239137985",
+        "at": "2026-10-29T15:08:39.699Z",
+        "url": "https://larsonjuhl.co.uk/ljc-driftwood-float-moulding-fsc-239137985?returnurl=%2fsearch%3fq%3d239137985",
+        "pageSha256": "fa71f7f37ecf9b7772eb2b1e079ba9ce03b932b3b52c117afefe542d72266e9f",
+        "fields": {
+          "Item Width": 57,
+          "Item Depth": 55,
+          "Rebate Depth": 43,
+          "Rebate Width": 39,
+          "Face Width": 18
+        },
+        "derived": {
+          "lipMm": 18,
+          "floorThicknessMm": 12
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA4019",
+        "code": "239137975",
+        "at": "2026-10-29T15:08:42.550Z",
+        "url": "https://larsonjuhl.co.uk/ljc-driftwood-float-moulding-fsc-239137975?returnurl=%2fsearch%3fq%3d239137975",
+        "pageSha256": "93ed0552080512bc5031392c6fe7972880872a98ef4348622279e87ebef11740",
+        "fields": {
+          "Item Width": 57,
+          "Item Depth": 55,
+          "Rebate Depth": 43,
+          "Rebate Width": 39,
+          "Face Width": 18
+        },
+        "derived": {
+          "lipMm": 18,
+          "floorThicknessMm": 12
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-14/d7203e8ceceb11eb246e57fc8b25aa443bb64d1191aca9372824bb9431071fa3/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-14/d7203e8ceceb11eb246e57fc8b25aa443bb64d1191aca9372824bb9431071fa3/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-14/d7203e8ceceb11eb246e57fc8b25aa443bb64d1191aca9372824bb9431071fa3/dimensionOverlayUrl.png"
+  }
+}

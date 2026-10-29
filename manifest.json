@@ -1,0 +1,492 @@
+{
+  "schema": "Philip handoff section 6; unknownReasons explicitly accompanies unknowns",
+  "generatedAt": "2026-10-29T17:09:18.606381+00:00",
+  "snapshotScope": "All current review versions plus superseded historically approved deliveries only",
+  "counts": {
+    "approved": 26,
+    "candidate": 29,
+    "archived": 12
+  },
+  "models": [
+    {
+      "eframeCode": "MLDA3949",
+      "family": "CT-06",
+      "version": "2b13645ec286113dcd192bcf5e8880f8773298206f0dfc398faef8f522ee4c2b-60ca28899359f48a",
+      "status": "approved",
+      "record": "approved/MLDA3949/2b13645ec286113dcd192bcf5e8880f8773298206f0dfc398faef8f522ee4c2b-60ca28899359f48a/record.json"
+    },
+    {
+      "eframeCode": "MLDA2535",
+      "family": "CT-09",
+      "version": "9e3b3a2c881cf39f8b38552b3dd83ae9e14fe5c0bb9c5cff2fd757549eedf17f-47fdd7255c95b37a",
+      "status": "approved",
+      "record": "approved/MLDA2535/9e3b3a2c881cf39f8b38552b3dd83ae9e14fe5c0bb9c5cff2fd757549eedf17f-47fdd7255c95b37a/record.json"
+    },
+    {
+      "eframeCode": "MLDA3392",
+      "family": "CT-07",
+      "version": "e8e85d60d2a7257f8747090f49aeb9a64c43ba7d2c1c5e84ad2425ebe27bc1ef-14557e8834fe9257",
+      "status": "approved",
+      "record": "approved/MLDA3392/e8e85d60d2a7257f8747090f49aeb9a64c43ba7d2c1c5e84ad2425ebe27bc1ef-14557e8834fe9257/record.json"
+    },
+    {
+      "eframeCode": "MLDA3382",
+      "family": "CT-03",
+      "version": "740047daafb640d9d062656626ccb6e7a7f16d0b10e476c8a851ec85b63e3993-61854f4e4814747c",
+      "status": "approved",
+      "record": "approved/MLDA3382/740047daafb640d9d062656626ccb6e7a7f16d0b10e476c8a851ec85b63e3993-61854f4e4814747c/record.json"
+    },
+    {
+      "eframeCode": "MLDA3387",
+      "family": "CT-05",
+      "version": "8178075bc63e20235ba751605d44e94ce2939dda560afa3920ce7f6945dc52a2-6ce293357e2dbf08",
+      "status": "approved",
+      "record": "approved/MLDA3387/8178075bc63e20235ba751605d44e94ce2939dda560afa3920ce7f6945dc52a2-6ce293357e2dbf08/record.json"
+    },
+    {
+      "eframeCode": "MLDA1599",
+      "family": "CT-22",
+      "version": "61b62b8b54539caaaa4df37c1ab68da16c5effe9ee1b022ad4cc8d0c7eb40541-714a980b99a73b78",
+      "status": "approved",
+      "record": "approved/MLDA1599/61b62b8b54539caaaa4df37c1ab68da16c5effe9ee1b022ad4cc8d0c7eb40541-714a980b99a73b78/record.json"
+    },
+    {
+      "eframeCode": "MLDA4015",
+      "family": "CT-01",
+      "version": "9ae21c447307838364127562de68af72f535c50ae08a8d05b23a0f9c6dde371f-ad9530fc03dc1fa3",
+      "status": "candidate",
+      "record": "candidate/MLDA4015/9ae21c447307838364127562de68af72f535c50ae08a8d05b23a0f9c6dde371f-ad9530fc03dc1fa3/record.json"
+    },
+    {
+      "eframeCode": "MLDA2957",
+      "family": "CT-04",
+      "version": "221c6012e78fd96e542fc2fc4c172bdcece5aa8ed38740aa783dd9b7189ca6c5-a58922fa0676870f",
+      "status": "approved",
+      "record": "approved/MLDA2957/221c6012e78fd96e542fc2fc4c172bdcece5aa8ed38740aa783dd9b7189ca6c5-a58922fa0676870f/record.json"
+    },
+    {
+      "eframeCode": "MLDA3862",
+      "family": "CT-08",
+      "version": "76f6a11402734dd611836d389d70d3c7108e17c79f3de84bfdd9de4e96ff8323-db40288f9d77f6e4",
+      "status": "approved",
+      "record": "approved/MLDA3862/76f6a11402734dd611836d389d70d3c7108e17c79f3de84bfdd9de4e96ff8323-db40288f9d77f6e4/record.json"
+    },
+    {
+      "eframeCode": "MLDA1639",
+      "family": "CT-13",
+      "version": "a00b0ac399184504e6c7cd9b92b3d1c81a5780726f0f03f35dcad5153f37e013-8717dbbc08e63a0f",
+      "status": "approved",
+      "record": "approved/MLDA1639/a00b0ac399184504e6c7cd9b92b3d1c81a5780726f0f03f35dcad5153f37e013-8717dbbc08e63a0f/record.json"
+    },
+    {
+      "eframeCode": "MLDA2208",
+      "family": "CT-14",
+      "version": "eee7f0cd00dd382c32287f050f61d21ca16600e79bdc02c5c3d61442f183c89a-f4ee6e668a87ca69",
+      "status": "candidate",
+      "record": "candidate/MLDA2208/eee7f0cd00dd382c32287f050f61d21ca16600e79bdc02c5c3d61442f183c89a-f4ee6e668a87ca69/record.json"
+    },
+    {
+      "eframeCode": "MLDA1864",
+      "family": "CT-17",
+      "version": "70f65d5c02c3a64585ba46de5f13831325fb5853c3a3c96101919b854ccad891-e2df247dd2f00693",
+      "status": "candidate",
+      "record": "candidate/MLDA1864/70f65d5c02c3a64585ba46de5f13831325fb5853c3a3c96101919b854ccad891-e2df247dd2f00693/record.json"
+    },
+    {
+      "eframeCode": "MLDA2964",
+      "family": "CT-21",
+      "version": "974ef11b3ef6db932f496a27b06a2a2db3d4443194442199247825c875e39966-93d1da5e5da477a2",
+      "status": "candidate",
+      "record": "candidate/MLDA2964/974ef11b3ef6db932f496a27b06a2a2db3d4443194442199247825c875e39966-93d1da5e5da477a2/record.json"
+    },
+    {
+      "eframeCode": "MLDA2959",
+      "family": "CT-24",
+      "version": "ab406c2f920e9ba983c8b5ed3820446810d72e965fad3c4131ee7fa710ff50b0-abeda6347acbcdb5",
+      "status": "approved",
+      "record": "approved/MLDA2959/ab406c2f920e9ba983c8b5ed3820446810d72e965fad3c4131ee7fa710ff50b0-abeda6347acbcdb5/record.json"
+    },
+    {
+      "eframeCode": "MLDA2800",
+      "family": "CT-25",
+      "version": "85dd268619a68cf18e06adfd74c00a617f602ac09828a7416794278e9d058b84-1cdef07dba5eda00",
+      "status": "approved",
+      "record": "approved/MLDA2800/85dd268619a68cf18e06adfd74c00a617f602ac09828a7416794278e9d058b84-1cdef07dba5eda00/record.json"
+    },
+    {
+      "eframeCode": "MLDA3969",
+      "family": "CT-12",
+      "version": "95502e66ba42cf00be8b6578fa1ccd4482e2e13d835750187da303a2d93473a5-0e4629b841b82361",
+      "status": "approved",
+      "record": "approved/MLDA3969/95502e66ba42cf00be8b6578fa1ccd4482e2e13d835750187da303a2d93473a5-0e4629b841b82361/record.json"
+    },
+    {
+      "eframeCode": "MLDA4016",
+      "family": "CT-01",
+      "version": "8b9303155e1fc3c289b1ac0c941f9eaf404770c3ef2429c1b16a8f6077d1133e-1ae6721c9f43c6bb",
+      "status": "candidate",
+      "record": "candidate/MLDA4016/8b9303155e1fc3c289b1ac0c941f9eaf404770c3ef2429c1b16a8f6077d1133e-1ae6721c9f43c6bb/record.json"
+    },
+    {
+      "eframeCode": "MLDA3380",
+      "family": "CT-03",
+      "version": "05cc549c7ffd1239388702513bd725dab8bf3e5a43c2a84943a57ce69ca81943-6607c4563725cd1e",
+      "status": "approved",
+      "record": "approved/MLDA3380/05cc549c7ffd1239388702513bd725dab8bf3e5a43c2a84943a57ce69ca81943-6607c4563725cd1e/record.json"
+    },
+    {
+      "eframeCode": "MLDA3383",
+      "family": "CT-03",
+      "version": "bbe89021621796fc70fd142d1b2457b39992100750e6dfa8fa2ca94a8ed3d986-ce956950787cdd0a",
+      "status": "approved",
+      "record": "approved/MLDA3383/bbe89021621796fc70fd142d1b2457b39992100750e6dfa8fa2ca94a8ed3d986-ce956950787cdd0a/record.json"
+    },
+    {
+      "eframeCode": "MLDA3384",
+      "family": "CT-03",
+      "version": "2020251c50f1af76b762f4a7b7611f59ee551a5600b496535da5bf5cbc0b594a-37f8f283cc36b94b",
+      "status": "approved",
+      "record": "approved/MLDA3384/2020251c50f1af76b762f4a7b7611f59ee551a5600b496535da5bf5cbc0b594a-37f8f283cc36b94b/record.json"
+    },
+    {
+      "eframeCode": "MLDA2956",
+      "family": "CT-04",
+      "version": "5700414b1b05b9fd647973ddff14d8eee12ed51159cadc581c6e5f99e16f9dc8-7f34ee570c6f0922",
+      "status": "candidate",
+      "record": "candidate/MLDA2956/5700414b1b05b9fd647973ddff14d8eee12ed51159cadc581c6e5f99e16f9dc8-7f34ee570c6f0922/record.json"
+    },
+    {
+      "eframeCode": "MLDA2954",
+      "family": "CT-04",
+      "version": "c78119f56bf6d0f66ba55c45ea2a0574b990fa84bb875306ace6d63285b230fd-9f06da58aac12e47",
+      "status": "candidate",
+      "record": "candidate/MLDA2954/c78119f56bf6d0f66ba55c45ea2a0574b990fa84bb875306ace6d63285b230fd-9f06da58aac12e47/record.json"
+    },
+    {
+      "eframeCode": "MLDA3388",
+      "family": "CT-05",
+      "version": "c54673be6c1f4565d3d36938fa5f392d1407f8bd617301263161b259d1e4d4e7-e3a93870323c6208",
+      "status": "approved",
+      "record": "approved/MLDA3388/c54673be6c1f4565d3d36938fa5f392d1407f8bd617301263161b259d1e4d4e7-e3a93870323c6208/record.json"
+    },
+    {
+      "eframeCode": "MLDA3389",
+      "family": "CT-05",
+      "version": "45c45378de05e7cf49fedae294fc2f7d9d89ba7f7e422a45874ffd4889d42ce3-22015f150c052698",
+      "status": "approved",
+      "record": "approved/MLDA3389/45c45378de05e7cf49fedae294fc2f7d9d89ba7f7e422a45874ffd4889d42ce3-22015f150c052698/record.json"
+    },
+    {
+      "eframeCode": "MLDA3948",
+      "family": "CT-06",
+      "version": "371ab47436866a6d30fd55cfce555d2fb9ee52e3f32aa4ba0a269862069ca91c-78774426e7450be7",
+      "status": "approved",
+      "record": "approved/MLDA3948/371ab47436866a6d30fd55cfce555d2fb9ee52e3f32aa4ba0a269862069ca91c-78774426e7450be7/record.json"
+    },
+    {
+      "eframeCode": "MLDA3947",
+      "family": "CT-06",
+      "version": "b1377c86add2705f5f7821422583da4816a905b0620b024de6ade1e77896491c-7a05feee5442d738",
+      "status": "candidate",
+      "record": "candidate/MLDA3947/b1377c86add2705f5f7821422583da4816a905b0620b024de6ade1e77896491c-7a05feee5442d738/record.json"
+    },
+    {
+      "eframeCode": "MLDA3394",
+      "family": "CT-07",
+      "version": "ad20a3761f8b06a768e3de3ec85e7b15538123c43b91505d52cab2f97e4d900e-7d5299e320aad094",
+      "status": "approved",
+      "record": "approved/MLDA3394/ad20a3761f8b06a768e3de3ec85e7b15538123c43b91505d52cab2f97e4d900e-7d5299e320aad094/record.json"
+    },
+    {
+      "eframeCode": "MLDA3861",
+      "family": "CT-08",
+      "version": "8f190e66d0c2f2c8f4efdaac21302895f8c071e41cc5fe1dbdf1bc18221963ea-39bba4211939766e",
+      "status": "candidate",
+      "record": "candidate/MLDA3861/8f190e66d0c2f2c8f4efdaac21302895f8c071e41cc5fe1dbdf1bc18221963ea-39bba4211939766e/record.json"
+    },
+    {
+      "eframeCode": "MLDA4018",
+      "family": "CT-08",
+      "version": "c2264fdd4384d8e4d3353ff3283ac72a6a73a31448029c386e686c8bfe00df01-4bc5a660d871cd6a",
+      "status": "candidate",
+      "record": "candidate/MLDA4018/c2264fdd4384d8e4d3353ff3283ac72a6a73a31448029c386e686c8bfe00df01-4bc5a660d871cd6a/record.json"
+    },
+    {
+      "eframeCode": "MLDA4017",
+      "family": "CT-08",
+      "version": "2c9e1a405e8c18c3532e3bb868987d1d3d536ac582f20750ee671c51f076495a-c7a43a1109a04e13",
+      "status": "candidate",
+      "record": "candidate/MLDA4017/2c9e1a405e8c18c3532e3bb868987d1d3d536ac582f20750ee671c51f076495a-c7a43a1109a04e13/record.json"
+    },
+    {
+      "eframeCode": "MLDA3866",
+      "family": "CT-08",
+      "version": "2c2647382e03b7f2d1e49fbfdb7fd36d2a3c811b8456886c61f568b4492301a8-4c94d9908ec84d9e",
+      "status": "candidate",
+      "record": "candidate/MLDA3866/2c2647382e03b7f2d1e49fbfdb7fd36d2a3c811b8456886c61f568b4492301a8-4c94d9908ec84d9e/record.json"
+    },
+    {
+      "eframeCode": "MLDA3864",
+      "family": "CT-08",
+      "version": "e79051804dc2d51688399420f611647e932a25b6c075cd5c124897db3d725fbc-062c3ad0e1c81740",
+      "status": "candidate",
+      "record": "candidate/MLDA3864/e79051804dc2d51688399420f611647e932a25b6c075cd5c124897db3d725fbc-062c3ad0e1c81740/record.json"
+    },
+    {
+      "eframeCode": "MLDA2536",
+      "family": "CT-09",
+      "version": "dadb34ecf6c0d84decb653dd64ec9fc13ecaebfc1d33b497804a0475ac594d0a-b4a2e6752d8a901b",
+      "status": "approved",
+      "record": "approved/MLDA2536/dadb34ecf6c0d84decb653dd64ec9fc13ecaebfc1d33b497804a0475ac594d0a-b4a2e6752d8a901b/record.json"
+    },
+    {
+      "eframeCode": "MLDA2533",
+      "family": "CT-09",
+      "version": "937227f2788c249742f0da7926e17714b23efdc63104795b0944383136c4792f-ad153eca3dafd85c",
+      "status": "candidate",
+      "record": "candidate/MLDA2533/937227f2788c249742f0da7926e17714b23efdc63104795b0944383136c4792f-ad153eca3dafd85c/record.json"
+    },
+    {
+      "eframeCode": "MLDA2532",
+      "family": "CT-09",
+      "version": "09c6a87eb47b7bcf1eb35064a756bb913c6e379cd82ac1e311b780316c782cdc-316aa89db982b00f",
+      "status": "approved",
+      "record": "approved/MLDA2532/09c6a87eb47b7bcf1eb35064a756bb913c6e379cd82ac1e311b780316c782cdc-316aa89db982b00f/record.json"
+    },
+    {
+      "eframeCode": "MLDA3908",
+      "family": "CT-09",
+      "version": "07b35fd8dfdc2b7b5f189aa7bddefff57d1332f2f3bc04410dd8739e7294b9fa-622f18d1f292063e",
+      "status": "candidate",
+      "record": "candidate/MLDA3908/07b35fd8dfdc2b7b5f189aa7bddefff57d1332f2f3bc04410dd8739e7294b9fa-622f18d1f292063e/record.json"
+    },
+    {
+      "eframeCode": "MLDA3032",
+      "family": "CT-10",
+      "version": "9ea8aa71b938aaaba182f1853ab073cafd4c3e496633f41eb5379ff293a66c78-2ab2f75e6dac88ad",
+      "status": "approved",
+      "record": "approved/MLDA3032/9ea8aa71b938aaaba182f1853ab073cafd4c3e496633f41eb5379ff293a66c78-2ab2f75e6dac88ad/record.json"
+    },
+    {
+      "eframeCode": "MLDA3030",
+      "family": "CT-10",
+      "version": "8bad6162f453da1ff95d04efca0009c195f524687928a2f8ef76dc2be9d6b93b-f151ef9e2d84af0c",
+      "status": "candidate",
+      "record": "candidate/MLDA3030/8bad6162f453da1ff95d04efca0009c195f524687928a2f8ef76dc2be9d6b93b-f151ef9e2d84af0c/record.json"
+    },
+    {
+      "eframeCode": "MLDA3972",
+      "family": "CT-12",
+      "version": "4a340d2358f0a9811bebcdbfc11276faf2b957219243c4e68793c043b7dbf838-1863f87bc4fd1484",
+      "status": "candidate",
+      "record": "candidate/MLDA3972/4a340d2358f0a9811bebcdbfc11276faf2b957219243c4e68793c043b7dbf838-1863f87bc4fd1484/record.json"
+    },
+    {
+      "eframeCode": "MLDA3971",
+      "family": "CT-12",
+      "version": "3931b4124195f9b9af96b0000ab6831e6218615b46112778c722715b0eacab3f-d295f8366bae12f8",
+      "status": "approved",
+      "record": "approved/MLDA3971/3931b4124195f9b9af96b0000ab6831e6218615b46112778c722715b0eacab3f-d295f8366bae12f8/record.json"
+    },
+    {
+      "eframeCode": "MLDA3970",
+      "family": "CT-12",
+      "version": "8e17e68945d0da657181a6e271f1d074ceecf26d4f9e6e125c70dab19010c322-29b42428a223ca46",
+      "status": "candidate",
+      "record": "candidate/MLDA3970/8e17e68945d0da657181a6e271f1d074ceecf26d4f9e6e125c70dab19010c322-29b42428a223ca46/record.json"
+    },
+    {
+      "eframeCode": "MLDA3975",
+      "family": "CT-12",
+      "version": "e520901afc770a510c0acc8d02d0c45e2248d0e90468782cdedcc5c0b1bb433e-a82969cccbf5ccd4",
+      "status": "candidate",
+      "record": "candidate/MLDA3975/e520901afc770a510c0acc8d02d0c45e2248d0e90468782cdedcc5c0b1bb433e-a82969cccbf5ccd4/record.json"
+    },
+    {
+      "eframeCode": "MLDA3974",
+      "family": "CT-12",
+      "version": "4e2738022f76988e17493d8db43c7f0bb160101c5dbb579b7211559b711b5e0a-a72705a1a61e8c76",
+      "status": "candidate",
+      "record": "candidate/MLDA3974/4e2738022f76988e17493d8db43c7f0bb160101c5dbb579b7211559b711b5e0a-a72705a1a61e8c76/record.json"
+    },
+    {
+      "eframeCode": "MLDA4020",
+      "family": "CT-14",
+      "version": "6c98bc178fb5a0ec9c0856a989776818288ccbc362327c92ee9aff79a65ecb47-a31948cccb2376b1",
+      "status": "candidate",
+      "record": "candidate/MLDA4020/6c98bc178fb5a0ec9c0856a989776818288ccbc362327c92ee9aff79a65ecb47-a31948cccb2376b1/record.json"
+    },
+    {
+      "eframeCode": "MLDA4019",
+      "family": "CT-14",
+      "version": "8e971e947e4c3d816b56ec5c3f87c59521f7ab02cf7b4c01a7a50c897efe1cc7-c7f17bd2cb0d076d",
+      "status": "candidate",
+      "record": "candidate/MLDA4019/8e971e947e4c3d816b56ec5c3f87c59521f7ab02cf7b4c01a7a50c897efe1cc7-c7f17bd2cb0d076d/record.json"
+    },
+    {
+      "eframeCode": "MLDA4039",
+      "family": "CT-16",
+      "version": "db79285b7f91258ac6730a0171f3aafdad94e4f42ee0e57d3b4b38049777eaef-3e130c43a0d4a094",
+      "status": "candidate",
+      "record": "candidate/MLDA4039/db79285b7f91258ac6730a0171f3aafdad94e4f42ee0e57d3b4b38049777eaef-3e130c43a0d4a094/record.json"
+    },
+    {
+      "eframeCode": "MLDA4040",
+      "family": "CT-16",
+      "version": "49ff12ba6b85f7fcef4d299b7d08cd36f902b9b63765f95d0498c94d56fd04e6-b2b1496b4f203083",
+      "status": "candidate",
+      "record": "candidate/MLDA4040/49ff12ba6b85f7fcef4d299b7d08cd36f902b9b63765f95d0498c94d56fd04e6-b2b1496b4f203083/record.json"
+    },
+    {
+      "eframeCode": "MLDA2965",
+      "family": "CT-21",
+      "version": "1b85e82e7b4345497516b562b2f485078a779beb8f194e16537baed7fb0cef01-8d075c3cf84e3c56",
+      "status": "candidate",
+      "record": "candidate/MLDA2965/1b85e82e7b4345497516b562b2f485078a779beb8f194e16537baed7fb0cef01-8d075c3cf84e3c56/record.json"
+    },
+    {
+      "eframeCode": "MLDA2960",
+      "family": "CT-24",
+      "version": "5eee8126cbe206019d01673cbf5c90bb211b22c9944eb012b902287e5b1e407f-1668dc12c3f07b95",
+      "status": "approved",
+      "record": "approved/MLDA2960/5eee8126cbe206019d01673cbf5c90bb211b22c9944eb012b902287e5b1e407f-1668dc12c3f07b95/record.json"
+    },
+    {
+      "eframeCode": "MLDA2801",
+      "family": "CT-25",
+      "version": "5f9722dfb158680d2c751999f501d0bee1556639011467fdd6d6179e164478dc-730f93707cdc09e3",
+      "status": "candidate",
+      "record": "candidate/MLDA2801/5f9722dfb158680d2c751999f501d0bee1556639011467fdd6d6179e164478dc-730f93707cdc09e3/record.json"
+    },
+    {
+      "eframeCode": "MLDA2955",
+      "family": "CT-04",
+      "version": "404e01e5c0427da6ab166669ef932cd25a33eb78fb390de0ef64e138a883854c-c81a659b1a5dc9c2",
+      "status": "approved",
+      "record": "approved/MLDA2955/404e01e5c0427da6ab166669ef932cd25a33eb78fb390de0ef64e138a883854c-c81a659b1a5dc9c2/record.json"
+    },
+    {
+      "eframeCode": "MLDA3027",
+      "family": "CT-11",
+      "version": "51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff",
+      "status": "candidate",
+      "record": "candidate/MLDA3027/51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff/record.json"
+    },
+    {
+      "eframeCode": "MLDA1640",
+      "family": "CT-13",
+      "version": "bd6c029abc75f6eb9e100c3894929264bc86e0e7641402b4181dc122f49afdf7-5eb07fbde3b81c7e",
+      "status": "candidate",
+      "record": "candidate/MLDA1640/bd6c029abc75f6eb9e100c3894929264bc86e0e7641402b4181dc122f49afdf7-5eb07fbde3b81c7e/record.json"
+    },
+    {
+      "eframeCode": "MLDA1600",
+      "family": "CT-22",
+      "version": "d0563cf16cdb059b1e835e51699e6e334249eb0c07cf319195d053c0adaa8850-92a55d4a3e319520",
+      "status": "candidate",
+      "record": "candidate/MLDA1600/d0563cf16cdb059b1e835e51699e6e334249eb0c07cf319195d053c0adaa8850-92a55d4a3e319520/record.json"
+    },
+    {
+      "eframeCode": "MLDA1864",
+      "family": "CT-17",
+      "version": "dc4c86755c923d25062347e66b978c8112d01917184350ea0db3fcdd36a3ef16-6150be6c642e4313",
+      "status": "approved",
+      "record": "approved/MLDA1864/dc4c86755c923d25062347e66b978c8112d01917184350ea0db3fcdd36a3ef16-6150be6c642e4313/record.json"
+    },
+    {
+      "eframeCode": "MLDA2535",
+      "family": "CT-09",
+      "version": "75a35b536c17f6703d232d617d05a0fa9ac97408be6dcad602607d4b5ab6516e-e693ef196988c302",
+      "status": "archived",
+      "record": "archived/MLDA2535/75a35b536c17f6703d232d617d05a0fa9ac97408be6dcad602607d4b5ab6516e-e693ef196988c302/record.json"
+    },
+    {
+      "eframeCode": "MLDA4015",
+      "family": "CT-01",
+      "version": "75502a803c9be9e619b24ee24f36e15275b0a1e1d872bc76611dc9bfd03741a7-d16348c039889963",
+      "status": "archived",
+      "record": "archived/MLDA4015/75502a803c9be9e619b24ee24f36e15275b0a1e1d872bc76611dc9bfd03741a7-d16348c039889963/record.json"
+    },
+    {
+      "eframeCode": "MLDA3862",
+      "family": "CT-08",
+      "version": "1c4a8c912eb8e2665b6ba0aaa6d71a57cc65246f60ba25a4360f6782bd0a8951-853d6e6dfa01acb3",
+      "status": "archived",
+      "record": "archived/MLDA3862/1c4a8c912eb8e2665b6ba0aaa6d71a57cc65246f60ba25a4360f6782bd0a8951-853d6e6dfa01acb3/record.json"
+    },
+    {
+      "eframeCode": "MLDA1639",
+      "family": "CT-13",
+      "version": "9f952d9d18a60f9f09194edf516b030489efaa99f88fc5f7337e7d1e37a2237d-3302bf6a9d0766ad",
+      "status": "archived",
+      "record": "archived/MLDA1639/9f952d9d18a60f9f09194edf516b030489efaa99f88fc5f7337e7d1e37a2237d-3302bf6a9d0766ad/record.json"
+    },
+    {
+      "eframeCode": "MLDA1599",
+      "family": "CT-22",
+      "version": "b6b035bd19a02b69f013bd9c1157177572c13f04246ff9b7ff2e43709712aca7-701dd3a27a265651",
+      "status": "archived",
+      "record": "archived/MLDA1599/b6b035bd19a02b69f013bd9c1157177572c13f04246ff9b7ff2e43709712aca7-701dd3a27a265651/record.json"
+    },
+    {
+      "eframeCode": "MLDA3382",
+      "family": "CT-03",
+      "version": "4da709d6926fcfbf8245e38828476fbf62de0c6d0223fddafc212640d2c93b1d-7ad2cec7d5ecea27",
+      "status": "archived",
+      "record": "archived/MLDA3382/4da709d6926fcfbf8245e38828476fbf62de0c6d0223fddafc212640d2c93b1d-7ad2cec7d5ecea27/record.json"
+    },
+    {
+      "eframeCode": "MLDA3392",
+      "family": "CT-07",
+      "version": "afd45c4d86c426824d79b70f475046a8927710ac3d92e2221dd0bc64c9c4fc54-45336332696b2dcb",
+      "status": "archived",
+      "record": "archived/MLDA3392/afd45c4d86c426824d79b70f475046a8927710ac3d92e2221dd0bc64c9c4fc54-45336332696b2dcb/record.json"
+    },
+    {
+      "eframeCode": "MLDA3969",
+      "family": "CT-12",
+      "version": "9edcfbe79bb5805d6ccf926bd30863b1249cfa29897986f927a5f6810a113a65-c51a1ba78dba12cc",
+      "status": "archived",
+      "record": "archived/MLDA3969/9edcfbe79bb5805d6ccf926bd30863b1249cfa29897986f927a5f6810a113a65-c51a1ba78dba12cc/record.json"
+    },
+    {
+      "eframeCode": "MLDA3387",
+      "family": "CT-05",
+      "version": "6d067accd9cb643f1f11e5cbdf059c973871b64db5591d3cc2a5a623d129b497-5df52ada3b9a2129",
+      "status": "archived",
+      "record": "archived/MLDA3387/6d067accd9cb643f1f11e5cbdf059c973871b64db5591d3cc2a5a623d129b497-5df52ada3b9a2129/record.json"
+    },
+    {
+      "eframeCode": "MLDA4015",
+      "family": "CT-01",
+      "version": "e84aa96971ecb686bd02e72680ba8fc1d9a1ffad571954613670bbb07c4c1259-87f78a391a14253f",
+      "status": "archived",
+      "record": "archived/MLDA4015/e84aa96971ecb686bd02e72680ba8fc1d9a1ffad571954613670bbb07c4c1259-87f78a391a14253f/record.json"
+    },
+    {
+      "eframeCode": "MLDA2957",
+      "family": "CT-04",
+      "version": "76f5750f95e823f29ae5902aa6cc29b1855a8e8814ee205223480c6b8ffe6dd4-42fd38c69f68d22f",
+      "status": "archived",
+      "record": "archived/MLDA2957/76f5750f95e823f29ae5902aa6cc29b1855a8e8814ee205223480c6b8ffe6dd4-42fd38c69f68d22f/record.json"
+    },
+    {
+      "eframeCode": "MLDA3949",
+      "family": "CT-06",
+      "version": "fc9d46d91aa38fd282eb8da6e400fdbf5daf43d6c1db5de279b7a2ef74774273-770296477b73b72a",
+      "status": "archived",
+      "record": "archived/MLDA3949/fc9d46d91aa38fd282eb8da6e400fdbf5daf43d6c1db5de279b7a2ef74774273-770296477b73b72a/record.json"
+    }
+  ],
+  "instructions": "instructions/README.md",
+  "missingSectionImages": [
+    "MLDA1866",
+    "MLDA3240",
+    "MLDA4039",
+    "MLDA4040"
+  ],
+  "supplierReferenceCount": 71,
+  "supplierImageCount": 263,
+  "hashIndex": "checksums/index.json",
+  "unknownsSummary": "liveOnShopify and lineContinuity are unknown for all versions; other unknowns are per-record. Clean metal constants are explicitly not falsely labelled colour-picked."
+}

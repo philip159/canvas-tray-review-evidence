@@ -1,0 +1,166 @@
+{
+  "family": "CT-01",
+  "reference": "MLDA4015",
+  "checksum": "bccb43cb2123e3b49298e29adf51df4014241972f2a48fb038e1766aab15825d",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:23:39.429Z",
+  "drawing": {
+    "family": "CT-01",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 30,
+        "drawn": 30
+      },
+      {
+        "name": "Profile width",
+        "printed": 43,
+        "drawn": 43
+      },
+      {
+        "name": "Lip width",
+        "printed": 8,
+        "drawn": 8
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 22,
+        "drawn": 22
+      },
+      {
+        "name": "Floor width",
+        "printed": 35,
+        "drawn": 35
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        29,
+        0
+      ],
+      [
+        29.555555555555557,
+        0.1111111111111111
+      ],
+      [
+        29.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        30,
+        1
+      ],
+      [
+        30,
+        7
+      ],
+      [
+        29.888888888888893,
+        7.555555555555557
+      ],
+      [
+        29.555555555555557,
+        7.888888888888889
+      ],
+      [
+        29,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        43
+      ],
+      [
+        0,
+        43
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA4016",
+        "code": "230131985",
+        "at": "2026-10-29T15:08:39.041Z",
+        "url": "https://larsonjuhl.co.uk/ljc-driftwood-float-moulding-fsc-230131985?returnurl=%2fsearch%3fq%3d230131985",
+        "pageSha256": "15ffb355ce1104e2def9bb5c579834d47181930d0dac6a03000398f07bedf66a",
+        "fields": {
+          "Item Width": 43,
+          "Item Depth": 30,
+          "Rebate Depth": 22,
+          "Rebate Width": 35,
+          "Face Width": 8
+        },
+        "derived": {
+          "lipMm": 8,
+          "floorThicknessMm": 8
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA4015",
+        "code": "230131975",
+        "at": "2026-10-29T15:08:42.068Z",
+        "url": "https://larsonjuhl.co.uk/ljc-driftwood-float-moulding-fsc-230131975?returnurl=%2fsearch%3fq%3d230131975",
+        "pageSha256": "77664cb39319f4ddc4114496736dfe919013be24e2a34608cc1676e152ea9667",
+        "fields": {
+          "Item Width": 43,
+          "Item Depth": 30,
+          "Rebate Depth": 22,
+          "Rebate Width": 35,
+          "Face Width": 8
+        },
+        "derived": {
+          "lipMm": 8,
+          "floorThicknessMm": 8
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-01/bccb43cb2123e3b49298e29adf51df4014241972f2a48fb038e1766aab15825d/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-01/bccb43cb2123e3b49298e29adf51df4014241972f2a48fb038e1766aab15825d/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-01/bccb43cb2123e3b49298e29adf51df4014241972f2a48fb038e1766aab15825d/dimensionOverlayUrl.png"
+  }
+}

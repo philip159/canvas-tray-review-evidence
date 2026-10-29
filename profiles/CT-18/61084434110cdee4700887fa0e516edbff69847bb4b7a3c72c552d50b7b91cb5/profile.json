@@ -1,0 +1,615 @@
+{
+  "family": "CT-18",
+  "reference": "MLDA3239",
+  "checksum": "61084434110cdee4700887fa0e516edbff69847bb4b7a3c72c552d50b7b91cb5",
+  "approved": false,
+  "approvedAt": null,
+  "drawing": {
+    "family": "CT-18",
+    "mode": "supplier-envelope-fitted-photo-features",
+    "source": "Larson-Juhl spec table with owner-authorised feature fitting",
+    "radiusMm": null,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 66,
+        "drawn": 66
+      },
+      {
+        "name": "Profile width",
+        "printed": 56,
+        "drawn": 56
+      },
+      {
+        "name": "Lip width",
+        "printed": 31,
+        "drawn": 31
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 41,
+        "drawn": 41
+      },
+      {
+        "name": "Floor width",
+        "printed": 25,
+        "drawn": 25
+      }
+    ],
+    "warnings": [
+      "Owner-authorised dimension fitting, not an independent photographic measurement. Grey: old trace; green: fitted proposal. Genuine angled/sculpted features retained; new approval required.",
+      "Lip = Item Width − Rebate Width = 56 − 25 = 31 mm. Maximum vertex move 1.174 mm."
+    ],
+    "outlineMm": [
+      [
+        65.7384821451687,
+        0.46212782302866734
+      ],
+      [
+        65.0383314235381,
+        0
+      ],
+      [
+        10.954956766148763,
+        0.026061323735461387
+      ],
+      [
+        0.22985402719908332,
+        0.026061323735461387
+      ],
+      [
+        0,
+        1.884802860216834
+      ],
+      [
+        0.010857748746147651,
+        15.815037868088364
+      ],
+      [
+        0.010857748746147651,
+        55.34149874911288
+      ],
+      [
+        1.261226799488003,
+        56
+      ],
+      [
+        11.444938054519096,
+        56
+      ],
+      [
+        11.780929346524859,
+        54.609975708950834
+      ],
+      [
+        11.780929346524859,
+        49.65011745118245
+      ],
+      [
+        11.912738921271377,
+        48.45743829694053
+      ],
+      [
+        11.52007141221037,
+        47.02358079116264
+      ],
+      [
+        11.52007141221037,
+        31.596480565267402
+      ],
+      [
+        12.495320347594559,
+        30.961347094641884
+      ],
+      [
+        47.770271156677175,
+        31
+      ],
+      [
+        52.05987044282163,
+        31
+      ],
+      [
+        52.76366450750626,
+        30.608200200674744
+      ],
+      [
+        53.97028206569043,
+        28.667453413149268
+      ],
+      [
+        56.76409198228092,
+        22.122295857174354
+      ],
+      [
+        65.18472107432585,
+        4.493127706355177
+      ],
+      [
+        65.9128248289345,
+        2.359498186198402
+      ],
+      [
+        66,
+        1.2304752300535478
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": [],
+    "sourceUrl": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-winchester-float-moulding-942006054?returnurl=%2fsearch%3fq%3d942006054",
+    "adjustmentEvidence": {
+      "xAnchorsBefore": [
+        0.07598684169352055,
+        11.59342098236084,
+        52.39738118329759,
+        65.8263168334961
+      ],
+      "xAnchorsAfter": [
+        0,
+        11.52007141221037,
+        52.52007141221037,
+        66
+      ],
+      "yAnchorsBefore": [
+        0.16778242215514183,
+        32.167442321777344,
+        55.84219932556152
+      ],
+      "yAnchorsAfter": [
+        0,
+        31,
+        56
+      ],
+      "vertices": [
+        {
+          "vertex": 0,
+          "before": [
+            65.56578826904297,
+            0.6448125243186951
+          ],
+          "after": [
+            65.7384821451687,
+            0.46212782302866734
+          ],
+          "deltaMm": [
+            0.1726938761257344,
+            -0.18268470129002773
+          ]
+        },
+        {
+          "vertex": 1,
+          "before": [
+            64.8682861328125,
+            0.16778242215514183
+          ],
+          "after": [
+            65.0383314235381,
+            0
+          ],
+          "deltaMm": [
+            0.1700452907255965,
+            -0.16778242215514183
+          ]
+        },
+        {
+          "vertex": 2,
+          "before": [
+            11.028435707092285,
+            0.19468414783477783
+          ],
+          "after": [
+            10.954956766148763,
+            0.026061323735461387
+          ],
+          "deltaMm": [
+            -0.07347894094352192,
+            -0.16862282409931645
+          ]
+        },
+        {
+          "vertex": 3,
+          "before": [
+            0.3057882487773895,
+            0.19468414783477783
+          ],
+          "after": [
+            0.22985402719908332,
+            0.026061323735461387
+          ],
+          "deltaMm": [
+            -0.0759342215783062,
+            -0.16862282409931645
+          ]
+        },
+        {
+          "vertex": 4,
+          "before": [
+            0.07598684169352055,
+            2.1133646965026855
+          ],
+          "after": [
+            0,
+            1.884802860216834
+          ],
+          "deltaMm": [
+            -0.07598684169352055,
+            -0.22856183628585147
+          ]
+        },
+        {
+          "vertex": 5,
+          "before": [
+            0.08684210479259491,
+            16.492809295654297
+          ],
+          "after": [
+            0.010857748746147651,
+            15.815037868088364
+          ],
+          "deltaMm": [
+            -0.07598435604644727,
+            -0.6777714275659328
+          ]
+        },
+        {
+          "vertex": 6,
+          "before": [
+            0.08684210479259491,
+            55.218605041503906
+          ],
+          "after": [
+            0.010857748746147651,
+            55.34149874911288
+          ],
+          "deltaMm": [
+            -0.07598435604644727,
+            0.12289370760897356
+          ]
+        },
+        {
+          "vertex": 7,
+          "before": [
+            1.3369249105453491,
+            55.84219932556152
+          ],
+          "after": [
+            1.261226799488003,
+            56
+          ],
+          "deltaMm": [
+            -0.07569811105734603,
+            0.15780067443847656
+          ]
+        },
+        {
+          "vertex": 8,
+          "before": [
+            11.518304824829102,
+            55.84219932556152
+          ],
+          "after": [
+            11.444938054519096,
+            56
+          ],
+          "deltaMm": [
+            -0.07336677031000605,
+            0.15780067443847656
+          ]
+        },
+        {
+          "vertex": 9,
+          "before": [
+            11.853031635284424,
+            54.52585983276367
+          ],
+          "after": [
+            11.780929346524859,
+            54.609975708950834
+          ],
+          "deltaMm": [
+            -0.07210228875956481,
+            0.08411587618716254
+          ]
+        },
+        {
+          "vertex": 10,
+          "before": [
+            11.853031635284424,
+            49.828922271728516
+          ],
+          "after": [
+            11.780929346524859,
+            49.65011745118245
+          ],
+          "deltaMm": [
+            -0.07210228875956481,
+            -0.17880482054606261
+          ]
+        },
+        {
+          "vertex": 11,
+          "before": [
+            11.984210968017578,
+            48.699466705322266
+          ],
+          "after": [
+            11.912738921271377,
+            48.45743829694053
+          ],
+          "deltaMm": [
+            -0.07147204674620156,
+            -0.242028408381735
+          ]
+        },
+        {
+          "vertex": 12,
+          "before": [
+            11.59342098236084,
+            47.341617584228516
+          ],
+          "after": [
+            11.52007141221037,
+            47.02358079116264
+          ],
+          "deltaMm": [
+            -0.07334957015046939,
+            -0.31803679306587895
+          ]
+        },
+        {
+          "vertex": 13,
+          "before": [
+            11.59342098236084,
+            32.732303619384766
+          ],
+          "after": [
+            11.52007141221037,
+            31.596480565267402
+          ],
+          "deltaMm": [
+            -0.07334957015046939,
+            -1.1358230541173633
+          ]
+        },
+        {
+          "vertex": 14,
+          "before": [
+            12.564006805419922,
+            32.1275429725647
+          ],
+          "after": [
+            12.495320347594559,
+            30.961347094641884
+          ],
+          "deltaMm": [
+            -0.06868645782536298,
+            -1.1661958779228137
+          ]
+        },
+        {
+          "vertex": 15,
+          "before": [
+            47.670291900634766,
+            32.167442321777344
+          ],
+          "after": [
+            47.770271156677175,
+            31
+          ],
+          "deltaMm": [
+            0.09997925604240976,
+            -1.1674423217773438
+          ]
+        },
+        {
+          "vertex": 16,
+          "before": [
+            51.93938064575195,
+            32.167442321777344
+          ],
+          "after": [
+            52.05987044282163,
+            31
+          ],
+          "deltaMm": [
+            0.12048979706967344,
+            -1.1674423217773438
+          ]
+        },
+        {
+          "vertex": 17,
+          "before": [
+            52.640052795410156,
+            31.76300811767578
+          ],
+          "after": [
+            52.76366450750626,
+            30.608200200674744
+          ],
+          "deltaMm": [
+            0.12361171209610688,
+            -1.1548079170010368
+          ]
+        },
+        {
+          "vertex": 18,
+          "before": [
+            53.842105865478516,
+            29.75967788696289
+          ],
+          "after": [
+            53.97028206569043,
+            28.667453413149268
+          ],
+          "deltaMm": [
+            0.1281762002119109,
+            -1.0922244738136229
+          ]
+        },
+        {
+          "vertex": 19,
+          "before": [
+            56.62534713745117,
+            23.00345802307129
+          ],
+          "after": [
+            56.76409198228092,
+            22.122295857174354
+          ],
+          "deltaMm": [
+            0.1387448448297448,
+            -0.8811621658969351
+          ]
+        },
+        {
+          "vertex": 20,
+          "before": [
+            65.01412200927734,
+            4.805800437927246
+          ],
+          "after": [
+            65.18472107432585,
+            4.493127706355177
+          ],
+          "deltaMm": [
+            0.1705990650485063,
+            -0.31267273157206876
+          ]
+        },
+        {
+          "vertex": 21,
+          "before": [
+            65.73947143554688,
+            2.603367567062378
+          ],
+          "after": [
+            65.9128248289345,
+            2.359498186198402
+          ],
+          "deltaMm": [
+            0.17335339338762878,
+            -0.24386938086397603
+          ]
+        },
+        {
+          "vertex": 22,
+          "before": [
+            65.8263168334961,
+            1.4379369020462036
+          ],
+          "after": [
+            66,
+            1.2304752300535478
+          ],
+          "deltaMm": [
+            0.17368316650390625,
+            -0.20746167199265586
+          ]
+        }
+      ],
+      "canvasDepthDatum": "Inner lip nose to floor; angled outer nose is not the canvas-depth datum",
+      "supplierPageSha256": "a39659148147e75c66680e8c043f19f700a1dec74104e0bcb4d642b5083c26fc"
+    }
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": true,
+    "rows": [
+      {
+        "reference": "MLDA3239",
+        "code": "942006054",
+        "at": "2026-10-29T15:07:58.640Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-winchester-float-moulding-942006054?returnurl=%2fsearch%3fq%3d942006054",
+        "pageSha256": "a39659148147e75c66680e8c043f19f700a1dec74104e0bcb4d642b5083c26fc",
+        "fields": {
+          "Item Width": 56,
+          "Item Depth": 66,
+          "Rebate Depth": 41,
+          "Rebate Width": 25,
+          "Face Width": 31
+        },
+        "derived": {
+          "lipMm": 31,
+          "floorThicknessMm": 25
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.25,
+          "profileWidth": 0.326,
+          "lip": -1,
+          "canvasDepth": 0.196,
+          "floorWidth": 1.325,
+          "floorThickness": 0.054
+        },
+        "overOneMm": true
+      },
+      {
+        "reference": "MLDA3241",
+        "code": "942006086",
+        "at": "2026-10-29T15:07:58.777Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-winchester-float-moulding-942006086?returnurl=%2fsearch%3fq%3d942006086",
+        "pageSha256": "173018ec71ad53675bd7f7fab78c95396c9c50e270d037f65016454d84d9d66b",
+        "fields": {
+          "Item Width": 56,
+          "Item Depth": 66,
+          "Rebate Depth": 41,
+          "Rebate Width": 25,
+          "Face Width": 31
+        },
+        "derived": {
+          "lipMm": 31,
+          "floorThicknessMm": 25
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.25,
+          "profileWidth": 0.326,
+          "lip": -1,
+          "canvasDepth": 0.196,
+          "floorWidth": 1.325,
+          "floorThickness": 0.054
+        },
+        "overOneMm": true
+      },
+      {
+        "reference": "MLDA3240",
+        "code": "942006055",
+        "at": "2026-10-29T15:07:58.747Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-winchester-float-moulding-942006055?returnurl=%2fsearch%3fq%3d942006055",
+        "pageSha256": "3e36e285f8aca2a2632262a87d81b0eedf1208adedd99dc88c74e00d4dc488cc",
+        "fields": {
+          "Item Width": 56,
+          "Item Depth": 66,
+          "Rebate Depth": 41,
+          "Rebate Width": 25,
+          "Face Width": 31
+        },
+        "derived": {
+          "lipMm": 31,
+          "floorThicknessMm": 25
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0.25,
+          "profileWidth": 0.326,
+          "lip": -1,
+          "canvasDepth": 0.196,
+          "floorWidth": 1.325,
+          "floorThickness": 0.054
+        },
+        "overOneMm": true
+      }
+    ]
+  },
+  "notes": [
+    "Owner-authorised dimension fitting, not an independent photographic measurement. Grey: old trace; green: fitted proposal. Genuine angled/sculpted features retained; new approval required.",
+    "Lip = Item Width − Rebate Width = 56 − 25 = 31 mm. Maximum vertex move 1.174 mm."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-18/61084434110cdee4700887fa0e516edbff69847bb4b7a3c72c552d50b7b91cb5/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-18/61084434110cdee4700887fa0e516edbff69847bb4b7a3c72c552d50b7b91cb5/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-18/61084434110cdee4700887fa0e516edbff69847bb4b7a3c72c552d50b7b91cb5/dimensionOverlayUrl.png"
+  }
+}

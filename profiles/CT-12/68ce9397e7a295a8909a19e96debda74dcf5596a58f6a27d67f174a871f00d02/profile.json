@@ -1,0 +1,299 @@
+{
+  "family": "CT-12",
+  "reference": "MLDA3969",
+  "checksum": "68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:26:23.482Z",
+  "drawing": {
+    "family": "CT-12",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 50,
+        "drawn": 50
+      },
+      {
+        "name": "Profile width",
+        "printed": 38,
+        "drawn": 38
+      },
+      {
+        "name": "Lip width",
+        "printed": 14,
+        "drawn": 14
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 40,
+        "drawn": 40
+      },
+      {
+        "name": "Floor width",
+        "printed": 24,
+        "drawn": 24
+      }
+    ],
+    "warnings": [
+      "Removed unsupported foil-line hook. Continuous L section with small rounded exposed corners; no added retaining lip."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        49,
+        0
+      ],
+      [
+        49.555555555555564,
+        0.1111111111111111
+      ],
+      [
+        49.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        50,
+        1
+      ],
+      [
+        50,
+        13
+      ],
+      [
+        49.88888888888889,
+        13.555555555555555
+      ],
+      [
+        49.55555555555556,
+        13.88888888888889
+      ],
+      [
+        49,
+        14
+      ],
+      [
+        10,
+        14
+      ],
+      [
+        10,
+        38
+      ],
+      [
+        0,
+        38
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA3970",
+        "code": "631120000",
+        "at": "2026-10-29T15:09:35.619Z",
+        "missingReferenceFields": [
+          "Face Width"
+        ],
+        "url": "https://larsonjuhl.co.uk/ljc-foiled-float-moulding-631120000?returnurl=%2fsearch%3fq%3d631120000",
+        "pageSha256": "6c4d36aaedcc5ef4e8668b3f81aabf9941af03ef4dd6127f8a74fff0b0e01d83",
+        "fields": {
+          "Item Width": 38,
+          "Item Depth": 50,
+          "Rebate Depth": 40,
+          "Rebate Width": 24,
+          "Face Width": null
+        },
+        "derived": {
+          "lipMm": 14,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3975",
+        "code": "631190000",
+        "at": "2026-10-29T15:09:35.643Z",
+        "missingReferenceFields": [
+          "Face Width"
+        ],
+        "url": "https://larsonjuhl.co.uk/ljc-foiled-float-moulding-631190000?returnurl=%2fsearch%3fq%3d631190000",
+        "pageSha256": "e618cd79b37dd7d5463e2637f030f7620d966f7d96633065103a96f3522fa0d1",
+        "fields": {
+          "Item Width": 38,
+          "Item Depth": 50,
+          "Rebate Depth": 40,
+          "Rebate Width": 24,
+          "Face Width": null
+        },
+        "derived": {
+          "lipMm": 14,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3971",
+        "code": "631130000",
+        "at": "2026-10-29T15:09:35.642Z",
+        "missingReferenceFields": [
+          "Face Width"
+        ],
+        "url": "https://larsonjuhl.co.uk/ljc-foiled-float-moulding-631130000?returnurl=%2fsearch%3fq%3d631130000",
+        "pageSha256": "b08ae918c94d1bc80e15d748bfb0d3f984edcdb2f36a9cccdc61886cbe422e3c",
+        "fields": {
+          "Item Width": 38,
+          "Item Depth": 50,
+          "Rebate Depth": 40,
+          "Rebate Width": 24,
+          "Face Width": null
+        },
+        "derived": {
+          "lipMm": 14,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3969",
+        "code": "631110000",
+        "at": "2026-10-29T15:09:36.694Z",
+        "missingReferenceFields": [
+          "Face Width"
+        ],
+        "url": "https://larsonjuhl.co.uk/ljc-foiled-float-moulding-631110000?returnurl=%2fsearch%3fq%3d631110000",
+        "pageSha256": "ae4e7e9e189914de2aa632e740cfd055211f853414cca1ef398cb6da7e45030c",
+        "fields": {
+          "Item Width": 38,
+          "Item Depth": 50,
+          "Rebate Depth": 40,
+          "Rebate Width": 24,
+          "Face Width": null
+        },
+        "derived": {
+          "lipMm": 14,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3974",
+        "code": "631180000",
+        "at": "2026-10-29T15:09:36.697Z",
+        "missingReferenceFields": [
+          "Face Width"
+        ],
+        "url": "https://larsonjuhl.co.uk/ljc-foiled-float-moulding-631180000?returnurl=%2fsearch%3fq%3d631180000",
+        "pageSha256": "9de1d0fae3ddb5e956fb951a41582e6bea02306c1bf8d4899f9a12d10737e32d",
+        "fields": {
+          "Item Width": 38,
+          "Item Depth": 50,
+          "Rebate Depth": 40,
+          "Rebate Width": 24,
+          "Face Width": null
+        },
+        "derived": {
+          "lipMm": 14,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3972",
+        "code": "631140000",
+        "at": "2026-10-29T15:09:36.695Z",
+        "missingReferenceFields": [
+          "Face Width"
+        ],
+        "url": "https://larsonjuhl.co.uk/ljc-foiled-float-moulding-631140000?returnurl=%2fsearch%3fq%3d631140000",
+        "pageSha256": "cb793ccd12b259af7a39be197cbeb1d5d078af59bb28e3b51a4ca9cf96357bd4",
+        "fields": {
+          "Item Width": 38,
+          "Item Depth": 50,
+          "Rebate Depth": 40,
+          "Rebate Width": 24,
+          "Face Width": null
+        },
+        "derived": {
+          "lipMm": 14,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Removed unsupported foil-line hook. Continuous L section with small rounded exposed corners; no added retaining lip.",
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-12/68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-12/68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-12/68ce9397e7a295a8909a19e96debda74dcf5596a58f6a27d67f174a871f00d02/dimensionOverlayUrl.png"
+  }
+}

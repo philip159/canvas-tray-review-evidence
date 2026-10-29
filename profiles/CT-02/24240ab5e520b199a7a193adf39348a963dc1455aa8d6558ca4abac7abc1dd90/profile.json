@@ -1,0 +1,188 @@
+{
+  "family": "CT-02",
+  "reference": "MLDA2199",
+  "checksum": "24240ab5e520b199a7a193adf39348a963dc1455aa8d6558ca4abac7abc1dd90",
+  "approved": false,
+  "approvedAt": null,
+  "drawing": {
+    "family": "CT-02",
+    "mode": "dimension-plus-feature",
+    "source": "Larson-Juhl product-page dimensions",
+    "sourceUrl": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-236124471?returnurl=%2fsearch%3fq%3d236124471",
+    "referenceFaceWidthMm": 9,
+    "radiusMm": 1,
+    "feature": {
+      "description": "Small step at inner lip front; provisional photo reading",
+      "sizeMm": {
+        "stepDepth": 1.48,
+        "stepRun": 0.695
+      },
+      "landmarksPx": [
+        [
+          457,
+          154
+        ],
+        [
+          459,
+          171
+        ]
+      ],
+      "advisory": true
+    },
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 33,
+        "drawn": 33
+      },
+      {
+        "name": "Profile width",
+        "printed": 39,
+        "drawn": 39
+      },
+      {
+        "name": "Lip width",
+        "printed": 9,
+        "drawn": 9
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 23,
+        "drawn": 23
+      },
+      {
+        "name": "Floor width",
+        "printed": 30,
+        "drawn": 30
+      }
+    ],
+    "warnings": [
+      "Supplier Face Width 9 mm is reference only. Lip = item width − rebate width = 9 mm; floor thickness = item depth − rebate depth = 10 mm.",
+      "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-236124471?returnurl=%2fsearch%3fq%3d236124471",
+      "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension."
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        32,
+        0
+      ],
+      [
+        32.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        32.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        33,
+        1
+      ],
+      [
+        33,
+        10.479910714285714
+      ],
+      [
+        32.305263157894736,
+        10.479910714285714
+      ],
+      [
+        32.305263157894736,
+        9
+      ],
+      [
+        10,
+        9
+      ],
+      [
+        10,
+        39
+      ],
+      [
+        0,
+        39
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA2200",
+        "code": "236124653",
+        "at": "2026-10-29T15:07:54.792Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-236124653?returnurl=%2fsearch%3fq%3d236124653",
+        "pageSha256": "26e31ce56a073cd5dc263dad45c36cedef7da453927eda8a3b0b866cdeee86e2",
+        "fields": {
+          "Item Width": 39,
+          "Item Depth": 33,
+          "Rebate Depth": 23,
+          "Rebate Width": 30,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA2199",
+        "code": "236124471",
+        "at": "2026-10-29T15:07:56.639Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-236124471?returnurl=%2fsearch%3fq%3d236124471",
+        "pageSha256": "9dca6582976361cbc0a5463efd55b1307e0c255915bc092d4922058fe3eb3c40",
+        "fields": {
+          "Item Width": 39,
+          "Item Depth": 33,
+          "Rebate Depth": 23,
+          "Rebate Width": 30,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Supplier Face Width 9 mm is reference only. Lip = item width − rebate width = 9 mm; floor thickness = item depth − rebate depth = 10 mm.",
+    "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-andover-float-moulding-236124471?returnurl=%2fsearch%3fq%3d236124471",
+    "Extra feature is a dimension-bar-scaled photo estimate for owner review, not a certified supplier dimension.",
+    "Method: dimension-plus-feature. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-02/24240ab5e520b199a7a193adf39348a963dc1455aa8d6558ca4abac7abc1dd90/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-02/24240ab5e520b199a7a193adf39348a963dc1455aa8d6558ca4abac7abc1dd90/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-02/24240ab5e520b199a7a193adf39348a963dc1455aa8d6558ca4abac7abc1dd90/dimensionOverlayUrl.png"
+  }
+}

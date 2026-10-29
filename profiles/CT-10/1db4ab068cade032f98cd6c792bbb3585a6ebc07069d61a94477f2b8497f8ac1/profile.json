@@ -1,0 +1,201 @@
+{
+  "family": "CT-10",
+  "reference": "MLDA3032",
+  "checksum": "1db4ab068cade032f98cd6c792bbb3585a6ebc07069d61a94477f2b8497f8ac1",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:24:16.984Z",
+  "drawing": {
+    "family": "CT-10",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl product-page dimensions",
+    "sourceUrl": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/ljb-barefaced-ayous-float-moulding-619400000?returnurl=%2fsearch%3fq%3d619400000",
+    "referenceFaceWidthMm": 13,
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 34,
+        "drawn": 34
+      },
+      {
+        "name": "Profile width",
+        "printed": 42,
+        "drawn": 42
+      },
+      {
+        "name": "Lip width",
+        "printed": 11,
+        "drawn": 11
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 24,
+        "drawn": 24
+      },
+      {
+        "name": "Floor width",
+        "printed": 31,
+        "drawn": 31
+      }
+    ],
+    "warnings": [
+      "Supplier Face Width 13 mm is reference only. Lip = item width − rebate width = 11 mm; floor thickness = item depth − rebate depth = 10 mm.",
+      "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/ljb-barefaced-ayous-float-moulding-619400000?returnurl=%2fsearch%3fq%3d619400000"
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        33,
+        0
+      ],
+      [
+        33.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        33.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        34,
+        1
+      ],
+      [
+        34,
+        10
+      ],
+      [
+        33.88888888888889,
+        10.555555555555557
+      ],
+      [
+        33.55555555555556,
+        10.88888888888889
+      ],
+      [
+        33,
+        11
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        10,
+        42
+      ],
+      [
+        0,
+        42
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA3030",
+        "code": "619127000",
+        "at": "2026-10-29T15:07:58.327Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-619127000?returnurl=%2fsearch%3fq%3d619127000",
+        "pageSha256": "c6634aef4f3a505e9c19122cee6c8ae9b93f483ef1c316e0c8eff87bcb96ce9d",
+        "fields": {
+          "Item Width": 43,
+          "Item Depth": 35,
+          "Rebate Depth": 24,
+          "Rebate Width": 31,
+          "Face Width": 13
+        },
+        "derived": {
+          "lipMm": 12,
+          "floorThicknessMm": 11
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 1,
+          "profileWidth": 1,
+          "lip": 1,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 1
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3032",
+        "code": "619400000",
+        "at": "2026-10-29T15:07:58.480Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/ljb-barefaced-ayous-float-moulding-619400000?returnurl=%2fsearch%3fq%3d619400000",
+        "pageSha256": "9a18428e2c6ee74358259e47822634fea25877fe73f73dcb8fb4ae9e01e0e4ef",
+        "fields": {
+          "Item Width": 42,
+          "Item Depth": 34,
+          "Rebate Depth": 24,
+          "Rebate Width": 31,
+          "Face Width": 13
+        },
+        "derived": {
+          "lipMm": 11,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3031",
+        "code": "619167000",
+        "at": "2026-10-29T15:07:58.437Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/lje-float-moulding-619167000?returnurl=%2fsearch%3fq%3d619167000",
+        "pageSha256": "5ab79ecbbb393f56afcd9f211a551fea3ae527dad74225f618b1906a5a8e6aa5",
+        "fields": {
+          "Item Width": 43,
+          "Item Depth": 35,
+          "Rebate Depth": 24,
+          "Rebate Width": 31,
+          "Face Width": 13
+        },
+        "derived": {
+          "lipMm": 12,
+          "floorThicknessMm": 11
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 1,
+          "profileWidth": 1,
+          "lip": 1,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 1
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Supplier Face Width 13 mm is reference only. Lip = item width − rebate width = 11 mm; floor thickness = item depth − rebate depth = 10 mm.",
+    "Source: https://larsonjuhl.co.uk/mouldings/larson-juhl-essentials/ljb-barefaced-ayous-float-moulding-619400000?returnurl=%2fsearch%3fq%3d619400000",
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-10/1db4ab068cade032f98cd6c792bbb3585a6ebc07069d61a94477f2b8497f8ac1/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-10/1db4ab068cade032f98cd6c792bbb3585a6ebc07069d61a94477f2b8497f8ac1/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-10/1db4ab068cade032f98cd6c792bbb3585a6ebc07069d61a94477f2b8497f8ac1/dimensionOverlayUrl.png"
+  }
+}

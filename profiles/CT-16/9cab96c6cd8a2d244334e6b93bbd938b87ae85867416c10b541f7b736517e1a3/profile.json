@@ -1,0 +1,173 @@
+{
+  "family": "CT-16",
+  "reference": "MLDA4039",
+  "checksum": "9cab96c6cd8a2d244334e6b93bbd938b87ae85867416c10b541f7b736517e1a3",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:23:33.202Z",
+  "drawing": {
+    "family": "CT-16",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl 516000127 / product specification",
+    "sourceUrl": "https://larsonjuhl.co.uk/ljc-coastal-float-moulding-516000127?returnurl=%2fsearch%3fq%3d516000127",
+    "referenceFaceWidthMm": 27,
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 52,
+        "drawn": 52
+      },
+      {
+        "name": "Profile width",
+        "printed": 53.5,
+        "drawn": 53.5
+      },
+      {
+        "name": "Lip width",
+        "printed": 28,
+        "drawn": 28
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 41.5,
+        "drawn": 41.5
+      },
+      {
+        "name": "Floor width",
+        "printed": 25.5,
+        "drawn": 25.5
+      }
+    ],
+    "warnings": [
+      "Supplier Face Width 27 mm is reference only. Lip = item width − rebate width = 28 mm; floor thickness = item depth − rebate depth = 10.5 mm.",
+      "Source: https://larsonjuhl.co.uk/ljc-coastal-float-moulding-516000127?returnurl=%2fsearch%3fq%3d516000127"
+    ],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        51,
+        0
+      ],
+      [
+        51.555555555555564,
+        0.1111111111111111
+      ],
+      [
+        51.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        52,
+        1
+      ],
+      [
+        52,
+        27
+      ],
+      [
+        51.88888888888889,
+        27.555555555555557
+      ],
+      [
+        51.55555555555556,
+        27.888888888888886
+      ],
+      [
+        51,
+        28
+      ],
+      [
+        10.5,
+        28
+      ],
+      [
+        10.5,
+        53.5
+      ],
+      [
+        0,
+        53.5
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": false,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA4039",
+        "code": "516000127",
+        "at": "2026-10-29T15:08:42.641Z",
+        "url": "https://larsonjuhl.co.uk/ljc-coastal-float-moulding-516000127?returnurl=%2fsearch%3fq%3d516000127",
+        "pageSha256": "b2d496cf881dac76f46e2bd81644caef0e49cf6e61a8f9c428b2351073453667",
+        "fields": {
+          "Item Width": 53.5,
+          "Item Depth": 52,
+          "Rebate Depth": 41.5,
+          "Rebate Width": 25.5,
+          "Face Width": 27
+        },
+        "derived": {
+          "lipMm": 28,
+          "floorThicknessMm": 10.5
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA4040",
+        "code": "516000167",
+        "at": "2026-10-29T15:08:43.067Z",
+        "url": "https://larsonjuhl.co.uk/ljc-coastal-float-moulding-516000167?returnurl=%2fsearch%3fq%3d516000167",
+        "pageSha256": "92611476a6d370ad0771a117efe46e754ec0469ea9677bffb75b454dd02af5cf",
+        "fields": {
+          "Item Width": 53.5,
+          "Item Depth": 52,
+          "Rebate Depth": 41.5,
+          "Rebate Width": 25.5,
+          "Face Width": 27
+        },
+        "derived": {
+          "lipMm": 28,
+          "floorThicknessMm": 10.5
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Supplier Face Width 27 mm is reference only. Lip = item width − rebate width = 28 mm; floor thickness = item depth − rebate depth = 10.5 mm.",
+    "Source: https://larsonjuhl.co.uk/ljc-coastal-float-moulding-516000127?returnurl=%2fsearch%3fq%3d516000127",
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": null,
+    "outlineSvgUrl": null,
+    "dimensionOverlayUrl": "profiles/CT-16/9cab96c6cd8a2d244334e6b93bbd938b87ae85867416c10b541f7b736517e1a3/dimensionOverlayUrl.png"
+  }
+}

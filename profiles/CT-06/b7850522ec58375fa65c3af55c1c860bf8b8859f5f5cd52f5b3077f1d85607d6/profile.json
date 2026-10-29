@@ -1,0 +1,194 @@
+{
+  "family": "CT-06",
+  "reference": "MLDA3949",
+  "checksum": "b7850522ec58375fa65c3af55c1c860bf8b8859f5f5cd52f5b3077f1d85607d6",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:23:44.543Z",
+  "drawing": {
+    "family": "CT-06",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 40,
+        "drawn": 40
+      },
+      {
+        "name": "Profile width",
+        "printed": 54,
+        "drawn": 54
+      },
+      {
+        "name": "Lip width",
+        "printed": 9,
+        "drawn": 9
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 31,
+        "drawn": 31
+      },
+      {
+        "name": "Floor width",
+        "printed": 45,
+        "drawn": 45
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        39,
+        0
+      ],
+      [
+        39.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        39.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        40,
+        1
+      ],
+      [
+        40,
+        8
+      ],
+      [
+        39.88888888888889,
+        8.555555555555557
+      ],
+      [
+        39.55555555555556,
+        8.88888888888889
+      ],
+      [
+        39,
+        9
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        54
+      ],
+      [
+        0,
+        54
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": true,
+    "rows": [
+      {
+        "reference": "MLDA3948",
+        "code": "505000137",
+        "at": "2026-10-29T15:08:38.403Z",
+        "url": "https://larsonjuhl.co.uk/ljc-coastal-float-moulding-505000137?returnurl=%2fsearch%3fq%3d505000137",
+        "pageSha256": "d0595780ace1e364ffb589c6afb856454b6dca8e7a7587fd1b33047aebc99f2c",
+        "fields": {
+          "Item Width": 40,
+          "Item Depth": 54,
+          "Rebate Depth": 45,
+          "Rebate Width": 31,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 14,
+          "profileWidth": -14,
+          "lip": 0,
+          "canvasDepth": 14,
+          "floorWidth": -14,
+          "floorThickness": 0
+        },
+        "overOneMm": true
+      },
+      {
+        "reference": "MLDA3949",
+        "code": "505000167",
+        "at": "2026-10-29T15:08:41.409Z",
+        "url": "https://larsonjuhl.co.uk/ljc-coastal-float-moulding-505000167?returnurl=%2fsearch%3fq%3d505000167",
+        "pageSha256": "6735f4f31cd2973a06c5ae07be96293dba37de9959d709eb549c8e7575a79c28",
+        "fields": {
+          "Item Width": 40,
+          "Item Depth": 54,
+          "Rebate Depth": 45,
+          "Rebate Width": 31,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 14,
+          "profileWidth": -14,
+          "lip": 0,
+          "canvasDepth": 14,
+          "floorWidth": -14,
+          "floorThickness": 0
+        },
+        "overOneMm": true
+      },
+      {
+        "reference": "MLDA3947",
+        "code": "505000127",
+        "at": "2026-10-29T15:08:41.303Z",
+        "url": "https://larsonjuhl.co.uk/ljc-coastal-float-moulding-505000127?returnurl=%2fsearch%3fq%3d505000127",
+        "pageSha256": "8856b07d0f722ae4afa4bb268858a19c46056007d30c4e471f81ee46c2dda373",
+        "fields": {
+          "Item Width": 40,
+          "Item Depth": 54,
+          "Rebate Depth": 45,
+          "Rebate Width": 31,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 14,
+          "profileWidth": -14,
+          "lip": 0,
+          "canvasDepth": 14,
+          "floorWidth": -14,
+          "floorThickness": 0
+        },
+        "overOneMm": true
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-06/b7850522ec58375fa65c3af55c1c860bf8b8859f5f5cd52f5b3077f1d85607d6/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-06/b7850522ec58375fa65c3af55c1c860bf8b8859f5f5cd52f5b3077f1d85607d6/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-06/b7850522ec58375fa65c3af55c1c860bf8b8859f5f5cd52f5b3077f1d85607d6/dimensionOverlayUrl.png"
+  }
+}

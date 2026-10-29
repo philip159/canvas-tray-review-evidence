@@ -1,0 +1,222 @@
+{
+  "family": "CT-03",
+  "reference": "MLDA3382",
+  "checksum": "b18dd01da75078a7ee557f514e3a135b258f03ddce3d2ea5ed7411adcf10a676",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:24:05.571Z",
+  "drawing": {
+    "family": "CT-03",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 35,
+        "drawn": 35
+      },
+      {
+        "name": "Profile width",
+        "printed": 40,
+        "drawn": 40
+      },
+      {
+        "name": "Lip width",
+        "printed": 9,
+        "drawn": 9
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 26,
+        "drawn": 26
+      },
+      {
+        "name": "Floor width",
+        "printed": 31,
+        "drawn": 31
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        34,
+        0
+      ],
+      [
+        34.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        34.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        35,
+        1
+      ],
+      [
+        35,
+        8
+      ],
+      [
+        34.88888888888889,
+        8.555555555555557
+      ],
+      [
+        34.55555555555556,
+        8.88888888888889
+      ],
+      [
+        34,
+        9
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        40
+      ],
+      [
+        0,
+        40
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA3380",
+        "code": "991245113",
+        "at": "2026-10-29T15:07:58.984Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-maple-991245113?returnurl=%2fsearch%3fq%3d991245113",
+        "pageSha256": "64c8e9c05475f2026a6289b9e3481d1902328ead27272f0fc3ee9776e5dca475",
+        "fields": {
+          "Item Width": 40,
+          "Item Depth": 35,
+          "Rebate Depth": 26,
+          "Rebate Width": 31,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3382",
+        "code": "991245115",
+        "at": "2026-10-29T15:07:59.164Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-oak-991245115?returnurl=%2fsearch%3fq%3d991245115",
+        "pageSha256": "039511b98c5faac28c332bc8d3f42e44ad67c7af6a5aafacb019ce3ba6e13fae",
+        "fields": {
+          "Item Width": 40,
+          "Item Depth": 35,
+          "Rebate Depth": 26,
+          "Rebate Width": 31,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3383",
+        "code": "991245116",
+        "at": "2026-10-29T15:07:59.183Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-walnut-991245116?returnurl=%2fsearch%3fq%3d991245116",
+        "pageSha256": "8f96e215eac51b54856cd52722f8e28ff959c44a64c3129a49ef59857921b170",
+        "fields": {
+          "Item Width": 40,
+          "Item Depth": 35,
+          "Rebate Depth": 26,
+          "Rebate Width": 31,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3384",
+        "code": "991245117",
+        "at": "2026-10-29T15:07:59.322Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-wenge-991245117?returnurl=%2fsearch%3fq%3d991245117",
+        "pageSha256": "d6743269e3a443f62fd67205b9210c6b658044b0061894fa8206a5a3a6177dda",
+        "fields": {
+          "Item Width": 40,
+          "Item Depth": 35,
+          "Rebate Depth": 26,
+          "Rebate Width": 31,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-03/b18dd01da75078a7ee557f514e3a135b258f03ddce3d2ea5ed7411adcf10a676/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-03/b18dd01da75078a7ee557f514e3a135b258f03ddce3d2ea5ed7411adcf10a676/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-03/b18dd01da75078a7ee557f514e3a135b258f03ddce3d2ea5ed7411adcf10a676/dimensionOverlayUrl.png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "eframeCode": "MLDA2954",
+  "ljCode": "511000127",
+  "images": [
+    {
+      "path": "sources/MLDA2954/4a1f74c34903835fd08a534bad29ed70d9746925920b3051103cec51ff93ae04-511000127_1.jpg",
+      "sha256": "4a1f74c34903835fd08a534bad29ed70d9746925920b3051103cec51ff93ae04",
+      "view": "straight/face candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 1024,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/511000127_1.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA2954/a24d8720292a8ea6f139728eb8c9611ca503a21263cad9b88b71c03c4ef80ac1-511000127_2.jpg",
+      "sha256": "a24d8720292a8ea6f139728eb8c9611ca503a21263cad9b88b71c03c4ef80ac1",
+      "view": "section/profile candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 758,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/511000127_2.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA2954/bc2d8de5d434a72524f6bd651828d0ddc30e9eb2be0b572b230dc5236c8fdb18-511000127_4.jpg",
+      "sha256": "bc2d8de5d434a72524f6bd651828d0ddc30e9eb2be0b572b230dc5236c8fdb18",
+      "view": "corner candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 1024,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/511000127_4.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    }
+  ],
+  "missingSectionReason": null
+}

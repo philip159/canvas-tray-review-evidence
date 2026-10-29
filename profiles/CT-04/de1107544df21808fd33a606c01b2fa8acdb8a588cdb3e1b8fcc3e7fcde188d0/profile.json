@@ -1,0 +1,222 @@
+{
+  "family": "CT-04",
+  "reference": "MLDA2957",
+  "checksum": "de1107544df21808fd33a606c01b2fa8acdb8a588cdb3e1b8fcc3e7fcde188d0",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:25:00.638Z",
+  "drawing": {
+    "family": "CT-04",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 40,
+        "drawn": 40
+      },
+      {
+        "name": "Profile width",
+        "printed": 53,
+        "drawn": 53
+      },
+      {
+        "name": "Lip width",
+        "printed": 9,
+        "drawn": 9
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 30,
+        "drawn": 30
+      },
+      {
+        "name": "Floor width",
+        "printed": 44,
+        "drawn": 44
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        39,
+        0
+      ],
+      [
+        39.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        39.88888888888889,
+        0.4444444444444444
+      ],
+      [
+        40,
+        1
+      ],
+      [
+        40,
+        8
+      ],
+      [
+        39.88888888888889,
+        8.555555555555557
+      ],
+      [
+        39.55555555555556,
+        8.88888888888889
+      ],
+      [
+        39,
+        9
+      ],
+      [
+        10,
+        9
+      ],
+      [
+        10,
+        53
+      ],
+      [
+        0,
+        53
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA2955",
+        "code": "511000137",
+        "at": "2026-10-29T15:07:55.043Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-coastal-float-moulding-511000137?returnurl=%2fsearch%3fq%3d511000137",
+        "pageSha256": "94dcb410bc4e621c693c4bbb057a387a6072e205aa1dcbd7784e6f7758c43859",
+        "fields": {
+          "Item Width": 53,
+          "Item Depth": 40,
+          "Rebate Depth": 30,
+          "Rebate Width": 44,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA2954",
+        "code": "511000127",
+        "at": "2026-10-29T15:07:57.238Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-coastal-float-moulding-511000127?returnurl=%2fsearch%3fq%3d511000127",
+        "pageSha256": "18e71424fd9f82002be7cda43a09d0a55219d9f9b8be038ed38a8ea15ee6c9b4",
+        "fields": {
+          "Item Width": 53,
+          "Item Depth": 40,
+          "Rebate Depth": 30,
+          "Rebate Width": 44,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA2956",
+        "code": "511000167",
+        "at": "2026-10-29T15:07:57.353Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-coastal-float-moulding-511000167?returnurl=%2fsearch%3fq%3d511000167",
+        "pageSha256": "7be69580cf4dcd0b508b998303231b4f7d0291e77660ec30dd24b3c75076972d",
+        "fields": {
+          "Item Width": 53,
+          "Item Depth": 40,
+          "Rebate Depth": 30,
+          "Rebate Width": 44,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA2957",
+        "code": "511000499",
+        "at": "2026-10-29T15:07:57.531Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-coastal-float-moulding-511000499?returnurl=%2fsearch%3fq%3d511000499",
+        "pageSha256": "b094d8190c8daf34d6fc3eb9ce92c2204e6be0ca2d1dbc36a00ab299c8869173",
+        "fields": {
+          "Item Width": 53,
+          "Item Depth": 40,
+          "Rebate Depth": 30,
+          "Rebate Width": 44,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 10
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-04/de1107544df21808fd33a606c01b2fa8acdb8a588cdb3e1b8fcc3e7fcde188d0/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-04/de1107544df21808fd33a606c01b2fa8acdb8a588cdb3e1b8fcc3e7fcde188d0/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-04/de1107544df21808fd33a606c01b2fa8acdb8a588cdb3e1b8fcc3e7fcde188d0/dimensionOverlayUrl.png"
+  }
+}

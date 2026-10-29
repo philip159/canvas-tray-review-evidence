@@ -1,0 +1,194 @@
+{
+  "family": "CT-05",
+  "reference": "MLDA3387",
+  "checksum": "14111ec82da35cb135812a7af9089e2ee071cff0394f683eaddcd664e9ced85b",
+  "approved": true,
+  "approvedAt": "2026-10-29T15:24:00.921Z",
+  "drawing": {
+    "family": "CT-05",
+    "mode": "dimension-drawn",
+    "source": "Larson-Juhl printed section dimensions",
+    "radiusMm": 1,
+    "feature": null,
+    "dimensions": [
+      {
+        "name": "Overall height",
+        "printed": 45,
+        "drawn": 45
+      },
+      {
+        "name": "Profile width",
+        "printed": 55,
+        "drawn": 55
+      },
+      {
+        "name": "Lip width",
+        "printed": 9,
+        "drawn": 9
+      },
+      {
+        "name": "Canvas depth",
+        "printed": 36,
+        "drawn": 36
+      },
+      {
+        "name": "Floor width",
+        "printed": 46,
+        "drawn": 46
+      }
+    ],
+    "warnings": [],
+    "outlineMm": [
+      [
+        0,
+        0
+      ],
+      [
+        44,
+        0
+      ],
+      [
+        44.55555555555556,
+        0.1111111111111111
+      ],
+      [
+        44.888888888888886,
+        0.4444444444444444
+      ],
+      [
+        45,
+        1
+      ],
+      [
+        45,
+        8
+      ],
+      [
+        44.888888888888886,
+        8.555555555555557
+      ],
+      [
+        44.55555555555556,
+        8.88888888888889
+      ],
+      [
+        44,
+        9
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        55
+      ],
+      [
+        0,
+        55
+      ]
+    ],
+    "readyForApproval": true,
+    "topologyErrors": []
+  },
+  "supplierDimensions": {
+    "rule": "Item Width, Item Depth, Rebate Depth and Rebate Width authoritative; Face Width reference only",
+    "approvedDrawingPreserved": true,
+    "flagged": false,
+    "rows": [
+      {
+        "reference": "MLDA3387",
+        "code": "991246115",
+        "at": "2026-10-29T15:07:59.642Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-oak-991246115?returnurl=%2fsearch%3fq%3d991246115",
+        "pageSha256": "8f60cc249280a1157c47de601aab676ccebdf986641f82139cee457a5dc9248b",
+        "fields": {
+          "Item Width": 55,
+          "Item Depth": 45,
+          "Rebate Depth": 36,
+          "Rebate Width": 46,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3388",
+        "code": "991246116",
+        "at": "2026-10-29T15:07:59.643Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-walnut-991246116?returnurl=%2fsearch%3fq%3d991246116",
+        "pageSha256": "b757ceee76bb655cb91f862b3fef77b386244da867feca46ed849b62a136eebe",
+        "fields": {
+          "Item Width": 55,
+          "Item Depth": 45,
+          "Rebate Depth": 36,
+          "Rebate Width": 46,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      },
+      {
+        "reference": "MLDA3389",
+        "code": "991246117",
+        "at": "2026-10-29T15:07:59.683Z",
+        "url": "https://larsonjuhl.co.uk/mouldings/larson-juhl-collections/ljc-touchwood-art-float-moulding-wenge-991246117?returnurl=%2fsearch%3fq%3d991246117",
+        "pageSha256": "429571f882b6979b367de6277c1f360de4e93b0eda653b9f9a8fa3bbdcc84894",
+        "fields": {
+          "Item Width": 55,
+          "Item Depth": 45,
+          "Rebate Depth": 36,
+          "Rebate Width": 46,
+          "Face Width": 9
+        },
+        "derived": {
+          "lipMm": 9,
+          "floorThicknessMm": 9
+        },
+        "status": "collected",
+        "differencesMm": {
+          "overallHeight": 0,
+          "profileWidth": 0,
+          "lip": 0,
+          "canvasDepth": 0,
+          "floorWidth": 0,
+          "floorThickness": 0
+        },
+        "overOneMm": false
+      }
+    ]
+  },
+  "notes": [
+    "Method: dimension-drawn. No SAM2 requirement for dimension drawings.",
+    "Model builds require approval of this drawing checksum. Existing model assets remain unchanged."
+  ],
+  "files": {
+    "sourceImageUrl": "profiles/CT-05/14111ec82da35cb135812a7af9089e2ee071cff0394f683eaddcd664e9ced85b/sourceImageUrl.png",
+    "outlineSvgUrl": "profiles/CT-05/14111ec82da35cb135812a7af9089e2ee071cff0394f683eaddcd664e9ced85b/outlineSvgUrl.svg",
+    "dimensionOverlayUrl": "profiles/CT-05/14111ec82da35cb135812a7af9089e2ee071cff0394f683eaddcd664e9ced85b/dimensionOverlayUrl.png"
+  }
+}

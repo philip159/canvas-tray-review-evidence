@@ -1,0 +1,43 @@
+{
+  "eframeCode": "MLDA3948",
+  "ljCode": "505000137",
+  "images": [
+    {
+      "path": "sources/MLDA3948/09cd6daf2c96cc8ce2a8a0e6dab1d4099c77347e778a3777633047912d69d4e0-505000137_1.jpg",
+      "sha256": "09cd6daf2c96cc8ce2a8a0e6dab1d4099c77347e778a3777633047912d69d4e0",
+      "view": "straight/face candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 1024,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/505000137_1.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA3948/d9be4bd7fb038b2cdd1c24f0d0695c6400be52d647629b54260f0fdd6389bca2-505000137_2.jpg",
+      "sha256": "d9be4bd7fb038b2cdd1c24f0d0695c6400be52d647629b54260f0fdd6389bca2",
+      "view": "section/profile candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 762,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/505000137_2.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA3948/52d1f07c90ce7ca93cda0fa28608f98f37cbbb8437558dbb90161755972179fe-505000137_4.jpg",
+      "sha256": "52d1f07c90ce7ca93cda0fa28608f98f37cbbb8437558dbb90161755972179fe",
+      "view": "corner candidate",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 805,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/505000137_4.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    },
+    {
+      "path": "sources/MLDA3948/1c57c071e9d3f16866200f5a3d6822feb02350e52a461bbb48cc121ab2a312e7-505000137_5.jpg",
+      "sha256": "1c57c071e9d3f16866200f5a3d6822feb02350e52a461bbb48cc121ab2a312e7",
+      "view": "additional view; visual classification pending",
+      "downloadedWidth": 1024,
+      "downloadedHeight": 755,
+      "originalSupplierUrl": "https://larsonjuhl.co.uk/product/image/large/505000137_5.jpg",
+      "encoding": "Original downloaded bytes; not re-encoded or resized"
+    }
+  ],
+  "missingSectionReason": null
+}
