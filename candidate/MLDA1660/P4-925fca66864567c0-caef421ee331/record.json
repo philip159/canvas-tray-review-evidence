@@ -1,0 +1,670 @@
+{
+  "version": "P4-925fca66864567c0-caef421ee331",
+  "reference": "MLDA1660",
+  "family": "CT-15",
+  "status": "candidate",
+  "model": {
+    "glb": "candidate/MLDA1660/P4-925fca66864567c0-caef421ee331/delivery.glb",
+    "decoded": "candidate/MLDA1660/P4-925fca66864567c0-caef421ee331/decoded-from-delivery.glb",
+    "usdz": "candidate/MLDA1660/P4-925fca66864567c0-caef421ee331/delivery.usdz"
+  },
+  "sha256": {
+    "delivery.glb": "925fca66864567c00604f2a1cec8a0e964fe201b3066279bfed0e6b4d24d70a6",
+    "decoded-from-delivery.glb": "df844e457348c569692e6b7f8fac972223dbcce9d77e5e24d097b5f33574fd94",
+    "delivery.usdz": "caef421ee331156b6c363559f49ebe229591353ad9b29d1eab25a012d91f38d3"
+  },
+  "finish": {
+    "name": "aged-metallic",
+    "metallic": 1,
+    "roughness": 0.45,
+    "clearcoat": 0,
+    "clearcoatRoughness": 0,
+    "normalKind": "none"
+  },
+  "appearance": {
+    "mode": "photo-texture"
+  },
+  "appearanceReason": "Own photo shows aged metallic mottling; preserve it rather than flattening to grey",
+  "source": {
+    "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/5128c5fe574453bacd77c087452975199ac1eab17a7edd39de9320e82ae6e381.jpg",
+    "url": "https://larsonjuhl.co.uk/product/image/large/460620_1.jpg",
+    "sha256": "5128c5fe574453bacd77c087452975199ac1eab17a7edd39de9320e82ae6e381",
+    "crop": [
+      442,
+      280,
+      478,
+      520
+    ],
+    "colourReferenceCrop": [
+      442,
+      350,
+      478,
+      420
+    ],
+    "nativePixels": [
+      1024,
+      1024
+    ],
+    "facePixelBounds": [
+      411,
+      488
+    ],
+    "faceWidthMm": 18,
+    "straightening": "Already vertical planar face; exact 90-degree transpose, no warp/resizing",
+    "calibration": "Advisory square-on front-face landmarks; not a calibrated macro photograph",
+    "archivedFile": "candidate/MLDA1660/P3-9a0ce608df23991d-442b4f5d0ec4/own-source.jpg"
+  },
+  "texture": {
+    "width": 2781,
+    "height": 172,
+    "repeatAlongMm": 650.1038961038961,
+    "repeatAcrossMm": 40.20779220779221,
+    "sourcePxPerMm": 4.277777777777778,
+    "finalPxPerMm": 4.277777777777778,
+    "upscaleFactor": 1.0,
+    "file": "generated-artifacts/canvas-profile-texture-P3/MLDA1660/albedo.jpg",
+    "deLighting": {
+      "reference": {
+        "meanRgb": [
+          111.41706349206349,
+          99.68412698412699,
+          88.55753968253968
+        ],
+        "stdRgb": [
+          11.03617188111982,
+          9.616837191674632,
+          11.121615888825875
+        ],
+        "lowFrequencyVariationPercent": 13.860051163547865,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "before": {
+        "meanRgb": [
+          111.1105324074074,
+          99.39212962962964,
+          88.28726851851852
+        ],
+        "stdRgb": [
+          10.795497183491065,
+          9.313666437108155,
+          10.823398219620865
+        ],
+        "lowFrequencyVariationPercent": 9.527963643045384,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "after": {
+        "meanRgb": [
+          111.41550925925925,
+          99.67696759259259,
+          88.53958333333334
+        ],
+        "stdRgb": [
+          10.460631231392025,
+          9.142958081013532,
+          10.818186325902555
+        ],
+        "lowFrequencyVariationPercent": 3.0173188517753093,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "iterations": 1,
+      "pass": true,
+      "method": "linear-luminance flat field; restore recorded reference mean; no spatial resizing"
+    },
+    "postQuiltDeLighting": {
+      "reference": {
+        "meanRgb": [
+          111.41706349206349,
+          99.68412698412699,
+          88.55753968253968
+        ],
+        "stdRgb": [
+          11.03617188111982,
+          9.616837191674632,
+          11.121615888825875
+        ],
+        "lowFrequencyVariationPercent": 13.860051163547865,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "before": {
+        "meanRgb": [
+          111.36525258606993,
+          99.3384824766062,
+          87.95283401486833
+        ],
+        "stdRgb": [
+          8.979983491402074,
+          7.80140130360995,
+          9.419064200386451
+        ],
+        "lowFrequencyVariationPercent": 1.0138378708043263,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "after": {
+        "meanRgb": [
+          111.36527140145338,
+          99.54260220934414,
+          88.72466195027721
+        ],
+        "stdRgb": [
+          8.980162334491899,
+          7.818981242291964,
+          9.421614911688424
+        ],
+        "lowFrequencyVariationPercent": 0.7281340333215179,
+        "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+      },
+      "iterations": 1,
+      "pass": true,
+      "method": "linear-luminance flat field; restore recorded reference mean; no spatial resizing"
+    },
+    "encoded": {
+      "meanRgb": [
+        111.33320789744361,
+        99.50999514981227,
+        88.66031752004884
+      ],
+      "stdRgb": [
+        9.067060221587319,
+        8.160625105134224,
+        9.18384851446563
+      ],
+      "lowFrequencyVariationPercent": 0.901012467904533,
+      "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+    },
+    "patchCount": 133,
+    "method": "Native-pixel overlap quilting, not stretching; no synthetic grain",
+    "P4ColourCorrection": {
+      "reason": "Philip requested cooler grey-brown aged steel; channel-mean shift only, no crop, size or UV changes.",
+      "beforeMean": [
+        111.33320789744361,
+        99.50999514981227,
+        88.66031752004884
+      ],
+      "targetMean": [
+        102,
+        98,
+        92
+      ],
+      "afterMean": [
+        102.33320789744361,
+        97.50999514981227,
+        91.66031752004884
+      ],
+      "pixels": [
+        2781,
+        172
+      ],
+      "encoding": "Lossless PNG to avoid further JPEG loss",
+      "clippedChannels": 0
+    }
+  },
+  "textures": {
+    "Tray shared albedo": "textures/00.png",
+    "Stretcher pine grain": "textures/01.jpg",
+    "Stretcher pine end grain": "textures/02.jpg"
+  },
+  "profileChecksum": "f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312",
+  "profileApproval": {
+    "family": "CT-15",
+    "action": "approve",
+    "checksum": "f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312",
+    "note": "",
+    "at": "2026-10-29T16:22:53.938Z"
+  },
+  "construction": {
+    "status": "PASS",
+    "spec": {
+      "reference": "MLDA1660",
+      "widthMm": 400,
+      "heightMm": 500,
+      "gapMm": 5,
+      "overallHeightMm": 60,
+      "profileWidthMm": 48,
+      "lipMm": 18,
+      "maxCanvasDepthMm": 48.5,
+      "approvedOutlineMm": [
+        [
+          0,
+          0
+        ],
+        [
+          56.28355646787929,
+          0
+        ],
+        [
+          56.43486715196038,
+          4.207016772940252
+        ],
+        [
+          56.57038351605835,
+          4.762069077265003
+        ],
+        [
+          56.930917284985604,
+          5.147823690321383
+        ],
+        [
+          57.51646845874218,
+          5.36428061210939
+        ],
+        [
+          58.952910185743136,
+          5.635510383374203
+        ],
+        [
+          59.53462674921918,
+          5.852022802694701
+        ],
+        [
+          59.883656687304786,
+          6.237943908348548
+        ],
+        [
+          60,
+          6.793273700335748
+        ],
+        [
+          60,
+          17.039606789878704
+        ],
+        [
+          59.881108218486325,
+          17.5729685691736
+        ],
+        [
+          59.524432873945294,
+          17.892985636750538
+        ],
+        [
+          58.92997396637691,
+          17.999657992609514
+        ],
+        [
+          11.50041190582481,
+          17.999657992609514
+        ],
+        [
+          11.50041190582481,
+          48
+        ],
+        [
+          0,
+          48
+        ]
+      ],
+      "approvalChecksum": "f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312"
+    },
+    "extras": {
+      "canvasTray": {
+        "reference": "MLDA1660",
+        "widthMm": 400,
+        "heightMm": 500,
+        "gapMm": 5,
+        "overallHeightMm": 60,
+        "profileWidthMm": 48,
+        "lipMm": 18,
+        "maxCanvasDepthMm": 48.5,
+        "approvedOutlineMm": [
+          [
+            0,
+            0
+          ],
+          [
+            56.28355646787929,
+            0
+          ],
+          [
+            56.43486715196038,
+            4.207016772940252
+          ],
+          [
+            56.57038351605835,
+            4.762069077265003
+          ],
+          [
+            56.930917284985604,
+            5.147823690321383
+          ],
+          [
+            57.51646845874218,
+            5.36428061210939
+          ],
+          [
+            58.952910185743136,
+            5.635510383374203
+          ],
+          [
+            59.53462674921918,
+            5.852022802694701
+          ],
+          [
+            59.883656687304786,
+            6.237943908348548
+          ],
+          [
+            60,
+            6.793273700335748
+          ],
+          [
+            60,
+            17.039606789878704
+          ],
+          [
+            59.881108218486325,
+            17.5729685691736
+          ],
+          [
+            59.524432873945294,
+            17.892985636750538
+          ],
+          [
+            58.92997396637691,
+            17.999657992609514
+          ],
+          [
+            11.50041190582481,
+            17.999657992609514
+          ],
+          [
+            11.50041190582481,
+            48
+          ],
+          [
+            0,
+            48
+          ]
+        ],
+        "approvalChecksum": "f8c6acb8aca4ffb9a85287728a5c977d63950127a193d0c2598b68baf4fbf312",
+        "canvasDepthMm": 38,
+        "floorThicknessMm": 11.5,
+        "frontRecessMm": 10.5
+      },
+      "reviewOnly": true,
+      "units": "metres",
+      "trayTextureChecks": {
+        "zoneChecks": [
+          {
+            "zone": "lip-front",
+            "width": 2781,
+            "height": 172,
+            "pxPerMmAlong": 4.277777777777778,
+            "pxPerMmAcross": 4.277777777777778,
+            "repeatAlongMm": 650.1038961038961,
+            "repeatAcrossMm": 40.20779220779221,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/5128c5fe574453bacd77c087452975199ac1eab17a7edd39de9320e82ae6e381.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "outer-side",
+            "width": 2781,
+            "height": 172,
+            "pxPerMmAlong": 4.277777777777778,
+            "pxPerMmAcross": 4.277777777777778,
+            "repeatAlongMm": 650.1038961038961,
+            "repeatAcrossMm": 40.20779220779221,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/5128c5fe574453bacd77c087452975199ac1eab17a7edd39de9320e82ae6e381.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "inner-lip",
+            "width": 2781,
+            "height": 172,
+            "pxPerMmAlong": 4.277777777777778,
+            "pxPerMmAcross": 4.277777777777778,
+            "repeatAlongMm": 650.1038961038961,
+            "repeatAcrossMm": 40.20779220779221,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/5128c5fe574453bacd77c087452975199ac1eab17a7edd39de9320e82ae6e381.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          },
+          {
+            "zone": "tray-floor",
+            "width": 2781,
+            "height": 172,
+            "pxPerMmAlong": 4.277777777777778,
+            "pxPerMmAcross": 4.277777777777778,
+            "repeatAlongMm": 650.1038961038961,
+            "repeatAcrossMm": 40.20779220779221,
+            "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/5128c5fe574453bacd77c087452975199ac1eab17a7edd39de9320e82ae6e381.jpg",
+            "sourceWidth": 1024,
+            "sourceHeight": 1024
+          }
+        ],
+        "sharedAlbedo": true,
+        "materialCount": 1,
+        "materialExceptions": [],
+        "grainAxis": "rail-longitudinal",
+        "legacyStrip": false
+      },
+      "surfacePlacement": [
+        {
+          "component": "Approved profile",
+          "rail": 0,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.0005525154992938042,
+            0.33079781476408243
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 1,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.410807688254863,
+            0.8715393883176148
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 2,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.316677363589406,
+            0.3500819969922304
+          ]
+        },
+        {
+          "component": "Approved profile",
+          "rail": 3,
+          "zone": "lip-front",
+          "face": "shared section",
+          "offset": [
+            0.7194768120534718,
+            0.8063236798625439
+          ]
+        },
+        {
+          "component": "Stretcher top",
+          "zone": "stretcher",
+          "offset": [
+            0.17815960850566626,
+            0.6164984297938645
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 399.4,
+          "repeatsAlongRail": 2.2693181818181816,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher bottom",
+          "zone": "stretcher",
+          "offset": [
+            0.5898641711100936,
+            0.0293506879825145
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 399.4,
+          "repeatsAlongRail": 2.2693181818181816,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher left",
+          "zone": "stretcher",
+          "offset": [
+            0.13069082773290575,
+            0.2562591447494924
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 499.4,
+          "repeatsAlongRail": 2.8375,
+          "mirrored": false
+        },
+        {
+          "component": "Stretcher right",
+          "zone": "stretcher",
+          "offset": [
+            0.537126122508198,
+            0.974116985918954
+          ],
+          "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+          "repeatAlongMm": 176,
+          "repeatAcrossMm": 72,
+          "railLengthMm": 499.4,
+          "repeatsAlongRail": 2.8375,
+          "mirrored": false
+        }
+      ],
+      "timberSource": {
+        "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+        "repeatAlongMm": 176,
+        "repeatAcrossMm": 72,
+        "endGrain": "darker rotated crop of same pine, no procedural rings"
+      },
+      "canvasFixings": {
+        "hanger": "three light sawtooths",
+        "stretcher": "velcro",
+        "threshold": "provisional A1 and above",
+        "padThicknessMm": 1
+      }
+    },
+    "nodes": [
+      "Tray approved profile 0",
+      "Stretcher top",
+      "Stretcher top cut ends",
+      "Canvas linen reverse",
+      "Canvas artwork front",
+      "Velcro stretcher fixing",
+      "Sawtooth hanger 0"
+    ],
+    "decodedFromActualDelivery": true,
+    "exactApprovedProfile": true,
+    "pineSourceSha256": "8a8ff8d37769803feb0e11b4c065ed1e04b2f3d3380e0c34ab1ae0d3fe7fdc20",
+    "noForbiddenParts": true,
+    "mirrorWrappedCanvasSides": true
+  },
+  "materialChecks": {
+    "preset": {
+      "name": "aged-metallic",
+      "metallic": 1,
+      "roughness": 0.45,
+      "clearcoat": 0,
+      "clearcoatRoughness": 0,
+      "normalKind": "none"
+    },
+    "P4Correction": {
+      "reason": "Philip requested cooler grey-brown aged steel; channel-mean shift only, no crop, size or UV changes.",
+      "beforeMean": [
+        111.33320789744361,
+        99.50999514981227,
+        88.66031752004884
+      ],
+      "targetMean": [
+        102,
+        98,
+        92
+      ],
+      "afterMean": [
+        102.33320789744361,
+        97.50999514981227,
+        91.66031752004884
+      ],
+      "pixels": [
+        2781,
+        172
+      ],
+      "encoding": "Lossless PNG to avoid further JPEG loss",
+      "clippedChannels": 0
+    }
+  },
+  "usdReadback": {
+    "status": "PASS",
+    "values": {
+      "metallic": 1.0,
+      "roughness": 0.44999998807907104,
+      "clearcoat": 0.0,
+      "clearcoatRoughness": 0.0
+    },
+    "textures": {
+      "albedo": {
+        "file": "textures/image_0.png",
+        "sha256": "d6ad00a8061519413dcb98f62925cb419b50b59cce3e89b7016334120454ca24",
+        "matchesGLB": true
+      },
+      "normal": {
+        "mode": "none",
+        "matchesGLB": true
+      }
+    },
+    "geometryAndUvsExact": true,
+    "meshCount": 7,
+    "coatNormal": "Not applicable",
+    "nativePhoneAppearance": "NEEDS PHILIP"
+  },
+  "arkit": {
+    "file": "candidate/MLDA1660/P4-925fca66864567c0-caef421ee331/delivery.usdz",
+    "shaderDiscoveryReady": true,
+    "nativePhone": "NEEDS PHILIP",
+    "errors": [],
+    "failedChecks": [],
+    "warnings": [],
+    "status": "PASS"
+  },
+  "limitations": [
+    "Photo scale is advisory.",
+    "Blank canvas, with mirror-wrap geometry/UVs; no customer artwork supplied.",
+    "Native-phone appearance not tested; owner appearance approval pending.",
+    "Single shared finish retained; aged metallic front texture is applied to all tray surfaces."
+  ],
+  "P4Correction": {
+    "reason": "Philip requested cooler grey-brown aged steel; channel-mean shift only, no crop, size or UV changes.",
+    "beforeMean": [
+      111.33320789744361,
+      99.50999514981227,
+      88.66031752004884
+    ],
+    "targetMean": [
+      102,
+      98,
+      92
+    ],
+    "afterMean": [
+      102.33320789744361,
+      97.50999514981227,
+      91.66031752004884
+    ],
+    "pixels": [
+      2781,
+      172
+    ],
+    "encoding": "Lossless PNG to avoid further JPEG loss",
+    "clippedChannels": 0
+  },
+  "previousRecord": "candidate/MLDA1660/P3-9a0ce608df23991d-442b4f5d0ec4/record.json",
+  "geometryPreservation": {
+    "compressedBuffersExact": true,
+    "meshesAccessorsNodesExact": true,
+    "uvsUnchanged": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "reference": "MLDA3031",
+      "path": "candidate/MLDA3031/P4-914ba83b3ff1caff-d2361b106ced",
+      "correction": {
+        "reason": "Philip-authorised same-collection approved MLDA3027 colour reference: MLDA3031 photo is clipped; replace the clipping-artefact pick.",
+        "referenceRecord": "candidate/MLDA3027/51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff/record.json",
+        "linearRgba": [
+          0.03983191128853942,
+          0.03977792343857197,
+          0.041673713918517576,
+          1
+        ],
+        "rgbSrgb": [
+          56.210328429676125,
+          56.170647573191935,
+          57.54569358230251
+        ]
+      }
+    },
+    {
+      "reference": "MLDA1660",
+      "path": "candidate/MLDA1660/P4-925fca66864567c0-caef421ee331",
+      "correction": {
+        "reason": "Philip requested cooler grey-brown aged steel; channel-mean shift only, no crop, size or UV changes.",
+        "beforeMean": [
+          111.33320789744361,
+          99.50999514981227,
+          88.66031752004884
+        ],
+        "targetMean": [
+          102,
+          98,
+          92
+        ],
+        "afterMean": [
+          102.33320789744361,
+          97.50999514981227,
+          91.66031752004884
+        ],
+        "pixels": [
+          2781,
+          172
+        ],
+        "encoding": "Lossless PNG to avoid further JPEG loss",
+        "clippedChannels": 0
+      }
+    }
+  ],
+  "AndoverResolved": "MLDA2200 Silver LJ236124653; MLDA2199 Black/Orange LJ236124471 excluded; shared CT-02 P2 unchanged, no build before profile approval."
+}

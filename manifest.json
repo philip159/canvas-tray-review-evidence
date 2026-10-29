@@ -4,7 +4,7 @@
   "snapshotScope": "All current review versions plus superseded historically approved deliveries only",
   "counts": {
     "approved": 46,
-    "candidate": 10,
+    "candidate": 12,
     "superseded": 2,
     "archived": 12
   },
@@ -592,6 +592,20 @@
       "version": "P3-82da0ab264da4c89-14dc37f818b4",
       "status": "candidate",
       "record": "candidate/MLDA3031/P3-82da0ab264da4c89-14dc37f818b4/record.json"
+    },
+    {
+      "eframeCode": "MLDA3031",
+      "family": "CT-10",
+      "version": "P4-914ba83b3ff1caff-d2361b106ced",
+      "status": "candidate",
+      "record": "candidate/MLDA3031/P4-914ba83b3ff1caff-d2361b106ced/record.json"
+    },
+    {
+      "eframeCode": "MLDA1660",
+      "family": "CT-15",
+      "version": "P4-925fca66864567c0-caef421ee331",
+      "status": "candidate",
+      "record": "candidate/MLDA1660/P4-925fca66864567c0-caef421ee331/record.json"
     }
   ],
   "instructions": "instructions/README.md",
@@ -757,8 +771,8 @@
     "MLDA3027": "candidate/MLDA3027/51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff/record.json",
     "MLDA1640": "candidate/MLDA1640/bd6c029abc75f6eb9e100c3894929264bc86e0e7641402b4181dc122f49afdf7-5eb07fbde3b81c7e/record.json",
     "MLDA1600": "candidate/MLDA1600/round5-1db7967954ab50f0cf684029-a3411cf92dd28360/record.json",
-    "MLDA1660": "candidate/MLDA1660/P3-9a0ce608df23991d-442b4f5d0ec4/record.json",
-    "MLDA3031": "candidate/MLDA3031/P3-82da0ab264da4c89-14dc37f818b4/record.json"
+    "MLDA1660": "candidate/MLDA1660/P4-925fca66864567c0-caef421ee331/record.json",
+    "MLDA3031": "candidate/MLDA3031/P4-914ba83b3ff1caff-d2361b106ced/record.json"
   },
   "round1Report": "instructions/candidate-fix-round-1.json",
   "round2Report": "instructions/candidate-fix-round-2.json",
