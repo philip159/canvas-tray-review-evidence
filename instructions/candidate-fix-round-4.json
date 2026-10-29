@@ -1,0 +1,303 @@
+{
+  "generatedAt": "2026-10-29T19:19:37.141210+00:00",
+  "baseCommit": "e005ba0fc3376837748611c722fed8531ae98995",
+  "newCandidates": [
+    {
+      "code": "MLDA4040",
+      "record": "candidate/MLDA4040/round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a/record.json",
+      "versionPath": "candidate/MLDA4040/round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a",
+      "baseSrgb": [
+        44.02205951009991,
+        44.67122381648978,
+        56.16988935229855
+      ],
+      "roughness": 0.6,
+      "metallic": 0.0,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            43.98525086370569,
+            44.77910921597311,
+            56.052328114787265
+          ],
+          "stdRgb": [
+            4.6332087334506395,
+            4.434368544954173,
+            4.449585135647922
+          ],
+          "lowFrequencyVariationPercent": 0.8628689737222498,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 1.9269662921348285,
+        "maxRowMeanStep8bit": 0.9818790397045234,
+        "wrapColumnMeanStep8bit": 0.8595505617977537,
+        "wrapRowMeanStep8bit": 0.2779316712834685,
+        "status": "PASS",
+        "scope": "Delivered JPEG global line-mean and wrap screen; not proof of no local visible bands."
+      },
+      "initialLineCheck": null
+    },
+    {
+      "code": "MLDA3866",
+      "record": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json",
+      "versionPath": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630",
+      "baseSrgb": [
+        130,
+        98,
+        72
+      ],
+      "roughness": 0.45,
+      "metallic": 1,
+      "arkit": "PASS",
+      "usdzReadback": "PASS",
+      "lineContinuity": {
+        "lowFrequency": {
+          "meanRgb": [
+            129.87946271101032,
+            97.87946271101033,
+            72.87946271101033
+          ],
+          "stdRgb": [
+            1.9044458040770114,
+            1.9044458040770114,
+            1.9044458040770114
+          ],
+          "lowFrequencyVariationPercent": 1.2328256796743826,
+          "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+        },
+        "maxColumnMeanStep8bit": 0.8214285714285694,
+        "maxRowMeanStep8bit": 2.1812169312169374,
+        "wrapColumnMeanStep8bit": 0.37142857142858077,
+        "wrapRowMeanStep8bit": 0.16446208112874672,
+        "status": "PASS",
+        "scope": "Delivered JPEG global line-mean and wrap screen; not proof of no local visible bands."
+      },
+      "initialLineCheck": null
+    }
+  ],
+  "notCompleted": [
+    {
+      "code": "MLDA1600",
+      "status": "STOPPED_AFTER_TWO_SAME_REASON_VALIDATION_FAILURES",
+      "currentCandidateUnchanged": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983/record.json",
+      "reason": "The new split-material USDZ read-back helper could not import canvas_finish_materials (ModuleNotFoundError) on two invocations. Stopped without a third attempt. This is a validation-helper failure, not inability to separate facets.",
+      "completedEvidence": {
+        "triangleParity": {
+          "status": "PASS",
+          "allVertexPositionsNormalsUvsExact": true,
+          "originalVertexOrderPreserved": true,
+          "selectedTrianglesExact": 48,
+          "remainingTrayTrianglesExact": 128,
+          "hardwarePrimitiveAttributesAndIndicesExact": true,
+          "originalMaterialsExact": true,
+          "nodesAndTransformsExact": true
+        },
+        "arkit": "PASS",
+        "edgeMaterial": {
+          "name": "Komodo copper front arris",
+          "sampledSrgb": [
+            100,
+            70,
+            56
+          ],
+          "metallic": 0,
+          "roughness": 0.3,
+          "clearcoat": 1,
+          "clearcoatRoughness": 0.05,
+          "sourceImage": "sources/MLDA1600/f330804e4a9c58013106ca84c45f6ea30c8dbb40ef1e3a618e20efebb10e8470-401250_1.jpg",
+          "samples": [
+            {
+              "crop": [
+                384,
+                150,
+                392,
+                780
+              ],
+              "warmPixelCount": 2732,
+              "deLighting": {
+                "reference": {
+                  "meanRgb": [
+                    100.43730158730159,
+                    79.07896825396826,
+                    70.5938492063492
+                  ],
+                  "stdRgb": [
+                    66.91082105064112,
+                    64.39074136503406,
+                    65.11459923547368
+                  ],
+                  "lowFrequencyVariationPercent": 184.1679452573134,
+                  "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+                },
+                "before": {
+                  "meanRgb": [
+                    100.43730158730159,
+                    79.07896825396826,
+                    70.5938492063492
+                  ],
+                  "stdRgb": [
+                    66.91082105064112,
+                    64.39074136503406,
+                    65.11459923547368
+                  ],
+                  "lowFrequencyVariationPercent": 184.1679452573134,
+                  "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+                },
+                "after": {
+                  "meanRgb": [
+                    100.43769841269841,
+                    79.08174603174604,
+                    70.59960317460317
+                  ],
+                  "stdRgb": [
+                    56.31410005091031,
+                    48.43876907325698,
+                    46.294605258421
+                  ],
+                  "lowFrequencyVariationPercent": 3.7811723461054316,
+                  "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+                },
+                "iterations": 13,
+                "pass": true,
+                "method": "linear-luminance flat field; restore recorded reference mean; no spatial resizing"
+              }
+            },
+            {
+              "crop": [
+                518,
+                150,
+                526,
+                780
+              ],
+              "warmPixelCount": 2621,
+              "deLighting": {
+                "reference": {
+                  "meanRgb": [
+                    79.43075396825397,
+                    62.57996031746032,
+                    58.45218253968254
+                  ],
+                  "stdRgb": [
+                    45.864954099082006,
+                    36.231299982351224,
+                    34.26204595256348
+                  ],
+                  "lowFrequencyVariationPercent": 162.42663599274337,
+                  "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+                },
+                "before": {
+                  "meanRgb": [
+                    79.43075396825397,
+                    62.57996031746032,
+                    58.45218253968254
+                  ],
+                  "stdRgb": [
+                    45.864954099082006,
+                    36.231299982351224,
+                    34.26204595256348
+                  ],
+                  "lowFrequencyVariationPercent": 162.42663599274337,
+                  "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+                },
+                "after": {
+                  "meanRgb": [
+                    79.41825396825396,
+                    62.5859126984127,
+                    58.448015873015876
+                  ],
+                  "stdRgb": [
+                    39.857489986983396,
+                    26.502293999995604,
+                    23.616867375557387
+                  ],
+                  "lowFrequencyVariationPercent": 3.524212705536355,
+                  "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+                },
+                "iterations": 7,
+                "pass": true,
+                "method": "linear-luminance flat field; restore recorded reference mean; no spatial resizing"
+              }
+            }
+          ],
+          "selection": "Existing front-round facets only: per-vertex normal Z in (0.05,0.995), all triangle vertices Z within front 1.01mm; flat faces and mitre/end-cap facets excluded",
+          "selectedTriangleCount": 48,
+          "originalTrayTriangleCount": 176,
+          "selectedTriangleIndices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            8,
+            15,
+            21,
+            23,
+            24,
+            39,
+            40,
+            43,
+            44,
+            45,
+            46,
+            47,
+            51,
+            58,
+            64,
+            66,
+            67,
+            82,
+            83,
+            86,
+            87,
+            88,
+            89,
+            90,
+            94,
+            101,
+            107,
+            109,
+            110,
+            125,
+            126,
+            129,
+            130,
+            131,
+            132,
+            133,
+            137,
+            144,
+            150,
+            152,
+            153,
+            168,
+            169
+          ],
+          "totalZEnvelopeMm": [
+            -0.9999983012676239,
+            1.4901161193847656e-05
+          ],
+          "newMaterialIndex": 7,
+          "linearBaseColorFactor": [
+            0.12743768043564743,
+            0.06124605423161761,
+            0.03954623527673283,
+            1
+          ],
+          "compression": "Only split tray primitives re-encoded as sequential Draco with quantization disabled; original hardware compressed bytes retained"
+        }
+      },
+      "newVersionExported": false,
+      "localGlbSha256": "1db7967954ab50f0cf6840292f27024a588d8437075958a3f60f3da7d9390dd0",
+      "localUsdzSha256": "a3411cf92dd283606449d391423302375c1a0a349cacafd5ee225c6370f934b9"
+    }
+  ],
+  "notes": [
+    "Only MLDA4040 and MLDA3866 current pointers changed. MLDA1600 round three remains current because read-back validation stopped.",
+    "MLDA3975 and every other candidate unchanged.",
+    "The old black-stain approach remains flagged in its immutable prior record; this is a separate _4-view proposal.",
+    "No fallback to original black-stain rows was needed: first alternate-view candidate passed the numeric screen and showed no obvious old bands in delivered texture inspection.",
+    "No physical phone test or appearance approval inferred."
+  ]
+}

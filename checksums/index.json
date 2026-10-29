@@ -3,28 +3,28 @@
   "scope": "All payloads except checksum control files; historical partitions retained; Git commit binds index.",
   "parts": [
     {
-      "path": "checksums/round3-part-001.json",
+      "path": "checksums/round4-part-001.json",
       "sha256": "5bbc14d3d103e8d01756970f866d9dff64751353696ac7c30d4b80ca38576b35"
     },
     {
-      "path": "checksums/round3-part-002.json",
+      "path": "checksums/round4-part-002.json",
       "sha256": "066922849707f47cf1b9b5f18d2c85ddc27640814831de0da0d6c83cd46e275f"
     },
     {
-      "path": "checksums/round3-part-003.json",
-      "sha256": "40b599892abdc0494118aea00ef000879bf6f5a86ff26f8cac24dbb721058dce"
+      "path": "checksums/round4-part-003.json",
+      "sha256": "5e290beee8ec776adc0bc8175648cab28607d408a37151d6a272ee69686f8815"
     },
     {
-      "path": "checksums/round3-part-004.json",
-      "sha256": "2a852672b45cdc8cc8ba0a3cf06445d029cb7cb7514a8832dbdec9594fab48e2"
+      "path": "checksums/round4-part-004.json",
+      "sha256": "2d8e4cc12217592a13fc6545388bb5fc589a08cd05b9c57532930456a597ebe1"
     },
     {
-      "path": "checksums/round3-part-005.json",
-      "sha256": "3672e191bb5920875d1bd7605026a38bb5c3b59e8170eb92357f6bae7b36bbd3"
+      "path": "checksums/round4-part-005.json",
+      "sha256": "55f935c9b1bc475c503dd8d1d44a38498a5a6fc6e891b01737aca32bacd5e4e4"
     },
     {
-      "path": "checksums/round3-part-006.json",
-      "sha256": "ca635845ac6ae8404ead9d559583302ead77eb707ad37d83102be3d5e9edef72"
+      "path": "checksums/round4-part-006.json",
+      "sha256": "1837736df36c61e0c507dad7cb803befe28b368558781e63102798f02885b475"
     }
   ]
 }

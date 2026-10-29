@@ -1,12 +1,12 @@
 {
   "schema": "Philip handoff section 6; unknownReasons explicitly accompanies unknowns",
-  "generatedAt": "2026-10-29T18:57:27.536322+00:00",
+  "generatedAt": "2026-10-29T19:19:37.141210+00:00",
   "snapshotScope": "All current review versions plus superseded historically approved deliveries only",
   "counts": {
     "approved": 26,
     "candidate": 28,
     "archived": 12,
-    "superseded": 11,
+    "superseded": 13,
     "excluded": 1
   },
   "models": [
@@ -216,9 +216,9 @@
     {
       "eframeCode": "MLDA3866",
       "family": "CT-08",
-      "version": "round1-580f92da504eddc643006438-5aaf535c31bf4b83",
+      "version": "round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630",
       "status": "candidate",
-      "record": "candidate/MLDA3866/round1-580f92da504eddc643006438-5aaf535c31bf4b83/record.json"
+      "record": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json"
     },
     {
       "eframeCode": "MLDA3864",
@@ -328,9 +328,9 @@
     {
       "eframeCode": "MLDA4040",
       "family": "CT-16",
-      "version": "round1-50aa7caf992b517231494196-363b39b17156f3ce",
+      "version": "round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a",
       "status": "candidate",
-      "record": "candidate/MLDA4040/round1-50aa7caf992b517231494196-363b39b17156f3ce/record.json"
+      "record": "candidate/MLDA4040/round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a/record.json"
     },
     {
       "eframeCode": "MLDA2965",
@@ -572,6 +572,22 @@
       "status": "superseded",
       "record": "candidate/MLDA1600/round2-3b95e53b1d9e96fcecb94051-969375c6a23a70bb/record.json",
       "supersededBy": "candidate/MLDA1600/round3-7b5e53912194229bde4b2b16-15cee92446d6b983/record.json"
+    },
+    {
+      "eframeCode": "MLDA4040",
+      "family": "CT-16",
+      "version": "round1-50aa7caf992b517231494196-363b39b17156f3ce",
+      "status": "superseded",
+      "record": "candidate/MLDA4040/round1-50aa7caf992b517231494196-363b39b17156f3ce/record.json",
+      "supersededBy": "candidate/MLDA4040/round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a/record.json"
+    },
+    {
+      "eframeCode": "MLDA3866",
+      "family": "CT-08",
+      "version": "round1-580f92da504eddc643006438-5aaf535c31bf4b83",
+      "status": "superseded",
+      "record": "candidate/MLDA3866/round1-580f92da504eddc643006438-5aaf535c31bf4b83/record.json",
+      "supersededBy": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json"
     }
   ],
   "excludedModels": [
@@ -594,7 +610,7 @@
     "MLDA3861": "candidate/MLDA3861/8f190e66d0c2f2c8f4efdaac21302895f8c071e41cc5fe1dbdf1bc18221963ea-39bba4211939766e/record.json",
     "MLDA4018": "candidate/MLDA4018/c2264fdd4384d8e4d3353ff3283ac72a6a73a31448029c386e686c8bfe00df01-4bc5a660d871cd6a/record.json",
     "MLDA4017": "candidate/MLDA4017/round1-457a82c4143b5fb295682592-21676a7420874ba9/record.json",
-    "MLDA3866": "candidate/MLDA3866/round1-580f92da504eddc643006438-5aaf535c31bf4b83/record.json",
+    "MLDA3866": "candidate/MLDA3866/round4-17b98be68cdd6bfd7a4b7c65-674978dfbff7a630/record.json",
     "MLDA3864": "candidate/MLDA3864/round1-9444f6f0a5e07005091d9729-009693e3fce1f5b3/record.json",
     "MLDA2533": "candidate/MLDA2533/937227f2788c249742f0da7926e17714b23efdc63104795b0944383136c4792f-ad153eca3dafd85c/record.json",
     "MLDA3908": "candidate/MLDA3908/07b35fd8dfdc2b7b5f189aa7bddefff57d1332f2f3bc04410dd8739e7294b9fa-622f18d1f292063e/record.json",
@@ -606,7 +622,7 @@
     "MLDA4020": "candidate/MLDA4020/6c98bc178fb5a0ec9c0856a989776818288ccbc362327c92ee9aff79a65ecb47-a31948cccb2376b1/record.json",
     "MLDA4019": "candidate/MLDA4019/round1-9d017db508181528f90bc58f-f84262fc2685b7a4/record.json",
     "MLDA4039": "candidate/MLDA4039/round1-f53f3820f416e03c75c065ee-6469bb3b775a0675/record.json",
-    "MLDA4040": "candidate/MLDA4040/round1-50aa7caf992b517231494196-363b39b17156f3ce/record.json",
+    "MLDA4040": "candidate/MLDA4040/round4-d4d2e0d0c61ea923a2a315b7-aeac617dbfea853a/record.json",
     "MLDA2965": "candidate/MLDA2965/1b85e82e7b4345497516b562b2f485078a779beb8f194e16537baed7fb0cef01-8d075c3cf84e3c56/record.json",
     "MLDA2801": "candidate/MLDA2801/5f9722dfb158680d2c751999f501d0bee1556639011467fdd6d6179e164478dc-730f93707cdc09e3/record.json",
     "MLDA3027": "candidate/MLDA3027/51f897a3324a0c194cbee22827789875c57e944574d2fade6c6f54b09d4b6721-e2197e1890b582ff/record.json",
@@ -615,5 +631,6 @@
   },
   "round1Report": "instructions/candidate-fix-round-1.json",
   "round2Report": "instructions/candidate-fix-round-2.json",
-  "round3Report": "instructions/candidate-fix-round-3.json"
+  "round3Report": "instructions/candidate-fix-round-3.json",
+  "round4Report": "instructions/candidate-fix-round-4.json"
 }
