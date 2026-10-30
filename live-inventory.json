@@ -1,0 +1,1611 @@
+{
+  "schema": "canvas-live-inventory-v1",
+  "generatedAt": "2026-10-30T12:50:49.965Z",
+  "origin": "https://frames.eastsidestudiolondon.co.uk",
+  "scope": "Current installed production versions. Refreshed snapshot, not a continuously updating feed.",
+  "deliveryDimensionsMm": {
+    "width": 400,
+    "height": 500
+  },
+  "artwork": "blank",
+  "count": 57,
+  "physicalDeviceTesting": "Owner-reported acceptance; not an automated iPhone/Android certification.",
+  "models": [
+    {
+      "reference": "MLDA1599",
+      "installedVersion": "1beb372af46477af03cfcaa727aba6052ccf6fe3192214030590b15e8a75d24e",
+      "receiptId": "3e8b332a-2f7d-4ede-863e-d2b579ac917d",
+      "installedAt": "2026-10-30T10:35:50.354Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:29.594Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/96a51264bd85c02b773e2439a99e3341232329606b74ec4f312b42c1cfc77c89.glb",
+        "bytes": 1205916,
+        "sha256": "51786d67e00a8198b34011f9b32bb9216ceb6923766d5dec991423702a88aaa1"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/96a51264bd85c02b773e2439a99e3341232329606b74ec4f312b42c1cfc77c89.usdz",
+        "bytes": 1249304,
+        "sha256": "cc20daa502c1ea69716992b2d645d540fce3ac4109cfa2e3c2ebefa4c514dda3"
+      }
+    },
+    {
+      "reference": "MLDA1600",
+      "installedVersion": "04a6f6646b0dbad4a8f3c13cf419eda85ef11eb45209c80123b60e1ccce3fedc",
+      "receiptId": "edb0ea2d-e62c-4300-a66f-1823879c35d8",
+      "installedAt": "2026-10-30T12:45:43.933Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:20.723Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/87b9ed209df9a4ec9503dea83faaa81574c502ef8d752cf1754a91dfa8d19cb7.glb",
+        "bytes": 1109380,
+        "sha256": "9cda2fa391fccb8fabf7810d9e62eacb9b249862ffd71dcd6fed8c44cca6b28b"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/87b9ed209df9a4ec9503dea83faaa81574c502ef8d752cf1754a91dfa8d19cb7.usdz",
+        "bytes": 1152535,
+        "sha256": "546dec6cfa934f6ef13cbf89e9a88783c5a33d90d9d156a5778f80fc7356624d"
+      }
+    },
+    {
+      "reference": "MLDA1639",
+      "installedVersion": "7cc7b5d4f7a3491745c8a074390ba4cfb85087b239899456ef9e0fee2f01488a",
+      "receiptId": "cd0bb067-1ae1-4110-9142-aaf6e0dec7d6",
+      "installedAt": "2026-10-30T12:46:37.932Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:33.859Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/ae47c7a972038a0f4ac2d43d49309661f67b44c6a9c5839252971a8c2c0a6d86.glb",
+        "bytes": 248964,
+        "sha256": "91448b8b39f49cee5a4b61eaf70c149ad4619c1d42199819609b172ab89cbfef"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/ae47c7a972038a0f4ac2d43d49309661f67b44c6a9c5839252971a8c2c0a6d86.usdz",
+        "bytes": 286597,
+        "sha256": "567fd9ea5368f1290d2f6736a77d247e346aedd5ea9357c6b53fd18de584bbf8"
+      }
+    },
+    {
+      "reference": "MLDA1640",
+      "installedVersion": "18726ad577bea433070fa7f82f87d827766c7692665f79b512d8e24706961e86",
+      "receiptId": "973c614b-b78a-4dc5-8c92-a773fdead2c8",
+      "installedAt": "2026-10-30T10:38:53.909Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:14.956Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/da9469ea4acdc6b1724ce059107de104dd4bc2f777846475432089e5077348c0.glb",
+        "bytes": 242960,
+        "sha256": "ae880a34b297054c3ed908676e9e7bbf700f13b5150a668fc773d7079036f963"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/da9469ea4acdc6b1724ce059107de104dd4bc2f777846475432089e5077348c0.usdz",
+        "bytes": 280245,
+        "sha256": "afcb9aa8f66d244561ab92585960d396b5bebf9a6fdb3140bb1e9a358ef8e01a"
+      }
+    },
+    {
+      "reference": "MLDA1660",
+      "installedVersion": "4998b96f1e3602891377d7e7d575cd8cab188f1654a206c56444d175e9aa10d4",
+      "receiptId": "6e00db63-66ca-4746-a0b9-46ac8f4f094d",
+      "installedAt": "2026-10-30T12:45:36.331Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:18.718Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6eb6fa76eafeebe5db5f5a71523b181315b0ee7be784dd85bd268d0ac19e8e59.glb",
+        "bytes": 1446740,
+        "sha256": "8c750e702acbd6cd3e3dcdd3505129ec83644aed606b548b2f2f893e2aa47ccc"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6eb6fa76eafeebe5db5f5a71523b181315b0ee7be784dd85bd268d0ac19e8e59.usdz",
+        "bytes": 1491625,
+        "sha256": "b5a345dda66d04b9d8d079fbbbb6fbb2c946d3fdd51a24c377c48f2f3968b85d"
+      }
+    },
+    {
+      "reference": "MLDA1864",
+      "installedVersion": "1f79633d28596cc179e169e2285bca8994002772372e85f6f9ae5d009782a8da",
+      "receiptId": "e00e6822-5f96-4cb0-bd06-df4a7a661e34",
+      "installedAt": "2026-10-30T10:34:54.331Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:16.266Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/20e2ed88a6b8cf0e6a6dc39473b2869db6ca422cfdf349c4fd82011d3663e8ed.glb",
+        "bytes": 614064,
+        "sha256": "121c36235809d0b5bdf8a7e788441ca9ff13bd6d898476b4556b7200cc3f029a"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/20e2ed88a6b8cf0e6a6dc39473b2869db6ca422cfdf349c4fd82011d3663e8ed.usdz",
+        "bytes": 658178,
+        "sha256": "2815467b7e18e032e0bfae6273c0eb3d0706f5a66f19f8f32a0cc2411c9e6966"
+      }
+    },
+    {
+      "reference": "MLDA1867",
+      "installedVersion": "4f8459dd8a4ef7760be1cada71dd3ce24bff72dbc46b79d62671d3ec46e869e2",
+      "receiptId": "3861e1d6-5643-4cd9-b01e-08d2a2014d3d",
+      "installedAt": "2026-10-30T12:45:57.092Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:24.197Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/5f71431ec0e981f331877c6a459b23a6c94486de4a57a285872dd2246c77a6e5.glb",
+        "bytes": 218024,
+        "sha256": "9bb9dec0431630d42a80ba31e46dbee876a4a83f099d9f2ce2d26d139baf68b7"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/5f71431ec0e981f331877c6a459b23a6c94486de4a57a285872dd2246c77a6e5.usdz",
+        "bytes": 264220,
+        "sha256": "2e092abe860c10e4f9d580e9780fd45e803aa8060332fd13f6f0636a33f98162"
+      }
+    },
+    {
+      "reference": "MLDA2200",
+      "installedVersion": "0fc888e4e5dfdf5ae822a19e8e1fd8020fb593db463c9ca4b7e1db67bdee7624",
+      "receiptId": "a975e163-6490-4dda-b7aa-9ebda9d95083",
+      "installedAt": "2026-10-30T10:35:06.010Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:19.604Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/598710dc42cfa38cafb30816eb878a372af596b57748f448e87bcf8743848155.glb",
+        "bytes": 244552,
+        "sha256": "b55bea836b5d0f92dcf3a1222d6ef49cc058f50e5c4d3ccbbb77681b3d3f9ce4"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/598710dc42cfa38cafb30816eb878a372af596b57748f448e87bcf8743848155.usdz",
+        "bytes": 287695,
+        "sha256": "8e088f1dfeaeb81da2e2872385ce60097142d8059df6a734139fc40d88c4042d"
+      }
+    },
+    {
+      "reference": "MLDA2532",
+      "installedVersion": "b55d02e3d428091714a183403b5806452b7d80945d0200d391c21288140d1c42",
+      "receiptId": "1e4ca834-d5f8-4fe8-9223-7270da1922c3",
+      "installedAt": "2026-10-30T10:37:54.818Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:59.376Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/d51432a95ab32be765c1cd87261b445bdff8391677786d01f5e21bc5dd4fae92.glb",
+        "bytes": 393828,
+        "sha256": "70b40da920e871dc74e5e998ce0a38ff06f6d9eb5458ac507afe44271c2005a8"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/d51432a95ab32be765c1cd87261b445bdff8391677786d01f5e21bc5dd4fae92.usdz",
+        "bytes": 429084,
+        "sha256": "83dd52ccb52763e20ea24e7f80be057dc22cc533283f14c584e12d6eb79aa0a3"
+      }
+    },
+    {
+      "reference": "MLDA2533",
+      "installedVersion": "bc3a704a47ccc3877b6355cf2018c55e81a590146942b1f8b4c642f8e781e69e",
+      "receiptId": "22baa5bc-020e-4110-8e3f-16f65c2e9c9f",
+      "installedAt": "2026-10-30T10:37:47.540Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:57.320Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/a0812ae856c5e225b8b216efabfc668b66f975ab26da984af9a77878e00456ee.glb",
+        "bytes": 406936,
+        "sha256": "f931f56d3b0b73b79b5c1fcd513527bd3dce97ab348af8f4e9ce457e9729395e"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/a0812ae856c5e225b8b216efabfc668b66f975ab26da984af9a77878e00456ee.usdz",
+        "bytes": 442103,
+        "sha256": "3a9e4e78f8833982878a1927376b73e4d29254686e486c38ccf286220bcd6ed4"
+      }
+    },
+    {
+      "reference": "MLDA2535",
+      "installedVersion": "6041f2186b950afb4b0e50675df3a1dcb305efd3c3587da06df7e504150b13ee",
+      "receiptId": "934ba964-012d-4abb-97b7-9f23e9276cdd",
+      "installedAt": "2026-10-30T10:35:30.084Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:23.134Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/3a24f98a14821b70af90a3238022dc392907da3b5af6dc67c61aa80e0550917c.glb",
+        "bytes": 362944,
+        "sha256": "c5d9c768c4b1fe6c7738175d6c7a6c62bbda0bdcf5b4025b55c8942c54d711dc"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/3a24f98a14821b70af90a3238022dc392907da3b5af6dc67c61aa80e0550917c.usdz",
+        "bytes": 398272,
+        "sha256": "0e87a45670713196cbf77292c60dc0eddf3585e9c2b4b52bc225c5383f6b926f"
+      }
+    },
+    {
+      "reference": "MLDA2536",
+      "installedVersion": "fcb39ef4e35890275db3798c794e426635a170724e5436f6e36713064d0a38c0",
+      "receiptId": "06f42633-5bbf-4394-af72-a614b0501d15",
+      "installedAt": "2026-10-30T10:37:41.952Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:56.019Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6c58e22988f3bd5d9ce51e6a777ba6d7c71f4393ca6bb56f1335ef5da9140262.glb",
+        "bytes": 479432,
+        "sha256": "91e62f3fd59d854d3ac1777dc6d82d86c9273cbd51ff5d089701fd6baef615e1"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6c58e22988f3bd5d9ce51e6a777ba6d7c71f4393ca6bb56f1335ef5da9140262.usdz",
+        "bytes": 514716,
+        "sha256": "4a7981c5b20ef5b7dc720b3118480c2c47d9948a4f228f6cea17aa488a570ae9"
+      }
+    },
+    {
+      "reference": "MLDA2800",
+      "installedVersion": "8212344dd4236c4b8e900fd618dc839ec75d3cf563aa357486d7799abe3b6b12",
+      "receiptId": "90c5cb4d-3267-480f-ab44-8ae2bee39682",
+      "installedAt": "2026-10-30T10:36:16.467Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:36.075Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/24777f15164154713f0844a7cddaff2c4cc25b1272e7e9cd7d860ad3130dd833.glb",
+        "bytes": 358720,
+        "sha256": "75541748e3da37c8a3ced3962f03253c0cf56fe79abd025e4627afe74311f47b"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/24777f15164154713f0844a7cddaff2c4cc25b1272e7e9cd7d860ad3130dd833.usdz",
+        "bytes": 393716,
+        "sha256": "61403adda02634cb10a6fe98bdf30d906ae0ea488f559ee7698ac11d28a8a8ed"
+      }
+    },
+    {
+      "reference": "MLDA2801",
+      "installedVersion": "1a58e9e7980f0e32a97426f03f46a921714b48967b14a689c7919725a6932bd2",
+      "receiptId": "6a7234dc-2645-4677-bd1f-600706a63e8a",
+      "installedAt": "2026-10-30T12:47:42.716Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:49.891Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/9af94ff0c6652723c606f7d2bf716f293ed584ec425e4cf8a890fa3084af1ff4.glb",
+        "bytes": 331028,
+        "sha256": "87ad80b442e1562c101bfbb26a5aa095a410898b3e1a9dd70f1b021f0b3ad135"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/9af94ff0c6652723c606f7d2bf716f293ed584ec425e4cf8a890fa3084af1ff4.usdz",
+        "bytes": 365967,
+        "sha256": "3ff312a0c6faa597a634e3d046ce4d04bbd2b5f08826b0df3339f26d6d6dcf46"
+      }
+    },
+    {
+      "reference": "MLDA2954",
+      "installedVersion": "f08945e16ed573235e19b1e2edc9b267b739474e7ea593b328ba4284140c7d7d",
+      "receiptId": "8da0eca7-b328-4a93-84da-c51411e29359",
+      "installedAt": "2026-10-30T12:46:50.670Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:36.821Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/904b40e9fc443cd48340b7c7a440e37ede685bc7ed471d843037f6ca38661b5b.glb",
+        "bytes": 441312,
+        "sha256": "0e311f0aa2d592db36781bda3a9d63d5800dfbb65ea1d7ccbc7a6ad3a8df6193"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/904b40e9fc443cd48340b7c7a440e37ede685bc7ed471d843037f6ca38661b5b.usdz",
+        "bytes": 476887,
+        "sha256": "36a07af37c2db83c98a623342205f2bf363c99b30ec5c3b3001eae936373dfb6"
+      }
+    },
+    {
+      "reference": "MLDA2955",
+      "installedVersion": "b5b12f2e3e2833d4cd158abef7e35486b32a15c283025dd86b0548b5558117ee",
+      "receiptId": "6735e63f-c7c8-497b-b415-256ddc013ade",
+      "installedAt": "2026-10-30T10:38:48.245Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:13.472Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/2979f9d47bbdc5d48c2cd8754a7b3a978b9bf1f9d16af773fb7e71e971b32af3.glb",
+        "bytes": 484024,
+        "sha256": "ecb8ed0aff1573100f8ee83d60493c4803139e9293bd3b635ed820b9509da271"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/2979f9d47bbdc5d48c2cd8754a7b3a978b9bf1f9d16af773fb7e71e971b32af3.usdz",
+        "bytes": 519607,
+        "sha256": "f089318ffc332f6a2e33a9607f3856918ee4c79a35707bdd3e11ad1dae51b7a8"
+      }
+    },
+    {
+      "reference": "MLDA2957",
+      "installedVersion": "08f192610dff7cf28d08a076228275691ec1db0e0c200fbad82ec173a20ad684",
+      "receiptId": "d07b587e-08b2-4606-bd4e-44d616effc03",
+      "installedAt": "2026-10-30T10:35:56.489Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:29.905Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/69cff9ae6aac32c18bd195479bb4dff8de92e257aa7f9aab0b8734f4d6c70b4e.glb",
+        "bytes": 400416,
+        "sha256": "8583e2688eae924284519920e576794e5ea19ef831ca72eedcbe5e1e486a44b2"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/69cff9ae6aac32c18bd195479bb4dff8de92e257aa7f9aab0b8734f4d6c70b4e.usdz",
+        "bytes": 435994,
+        "sha256": "2ba452a0996616f5748ec3b9a429b345d0834dfcdd5b783fe1fe91cbe3352550"
+      }
+    },
+    {
+      "reference": "MLDA2959",
+      "installedVersion": "3ba944996a140bc1bad1bf429b16ffa5b8a4378f9d7243c95f6cd3b0d8552169",
+      "receiptId": "b658fb87-1c22-4961-99c9-7434efe65007",
+      "installedAt": "2026-10-30T10:36:07.744Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:33.279Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/8b26d8f1e6b41586e41912b6d5397f327e7232901a7b9890ec1fd8661f4e97df.glb",
+        "bytes": 321788,
+        "sha256": "58287a490d1d5d3e0c3a6428e422c85076a8146031f3f9c9352e0865821addc7"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/8b26d8f1e6b41586e41912b6d5397f327e7232901a7b9890ec1fd8661f4e97df.usdz",
+        "bytes": 357385,
+        "sha256": "b1935538a643ff490aec3ba5fd7285b345dc2af65d5fc12c032ae9ed44927426"
+      }
+    },
+    {
+      "reference": "MLDA2960",
+      "installedVersion": "4e29c35823dec55a9c4ec06442eee9a77e639e88b876a17b8bfbf510f9951db5",
+      "receiptId": "a75aaa0f-7d9f-471d-bf78-30d40ea52504",
+      "installedAt": "2026-10-30T12:47:35.563Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:46.523Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/c86f0c2486c1cf6f9be41bffa6f822c405bde1a342d715044e9bc38645adca18.glb",
+        "bytes": 656040,
+        "sha256": "89263e7645c700402aaba1cb8c784a29839f0a10d83d7da893c9c50fc05abe7c"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/c86f0c2486c1cf6f9be41bffa6f822c405bde1a342d715044e9bc38645adca18.usdz",
+        "bytes": 691463,
+        "sha256": "3510ecf571205eef7a808f35339ca2d5b3c105abadc4d3366aad424ba31bd2ae"
+      }
+    },
+    {
+      "reference": "MLDA2961",
+      "installedVersion": "18d522991de79cc3858d23febbde9854615980111269f6b47a7cf07d118a474d",
+      "receiptId": "23fd97b8-c91c-4fc8-8255-d4b4f2d03228",
+      "installedAt": "2026-10-30T12:45:51.139Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:22.298Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/705a0defd6213f35bc8533d29288e61ca4412c71406c8f11fcec941777530d0d.glb",
+        "bytes": 431420,
+        "sha256": "5c60618a6d6dd9447277c4901cdfbf711834cc4b11ff59fc6b63cc7581a11c22"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/705a0defd6213f35bc8533d29288e61ca4412c71406c8f11fcec941777530d0d.usdz",
+        "bytes": 474952,
+        "sha256": "b53f85dd81bcafdda3ddf0d4c3f37357666e3781795e2bd531ef1902a3679ad6"
+      }
+    },
+    {
+      "reference": "MLDA2964",
+      "installedVersion": "b1eab3b71eb10281a1a8cb44b7dbaa5743e6146547b17b1405cf15289aefcc43",
+      "receiptId": "faff0853-84bc-490e-8b67-bd0f1209564a",
+      "installedAt": "2026-10-30T12:46:44.153Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:36.087Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/4780c855c9535fc62f47ba1d33f5792040dabc615beb20df45be14be34b7e430.glb",
+        "bytes": 216728,
+        "sha256": "a24932d814e4bf8d73d59ee7c2f2b69b1d6fb11c852166de11e33858e28760aa"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/4780c855c9535fc62f47ba1d33f5792040dabc615beb20df45be14be34b7e430.usdz",
+        "bytes": 253383,
+        "sha256": "22bc3becf6df5f777e55492ff0b5890df8388fbae6cf9cdeea34f90b5dc92905"
+      }
+    },
+    {
+      "reference": "MLDA2965",
+      "installedVersion": "09ec9edd811f78ff3b75643b3c7072422ca776aa3233a271a759057a850207e2",
+      "receiptId": "ca0ac2a9-bcae-42cf-9b33-7cd0938c4fea",
+      "installedAt": "2026-10-30T12:47:29.928Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:45.996Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/35c91105e1e5c05f134863a6a1e781fbc9c691a9007a6a7290c2418634460c04.glb",
+        "bytes": 216720,
+        "sha256": "6cb99e9839c681857c61218f910541768abf191fda53b6b43753d1578988e886"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/35c91105e1e5c05f134863a6a1e781fbc9c691a9007a6a7290c2418634460c04.usdz",
+        "bytes": 253383,
+        "sha256": "4ac4f6a9ea7d4d420973db90210f25f34547b20179d75919a72dc64ddd9d1ea8"
+      }
+    },
+    {
+      "reference": "MLDA3027",
+      "installedVersion": "a04431855803ac65478f6f9bd2d771a3fba0d7901042e7aedb91d55ee65f9715",
+      "receiptId": "5e64665f-3789-4cc2-b82a-ed529f838567",
+      "installedAt": "2026-10-30T12:47:48.313Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:49.515Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/b55003b9bd2892738a7a380b0255d6ddd77c668abd7e05f40798db6df5dfdc2b.glb",
+        "bytes": 216796,
+        "sha256": "a01a22f91c37ccfd423b47569e7959d78ed5a849b68b68c9c133df2a6f5d767d"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/b55003b9bd2892738a7a380b0255d6ddd77c668abd7e05f40798db6df5dfdc2b.usdz",
+        "bytes": 255185,
+        "sha256": "bb6bb8423ce179f0ee60680dd9ffc697c39b6dea85d1c6c8f33d7dd56e1f046e"
+      }
+    },
+    {
+      "reference": "MLDA3030",
+      "installedVersion": "2d940e5ad03bf5278bfbba3ea0820b6cdf2e9e9c279a44dc6b67d5aae5ba7919",
+      "receiptId": "82e03b4a-3e6d-4ece-bad1-bdca23429cdf",
+      "installedAt": "2026-10-30T10:38:14.770Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:04.910Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/3b7189ef7d6b80474b928fd5ded5ba3ff8888b57bffd7da7490a7f496fb9a3b9.glb",
+        "bytes": 216700,
+        "sha256": "40f7bd14fafa54153c39b7799b2cd9ff382f2773465ba74407e695bba8a5ab5a"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/3b7189ef7d6b80474b928fd5ded5ba3ff8888b57bffd7da7490a7f496fb9a3b9.usdz",
+        "bytes": 252289,
+        "sha256": "d65a95f4e7243fb52dca8ecbca113789465bbc4a4d6a0972a22028b6b2729d11"
+      }
+    },
+    {
+      "reference": "MLDA3031",
+      "installedVersion": "424e00bd823189f270c4c59a54fd4a37eb0d9c179f1c59554ce5fd9b7e815599",
+      "receiptId": "8cc402a1-d595-4e74-a9dc-cbaa35d59bf7",
+      "installedAt": "2026-10-30T12:46:08.953Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:27.209Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/ae61ec5f18d21ad1fea7ba3709ec8c79d070ad02b2988005c85b934578c419ff.glb",
+        "bytes": 216704,
+        "sha256": "d916bcfa7fe18e75fb437f066e433e39cf75adbe9a5db9be8f4ba52486b12bb5"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/ae61ec5f18d21ad1fea7ba3709ec8c79d070ad02b2988005c85b934578c419ff.usdz",
+        "bytes": 252289,
+        "sha256": "47fdaea96e3a5c122d7513a0ac35a1165693ac99ea630d4e2ffc93d14f984f14"
+      }
+    },
+    {
+      "reference": "MLDA3032",
+      "installedVersion": "5f34357b055448829322c38eb586eecdc3cccd21e765b0abeb7869f3022381c8",
+      "receiptId": "37bd3a5d-4a6e-474f-93b7-643832765012",
+      "installedAt": "2026-10-30T10:38:08.918Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:02.463Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/8dd84c6d7ae9aa50a1ad84ca2842978cfc7209ca4226a97ac0c62e9d890fd7ec.glb",
+        "bytes": 333544,
+        "sha256": "383523f859b2852e93edf2321ec3a7adbde0620a0a95491c5708980371ad613c"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/8dd84c6d7ae9aa50a1ad84ca2842978cfc7209ca4226a97ac0c62e9d890fd7ec.usdz",
+        "bytes": 368820,
+        "sha256": "ad89104f4e8038950c5bbdf8ff09f594fabdb634b02e18f83a132d0c34545f6b"
+      }
+    },
+    {
+      "reference": "MLDA3241",
+      "installedVersion": "3480bc591a3d38c8479b83af1e6176c77b64a42ae120fb397c74326b3f0fdb6e",
+      "receiptId": "f5d5b7bc-807e-4455-9c4c-233b24675f1d",
+      "installedAt": "2026-10-30T12:46:03.273Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:25.768Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0b13042e0ce4cf9e562ac5ec33917791eaee115a1c338df3f756381da944dae4.glb",
+        "bytes": 217972,
+        "sha256": "e21cb6cf91590385e8f6323338c5d774d23cc74d71b23d4d46ba26418efebd17"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0b13042e0ce4cf9e562ac5ec33917791eaee115a1c338df3f756381da944dae4.usdz",
+        "bytes": 262801,
+        "sha256": "dcfe5db9152a9332540cc520a8429d3a728b71010e8e78ae7bd0234203a2dea1"
+      }
+    },
+    {
+      "reference": "MLDA3380",
+      "installedVersion": "138315e0894a470fa22b3444f4859997f33424177953c3c863508a2ebde02bad",
+      "receiptId": "9f4f69cf-73aa-4a73-ae5c-676b9ec0c6f9",
+      "installedAt": "2026-10-30T10:36:40.507Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:39.943Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/7c23e4fddae4043e04f412d80e5e38b9102d89cb1155e759315c021b6e002703.glb",
+        "bytes": 395100,
+        "sha256": "75a387522b52d3da0e6158ff2e9423c065491d743211102b94f5643a3ceae2bd"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/7c23e4fddae4043e04f412d80e5e38b9102d89cb1155e759315c021b6e002703.usdz",
+        "bytes": 430456,
+        "sha256": "7a6888bb3675bb1501d88849741d06e47fdc85a882b04e2cfd712f34eee25a2e"
+      }
+    },
+    {
+      "reference": "MLDA3382",
+      "installedVersion": "b63e293d7368d33a718288c5d41a687c6326301ea32d8acd5ae7a03823eb5b6c",
+      "receiptId": "0cb43487-fb57-457e-9f69-8d09bea4ff78",
+      "installedAt": "2026-10-30T10:34:45.106Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:16.080Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/4ebfb3c219e7ac1d9a211fd549141129abf7ffd51e491e17821c0e0c6b770d7c.glb",
+        "bytes": 365832,
+        "sha256": "d0cf1b6feffeb98958a52aed669f63f87e5a16d62fe89624a91d8d35dcf86901"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/4ebfb3c219e7ac1d9a211fd549141129abf7ffd51e491e17821c0e0c6b770d7c.usdz",
+        "bytes": 401325,
+        "sha256": "c2d71716cece0c6853df8412139f0c50bb27170412d5261a16668a25978e3184"
+      }
+    },
+    {
+      "reference": "MLDA3383",
+      "installedVersion": "8692a2b8c53b9589193660a89133f4922f708551d54aadd9d2f29689fc75b60b",
+      "receiptId": "f2eaa910-b7ce-4bfe-ab40-5995c676051e",
+      "installedAt": "2026-10-30T10:36:45.924Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:43.010Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/dc5ec025fbbb8c2e714fa2be5595f88ec44074b71b1ac39c5342bd10040a38fb.glb",
+        "bytes": 419052,
+        "sha256": "c2d4349e1ba3fb71d0b1357dc29496b40c0e809c03b6a47a8bca3e5ab9babb1f"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/dc5ec025fbbb8c2e714fa2be5595f88ec44074b71b1ac39c5342bd10040a38fb.usdz",
+        "bytes": 454505,
+        "sha256": "9cf87f8102b6075f6474d6a24e6acfabfcd3fee7ae31de1b7facf26d436a24f9"
+      }
+    },
+    {
+      "reference": "MLDA3384",
+      "installedVersion": "1a1544db502bdaa5bb04c082a02cd1507bb088ad42f00454466bae0aeab1d7ca",
+      "receiptId": "bff03b21-2c2b-47f7-8e54-1c201afc9f9f",
+      "installedAt": "2026-10-30T10:36:51.270Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:43.178Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/5f124abbad3b600e512c93274290de88f052acdda992f102434314ee052441d5.glb",
+        "bytes": 501248,
+        "sha256": "eb12a741e89b959d8c565bcd25234f4cd0c138b7d8c638464e4b3724bcf9e401"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/5f124abbad3b600e512c93274290de88f052acdda992f102434314ee052441d5.usdz",
+        "bytes": 536758,
+        "sha256": "f870e6ee253eeaae10c8a3f14a881fc7c80c1b1af5bbdd22ecfa00b913af43e2"
+      }
+    },
+    {
+      "reference": "MLDA3387",
+      "installedVersion": "60adcdefaa22e398d541a3014ad7c6718275234c1dc87a81da16150d0389c835",
+      "receiptId": "f218c8ff-19ae-4211-b9d4-e3cddcbd41e8",
+      "installedAt": "2026-10-30T10:35:44.447Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:26.238Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/e880900acb96cdcd739899ed45a56c0658f055b9f267e67a5d89062e3848dabc.glb",
+        "bytes": 348124,
+        "sha256": "9bb9bc2d165807fa1d130414feab1035122191d296bb8d4f0822ee425efebf0a"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/e880900acb96cdcd739899ed45a56c0658f055b9f267e67a5d89062e3848dabc.usdz",
+        "bytes": 383525,
+        "sha256": "3808dc0844871d3fef4a178df9c36f50d0cea95d4b8e304f2008e37a18673c59"
+      }
+    },
+    {
+      "reference": "MLDA3389",
+      "installedVersion": "768ae8f5655b5a52d74924f2952ba40e548e082a2fbafcc75eeac313aca90865",
+      "receiptId": "305e6c21-f5a2-4f7a-ba85-eebfce9dfa18",
+      "installedAt": "2026-10-30T10:36:58.855Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:46.231Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/cf9e40c098acf6b301d007c92d1580427d0827cf68fa69e609ca29990d7760f1.glb",
+        "bytes": 484140,
+        "sha256": "da480971fcc48a9f460b46e17572609f395c522d585df430f7f193edacc13fce"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/cf9e40c098acf6b301d007c92d1580427d0827cf68fa69e609ca29990d7760f1.usdz",
+        "bytes": 519530,
+        "sha256": "5c493f4f7be11437b041a78e29900e9e63551ab5a91852a247a88f7b76e2acfd"
+      }
+    },
+    {
+      "reference": "MLDA3392",
+      "installedVersion": "d01687f07fa53403af65118e5e9b6a1327a13be005b59014b5fd7ab7f07e73ea",
+      "receiptId": "7a2289cb-4272-4457-9010-ba0122b47ae5",
+      "installedAt": "2026-10-30T10:35:38.852Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:25.941Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/1f63f52991f3cb310bfb594f2be4e8828e3589fab61e47e5bf4c42347f7723e9.glb",
+        "bytes": 272060,
+        "sha256": "054dabc06c82bed01f0bed1dabc1a448b6d02a3e0f9b47374c6e163c32e0d670"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/1f63f52991f3cb310bfb594f2be4e8828e3589fab61e47e5bf4c42347f7723e9.usdz",
+        "bytes": 307407,
+        "sha256": "4363596ff900df33aa95a3f01ef5e638b58582523fd67fb7209c99290c7847e6"
+      }
+    },
+    {
+      "reference": "MLDA3394",
+      "installedVersion": "12d931f526579e966770e449b19954b50feb3f25f862b9ee4cd6a03a34766478",
+      "receiptId": "3739ab7a-da42-4557-9118-bb4831e0f639",
+      "installedAt": "2026-10-30T10:37:19.764Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:49.895Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/8c79d58db2aa07ee050e59d17a8fe40fa4fd026830a7288eb0fd6c6105ceed27.glb",
+        "bytes": 373884,
+        "sha256": "1517534df76571627d10a1ba80370d84573ed54d01cfb573b61b8779085e78f6"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/8c79d58db2aa07ee050e59d17a8fe40fa4fd026830a7288eb0fd6c6105ceed27.usdz",
+        "bytes": 409360,
+        "sha256": "a53da1552277f47b0b1e8b2702067de7dbabd2db49c314b5c6abb2f76061b96d"
+      }
+    },
+    {
+      "reference": "MLDA3861",
+      "installedVersion": "e90b79c3724a0f99bc3830d4178fa8bdee518ff55c989cb9c406301a494b6301",
+      "receiptId": "339a9189-ced6-4896-91a1-c0d65d182235",
+      "installedAt": "2026-10-30T12:46:56.771Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:39.379Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/cd725c36c4a089578690b611b91cba7d2e9704297524d873194a4d435e4083dc.glb",
+        "bytes": 216680,
+        "sha256": "86fd7a0b0b54d328751a9d71ff9b5a54c35511357874ecb3ad9acb4a7d2efd0f"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/cd725c36c4a089578690b611b91cba7d2e9704297524d873194a4d435e4083dc.usdz",
+        "bytes": 252357,
+        "sha256": "b97ef9c72fca1e3f1987a29b3bcc9ff1e2731c9fa9c1ff1f47ed4d9086069f48"
+      }
+    },
+    {
+      "reference": "MLDA3862",
+      "installedVersion": "3a3d86fbd58df4afca03ca1fc5adcc8a3a35e21764ebc9bf38d2d3c6c49450ea",
+      "receiptId": "e20d813d-62f7-43a7-89a6-5e2398a4dfa0",
+      "installedAt": "2026-10-30T10:36:01.922Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:32.861Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/cd6963b71d84745a16a93641b8afeecb04756dfb9739051470f8b6cdd816bea4.glb",
+        "bytes": 279716,
+        "sha256": "a06f5a935029bda2d32fe03fe5aae3c782503658aa2a47ba85bf358152faa7f1"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/cd6963b71d84745a16a93641b8afeecb04756dfb9739051470f8b6cdd816bea4.usdz",
+        "bytes": 315144,
+        "sha256": "fa1a2941158747e531d57272a8c0b5d9e9d2209960496632ff98980b0c7e1601"
+      }
+    },
+    {
+      "reference": "MLDA3864",
+      "installedVersion": "e54775dd9df991f72c56e85c2c4229b441ee256759c5a3c670e857b4c03b8b16",
+      "receiptId": "228dcae6-82be-472a-80a0-a819f3230e22",
+      "installedAt": "2026-10-30T10:37:36.343Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:53.730Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/e61f092302e0a70ada5aec8a2a446c234223c23c1130d87951c6260cb90fdfbe.glb",
+        "bytes": 216656,
+        "sha256": "183ed876af2a57c18065d997c0e75f113ffa6b8e210feeb5e265f7d5527e42d5"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/e61f092302e0a70ada5aec8a2a446c234223c23c1130d87951c6260cb90fdfbe.usdz",
+        "bytes": 252364,
+        "sha256": "c022512ecc5a8f0913c961c261ef9fbc7c3704d8041ef6e854385ba356f3b0ee"
+      }
+    },
+    {
+      "reference": "MLDA3866",
+      "installedVersion": "11c3795d7bba052d79a662f1733963c930b60f9853e10f7f2d4833ad5c14b6f6",
+      "receiptId": "249362b8-bc84-4344-972e-0a8e51082f73",
+      "installedAt": "2026-10-30T12:46:22.696Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:30.407Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/a6f6426b835163b6825ff15d884372efd181a682cd9018f04dc6ebd19dc32d48.glb",
+        "bytes": 238164,
+        "sha256": "f8d65cd3848d6a5db6231266b9a845c9fbb68e63ab16bb6e7823736fb1dd63fd"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/a6f6426b835163b6825ff15d884372efd181a682cd9018f04dc6ebd19dc32d48.usdz",
+        "bytes": 273299,
+        "sha256": "f0c893eaea312256a592deaffc8c6eaf42fa19e37c724518f5680da1927aebe9"
+      }
+    },
+    {
+      "reference": "MLDA3908",
+      "installedVersion": "b1d77ce54b2bf0dd414c58c49c8021fcf60d274f15adf5349b2555eeb6e62b77",
+      "receiptId": "c4c47163-ac9b-4c49-b9a4-4c38000bd524",
+      "installedAt": "2026-10-30T10:38:03.060Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:00.517Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6c34c8aafe3ac2e636d8dea42a8a6400fcb6c9147f577f9ce16c3985ba737688.glb",
+        "bytes": 425984,
+        "sha256": "e370f7002e1da7ba460b7a05e1558b85d4af49189ffa674286b60107b2bd330f"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6c34c8aafe3ac2e636d8dea42a8a6400fcb6c9147f577f9ce16c3985ba737688.usdz",
+        "bytes": 461184,
+        "sha256": "6593655e53c226cfada7e95d415fc6566ca14b351bdeb2d814b038e83c5bd250"
+      }
+    },
+    {
+      "reference": "MLDA3947",
+      "installedVersion": "85143d0400df7177846403e1116833c294438eed4dae8e0bb41d8fc4d54ead5e",
+      "receiptId": "4f421f3a-3334-449a-b009-cbec2ada471e",
+      "installedAt": "2026-10-30T10:37:12.698Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:49.595Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/7a482ea76106ee421889d4adfb21ff95d899cec99ecad90d22582279c6eed440.glb",
+        "bytes": 321172,
+        "sha256": "fd778fabce7181b090dfe936e76625ac4fb91c98c6e2fdc9b2e14660e7d23503"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/7a482ea76106ee421889d4adfb21ff95d899cec99ecad90d22582279c6eed440.usdz",
+        "bytes": 356606,
+        "sha256": "00b6efe9f1084858a9f0455904f28aa19e255d3f199944dd056adfc1efcc8265"
+      }
+    },
+    {
+      "reference": "MLDA3948",
+      "installedVersion": "718e423fd7b87e0826aaa4426e0b96d837657611d460d1b557f3131e980697d2",
+      "receiptId": "48165ab6-08ae-483b-8f0a-3dacc1e0d1b9",
+      "installedAt": "2026-10-30T10:37:06.690Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:46.494Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/b1dbf280e939513649de07dab269f3af2a35d89ac6dddaf30238c30f13db2260.glb",
+        "bytes": 344192,
+        "sha256": "3cd35a036299e98a7719f53cd2b4ce3fe120ec489328a8e3bd0877175f4b16f8"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/b1dbf280e939513649de07dab269f3af2a35d89ac6dddaf30238c30f13db2260.usdz",
+        "bytes": 379661,
+        "sha256": "807723cbafa826292e42c7a4f43fb7ee5e3520d216efad551a2206a9269828ae"
+      }
+    },
+    {
+      "reference": "MLDA3949",
+      "installedVersion": "7833a059ea2dce909d738727c5a3f7f845bee6fc42db45b03d37100cecaaec01",
+      "receiptId": "4e619081-5eae-489a-b7c5-90cb33a3bf53",
+      "installedAt": "2026-10-30T10:35:21.174Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:22.537Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/2b9cb8fdc11c10b85c4f62492d6199b8647a60bbb45ce8a991e7110ae5088389.glb",
+        "bytes": 302692,
+        "sha256": "832deb9ad90da47ed7ec97acf668f1abd445045400e260faf4d2a1b60c0cbd93"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/2b9cb8fdc11c10b85c4f62492d6199b8647a60bbb45ce8a991e7110ae5088389.usdz",
+        "bytes": 338082,
+        "sha256": "4569e965a5a79f0dc396c1a1dfce7d2994842705946f0415f708c58d540e4e81"
+      }
+    },
+    {
+      "reference": "MLDA3969",
+      "installedVersion": "01668e5698da4b21623932cf8ed5f62d7cd5d7d230f9531eb81486421346c300",
+      "receiptId": "d585ba58-09b2-482f-b701-42b760aaede4",
+      "installedAt": "2026-10-30T10:36:26.956Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:36.622Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/64815a1fa215c43fc82607c9d9d222af879231bea6495f5195d600bb418a97d0.glb",
+        "bytes": 255024,
+        "sha256": "19bf1595c18cf79f32f70f15f45538b46fca54c0c3e24021ed79a3f9094679de"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/64815a1fa215c43fc82607c9d9d222af879231bea6495f5195d600bb418a97d0.usdz",
+        "bytes": 290440,
+        "sha256": "6277c9d0d68f2f6121ac94f30726477b415851cfb2d66b060baed39f67861e20"
+      }
+    },
+    {
+      "reference": "MLDA3970",
+      "installedVersion": "1053bdb147d39e5355ce677ba2948c77f881bf06c371fdf8bf94881d8b604c0f",
+      "receiptId": "430df9f5-9f51-4385-bf6b-b1e3a8d724ed",
+      "installedAt": "2026-10-30T12:46:14.618Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:29.105Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/437ae14d3e43468e2b39bd64e40c54e4323236d405d39d89d5933c2097840420.glb",
+        "bytes": 242792,
+        "sha256": "8512fcc55abf21fb6265f5abec5b9683df8c46761d16dab9144a9ee32d5e0abb"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/437ae14d3e43468e2b39bd64e40c54e4323236d405d39d89d5933c2097840420.usdz",
+        "bytes": 278173,
+        "sha256": "bd046279bbd4fbf138a99783068bb0522f2cc8205f146f7653abb8d4f0efa0ed"
+      }
+    },
+    {
+      "reference": "MLDA3971",
+      "installedVersion": "839c8731244b9afebe82058517e8d99ea3fc15d63e29f4f7a4d15976d455d0be",
+      "receiptId": "a64b191f-7ff2-489b-ac84-68c8fc1e342e",
+      "installedAt": "2026-10-30T12:47:09.076Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:42.668Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/ac418f50e787c35a96a1dcab8a9c368388bc7703dd3de4f36207bf7a28025ffe.glb",
+        "bytes": 299044,
+        "sha256": "aaf79a6b11136dd152b1da47ee0dfe27f7d5dd50112d77f18ec08cfe738044d0"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/ac418f50e787c35a96a1dcab8a9c368388bc7703dd3de4f36207bf7a28025ffe.usdz",
+        "bytes": 334580,
+        "sha256": "5bc855d4720995a50e56eae336a5a0db9fab257e419278d50b8ebf83fe95e56e"
+      }
+    },
+    {
+      "reference": "MLDA3972",
+      "installedVersion": "acaad64acefcf0a170736a8082a54507e75e97c92c7e92ea55396b3cc35a7572",
+      "receiptId": "0d01d128-ad01-4386-999f-6c326b161566",
+      "installedAt": "2026-10-30T12:47:02.390Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:40.124Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/36e162197c0725f8672dbba182d1828872ec3cb7e65004db6e96b583d818de40.glb",
+        "bytes": 242844,
+        "sha256": "db7a1294a325747f4fb92d8270c340a297972f34f7a4234e899eb06475b2cc87"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/36e162197c0725f8672dbba182d1828872ec3cb7e65004db6e96b583d818de40.usdz",
+        "bytes": 278173,
+        "sha256": "9bbe5c016533dbf0571d3b15a8d980beb9915629e7fb09b8dc22948ec3833599"
+      }
+    },
+    {
+      "reference": "MLDA3974",
+      "installedVersion": "a0ce8eff418b0cbefbc87cf94dea8e01cfca70d0dd8966a04ac52826e8eda35f",
+      "receiptId": "5f96226d-1c86-41b9-975d-9045ba25219d",
+      "installedAt": "2026-10-30T10:38:30.019Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:08.359Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/b28415a1113787ce0bcd15f9fd3f9458ffdd5237ea2a8303344999a55fd2e210.glb",
+        "bytes": 242784,
+        "sha256": "b2027c7c8e7a37911905dab42705d3bef232966d719a3306ce54de5d85cb00aa"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/b28415a1113787ce0bcd15f9fd3f9458ffdd5237ea2a8303344999a55fd2e210.usdz",
+        "bytes": 278173,
+        "sha256": "8d98c33612641af367dbe3d1e93223e0e1b91dc607b8bd692a2951b3d09c365a"
+      }
+    },
+    {
+      "reference": "MLDA3975",
+      "installedVersion": "6ab444f7def17be05f0090ec7cc0237e4b49022e7c21059e03063534f007abf7",
+      "receiptId": "086ae25b-d41b-4554-9b62-8fc64f9076b5",
+      "installedAt": "2026-10-30T10:38:23.137Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:06.779Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6ed0b6dcdd99035ea361df1d7d613c9739ce035098f71f811a447453c2f48594.glb",
+        "bytes": 242784,
+        "sha256": "ddcad04c2229c5f175f9783421efebdfc34c9113c3c2b8c5672a71fe4d69fc3e"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6ed0b6dcdd99035ea361df1d7d613c9739ce035098f71f811a447453c2f48594.usdz",
+        "bytes": 278173,
+        "sha256": "e15c45debafef23a615de515aa3eb9868d406f0f81664c58f07ddd4488bcccdf"
+      }
+    },
+    {
+      "reference": "MLDA4015",
+      "installedVersion": "51d4602563f44c449c9e5604270bad6ff652390be904fe4a1c39f036608591a3",
+      "receiptId": "a9bb17c9-0725-4168-b6fa-30aa549ece39",
+      "installedAt": "2026-10-30T12:46:30.834Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:32.581Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0cb50776d0ef1f5160ea429c7affeb248e6b6a614334bfdb8241d45b35c37d96.glb",
+        "bytes": 426820,
+        "sha256": "235ec6c8e388cf8295d3a0d183702e99ed4a108ffbbe8a96e22a24d308d66e0c"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0cb50776d0ef1f5160ea429c7affeb248e6b6a614334bfdb8241d45b35c37d96.usdz",
+        "bytes": 462515,
+        "sha256": "ff3a64dcf8b65a7efd95ab5148ee616d1a0c9a648df1eea12a0f586901a59933"
+      }
+    },
+    {
+      "reference": "MLDA4016",
+      "installedVersion": "d6891fc81bcc7fa247a0735b2f2f17af8f31fdceec065cb9fe90d47385ccc30e",
+      "receiptId": "4e0d72f6-449e-45de-ab17-0092d440ddd0",
+      "installedAt": "2026-10-30T10:36:34.660Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:39.661Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/421f64a9a15963ecf376ddc8fff6def10bb428a83ef0b34e94b05e5912220962.glb",
+        "bytes": 563028,
+        "sha256": "3f1a2d103d4f4b2b03f956eb1a0095d3f26197fe5e5405d0b1e4bc4ee2e46bfb"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/421f64a9a15963ecf376ddc8fff6def10bb428a83ef0b34e94b05e5912220962.usdz",
+        "bytes": 598706,
+        "sha256": "8d582bedf388a77f516967ed03892fbee961aad32cf30bb253384a62899f7739"
+      }
+    },
+    {
+      "reference": "MLDA4017",
+      "installedVersion": "744e230b8b1ff4c5e479bdba824bfcfc7e7b29312f0cc4fafd7abed9c8f3525b",
+      "receiptId": "e131b622-8315-4a13-9b10-70b1762b459e",
+      "installedAt": "2026-10-30T10:35:12.738Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:19.314Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6096b19caa2ad11cd674e4b577999e7ecb336ddd3af0214b1ce6d3831053e777.glb",
+        "bytes": 274636,
+        "sha256": "e50b3bed618844f2a56fe3cbc16893ad2e673a7aff9e132dca0a8c8357e8836c"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/6096b19caa2ad11cd674e4b577999e7ecb336ddd3af0214b1ce6d3831053e777.usdz",
+        "bytes": 310066,
+        "sha256": "4b96bd04b7121e51b5a4939f248dccd952d918c1fafddf5ed44b2cee25e491ba"
+      }
+    },
+    {
+      "reference": "MLDA4018",
+      "installedVersion": "4fdeb1a1685e27d13ed7833e16ff6838db94fb9e36b2210c2fda11d70d1726ea",
+      "receiptId": "97f68e4b-e716-4706-9520-b5cac7c88cac",
+      "installedAt": "2026-10-30T10:37:29.951Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:49:52.879Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0185994a73a74233cd3844f7f13d265410aa00ac1c07c33fa2fd3a7dc6130fdd.glb",
+        "bytes": 301068,
+        "sha256": "4c3c0b84abda63b2c943209d6d761ab1ba5abb0168cb5639a47e5225bc4afec5"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0185994a73a74233cd3844f7f13d265410aa00ac1c07c33fa2fd3a7dc6130fdd.usdz",
+        "bytes": 336391,
+        "sha256": "7b42a9f0e4fd81e9801976f706484e2c3762c9ca5d98198d6a251e4f33e26824"
+      }
+    },
+    {
+      "reference": "MLDA4019",
+      "installedVersion": "1157782cf0f88451b6ceab9d545e077b46aec33a5df51458aea5fa22e807030d",
+      "receiptId": "419109fa-8581-43c7-ad5c-f32c06915ab5",
+      "installedAt": "2026-10-30T10:38:40.523Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:11.802Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/475ca2e33d145ca74ae32ea2edf198d96fd36ec158bf191f706bf92aec40ed12.glb",
+        "bytes": 301656,
+        "sha256": "919be74b6ed58a4d37cd1852a2c9a5a00655bb28ef082f9115b4ddf423066186"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/475ca2e33d145ca74ae32ea2edf198d96fd36ec158bf191f706bf92aec40ed12.usdz",
+        "bytes": 337039,
+        "sha256": "0e440db7a99faa268c33f6c93d3659ca2a8dc03e12e2f09c131801a6ece31165"
+      }
+    },
+    {
+      "reference": "MLDA4020",
+      "installedVersion": "2b9ee4313a46e2207067deeb7dd8af176313b96b8ff44b8226410ee64fb6f7d0",
+      "receiptId": "8da8058f-3edd-42eb-9b39-27032680a2f4",
+      "installedAt": "2026-10-30T10:38:35.135Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:10.302Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/756a003da74191d08ae55af70f43e16ef8fabf580d4960c9541fb28c2578522a.glb",
+        "bytes": 348336,
+        "sha256": "e4a71e12d565af13aea9e57305e9b9d160c39124c5a69c85a522a76c6e587c45"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/756a003da74191d08ae55af70f43e16ef8fabf580d4960c9541fb28c2578522a.usdz",
+        "bytes": 383799,
+        "sha256": "608fd84312b6510624be8312d42f5feb43f223eae81d9efc5589332dfc01ed06"
+      }
+    },
+    {
+      "reference": "MLDA4039",
+      "installedVersion": "b4e8d305b7aeb51d7866f283d3a98ca73728373689b47e1ec09e19f47dee135c",
+      "receiptId": "c0143c9d-4ccc-4c31-9fe0-b4abfbfedac5",
+      "installedAt": "2026-10-30T12:47:15.521Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:43.253Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/2b96ce29989aed3a5a3d5c8c42654cb2f51652dce01990fc4c35fb449d4c7c3f.glb",
+        "bytes": 353024,
+        "sha256": "c9f1b0f4deeb0a14ec748ace63954f59a504d74e2cbf5a15b75037978f1f1910"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/2b96ce29989aed3a5a3d5c8c42654cb2f51652dce01990fc4c35fb449d4c7c3f.usdz",
+        "bytes": 388346,
+        "sha256": "7bee74ae2101045ad7cec6a45f93fb7995b9aca7725294e5abfe64933378c558"
+      }
+    },
+    {
+      "reference": "MLDA4040",
+      "installedVersion": "f00fc0d9b9bf5d0722a14ee122e4a58dad757112dbf08daae148f2e678ef9238",
+      "receiptId": "ee6b9308-61b8-40da-b8e2-9068e845b96b",
+      "installedAt": "2026-10-30T12:45:25.751Z",
+      "rollbackAvailable": true,
+      "previousVersion": null,
+      "checks": {
+        "sizeValidation": {
+          "policy": "canvas-multisize-fixings-v1",
+          "cases": 6,
+          "status": "passed"
+        },
+        "status": "passed",
+        "draco": true,
+        "checkedAt": "2026-10-30T12:50:16.912Z"
+      },
+      "glb": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0ac7e0e628bf82c0ba24196e5e37471d74798b3add5fdad05b96e1e149c25486.glb",
+        "bytes": 423940,
+        "sha256": "29f3a3a4caa0cfe3fe4247cac4e2d7a9e3741d94ae886c20cbf50f4fb521795c"
+      },
+      "usdz": {
+        "url": "https://frames.eastsidestudiolondon.co.uk/api/frame-ar/model/0ac7e0e628bf82c0ba24196e5e37471d74798b3add5fdad05b96e1e149c25486.usdz",
+        "bytes": 462737,
+        "sha256": "6b4792d6b53f178050e8da89fe237786e7274218f5ed2c9b57ccce12b3918e9d"
+      }
+    }
+  ]
+}
