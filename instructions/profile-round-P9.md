@@ -20,6 +20,10 @@ The P6 finish plan and exact texture source were reused without retuning. Compar
 
 Direct USDZ read-back passes. Native-file compliance passes for the new delivery. A real phone appearance check remains required; no phone pass is claimed.
 
+The evidence folders and report were pushed to the evidence repository's `main` branch. The running review page was visually checked: P9 is first and P1 remains collapsed. GLB and USDZ downloads both returned HTTP 200 and matched the generated files exactly.
+
+During read-only page verification, the page displayed a separately saved owner approval for the profile. This task did not submit it or modify it; no decision endpoint was called. The rebuilt model remains a separate review candidate.
+
 ## Paths
 
 Evidence repository:
