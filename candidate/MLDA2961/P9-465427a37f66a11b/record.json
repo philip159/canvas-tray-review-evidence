@@ -1,0 +1,114 @@
+{
+  "reference": "MLDA2961",
+  "version": "P9-465427a37f66a11b",
+  "profile": {
+    "version": "P9-59347e10c16f4bc1",
+    "path": "profiles/CT-23/P9-59347e10c16f4bc1",
+    "checksum": "59347e10c16f4bc14eedd68e0e8bbc9bdbc82215ded4f5b7cc5bb0b1a4c73ec0"
+  },
+  "materialTextureParity": "Exact P6 material JSON, texture/sampler bindings and embedded image SHA256 parity PASS",
+  "checks": {
+    "materials": [
+      {
+        "name": "Tray shared albedo",
+        "pbrMetallicRoughness": {
+          "roughnessFactor": 0.7,
+          "metallicFactor": 0,
+          "baseColorTexture": {
+            "index": 0
+          }
+        }
+      },
+      {
+        "name": "Canvas stretcher timber",
+        "pbrMetallicRoughness": {
+          "roughnessFactor": 0.85,
+          "baseColorTexture": {
+            "index": 1
+          }
+        }
+      },
+      {
+        "name": "Canvas stretcher end grain",
+        "pbrMetallicRoughness": {
+          "roughnessFactor": 0.85,
+          "baseColorTexture": {
+            "index": 2
+          }
+        }
+      },
+      {
+        "name": "Canvas reverse linen",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.79,
+            0.75,
+            0.65,
+            1
+          ]
+        }
+      },
+      {
+        "name": "Velcro pads",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.06,
+            0.06,
+            0.06,
+            1
+          ]
+        }
+      },
+      {
+        "name": "Artwork",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8713671191959567,
+            0.8387990117372213,
+            0.7681511472425808,
+            1
+          ],
+          "roughnessFactor": 0.95
+        }
+      },
+      {
+        "name": "Sawtooth hanger pewter",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.56,
+            0.57,
+            0.58,
+            1
+          ],
+          "roughnessFactor": 0.42
+        }
+      }
+    ],
+    "textures": [
+      {
+        "source": 0,
+        "sampler": 0
+      },
+      {
+        "source": 1,
+        "sampler": 0
+      },
+      {
+        "source": 2,
+        "sampler": 0
+      }
+    ],
+    "samplers": [
+      {
+        "wrapS": 10497,
+        "wrapT": 10497
+      }
+    ],
+    "imageHashes": [
+      "0a5e6c8db9d428dfed17fcb16cbace02bd05801e7d7d691c2c2f7ee9a24ff2df",
+      "0afdb1277a9121ac5b4636177ca2b90501d54f623b6a588e9a9449f1648e7ab9",
+      "c335d8f6a053c94ac6871e4168bf4904bce47ffcf63fa99dec51f55a631713bb"
+    ]
+  },
+  "status": "unapproved-candidate"
+}

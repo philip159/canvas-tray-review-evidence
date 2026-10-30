@@ -1,0 +1,411 @@
+{
+  "status": "PASS",
+  "spec": {
+    "reference": "MLDA2961",
+    "widthMm": 400,
+    "heightMm": 500,
+    "gapMm": 5,
+    "overallHeightMm": 51,
+    "profileWidthMm": 70,
+    "lipMm": 45,
+    "maxCanvasDepthMm": 41,
+    "approvedOutlineMm": [
+      [
+        0,
+        1.0000000000000002
+      ],
+      [
+        0.13397459621556118,
+        0.5000000000000002
+      ],
+      [
+        0.49999999999999956,
+        0.13397459621556163
+      ],
+      [
+        0.9999999999999998,
+        0
+      ],
+      [
+        50,
+        0
+      ],
+      [
+        50.5,
+        0.1339745962155613
+      ],
+      [
+        50.86602540378444,
+        0.5
+      ],
+      [
+        51,
+        1
+      ],
+      [
+        51,
+        44
+      ],
+      [
+        50.86602540378444,
+        44.5
+      ],
+      [
+        50.5,
+        44.86602540378444
+      ],
+      [
+        50,
+        45
+      ],
+      [
+        11,
+        45
+      ],
+      [
+        10.5,
+        45.13397459621556
+      ],
+      [
+        10.13397459621556,
+        45.5
+      ],
+      [
+        10,
+        46
+      ],
+      [
+        10,
+        69
+      ],
+      [
+        9.86602540378444,
+        69.5
+      ],
+      [
+        9.5,
+        69.86602540378443
+      ],
+      [
+        9,
+        70
+      ],
+      [
+        1.0000000000000002,
+        70
+      ],
+      [
+        0.5000000000000002,
+        69.86602540378443
+      ],
+      [
+        0.13397459621556151,
+        69.5
+      ],
+      [
+        0,
+        69
+      ]
+    ],
+    "approvalChecksum": "59347e10c16f4bc14eedd68e0e8bbc9bdbc82215ded4f5b7cc5bb0b1a4c73ec0"
+  },
+  "extras": {
+    "canvasTray": {
+      "reference": "MLDA2961",
+      "widthMm": 400,
+      "heightMm": 500,
+      "gapMm": 5,
+      "overallHeightMm": 51,
+      "profileWidthMm": 70,
+      "lipMm": 45,
+      "maxCanvasDepthMm": 41,
+      "approvedOutlineMm": [
+        [
+          0,
+          1.0000000000000002
+        ],
+        [
+          0.13397459621556118,
+          0.5000000000000002
+        ],
+        [
+          0.49999999999999956,
+          0.13397459621556163
+        ],
+        [
+          0.9999999999999998,
+          0
+        ],
+        [
+          50,
+          0
+        ],
+        [
+          50.5,
+          0.1339745962155613
+        ],
+        [
+          50.86602540378444,
+          0.5
+        ],
+        [
+          51,
+          1
+        ],
+        [
+          51,
+          44
+        ],
+        [
+          50.86602540378444,
+          44.5
+        ],
+        [
+          50.5,
+          44.86602540378444
+        ],
+        [
+          50,
+          45
+        ],
+        [
+          11,
+          45
+        ],
+        [
+          10.5,
+          45.13397459621556
+        ],
+        [
+          10.13397459621556,
+          45.5
+        ],
+        [
+          10,
+          46
+        ],
+        [
+          10,
+          69
+        ],
+        [
+          9.86602540378444,
+          69.5
+        ],
+        [
+          9.5,
+          69.86602540378443
+        ],
+        [
+          9,
+          70
+        ],
+        [
+          1.0000000000000002,
+          70
+        ],
+        [
+          0.5000000000000002,
+          69.86602540378443
+        ],
+        [
+          0.13397459621556151,
+          69.5
+        ],
+        [
+          0,
+          69
+        ]
+      ],
+      "approvalChecksum": "59347e10c16f4bc14eedd68e0e8bbc9bdbc82215ded4f5b7cc5bb0b1a4c73ec0",
+      "canvasDepthMm": 38,
+      "floorThicknessMm": 10,
+      "frontRecessMm": 3
+    },
+    "reviewOnly": true,
+    "units": "metres",
+    "trayTextureChecks": {
+      "zoneChecks": [
+        {
+          "zone": "lip-front",
+          "width": 2861,
+          "height": 176,
+          "pxPerMmAlong": 4.4,
+          "pxPerMmAcross": 4.4,
+          "repeatAlongMm": 650.2272727272726,
+          "repeatAcrossMm": 40,
+          "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3.jpg",
+          "sourceWidth": 1024,
+          "sourceHeight": 1024
+        },
+        {
+          "zone": "outer-side",
+          "width": 2861,
+          "height": 176,
+          "pxPerMmAlong": 4.4,
+          "pxPerMmAcross": 4.4,
+          "repeatAlongMm": 650.2272727272726,
+          "repeatAcrossMm": 40,
+          "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3.jpg",
+          "sourceWidth": 1024,
+          "sourceHeight": 1024
+        },
+        {
+          "zone": "inner-lip",
+          "width": 2861,
+          "height": 176,
+          "pxPerMmAlong": 4.4,
+          "pxPerMmAcross": 4.4,
+          "repeatAlongMm": 650.2272727272726,
+          "repeatAcrossMm": 40,
+          "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3.jpg",
+          "sourceWidth": 1024,
+          "sourceHeight": 1024
+        },
+        {
+          "zone": "tray-floor",
+          "width": 2861,
+          "height": 176,
+          "pxPerMmAlong": 4.4,
+          "pxPerMmAcross": 4.4,
+          "repeatAlongMm": 650.2272727272726,
+          "repeatAcrossMm": 40,
+          "source": "generated-artifacts/eframe-collection-planning/expanded-images/assets/8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3.jpg",
+          "sourceWidth": 1024,
+          "sourceHeight": 1024
+        }
+      ],
+      "sharedAlbedo": true,
+      "materialCount": 1,
+      "materialExceptions": [],
+      "grainAxis": "rail-longitudinal",
+      "legacyStrip": false
+    },
+    "surfacePlacement": [
+      {
+        "component": "Approved profile",
+        "rail": 0,
+        "zone": "lip-front",
+        "face": "shared section",
+        "offset": [
+          0.695508831879124,
+          0.12385647720657289
+        ]
+      },
+      {
+        "component": "Approved profile",
+        "rail": 1,
+        "zone": "lip-front",
+        "face": "shared section",
+        "offset": [
+          0.5812845544423908,
+          0.6763719860464334
+        ]
+      },
+      {
+        "component": "Approved profile",
+        "rail": 2,
+        "zone": "lip-front",
+        "face": "shared section",
+        "offset": [
+          0.10617927159182727,
+          0.9323438212741166
+        ]
+      },
+      {
+        "component": "Approved profile",
+        "rail": 3,
+        "zone": "lip-front",
+        "face": "shared section",
+        "offset": [
+          0.855622849194333,
+          0.6094911198597401
+        ]
+      },
+      {
+        "component": "Stretcher top",
+        "zone": "stretcher",
+        "offset": [
+          0.21188095631077886,
+          0.09896149602718651
+        ],
+        "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+        "repeatAlongMm": 176,
+        "repeatAcrossMm": 72,
+        "railLengthMm": 399.4,
+        "repeatsAlongRail": 2.2693181818181816,
+        "mirrored": false
+      },
+      {
+        "component": "Stretcher bottom",
+        "zone": "stretcher",
+        "offset": [
+          0.07314968737773597,
+          0.7340439870022237
+        ],
+        "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+        "repeatAlongMm": 176,
+        "repeatAcrossMm": 72,
+        "railLengthMm": 399.4,
+        "repeatsAlongRail": 2.2693181818181816,
+        "mirrored": false
+      },
+      {
+        "component": "Stretcher left",
+        "zone": "stretcher",
+        "offset": [
+          0.44165951665490866,
+          0.14193967846222222
+        ],
+        "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+        "repeatAlongMm": 176,
+        "repeatAcrossMm": 72,
+        "railLengthMm": 499.4,
+        "repeatsAlongRail": 2.8375,
+        "mirrored": false
+      },
+      {
+        "component": "Stretcher right",
+        "zone": "stretcher",
+        "offset": [
+          0.04281391925178468,
+          0.5251800119876862
+        ],
+        "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+        "repeatAlongMm": 176,
+        "repeatAcrossMm": 72,
+        "railLengthMm": 499.4,
+        "repeatsAlongRail": 2.8375,
+        "mirrored": false
+      }
+    ],
+    "timberSource": {
+      "source": "attached_assets/stretcher_pine_seamless_2048_1793271597105.jpg",
+      "repeatAlongMm": 176,
+      "repeatAcrossMm": 72,
+      "endGrain": "darker rotated crop of same pine, no procedural rings"
+    },
+    "canvasFixings": {
+      "hanger": "three light sawtooths",
+      "stretcher": "velcro",
+      "threshold": "provisional A1 and above",
+      "padThicknessMm": 1
+    }
+  },
+  "nodes": [
+    "Tray approved profile 0",
+    "Stretcher top",
+    "Stretcher top cut ends",
+    "Canvas linen reverse",
+    "Canvas artwork front",
+    "Velcro stretcher fixing",
+    "Sawtooth hanger 0"
+  ],
+  "decodedFromActualDelivery": true,
+  "exactApprovedProfile": false,
+  "exactCandidateProfile": true,
+  "unapprovedProfileException": true,
+  "pineSourceSha256": "8a8ff8d37769803feb0e11b4c065ed1e04b2f3d3380e0c34ab1ae0d3fe7fdc20",
+  "noForbiddenParts": true,
+  "mirrorWrappedCanvasSides": true
+}

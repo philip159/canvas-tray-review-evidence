@@ -1,0 +1,54 @@
+{
+  "materialIndex": 0,
+  "preset": {
+    "name": "patterned-paint",
+    "metallic": 0,
+    "roughness": 0.7,
+    "clearcoat": 0,
+    "clearcoatRoughness": 0,
+    "normalKind": "none"
+  },
+  "source": {
+    "file": "generated-artifacts/eframe-collection-planning/expanded-images/assets/8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3.jpg",
+    "url": "https://larsonjuhl.co.uk/product/image/large/513287000_1.jpg",
+    "sha256": "8f4f67145b13419964ff1e45d45954c78e50feb10ad3b7696b0186c6f4f8ccf3",
+    "crop": [
+      380,
+      220,
+      510,
+      550
+    ],
+    "colourReferenceCrop": [
+      380,
+      350,
+      510,
+      420
+    ],
+    "nativePixels": [
+      1024,
+      1024
+    ],
+    "facePixelBounds": [
+      350,
+      548
+    ],
+    "faceWidthMm": 45.0,
+    "straightening": "Vertical planar interior; exact 90-degree transpose only",
+    "calibration": "Advisory square-on photo landmarks"
+  },
+  "normal": {
+    "kind": "none"
+  },
+  "appearance": {
+    "mode": "photo-texture"
+  },
+  "preservation": {
+    "originalBinaryPrefixSha256": "07d43d316bbb25ee7d97dbd08e7cdfe78f34aa24d3fbca13e0f686a90e6d0fef",
+    "geometryAndHierarchyExact": true,
+    "existingImageBytesExact": true,
+    "hardwareMaterialsExact": true,
+    "singleTrayMaterial": true
+  },
+  "oldGlbSha256": "182fc824c84d83fbe791d48e3ce2debc98bfdd302cdc2026c4b1d69ab4d4b144",
+  "newGlbSha256": "465427a37f66a11b6d3fd256f1a325365e63887b882d1725f32a6c7824ad00ea"
+}
