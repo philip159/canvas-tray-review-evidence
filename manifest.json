@@ -4,7 +4,7 @@
   "snapshotScope": "All current review versions plus superseded historically approved deliveries only",
   "counts": {
     "approved": 46,
-    "candidate": 16,
+    "candidate": 18,
     "superseded": 2,
     "archived": 12
   },
@@ -634,6 +634,20 @@
       "version": "P5-e508d33e5a7e9e31-310bb2bed26f",
       "status": "candidate",
       "record": "candidate/MLDA2961/P5-e508d33e5a7e9e31-310bb2bed26f/record.json"
+    },
+    {
+      "eframeCode": "MLDA1867",
+      "family": "CT-19",
+      "version": "P6-093e881a225b2b7b-4c5dd65afc61",
+      "status": "candidate",
+      "record": "candidate/MLDA1867/P6-093e881a225b2b7b-4c5dd65afc61/record.json"
+    },
+    {
+      "eframeCode": "MLDA2961",
+      "family": "CT-23",
+      "version": "P6-0b76744f7deaa014-c7f08fd13afc",
+      "status": "candidate",
+      "record": "candidate/MLDA2961/P6-0b76744f7deaa014-c7f08fd13afc/record.json"
     }
   ],
   "instructions": "instructions/README.md",
@@ -803,8 +817,8 @@
     "MLDA3031": "candidate/MLDA3031/P4-914ba83b3ff1caff-d2361b106ced/record.json",
     "MLDA2200": "candidate/MLDA2200/P5-a3d1d07ec9592ef7-f42428ffd125/record.json",
     "MLDA3241": "candidate/MLDA3241/P5-54e9c2bb954898ee-f7b0546267df/record.json",
-    "MLDA1867": "candidate/MLDA1867/P5-38422cb8ef41e1ea-ff5f3e1d31a8/record.json",
-    "MLDA2961": "candidate/MLDA2961/P5-e508d33e5a7e9e31-310bb2bed26f/record.json"
+    "MLDA1867": "candidate/MLDA1867/P6-093e881a225b2b7b-4c5dd65afc61/record.json",
+    "MLDA2961": "candidate/MLDA2961/P6-0b76744f7deaa014-c7f08fd13afc/record.json"
   },
   "round1Report": "instructions/candidate-fix-round-1.json",
   "round2Report": "instructions/candidate-fix-round-2.json",

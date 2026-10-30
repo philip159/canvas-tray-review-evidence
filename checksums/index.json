@@ -1,59 +1,57 @@
 {
-  "algorithm": "SHA-256",
-  "scope": "All payloads except checksum control files; historical partitions retained; Git commit binds index.",
   "parts": [
     {
-      "path": "checksums/P5-001.json",
+      "path": "checksums/P6-final-001.json",
       "sha256": "4c632a95abe8c7aa03043490394190ba1b6eafa60458e74bcac91d1b1ee152c2"
     },
     {
-      "path": "checksums/P5-002.json",
+      "path": "checksums/P6-final-002.json",
       "sha256": "704d40ccb35e695f2f75ba514345ca07a90d1401f4afa299ea857e03def1b058"
     },
     {
-      "path": "checksums/P5-003.json",
+      "path": "checksums/P6-final-003.json",
       "sha256": "73713bb7584b323d89f6e8609fc5c5999a207f097b751652d19493be761accd8"
     },
     {
-      "path": "checksums/P5-004.json",
-      "sha256": "f4f15daf2e0f2c4c50dad350d123fdd95f01fcc8a6244a742c34cc72bf98a0a9"
+      "path": "checksums/P6-final-004.json",
+      "sha256": "bac4dee24613ef0517cab01ab1ebed2f0291fc7a4ef25f19e0c993a326ef3e72"
     },
     {
-      "path": "checksums/P5-005.json",
-      "sha256": "f618f4412232d64e35b5edff8e5208b1bbca3fac7185b32ef5757c76cd65e6e1"
+      "path": "checksums/P6-final-005.json",
+      "sha256": "136c9d526cca1876b1deedcf082dea3be577892ea239c47c3d9e52637f5ea8ca"
     },
     {
-      "path": "checksums/P5-006.json",
-      "sha256": "2c075a2518ae00ee29bc0d3b78e311c502d96ca0243e0e0d1ec49fe697720e41"
+      "path": "checksums/P6-final-006.json",
+      "sha256": "8f9e9b782161297659c392def178d4af60d34e4f3631794a404a6d89e8f2e585"
     },
     {
-      "path": "checksums/P5-007.json",
-      "sha256": "beaed7ae4aaa8b72dc56a3201ff55026106e5688b8d30a971193d3c09623385f"
+      "path": "checksums/P6-final-007.json",
+      "sha256": "ad8f4ea11a793004ad92e9a1839f266accb7eb64b25d26e4322291423d6c5872"
     },
     {
-      "path": "checksums/P5-008.json",
-      "sha256": "64ec99e63e93dada62ad4b78a71f273bf9e0fbb249fdcf28404a2be2d0a8e6ba"
+      "path": "checksums/P6-final-008.json",
+      "sha256": "8ec6633870db854dd08ea169fc9bb00ef535979ec9d5d27b6a308dda5f932485"
     },
     {
-      "path": "checksums/P5-009.json",
-      "sha256": "80ee7f471e0ae546c7933be6b2c8952af2eb30b97c24d62b6ba8da4167fdc6fa"
+      "path": "checksums/P6-final-009.json",
+      "sha256": "20d1f655ad11ca32d47526b0ea3554fe9c7ad73af52df0912a1af2f7157b47fa"
     },
     {
-      "path": "checksums/P5-010.json",
-      "sha256": "0a5dabd678f7310e7bedac9f8420707de1844a46f0da6cb308c16fc19fa8afa1"
+      "path": "checksums/P6-final-010.json",
+      "sha256": "3460350c537096d4d64d95f4327f370c9ae1533335df533490b81a95320d1124"
     },
     {
-      "path": "checksums/P5-011.json",
-      "sha256": "daa18d6ca68a585414849c2f61618a9a51944730ab9664e0e50abb535d2b5602"
+      "path": "checksums/P6-final-011.json",
+      "sha256": "a9786c9854236b0e45fd0beee767bfe6ff02f1ae4b754afad612340ee6d686f4"
     },
     {
-      "path": "checksums/P5-012.json",
-      "sha256": "76665e824bd7d2c5c13ba4446bc81d5bfd61171221919bfd304e84e3661ac61b"
+      "path": "checksums/P6-final-012.json",
+      "sha256": "ae69f9b67d71d3a10701a60d9fd7217f1a8650eb751643b9b4413e4d14511786"
     },
     {
-      "path": "checksums/P5-013.json",
-      "sha256": "15ee074a13f88ff125c1b89bc56eb7e754df5bf3addf9157ac4c9243a7df345b"
+      "path": "checksums/P6-final-013.json",
+      "sha256": "50d2232e2a4d8d290544a22bdd6fafbb12773b9748f34bc729a86ebe5a84c759"
     }
   ],
-  "fileCount": 1229
+  "fileCount": 1258
 }

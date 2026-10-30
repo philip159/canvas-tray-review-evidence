@@ -1,0 +1,30 @@
+{
+  "models": [
+    {
+      "reference": "MLDA1867",
+      "path": "candidate/MLDA1867/P6-093e881a225b2b7b-4c5dd65afc61",
+      "finish": {
+        "name": "plain-paint",
+        "metallic": 0,
+        "roughness": 0.7,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "none"
+      }
+    },
+    {
+      "reference": "MLDA2961",
+      "path": "candidate/MLDA2961/P6-0b76744f7deaa014-c7f08fd13afc",
+      "finish": {
+        "name": "patterned-paint",
+        "metallic": 0,
+        "roughness": 0.7,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "normalKind": "none"
+      }
+    }
+  ],
+  "twoTone": [],
+  "scope": "Candidates only; no approvals, installation or live changes."
+}

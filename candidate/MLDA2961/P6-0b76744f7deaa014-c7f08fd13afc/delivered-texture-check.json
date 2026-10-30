@@ -1,0 +1,24 @@
+{
+  "meanAndVariation": {
+    "meanRgb": [
+      64.06709152870897,
+      64.0327384735153,
+      66.16552739029582
+    ],
+    "stdRgb": [
+      8.744059573869771,
+      7.833537021481715,
+      7.227363319136879
+    ],
+    "lowFrequencyVariationPercent": 7.709001506463379,
+    "metric": "100*(P95-P05)/mean of heavily blurred linear-light luminance"
+  },
+  "size": [
+    2861,
+    176
+  ],
+  "sourceNativePxPerMm": 4.4,
+  "patchWidthMm": 59.99999999999999,
+  "repeatMm": 650.2272727272726,
+  "noUpscaling": true
+}
